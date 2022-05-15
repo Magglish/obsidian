@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/MLOps/Containers/Container.md",
-            "mode": "source",
+            "file": "ML/MLOps/Containers/Container orchestration.md",
+            "mode": "preview",
             "backlinks": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/MLOps/Containers/Container.md",
+                "file": "ML/MLOps/Containers/Container orchestration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +84,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d8d2af4a1cae1e63",
   "lastOpenFiles": [
-    "ML/MLOps/Containers/Container.md",
     "ML/MLOps/Containers/Container orchestration.md",
+    "ML/MLOps/Containers/Container.md",
     "ML/MLOps/Cloud.md",
     "ML/MLOps/Containers/Kubernetes/Amazon ECS for Kubernetes.md",
     "ML/MLOps/Containers/Kubernetes/Amazon Elastic Container Service.md",
