@@ -29,3 +29,5 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 1. [[Docker|Docker]]
 2. [[Rocket (rkt)|rkt]]
 3. [[containerd|containerd]]
+
+asd

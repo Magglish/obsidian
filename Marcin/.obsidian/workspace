@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "ML/MLOps/Containers/Container.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false
           }
         }
@@ -90,6 +90,7 @@
   "active": "d8d2af4a1cae1e63",
   "lastOpenFiles": [
     "ML/MLOps/Containers/Container.md",
+    "ML/MLOps/Containers/Container orchestration.md",
     "ML/MLOps/Cloud.md",
     "ML/MLOps/Containers/Kubernetes/Amazon ECS for Kubernetes.md",
     "ML/MLOps/Containers/Kubernetes/Amazon Elastic Container Service.md",
@@ -97,7 +98,6 @@
     "ML/MLOps/Containers/Kubernetes/Google Kubernetes Engine.md",
     "ML/MLOps/Containers/Kubernetes/Self-Healing Applications.md",
     "ML/MLOps/Continuous Deployment.md",
-    "ML/MLOps/Containers/Kubernetes/Automated Scaling.md",
-    "ML/MLOps/Containers/Kubernetes/Microservice.md"
+    "ML/MLOps/Containers/Kubernetes/Automated Scaling.md"
   ]
 }
