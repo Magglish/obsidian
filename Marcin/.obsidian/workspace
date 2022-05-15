@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "199b58b736ef88e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d2af4a1cae1e63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ML/MLOps/Containers/Container.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c852f8f3b1a74ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b2b3dc1dc31e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255885a29e450e95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d8195edd7feb15f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf547a3f97053b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "368038fc5400b1fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4305b809505121b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/MLOps/Containers/Container.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d8d2af4a1cae1e63",
+  "lastOpenFiles": [
+    "ML/MLOps/Containers/Container.md",
+    "ML/MLOps/Cloud.md",
+    "ML/MLOps/Containers/Kubernetes/Amazon ECS for Kubernetes.md",
+    "ML/MLOps/Containers/Kubernetes/Amazon Elastic Container Service.md",
+    "ML/MLOps/Containers/Kubernetes/Azure Kubernetes Service.md",
+    "ML/MLOps/Containers/Kubernetes/Google Kubernetes Engine.md",
+    "ML/MLOps/Containers/Kubernetes/Self-Healing Applications.md",
+    "ML/MLOps/Continuous Deployment.md",
+    "ML/MLOps/Containers/Kubernetes/Automated Scaling.md",
+    "ML/MLOps/Containers/Kubernetes/Microservice.md"
+  ]
+}
