@@ -1,6 +1,6 @@
 # ML-based Software Delivery Metrics
 
-![[ML-based Software Delivery Metrics.png]]
+![[ML-based Software Delivery Metrics.png|1000]]
 
 **Dodatkowe powiązania:**
 [[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]], [[MLOps Phases]], [[MLOps vs. DevOps]], [[Dojrzałość MLowa]]
