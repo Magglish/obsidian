@@ -1,0 +1,6 @@
+# Paraliż systemu
+1. W kwietniu 2022 roku największy dostawca maszyn wirtualnych na świecie (AWS) daje Ci gwarancję, że będą one działać przez 99,5% czasu, co przekłada się na nieco ponad 3,5 godziny niedostępności w miesiącu. Z tego powodu instancje aplikacji nie powinny znajdować się na tym samym serwerze, w przełożeniu na wdrożenia w [[Kubernetes]], **instancje aplikacji nie powinny znajdować się na Nodach, które są na jednym serwerze.**
+
+
+**Źródła:**
+1. 
