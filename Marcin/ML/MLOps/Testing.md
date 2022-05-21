@@ -11,10 +11,15 @@ Danych:
 Modelu:
 1. Czy metryki modelu korelują z metrykami biznesowymi
 2. Aktualność danych na których się uczył
-3. Porównanie modelu z baseline'
+3. Porównanie modelu z baseline'm
+4. Walidacja modelu i jego mocy
+5. Obciążenie modelu (np. jakimiś specyficznymi danymi)
+6. Bugi w kodzie (unittesty)
 
 Infrakstruktury:
-
+1. Czy model nauczony na tych samych danych wychodzi taki sam za kazdym razem
+2. Stress testy API
+3. Testowanie czy model jest wciaz poprawny
 
 
 **Dodatkowe powiązania:**
