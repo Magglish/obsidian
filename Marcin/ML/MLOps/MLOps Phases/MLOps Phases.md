@@ -8,6 +8,7 @@
 
 ![[Time spent deploying models.png]]
 
+![[Time to deploy models.png]]
 
 **Źródła:**
 1. https://uczymymaszyny.pl/od-danych-do-produktu-automatyzacja-w-obszarze-machine-learning-dzieki-mlops/?utm_source=pocket_mylist
