@@ -5,4 +5,4 @@
 1. Jak idzie proces developmentu modelu
 2. Jak idzie proces deploymentu modelu
 
-Celem jest **stworzenia dobrych praktyk wdrożenia modelu - testowanie, walidacja, CI/CD/CT/CM**
+Celem jest **stworzenia dobrych praktyk wdrożenia modelu - testowanie, walidacja, pipeline [[Continuous Testing|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]].**
