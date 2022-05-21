@@ -2,4 +2,5 @@
 
 1. **Nowy wymiar - dane:** - W klasycznym projekcie IT wersja kodu określa wersję oprogramowania. W projektach z uczeniem maszynowym na wersję modelu wpływa wersja kodu i wersja danych. Reagowanie na zmianę kodu spowodowało rozwój specjalizacji DevOps. Natomiast projekt z uczeniem maszynowym to reagowanie na zmiany w kodzie i w danych, co podnosi trudność przynajmniej do kwadratu.
 2. **Dłuższa pętla zwrotna:** - Podczas gdy oprogramowanie na ogół może być opracowywane lokalnie wraz z natychmiastową pętlą zwrotną, jak nowa linia kodu wpływa na wynik końcowy. Piszesz test, sprawdzasz, czy świecą się tylko zielone światła, i idziesz dalej. W uczeniu maszynowym pętla zwrotna zaczyna się w tym samym miejscu, jednak może się skończyć za parę godzin, kiedy to skończysz trenować model.
-3. 
+3. **Większa ilość elementów do wersjonowania:** - Ponieważ to wersja kodu tworzy wersję oprogramowania, dzięki systemowi kontroli wersji możemy w dowolnej chwili zbudować dowolny wariant aplikacji. W przypadku uczenia maszynowego jest inaczej.  Po pierwsze, wynikiem pracy nie jest kod, a model. Ten natomiast wynika z wersji kodu, który tworzy i trenuje model, oraz danych, które wykorzystuje. Dlatego jeśli chcesz mieć taką samą maszynę czasu, kiedy rozwijasz projekty z uczeniem maszynowym, musisz wersjonować kod, dane, a najlepiej i modele.
+4. 
