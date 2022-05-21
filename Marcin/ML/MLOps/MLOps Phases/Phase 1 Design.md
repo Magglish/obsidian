@@ -1,3 +1,5 @@
+# MLOps phase 1
+
 ![[MLOps phase 1.png|300]]
 
 Pierwsza faza poświęcona jest zrozumieniu biznesu, zrozumieniu danych i zaprojektowaniu oprogramowania wykorzystującego uczenie maszynowe.
@@ -10,4 +12,4 @@ Identyfikujemy:
 5. Jak moglibyśmy to rozwiązać (MLowo czy nie MLowo)
 6. Jakie koszty proces MLowy moze wygenerowac (ludzie, infrastruktura, zmiany w organizacji)
 7. Oszacować jak wyglądałby development takiego modelu.
-8. 
+8. Oszacować jak deployowac model i zintegrowac go z obecnym systemem.
