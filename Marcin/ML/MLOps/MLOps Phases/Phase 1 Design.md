@@ -13,3 +13,5 @@ Identyfikujemy:
 6. Jakie koszty proces MLowy moze wygenerowac (ludzie, infrastruktura, zmiany w organizacji)
 7. Oszacować jak wyglądałby development takiego modelu.
 8. Oszacować jak deployowac model i zintegrowac go z obecnym systemem.
+
+Celem jest **zebranie informacji i określenie kto jest koncowym uzytkownikiem, jaki jest problem do rozwiazania, jakie beda zyski i koszty z MLowego systemu**
