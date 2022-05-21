@@ -3,8 +3,8 @@
 ![[MLOps phases.png]]
 
 1. **[[Phase 1 Design|Design]]** - poświęcona jest zrozumieniu biznesu, zrozumieniu danych i zaprojektowaniu oprogramowania wykorzystującego uczenie maszynowe.
-2. **[[Phase 2 Model Development|Model Development]]** -pierwsze PoCi, iteracyjny proces modelowania, inżynieria danych
-3. **[[Phase 3 Operations|Operations]]** - 
+2. **[[Phase 2 Model Development|Model Development]]** -pierwsze PoCi, iteracyjny proces modelowania, inżynieria danych.
+3. **[[Phase 3 Operations|Operations]]** - wczesne opracowanie modelu na produkcje, faza wdrożenia, testowanie, wersjonowanie, dostarczanie, monitorowanie. 
 
 
 
