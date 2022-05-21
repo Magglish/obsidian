@@ -1,1 +1,1 @@
-![[MLOps phase 2.png]]
+![[MLOps phase 2.png|300]]
