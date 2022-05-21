@@ -12,11 +12,10 @@ Polega na ciągłym (najlepiej w real-time) sprawdzaniu jakości modelu:
 8. Monitorign performencu modelu i jego degradacji
 
 **Dodatkowe powiązania:**
-[[Continuous Deployment|CD]], [[Continuous Training|CT]]
+[[Continuous Monitoring|CM]], [[Continuous Training|CT]], [[MLE vs. SWE]]
 
-**Narzędzia do experiment tracking:**
-1. MLFlow
-2. Neptune
+**Narzędzia do monitoringu:**
+1. [nannyML](https://www.nannyml.com/) - 
 
 **Źródła:**
 1. https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops
