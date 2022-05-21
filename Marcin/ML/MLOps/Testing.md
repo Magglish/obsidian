@@ -14,12 +14,13 @@ Modelu:
 3. Porównanie modelu z baseline'm
 4. Walidacja modelu i jego mocy
 5. Obciążenie modelu (np. jakimiś specyficznymi danymi)
-6. Bugi w kodzie (unittesty)
+6. Czy model nauczony na tych samych danych wychodzi taki sam za kazdym razem
+7. Bugi w kodzie (unittesty)
 
 Infrakstruktury:
-1. Czy model nauczony na tych samych danych wychodzi taki sam za kazdym razem
-2. Stress testy API
-3. Testowanie czy model jest wciaz poprawny
+
+1. Stress testy API
+2. Czy model na produkcji da taki sam wynik jak ten nauczony na tych samych caseach
 
 
 **Dodatkowe powiązania:**
