@@ -32,3 +32,15 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 
 **Historia:**
 
+![[Container history.png]]
+
+1970 - 
+1979 - 
+1982 - 
+1990 - 
+2000 - 
+2004 - 
+2006 - 
+2007 - 
+2009 - 
+2013 - 
