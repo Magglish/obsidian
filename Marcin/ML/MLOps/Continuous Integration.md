@@ -1,4 +1,4 @@
-# Continuous Testing
+# Continuous Integration
 
 W kontekście MLa, dochodzi jeszcze wariant testowania danych oraz modeli.
 
