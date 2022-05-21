@@ -8,3 +8,6 @@
 4. Jaki uzysk a jakie koszty generuje potencjalne rozwiazanie (model engineering)
 
 Celem jest **zrozumienie danych, weryfikacja hipotez, zbudowanie pierwszych rozwiązań MLowych i ocena ich skuteczności, uzysku i kosztów.**
+
+**Źródło:**
+1. https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops

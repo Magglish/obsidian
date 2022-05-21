@@ -5,5 +5,9 @@ Wraz ze wzrostem dojrzałości MLej, proces trenowanie modeli jest bardziej ustr
 
 Wyróżniamy 3 etapi dojrzałości (lub też automatyzacji):
 
-1. Proces manualny
-2. 
+1. **Proces manualny** - wszystkie etapy procesu budowy modeli jest ręczny
+2. **Automatyzacja pipelineów MLowych** - 
+3. **Pełny [[Continuous Testing|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]]** - 
+
+**Źródło:**
+1. https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops

@@ -15,3 +15,6 @@ Identyfikujemy:
 8. Oszacować jak deployowac model i zintegrowac go z obecnym systemem.
 
 Celem jest **zebranie informacji i określenie kto jest koncowym uzytkownikiem, jaki jest problem do rozwiazania, jakie beda zyski i koszty z MLowego systemu, jak wygladałby potencjalny development i deployment modeli.**
+
+**Źródło:**
+1. https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops

@@ -2,7 +2,7 @@
 
 ![[MLOps phase 3.png|300]]
 
-1. Jak idzie proces developmentu modelu
-2. Jak idzie proces deploymentu modelu
-
 Celem jest **stworzenia dobrych praktyk wdrożenia modelu - testowanie, walidacja, pipeline [[Continuous Testing|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]].**
+
+**Źródło:**
+1. https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops
