@@ -1,8 +1,6 @@
 # ML-based Software Delivery Metrics
 
-Metric | DevOps | MLOps
-
-
+![[ML-based Software Delivery Metrics.png]]
 
 **Dodatkowe powiązania:**
 [[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]], [[MLOps Phases]], [[MLOps vs. DevOps]], [[Dojrzałość MLowa]]
