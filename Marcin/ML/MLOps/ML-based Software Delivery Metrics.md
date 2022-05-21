@@ -1,8 +1,11 @@
 # ML-based Software Delivery Metrics
 
+Metric | DevOps | MLOps
+
+
 
 **Dodatkowe powiązania:**
-[[Continuous Deployment|CD]], [[Continuous Training|CT]]
+[[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]], [[MLOps Phases]], [[MLOps vs. DevOps]], [[Dojrzałość MLowa]]
 
 **Narzędzia do experiment tracking:**
 1. MLFlow
