@@ -7,5 +7,5 @@ W linuxie wyróżniamy 6 namespaces:
 2. IPC - Inter-Process Communications pozwala na to aby wiele różnych procesów z różnych namespaces mogło dzielić się ze sobą informacjami i danymi.
 3. UTS - Unix Time Sharing pozwala na to aby ten sam system mógłbyć reprezentowany przez różnego hosta i inna nazwę dla różnych procesów które zachodzą w systemie. Dzięki temu [[Container|kontenery]] moga mieć swoje własne nazwy i używać ich jako ID.
 4. Mount - kontroluje punkt montowania systemu plików (ang. *file system mountpoints*) które widoczne są przez kontenery.
-5. PID - pozwala na izolacje ID procesów zachodzą
-6. Network -  
+5. PID - pozwala na izolacje ID procesów zachodzących w systemie. 
+6. Network -  izoluje stack networkingowy, dzieki czemu każdy kontener ma swoje IP, firewalla itd.
