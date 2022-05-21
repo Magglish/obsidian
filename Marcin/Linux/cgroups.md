@@ -6,7 +6,7 @@
 3. cpuacct - generuje automatyczne reporty o zużyciu CPU
 4. cpuset - pozwala na zgrupowanie procesów aby używały danego CPU
 5. devices - pozwala na nadawanie/odbieranie uprawnień do użycia konkretnych elementów (ang. *devices*) w systemie.
-6. freezer - pozwala na zatrzymanie/wznowienie aktualnie przeprowadzanych procesów - dzięki temu można wysłać sygnał *sigstop* lub *sigkill* do całego kontenera 
-7. memory - 
-8. net_csl - 
-9. net_prio - 
+6. freezer - pozwala na zatrzymanie/wznowienie aktualnie przeprowadzanych procesów - dzięki temu można wysłać sygnał *sigstop* lub *sigkill* do całego [[Container|kontenera]] ubijając w ten sposób wszystko co w nim działa
+7. memory - pozwala na ograniczenie zużycia pamięci
+8. net_csls - 
+9. net_prio - pozwala na priorytetyzacje/ograniczenie przesyłu sieciowego przez procesy
