@@ -34,13 +34,15 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 
 ![[Container history.png]]
 
-1970 - 
-1979 - 
-1982 - 
-1990 - 
-2000 - 
+1970 - zcentralizowane komputery, których zasoby były shareowane innym użytkownikom
+1979 - [[Chroot]]
+1982 - [[Unix]]
+1990 - [[Linux jail command]]
+2000 - [[FreeBSD]]
 2004 - 
-2006 - 
+2006 - [[cgroups]]
 2007 - 
 2009 - 
 2013 - 
+2013/2016 - 
+2014/2015 - 
