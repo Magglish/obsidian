@@ -7,4 +7,4 @@
 3. Czy uda Nam sie MLem rozwiązać problem
 4. Jaki uzysk a jakie koszty generuje potencjalne rozwiazanie (model engineering)
 
-Celem jest **dostarczenie pierwszych wersji rozwiązania MLowego**
+Celem jest **zrozumienie danych, weryfikacja hipotez, zbudowanie pierwszych rozwiązań MLowych i ocena ich skuteczności, uzysku i kosztów.**
