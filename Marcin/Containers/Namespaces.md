@@ -4,5 +4,8 @@ Przestrzenie nazw (ang. *namespaces*) pozwalają na wydzielenie/partycjonowanie 
 
 W linuxie wyróżniamy 6 namespaces: 
 1. User - izoluje ważne atrybuty usera, które są istotne z punktu widzenia bezpieczeństwa,
-2. IPC, 
-3. UTS, Mount, PID, Network. 
+2. IPC - Inter-Process Communications pozwala na to aby 
+3. UTS - 
+4. Mount -  
+5. PID - 
+6. Network -  
