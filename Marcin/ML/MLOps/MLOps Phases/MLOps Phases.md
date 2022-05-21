@@ -2,7 +2,7 @@
 
 ![[MLOps phases.png]]
 
-1. **[[Phase 1 Design]]** - 
+1. **[[Phase 1 Design|Design]]** - 
 2. **[[Phase 2 Model Development|Model Development]]** - 
 3. **[[Phase 3 Operations|Operations]]** - 
 
