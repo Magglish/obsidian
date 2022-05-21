@@ -8,5 +8,5 @@
 5. devices - pozwala na nadawanie/odbieranie uprawnień do użycia konkretnych elementów (ang. *devices*) w systemie.
 6. freezer - pozwala na zatrzymanie/wznowienie aktualnie przeprowadzanych procesów - dzięki temu można wysłać sygnał *sigstop* lub *sigkill* do całego [[Container|kontenera]] ubijając w ten sposób wszystko co w nim działa
 7. memory - pozwala na ograniczenie zużycia pamięci
-8. net_csls - 
+8. net_cls - pozwala na nadanie IDków konkretnym paczkom sieciowym (*network packets*) pochodzących z różnych control groups
 9. net_prio - pozwala na priorytetyzacje/ograniczenie przesyłu sieciowego przez procesy
