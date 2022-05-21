@@ -31,3 +31,4 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 3. [[containerd|containerd]]
 
 asd
+asdasd test
