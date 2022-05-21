@@ -6,3 +6,4 @@
 4. **Trudność w testowaniu:** - Do testowania dochodzi również element:
 	1. testowania danych - zautomatyzować upewnianie się, czy są w takim stanie, w jakim oczekujemy  - testowanie danych powinno być spójne dla danych treningowych i podczas predykcji na żywo.
 	2. testowania modeli - modele wymagają regularnego odświeżania, ponieważ danych cały czas przybywa, a ich charakter ulega ciągłej zmianie.
+5. **Trudność w monitoringu:** - W klasycznej aplikacji monitorujemy zarówno zużycie hardware (RAM, CPU), jak i samą aplikację, mierząc liczbę zapytań na sekundę i na podstawie tych metryk możemy odpowiednio reagować. W przypadku modeli monitorowanie również polega na obserwowaniu jego zachowania w czasie - czy predykcje na produkcji różnia się istotnie od tego co obserwowany w zbiorze danychu
