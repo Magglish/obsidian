@@ -15,7 +15,7 @@ Polega na ciągłym (najlepiej w real-time) sprawdzaniu jakości modelu:
 [[Continuous Monitoring|CM]], [[Continuous Training|CT]], [[MLE vs. SWE]]
 
 **Narzędzia do monitoringu:**
-1. [nannyML](https://www.nannyml.com/) - 
+1. [nannyML](https://www.nannyml.com/) - bilbioteka do oceny modelu na produkcji i jego stabilności w czasie **zanim jeszcze zostanie zdeployowany na produkcji.**
 
 **Źródła:**
 1. https://ml-ops.org/content/mlops-principles#iterative-incremental-process-in-mlops
