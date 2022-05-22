@@ -11,3 +11,4 @@
 
 **Źródła:**
 1. https://datasciencein.pl/uczenie-maszynowe-na-produkcji-dlaczego-to-takie-trudne/?utm_source=pocket_mylist
+2. https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#devops_versus_mlops
