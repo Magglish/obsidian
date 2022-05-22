@@ -1,1 +1,2 @@
-# LXC/LXD
+# LXC
+
