@@ -18,7 +18,8 @@ Wyróżniamy 3 etapi dojrzałości (lub też automatyzacji):
 	3. Kod zmodularyzowany, zapisany w skryptach, reużywalny (rezygnacja z Notebookow)
 	4. Kod taki sam na developmentcie jak i na produkcji
 	5. 
-3. **Pipeline [[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]]** - Dodatkowo do 2 kroku dochodzi również proces automatycznego testowania, deployowania, monitorowania i przetrenowywania na nowych danych.
+3. **Pełny pipeline [[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]]**
+	1. Dodatkowo do 2 kroku dochodzi również proces automatycznego testowania, deployowania, monitorowania i przetrenowywania na nowych danych.
 
 **Wizualizacja etapu 3-go**
 ![[Dojrzałość MLowa.png|600]]
