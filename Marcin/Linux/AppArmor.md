@@ -1,3 +1,3 @@
 # AppArmor
 
-AppArmor
+AppArmor to oprogramowanie 
