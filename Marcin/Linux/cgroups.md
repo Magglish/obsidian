@@ -10,3 +10,5 @@
 7. memory - pozwala na ograniczenie zużycia pamięci,
 8. net_cls - pozwala na nadanie IDków konkretnym paczkom sieciowym (*network packets*) pochodzących z różnych control groups,
 9. net_prio - pozwala na dynamiczną priorytetyzacje/ograniczenie przesyłu sieciowego przez procesy.
+
+asd
