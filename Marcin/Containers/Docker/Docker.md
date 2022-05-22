@@ -8,5 +8,7 @@ Cechy Dockera
 3. Pozwala na automatyzację budowy kontenerów poprzez umożliwienie definiowania ich jako kod,
 4. Pozwala na wersjonowanie kontenerów tak jak git,
 5. Kontenery są reużywalne, tzn. jeden konterem może zostać pobrany i uruchomiony w innym kontenerze i wykorzystany w różnych celach,
-6. Docker umożliwia shareowanie swoich obrazów poprzez [https://hub.docker.com/](docker-hub)
+6. Docker umożliwia shareowanie swoich obrazów poprzez [docker-hub](https://hub.docker.com/).
+7. Docker jest open-source.
+8. Docker udostepnia API aby móc zintegorwać go z innymi aplikacjami.
 
