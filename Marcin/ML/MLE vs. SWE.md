@@ -9,6 +9,9 @@
 5. **Trudność w monitoringu** - W klasycznej aplikacji monitorujemy zarówno zużycie hardware (RAM, CPU), jak i samą aplikację, mierząc liczbę zapytań na sekundę i na podstawie tych metryk możemy odpowiednio reagować. W przypadku modeli monitorowanie również polega na obserwowaniu jego zachowania w czasie - czy predykcje na produkcji różnia się istotnie od tego co obserwowany w zbiorze danych uczących, czy podejmuje tak samo decyzję jak na danych uczących.
 6. **[[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]]** - Ciągła integracja i ciągle dostarczanie to zbiór praktyk, które mają na celu automatyzować wdrożenia i codzienną pracę nad kodem tak, aby każda zmiana bez dodatkowego tarcia dotarła na zdalne środowisko. W podręcznikowej aplikacji jedynym powodem do zbudowania i wdrożenia nowej wersji jest zmiana w kodzie. Z modelami i tym razem jest inaczej. Modele się starzeją, a po pewnym czasie stają się bezużyteczne. Tym razem – dla odmiany – to przez dane. Dane, w których pojawiają się nowe wzorce, zmieniają się trendy. Rozwiązaniem tego problemu jest cykliczne, regularne trenowanie modeli. Jak widzisz, to nie tylko zmiana kodu powoduje wdrożenie nowych modeli. Oznacza to, że musisz stworzyć i utrzymywać dodatkowy proces.
 
+**Dodatkowe powiązania:**
+[[ML Code w infrastrukturze]], [[MLOps vs. DevOps]]
+
 **Źródła:**
 1. https://datasciencein.pl/uczenie-maszynowe-na-produkcji-dlaczego-to-takie-trudne/?utm_source=pocket_mylist
 2. https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning#devops_versus_mlops

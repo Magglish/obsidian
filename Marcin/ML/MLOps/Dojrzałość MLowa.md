@@ -5,7 +5,9 @@ Wraz ze wzrostem dojrzałości MLej, proces trenowanie modeli jest bardziej ustr
 
 Wyróżniamy 3 etapi dojrzałości (lub też automatyzacji):
 
-1. **Proces manualny** - wszystkie etapy procesu budowy modeli (pipeliney) jest ręczny - często w samych Jupyter Notebookach.
+1. **Proces manualny**:
+	1. wszystkie etapy procesu budowy modeli (pipeliney) jest ręczny - często w samych Jupyter Notebookach.
+	2. Brak 
 2. **Automatyzacja pipelineów MLowych** - Proces uczenia się modelu oraz walidacja danych i modelu jest zautomatyzowana.
 3. **Pipeline [[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]]** - Dodatkowo do 2 kroku dochodzi również proces automatycznego testowania, deployowania, monitorowania i przetrenowywania na nowych danych.
 

@@ -13,7 +13,7 @@ Dochodzą jeszcze etapy unikalne dla ML:
 2. [[Continuous Monitoring]] - polega na ciągłbym monitorowaniu modelu i reagowaniu na degradację modelu i zmiany w danych.
 
 **Dodatkowe powiązania:**
-[[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]], [[MLOps Phases]], [[MLOps vs. DevOps]], [[Dojrzałość MLowa]]
+[[MLE vs. SWE]], [[ML Code w infrastrukturze]]
 
 **Źródła:**
 1. https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
