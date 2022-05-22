@@ -7,3 +7,5 @@ Hypervisor to oprogramowanie, które zarządza wirtualnymi maszynami - jego pami
 Hypervisor type 1 - działa bezpośrednio na hardwarze *"bare metal hypervisor"*
 Hypervisor type 2 - działa na systemie operacyjnym hosta, który dostarcza oprogramowanie do wirtualizacji.
 
+**Dodatkowe powiązania:**
+[[Nested virtualization]], [[LXC]]
