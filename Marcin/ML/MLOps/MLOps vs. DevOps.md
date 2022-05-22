@@ -4,5 +4,6 @@ DevOps to zestaw narzędzi i najlepszych praktyk do wdrażania aplikacji na prod
 
 MLOps to nic innego jak DevOps zaaplikowany do systemów MLowych, jednak z kikoma różnicami:
 
-1. 
+1.  W [[Continuous Integration]] oprócz testowania kodu, dochodzi również testowanie danych i modelu,
+2. W [[Continuous Deployment]] deploy zakłada nie jedną paczkę, a kilka komponentów - data pip-e
 
