@@ -12,7 +12,12 @@ Wyróżniamy 3 etapi dojrzałości (lub też automatyzacji):
 	4. Redeploy/retrenowanie modeli odbywa się rzadko,
 	5. Deploy polega tylko na prostym REST API
 	6. Brak monitoringu modeli
-2. **Automatyzacja pipelineów MLowych** - Proces uczenia się modelu oraz walidacja danych i modelu jest zautomatyzowana.
+2. **Automatyzacja pipelineów MLowych**:
+	1. Proces uczenia się modelu zautomatyzowany
+	2. Walidacja  danych i modelu jest zaimplementowana,
+	3. Kod zmodularyzowany, zapisany w skryptach, reużywalny (rezygnacja z Notebookow)
+	4. Kod taki sam na developmentcie jak i na produkcji
+	5. 
 3. **Pipeline [[Continuous Integration|CI]]/[[Continuous Deployment|CD]]/[[Continuous Training|CT]]/[[Continuous Monitoring|CM]]** - Dodatkowo do 2 kroku dochodzi również proces automatycznego testowania, deployowania, monitorowania i przetrenowywania na nowych danych.
 
 **Wizualizacja etapu 3-go**
