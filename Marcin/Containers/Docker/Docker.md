@@ -1,8 +1,10 @@
 # Docker
 
+![[Pasted image 20220522132827.png]]
+
 Docker to oprogramowanie służące do tworzenia, uruchamiania i zarządzania kontenerami - jest to wrapper wokół [[LXC]]. 
 
-Cechy Dockera
+Cechy Dockera:
 1. Izoluje aplikacje i wszystkie jej zależności w pojedynczy obiekt zwany [[Container|kontenerem.]]
 2. Jest zoptymalizowany pod aplikacje,
 3. Pozwala na automatyzację budowy kontenerów poprzez umożliwienie definiowania ich jako kod,
