@@ -1,0 +1,2 @@
+# Transformacja Boxa-Coxa
+
