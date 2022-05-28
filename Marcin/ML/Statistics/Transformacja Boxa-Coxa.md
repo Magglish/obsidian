@@ -1,6 +1,6 @@
 # Transformacja Boxa-Coxa
 
-Przekształcenie [[Zmienna numerycznazmiennej numerycznej w taki sposób aby był on jak **najbardziej zbliżony do [[Rozkład normalny|rozkładu normalnego]]**.
+Przekształcenie [[Zmienna numeryczna|zmiennej numerycznej]] w taki sposób aby był on jak **najbardziej zbliżony do [[Rozkład normalny|rozkładu normalnego]]**.
 
 $$
 Y^{( \lambda, c )} (X) = 
