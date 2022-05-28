@@ -1,2 +1,2 @@
 # Pod
-Pojedynczy lub grupa [[Container|kontenerów]] w [[Kubernetes|Kubernetesowych node'ach]].
+Podstawowa jednostka deploymentu w [[Kubernetes|Kubernetesie]] - pojedynczy lub grupa [[Container|kontenerów]].
