@@ -11,7 +11,7 @@ Kubernetes master - odpwiedzialny za zarządzanie klastrami
 2. etcd - key store i buckup store dla wszystkich istotnych danych do prawidłowej pracy klastra
 3. kube-scheduler - zarządza deployem podów (w zależności od dostępnych zasobów)
 4. kube-controller manager - zarządza nodeami, replicami, endpointami, service accountami i tokenami
-5. cloud-controller manager - 
+5. cloud-controller manager - pozwala dostawcom usług wbić się do kubernetesa i zarządzać nim 
 
 Kubernetes worker (Node):
 1. kubelet - agent do zarządzania nodem i komunikowania z masterem
