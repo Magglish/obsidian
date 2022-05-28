@@ -13,3 +13,4 @@ Cechy Dockera:
 6. Docker umożliwia shareowanie swoich obrazów poprzez [docker-hub](https://hub.docker.com/).
 7. Docker jest open-source.
 8. Docker udostepnia [[REST API]] aby móc zintegorwać go z innymi aplikacjami.
+9. Serverem uruchomieniowym jest [[Docker daemon]].
