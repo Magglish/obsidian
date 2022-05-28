@@ -7,4 +7,5 @@ Cechy docker swarma:
 3. Declarative service model?? potrzebne lpeze zrodlo
 4. Decentrailized design?? potrzebne lepszezrodlo
 5. Zapewnia monitoring kontenerów
-6. Zarząð
+6. Zarządza siecią dla kontenerów - kazdy kontener dostaje swoje IP i nazwe DNS.
+7. Można przekierować porty do [[Load Balancing|load balancera]] lub pozwolić na to aby docker swarm wewnętrznie  
