@@ -5,7 +5,11 @@ Przekształcenie zmiennej numerycznej w taki sposób aby był on jak najbardziej
 $$
 Y^{( \lambda, c )} (X) = 
     \begin{cases}
-      \frac{(X+c)^{\lambda} - 1}{\lambda} & \text{dla $\lambda \neq 0}\\
-      2 & \text{if bank $i$ issues CBs at time $t$}\\
+      \frac{(X+c)^{\lambda} - 1}{\lambda} & \text{dla } \lambda \neq 0 \\
+      \ln (X+c) & \text{dla } \lambda = 0 \\
     \end{cases} 
 $$ 
+
+gdzie:
+
+$$ \lambda $$ 
