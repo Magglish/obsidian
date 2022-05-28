@@ -15,4 +15,7 @@ gdzie :
 $\lambda$ - parametr transformacji
 $c$ - parametr przesunięcia
 
-**Parametr transformacji** wyznaczany jest w sposób numeryczny, tak aby po przekształceniu rozkładu był on jak najbardziej zbliżony do r
+**Założenia:** $X>0$
+
+**Parametr transformacji** wyznaczany jest w sposób numeryczny, tak aby po przekształceniu rozkładu był on jak najbardziej zbliżony do rozkładu normalnego.
+**Parametr przesunięcia** stosowany jest wtedy, gdy niespełnione jest założenie.
