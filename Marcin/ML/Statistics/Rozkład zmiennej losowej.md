@@ -1,0 +1,1 @@
+# Rozkład zmiennej losowej

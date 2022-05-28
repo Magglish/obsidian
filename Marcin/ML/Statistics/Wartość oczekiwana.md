@@ -1,0 +1,2 @@
+# Wartość oczekiwana
+
