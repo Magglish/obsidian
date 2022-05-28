@@ -1,6 +1,6 @@
 # Transformacja Boxa-Coxa
 
-Przekształcenie zmiennej numerycznej w taki sposób aby był on jak najbardziej zbliżony do rozkładu normalnego.
+Przekształcenie zmiennej numerycznej w taki sposób aby był on jak **najbardziej zbliżony do rozkładu normalnego**.
 
 $$
 Y^{( \lambda, c )} (X) = 
@@ -10,6 +10,9 @@ Y^{( \lambda, c )} (X) =
     \end{cases} 
 $$ 
 
-gdzie:
+gdzie :
 
-$$ \lambda $$ 
+$\lambda$ - parametr transformacji
+$c$ - parametr przesunięcia
+
+**Parametr transformacji** wyznaczany jest w sposób numeryczny, tak aby po przekształceniu rozkładu był on jak najbardziej zbliżony do r
