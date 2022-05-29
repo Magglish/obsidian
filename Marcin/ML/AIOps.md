@@ -1,4 +1,5 @@
 # AIOps
+AIOps polega na wprowadzeniu kultury opartej na danych do działalności operacyjnej IT.
 
 1. Profilowanie projektów
 	1. jak wielki zespół jest potrzebny, jakie umiejetności, 
@@ -13,3 +14,6 @@
 3. Wspomaganie planowania pracy zespołów
 4. Analiza trendu, prognozowanie objętościowe - celem jest przewidzenie z wyprzedzeniem jakichś incydentów/wzmożonej pracy
 5. Wspomaganie zespołów IT innymi, customowymi analizami
+
+**Źródło:**
+1. [Practical AIOps](https://ondata.blog/articles/aiops/)
