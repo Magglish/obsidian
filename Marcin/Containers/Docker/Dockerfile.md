@@ -1,7 +1,7 @@
 # Dockerfile
 Dockerfile to plik konfiguracyjny, który określa jak ma zostać zbudowany obraz [[Docker|dockerowy]].
 
-Komendy `FROM` oraz `RUN` tworzą [[Layer|warstwy]] kontenera. 
+Komendy `FROM` oraz `RUN` (**DO POTWERDZENIA W INNYCH ZRODLACH JAKIE KOMENDY W DOCKERFILE TWORZA WARSTWY**) tworzą [[Layer|warstwy]] kontenera. 
 
 Przykład:
 
