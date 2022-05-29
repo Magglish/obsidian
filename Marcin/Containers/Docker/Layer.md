@@ -6,4 +6,6 @@
 2. warstwa zaktualizowania obrazu - `apt-get update`
 3. warstwa instalacji pythona3 - `apt-get install python3`
 
+Poniższy rysunek przedstawia pobranie obrazu z docker-hub, który ma 
+
 ![[Docker layers in CLI.png]]
