@@ -11,4 +11,5 @@
 	2. automatyzacja pracy
 	3. klasyfikacja tasków - do ktorego zespołu powinny one isc
 3. Wspomaganie planowania pracy zespołów
-4. Analiza trendu, prognozowanie objętościowe - celem
+4. Analiza trendu, prognozowanie objętościowe - celem jest przewidzenie z wyprzedzeniem jakichś incydentów/wzmożonej pracy
+5. Wspomaganie zespołów IT innymi, customowymi analizami
