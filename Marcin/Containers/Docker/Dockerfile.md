@@ -10,3 +10,11 @@ Przykład:
 Tworzy poniższy obraz z 3 warstwami
 
 ![[Docker layers.png]]
+
+Komendy:
+
+- `FROM`
+- `MAINTANER`
+- `RUN`
+- `ADD`
+- `EXPOSE` - 
