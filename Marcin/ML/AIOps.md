@@ -11,3 +11,4 @@
 	2. automatyzacja pracy
 	3. klasyfikacja tasków - do ktorego zespołu powinny one isc
 3. Wspomaganie planowania pracy zespołów
+4. Analiza trendu, prognozowanie objętościowe - celem
