@@ -1,5 +1,5 @@
 # XXX as a Service
-![[XaaS.png]]
+![[XXX as a Service.png]]
 
 **IaaS czyli, Infrastructure as a Service** - w  tym modelu mamy dostęp do infrastruktury dostarczyciela. My z kolei możemy zarządzać i instalować software, aplikacje, dane itd.
 
