@@ -3,8 +3,18 @@
 
 Zamiast manipulować konkretnym dataframem, skupiasz się na manipulowaniu konkretnymi kolumnami.
 
-Zamiast
+Orginalnie
 
 ```python
 df['col_c'] = df['col_a'] + df['col_b']
 ```
+
+Z wykorzystaniem Hamiltona:
+
+```python
+def col_c(col_a: pd.Series, col_b: pd.Series) -> pd.Series:
+    """Creating column c from summing column a and column b."""
+    return col_a + col_b
+```
+
+Hamilton pozwala na wizualizacje jak używane sa kolumny w procesie tworzenia 
