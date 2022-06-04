@@ -1,2 +1,2 @@
 # Hamilton
-Hamliton
+[Hamilton](https://github.com/stitchfix/hamilton) tworzy nowy paradygmat tworzenia featerów. Potrafi stworzyć flow przwtarzania danych, które formułuje [[Directed Acyclic Graph]]. Jego głównymi cechami są łatwe tworzenie featerów
