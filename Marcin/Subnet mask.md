@@ -8,3 +8,4 @@ $$255.255.252.0$$
 Po przekształceniu w bity:
 $$11111111.11111111.11111100.00000000$$
 Liczba zer (w tym przypadku 10) określa wielkość subnetu $2^{10}=1024$ adresów IP
+6. 
