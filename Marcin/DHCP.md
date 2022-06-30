@@ -1,7 +1,7 @@
 # DHCP
 DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie komputera/telefonu z lokalnym serverem DHCP i poprosić o [[IP adress|adres IP]], [[Subnet mask]], [[Default Gateway]], [[DNS]] dla tego urządzenia oraz o parametrach sieci niezbędnych do połączenia się z internetem.
 
-Cechy:
+**Cechy:**
 1. Lokalny server DHCP musi ustnieć aby użyć DHCP
 2. DHCP pozwala na automatyczne ustaiwenia IP i parametrów (DHCP jest szczególnie używane przez smartphone)
 3. DHCP działa zarówno na [[IPv4]] jak i [[IPv6]]
@@ -9,9 +9,10 @@ Cechy:
 5. DHCP server zarządza poolem IP adresów oraz informacje o kliencie (o telefonie, o pc)
 
 
-Proces działania DHCP:
+**Proces uzyskania parametrów sieci i adresu IP:**
 1. Obiekt (np. pc, telefon) się z siecią
 2. DHCP używa [[UDP]] z portem 68 obiektu oraz z portem 67 servera DHCP 
 3. Obiekt wysyła wiadomość typu [[Server Discovery]] aby uzyskać informacje o sieci
 4. DHCP Server odpowiada wiadomością typu [[IP Lease Offer]] do obiektu
-5. Nast
+5. Następnie obiekt odpowiada wiadomością typu [[IP Lease Request]] na wiadomość z servera DHCP
+6. DHCP Server odpowiada wiadomością typu [[IP Lease Acknowledgement]] pozwalając użyć adres 
