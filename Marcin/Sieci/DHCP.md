@@ -1,5 +1,5 @@
 # DHCP
-DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie komputera/telefonu z lokalnym serverem DHCP i poprosić o [[IP adress|adres IP]], [[Subnet mask]], [[Default Gateway]], [[DNS]] dla tego urządzenia oraz o parametrach sieci niezbędnych do połączenia się z internetem.
+DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie komputera/telefonu z lokalnym serverem DHCP i poprosić o [[IP adress|adres IP]], [[Subnet mask]], [[Gateway]], [[DNS]] dla tego urządzenia oraz o parametrach sieci niezbędnych do połączenia się z internetem.
 
 **Cechy:**
 1. Lokalny server DHCP musi ustnieć aby użyć DHCP

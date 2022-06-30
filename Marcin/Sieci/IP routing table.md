@@ -7,4 +7,8 @@ IP routing table zawiera w sobie:
 1. IP dla [[Network destination]]
 2. [[Subnet mask]]
 3. [[Gateway]]
-4. 
+4. [[Port]]
+5. [[Metric]] 
+
+**Działanie routing table:**
+1. 
