@@ -12,3 +12,6 @@ Cechy:
 Proces działania DHCP:
 1. Obiekt (np. pc, telefon) się z siecią
 2. DHCP używa [[UDP]] z portem 68 obiektu oraz z portem 67 servera DHCP 
+3. Obiekt wysyła wiadomość typu [[Server Discovery]] aby uzyskać informacje o sieci
+4. DHCP Server odpowiada wiadomością typu [[IP Lease Offer]] do obiektu
+5. Nast
