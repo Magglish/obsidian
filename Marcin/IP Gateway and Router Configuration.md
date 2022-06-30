@@ -10,10 +10,10 @@ Na obrazku mamy 100 komputerów z pokoju A, 50 z pokoju B, 25 z C i 25 z D łąc
 
 ![[IP Gateway and Router Configuration - Objective.png]]
 1. Konfiguracja Routera
-2. Dostaliśmy 256 [[IP adress]]IP adresów (165.132.9.**0** ~ 165.132.9.**255**)
+2. Dostaliśmy 256 [[IP adress|IP adresów]] (165.132.9.**0** ~ 165.132.9.**255**)
 
 **Pokój A**
 ![[IP Gateway and Router Configuration - Room A.png]]
 
-Mamy 100 pokoi, zatem dla każdego z nich po 1 IP. 
-Oprócz tego musimy również przydzielić IP dla *network destination*, *broadcast IP* oraz *gateway interface*. 
+Mamy 100 pokoi, zatem dla każdego z nich po 1 IP. Oprócz tego musimy również przydzielić IP dla *network destination*, *broadcast IP* oraz *gateway interface*. - łącznie otrzymujemy 103 IP.
+Oznacza to, że w danym subnecie potrzebuemy 103 adresów. Musimy okreslić wielkość [[Subnet mask|subnetu]]. Wiemy o tym, że operujemy na bitach, zatem wszystko będzie do potęgi liczby 2. Szukamy najmniejszego subnetu, który pomieści 103 adresów IP. 
