@@ -17,4 +17,5 @@ Ostatnim rekordem jest Default Route - jak widać ma to taki sam gateway adres j
 **Działanie routing table:**
 1. Otrzymujemy jakąs informację do konkretnego IP. 
 2. Sprawdzany jest **góry do dołu, wiersz po wierszu** IP table poszukując tego konkretnego IP i danego subnetu i gateway dla niego.
-3. Dla przykładu pierwszy wiersz z Network Destination $165.132.9.0$ oraz subnet mask $255.255.255.128$ oznacza, że wielkość tego subnetu wynosi 128 IP adresów zatem będą to adresy od 
+3. Dla przykładu pierwszy wiersz z Network Destination $165.132.9.0$ oraz subnet mask $255.255.255.128$ oznacza, że wielkość tego subnetu wynosi 128 IP adresów zatem będą to adresy $165.132.9.0 ~ 165.132.9.127$. Jeżeli chcemy wysłać jakąś paczkę do adresów z tego przedziału, wtedy mamy informację o Gateway IP $165.132.9.126$ oraz o porcie nr $1$.
+4. Jeżeli to nie były te IP do przechodzimy do drugiego wiersza  z Network Destination $165.132.9.0$ oraz subnet mask $255.255.255.128$ oznacza, że wielkość tego subnetu wynosi 128 IP adresów zatem będą to adresy $165.132.9.0 ~ 165.132.9.127$. Jeżeli chcemy wysłać jakąś paczkę do adresów z tego przedziału, wtedy mamy informację o Gateway IP $165.132.9.126$ oraz o porcie nr $1$.
