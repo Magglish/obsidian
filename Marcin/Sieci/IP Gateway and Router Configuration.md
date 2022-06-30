@@ -4,7 +4,7 @@
 ![[IP Gateway and Router Configuration.png]]
 Projekt zakłada stworzenie takiej konfiguracji sieci aby wszystkie pokoje miały dostęp do internetu.
 
-Na obrazku mamy 100 komputerów z pokoju A, 50 z pokoju B, 25 z C i 25 z D łączące się po [[Hub|hubie]] - łączą się z [[Gateway Router]], mający w sobie [[IP table]], na [[Port|portach]] odpowiednio 1, 2, 3, 4 gdzie 4 jest dla Internetu.  
+Na obrazku mamy 100 komputerów z pokoju A, 50 z pokoju B, 25 z C i 25 z D łączące się po [[Hub|hubie]] - łączą się z [[Gateway Router]], mający w sobie [[IP routing table]], na [[Port|portach]] odpowiednio 1, 2, 3, 4 gdzie 4 jest dla Internetu.  
 
 **Cel**:
 
@@ -38,4 +38,4 @@ IP dla [[CIDR}]] w tym przypadku wynosi 165.132.9.0/25
 ![[IP Gateway and Router Configuration - Room C subnet.png]]
 
 W ten oto sposób możemy utworzyć [[IP routing table]].
-![[Pasted image 20220630195918.png]]
+![[IP routing table.png]]
