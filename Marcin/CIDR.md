@@ -1,2 +1,2 @@
 # CIDR
-CIDR (Classles Inter-)
+CIDR (Classles Inter-Domain Routing) 
