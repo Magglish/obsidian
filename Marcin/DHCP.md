@@ -18,6 +18,6 @@ DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie k
 5. Następnie obiekt odpowiada wiadomością typu [[IP Lease Request]] na wiadomość z servera DHCP
 6. DHCP Server odpowiada wiadomością typu [[IP Lease Acknowledgement]] pozwalając użyć adresu IP i parametrów sieci na **czas ograniczony.**
 
-W sytuacji gdy łączymy się do sieci ponownie, to DHCP stara się dać ten sam adres IP, który był używany wcześniej przez obiekt. Jednakże jeżeli jakieś inne urządzenie już korzysta z tego IP lub mamy zdefiniowane jakieś reguły (np. wynikające z bezpieczeństwa aby nie otrzymywać tego samego IP gdy się , dostaniemy nowe.
+W sytuacji gdy łączymy się do sieci ponownie, to DHCP stara się dać ten sam adres IP, który był używany wcześniej przez obiekt. Jednakże jeżeli jakieś inne urządzenie już korzysta z tego IP lub mamy zdefiniowane jakieś reguły (np. wynikające z bezpieczeństwa aby nie otrzymywać tego samego IP gdy się łączymy) to dostaniemy nowy adres.
 
 
