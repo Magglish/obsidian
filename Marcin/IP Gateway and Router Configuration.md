@@ -20,7 +20,8 @@ Oznacza to, że w danym subnecie potrzebuemy 103 adresów. Musimy okreslić wiel
 Wiedząc te dwie rzeczy możemy znaleźć, że najmniejszy rozmiar który pomieści 103 IP to 128 ponieważ $103 \leq 128=2^{7}$.  Liczba 7 w wykładniku oznacza liczbę zer w subnecie, zatem wygląda on tak: 
 $$ 11111111.11111111.11111111.10000000 = 255.255.255.128$$
 Następnie przypisujemy IP do konkretnych komputerów i interfaceów.
-![[IP Gateway and Router Configuration - Room A subnet.png]]
 
+![[IP Gateway and Router Configuration - Room A subnet.png]]
 0 jest przyporządkowane dla Network destionation
-Broadacas
+Broadacasst IP i Gateway odpowiednio 127 i 126. Dlaczego tak? To są granice które wyznaczać nam będa dany subnet. Komputery otrzymają od 1 do 100. To co zostało, czyli 101 - 125 zostanie zarezerwowane na przyszłość.
+IP dla [[CIDR}]] w tym przypadku wynosi 165.132.9.0/25
