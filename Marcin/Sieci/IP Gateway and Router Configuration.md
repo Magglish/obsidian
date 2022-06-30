@@ -36,3 +36,6 @@ IP dla [[CIDR}]] w tym przypadku wynosi 165.132.9.0/25
 
 ![[IP Gateway and Router Configuration - Room C.png]]
 ![[IP Gateway and Router Configuration - Room C subnet.png]]
+
+W ten oto sposób możemy utworzyć [[IP routing table]].
+![[Pasted image 20220630195918.png]]
