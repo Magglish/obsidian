@@ -1,5 +1,5 @@
 # TCP IP
-TCP/IP stworzone przez departament obrony dla swojej sieci ARPANET (Advanced Research Projects Agency Network, 1968 - 1990). 
+TCP/IP (Transmission Control Protocol) stworzone przez departament obrony dla swojej sieci ARPANET (Advanced Research Projects Agency Network, 1968 - 1990). 
 
 
 **Warstwy:**
