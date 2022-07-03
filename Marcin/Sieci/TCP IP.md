@@ -21,5 +21,8 @@ Po 6 krokach wygląda to tak:
 
 ![[Komunikacja w TCP IP 6 krokow.png]]
 
+7. Taka paczka przekazywana jest do routerów korzystające z ip routing tables  
+8. Ethernet H5 otrzymuje paczke i zczytuje nagłówek Ethernet z H1 
+
 **Powiązane pojęcia:**
 [[IMAP]], [[FTP]], [[SMTP]], [[DNS]], [[Telnet]], [[SNMP]], [[UDP]], [[MTU]]
