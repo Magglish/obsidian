@@ -9,13 +9,17 @@ TCP/IP (Transmission Control Protocol) stworzone przez departament obrony dla sw
 
 1. Chcemy przekazac plik z komputera H1 na komputer H5.
 2. Plik jest dzielony korzystajac z [[MTU]]
-3. Nagłówek TCP dodawany jest do pliku
+3. Nagłówek TCP dodawany jest do paczki którą przesyłamy
 4. Między H1 an H5 następuje 3 way handshake:
 ![[H1 H5 handshake.png|200]]
 SYN - Synchronus, ACK - Acknowledge
 Ważne: TCP flow i zarządzanie błędami jest kontrolowane tylko przez komputery H1 i H5 (Router nie ma znaczenia)
-5. Nagłówek IP są dodawane do pliku
-6. 
+5. Nagłówek [[IP adress|IP]] (zawierające źródłowe IP oraz docelowe IP) są dodawane do paczki którą przesyłamy
+6. Nagłówek [[Ethernet]] jest dodawany
+
+Po 6 krokach wygląda to tak:
+
+![[Komunikacja w TCP IP 6 krokow.png]]
 
 **Powiązane pojęcia:**
 [[IMAP]], [[FTP]], [[SMTP]], [[DNS]], [[Telnet]], [[SNMP]], [[UDP]], [[MTU]]
