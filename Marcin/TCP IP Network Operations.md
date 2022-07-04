@@ -1,6 +1,5 @@
 # TCP IP Network Operations
 
-**Komunikacja w TCP/IP**
 ![[Komunikacja w TCP IP.png]]
 
 1. Chcemy przekazac plik z komputera H1 na komputer H5.
