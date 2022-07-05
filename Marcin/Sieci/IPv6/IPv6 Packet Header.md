@@ -5,4 +5,6 @@ IPv6 [[IP Packet|packet]] zawiera w sobie wszystkie niezbędne informacje by mó
 
 **Version** - wersja IP packet
 **DS oraz ECN** - Differentiated Services, Explicit Congestion Notification - sygnalizuje czy spowolonic wysyłke paczki danych w sytuacji gdy występują jakieś opóźnienia.
-**Flow Label** - specjalny serwis dla aplikacji, które przekazują dane w czasie rzeczywistym
+**Flow Label** - specjalny serwis dla aplikacji, które przekazują dane w czasie rzeczywistym. Jednakże obecnie jest to inaczej wykorzystywane - jako informacja dla routerów i switchy, że zmiany w routing nie powinny zostać zaaplikowane ponieważ te pakiety nie będą sortowane u dostarczyciela
+**Payload length** - rozmiar paczki danych
+**Next Header** - 
