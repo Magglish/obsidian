@@ -14,6 +14,6 @@ Fragment Offset mówi o tym gdzie dana paczka danych znajduje się w całej pacz
 **Time to live** - specyfikuje w sekundach przez jaki czas dana paczka może istnieć w sieci.
 **Protocol** - mówi o tym jakiego typu jest będzie następny header po IPv4 headerze (zobacz sobie na diagram w [[TCP IP Network Operations]] po 6 krokach. Tam są dodane headery do paczki danych).
 **Header Checksum** - dodane aby chronić IPv4 packet przed błędami, ale nie chroni danych! Header checksum jest sprawdzane za kazdym razem kiedy paczka jest przepuszczana przez sieć, dlatego, że paczka może ulec zmianie podczas jej transmisji.
-****
+**Source Address & Destination Address** - adresy źródła i destynacji
 
 
