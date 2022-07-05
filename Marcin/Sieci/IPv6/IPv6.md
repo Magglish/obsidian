@@ -3,10 +3,10 @@
 
 ![[Hexadecymalne liczby.png]]
 
-Zapis pełny przykładowego adresu( 8 cyfr)
+Zapis pełny przykładowego adresu IPv6:
 $$ 2ac1:05b8:123e:0000:0000:0000:03a0:c234$$
 
-Skrócony zapis:
+Skrócony zapis przykładowego adresu IPv6:
 1. możemy pominąć zera na początku hexadecymalnych liczb: $05b8 \rightarrow 5b8$
 2. jedna lub więcej kolejnych grup zer może zostać zastąpiona dwoma kolejnymi dwukropkami $::$ tylko raz w adresie IPv6
 
@@ -16,6 +16,8 @@ $$ 2ac1: 5b8:123e:0000:0000:0000: 3a0:c234$$
 Po 2)
 $$ 2ac1:5b8:123e:: 3a0:c234$$
 
-**Cechy:**
-1. IPv6 używa hexadecymalnego zapisu (Ox), np:
+**Adresy często używane:**
+1. $::/128$ all zero adress 
+(jest to odpowiednik adresu IPv4 $0.0.0.0/32$)
+2. $::/0$
 
