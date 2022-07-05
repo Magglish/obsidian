@@ -9,4 +9,5 @@ IPv6 [[IP Packet|packet]] zawiera w sobie wszystkie niezbędne informacje by mó
 **Payload length** - rozmiar IPv6 packet - $(2^{16}-1) = 65,535$ bitów. Możemy użyć [[IPv6 Jumbogram|paczki danych]] aby zwiększyć dane do 4GB.
 **Next Header** - mówi o tym jakiego typu jest będzie następny header po IPv6 headerze.
 **Extension header** - pozwala na dodanie innych headerów do IPv6 packet (np. [[IPv6 Jumbogram|Jumbo Payload Option]]). Najczęściej dodawane są ESP (Encapsulating Security Payload) lub AH (Authentication Header), rozszerzenia odpowiedzialne za bezpieczeństwo.
-**Hop Limit** - specyfikuje przez jaki czas dana paczka może istnieć w sieci.
+**Hop Limit** - specyfikuje przez jaki czas dana paczka może istnieć w sieci. Wartość hop limit zmniejszana za kazdym razem kiedy paczka przejdzie przez sieć.
+**Source Address & Destination Address** - adresy źródła i destynacji

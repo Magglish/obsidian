@@ -1,4 +1,7 @@
 # IPv6
+[[IP adress|Adres IPv6]] ma długość 128 bitów i jest przedstawiony za pomocą 4 hexadecimalnych cyfr:
+
+$$ $$
 
 **Cechy:**
 1. IPv6 używa hexadecymalnego zapisu (Ox), np:
