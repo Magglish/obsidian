@@ -16,3 +16,5 @@ Time to Live w Ipv4 oraz Hop Limit w IPv6. Jak to działa? Czemu jest tam redukc
 W IPv6 header brakuje checksum, a w IPv4 jest. Dlaczego brakuje?
 
 Czym są pilne dane w Urgent Pointer w TCP?
+
+W IPv6 kest Flow Label - specjalny serwis dla aplikacji, które przekazują dane w czasie rzeczywistym. Jednakże obecnie jest to inaczej wykorzystywane - jako informacja dla routerów i switchy, że zmiany w routing nie powinny zostać zaaplikowane ponieważ te pakiety nie będą sortowane u dostarczyciela. Dlaczego zastosowanie zostało zmienione?
