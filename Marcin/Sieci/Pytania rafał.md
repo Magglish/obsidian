@@ -11,5 +11,5 @@ Gdyby tak było to co by się stało?
 Czy IPv4 może się skończyć? samych IP może być $255^{4}$ i licząc to jeszcze z subnet maskami to tego może być w pyte?
 Odp Marcin: Subnety do tego nie służą chyba. Zobacz ip routing table i ip gteway and router configuration
 
-Czy: Time to Live Ipv4. Jak to działa? Czemu jest tam redukcja co przejś
+Czy: Time to Live Ipv4. Jak to działa? Czemu jest tam redukcja co przejście paczki przez routing o 1?
 

@@ -12,4 +12,7 @@ IPv4 [[IP Packet|packet]] zawiera w sobie wszystkie niezbędne informacje by mó
 Flags określa czy dany pakiet fragmentować czy nie, oraz czy jest to ostatni fragment czy jeszcze będą kolejne po nim.
 Fragment Offset mówi o tym gdzie dana paczka danych znajduje się w całej paczce danych.
 **Time to live** - specyfikuje w sekundach przez jaki czas dana paczka może istnieć w sieci.
+**Protocol** - mówi o tym jakiego typu jest będzie następny header po IPv4 headerze (zobacz sobie na diagram w [[TCP IP Network Operations]] po 6 krokach. Tam są dodane headery do paczki danych).
+
+
 
