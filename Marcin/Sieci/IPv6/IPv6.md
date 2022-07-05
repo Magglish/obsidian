@@ -17,7 +17,10 @@ Po 2)
 $$ 2ac1:5b8:123e:: 3a0:c234$$
 
 **Adresy często używane:**
-1. $::/128$ all zero adress 
-(jest to odpowiednik adresu IPv4 $0.0.0.0/32$)
-2. $::/0$
+1. $::/128$ unspecified adress (wszystkie cyfry są zerami):
+$$0000:0000:0000:0000:0000:0000:0000:0000$$
 
+*(jest to odpowiednik adresu IPv4 $0.0.0.0/32$)*
+2. $::/0$ default route
+
+*(jest to odpowiednik adresu IPv4 $0.0.0.0/0$)*
