@@ -18,4 +18,5 @@ Często używamy port:
 **Data offset** - mówi o tym gdzie dana paczka danych znajduje się w całej paczce danych.
 **Options + Padding** - przechowywane są dodatkowe opcje ustawione przez źródło odnośnie wysyłki paczki. 
 **Reserved** - zachowane dla przyszłego użytku
-**PSH Flag** - PSH = 1 pcha dane do aplikacji do której chcemy wysłać dane
+**PSH Flag** - PSH = 1 pcha dane do aplikacji do której chcemy wysłać dane. Pozwala aby dane mogły zostać szybko użyte przez aplikacje.
+**URG Flag** - określa czy Urgent Pointer jest używany (jest na obrazku), który 
