@@ -10,5 +10,6 @@ IPv4 [[IP Packet|packet]] zawiera w sobie wszystkie niezbędne informacje by mó
 **Identification** - identyfikator dla IPv4 packet. Używany razem z Destionation Adress, Source Adress and Protocol.
 **Flags & Fragment Offset** - używane do fragmentacki pakietu danych, jeśli jest zbyt duży aby przejść przez daną sieć. 
 Flags określa czy dany pakiet fragmentować czy nie, oraz czy jest to ostatni fragment czy jeszcze będą kolejne po nim.
-Fragment Offset mówi o 
+Fragment Offset mówi o tym gdzie dana paczka danych znajduje się w całej paczce danych.
+**Time to live** - specyfikuje w sekundach przez jaki czas dana paczka może istnieć w sieci.
 
