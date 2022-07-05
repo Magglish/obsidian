@@ -1,2 +1,4 @@
 # UDP
-UDP (User Datagram Protocol)
+UDP (User Datagram Protocol) dostarca 
+
+![[UDP.png]]

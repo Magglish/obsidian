@@ -21,6 +21,6 @@ $$ 2ac1:5b8:123e:: 3a0:c234$$
 $$0000:0000:0000:0000:0000:0000:0000:0000$$
 
 *(jest to odpowiednik adresu IPv4 $0.0.0.0/32$)*
-2. $::/0$ default route
+2. $::/0$ default route (czyli pokrywa wszystkie adresy)
 
 *(jest to odpowiednik adresu IPv4 $0.0.0.0/0$)*
