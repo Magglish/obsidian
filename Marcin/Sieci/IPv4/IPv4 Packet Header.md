@@ -5,4 +5,5 @@ IPv4 [[IP Packet|packet]] zawiera w sobie wszystkie niezbędne informacje by mó
 
 **Version** - wersja IP packet
 **IHL** - długość IPv4 Header w bitach 
-**DS** - Differentiated Service
+**DS oraz ECN** - Differentiated Services, Explicit Congestion Notification - sygnalizuje czy spowolonic wysyłke paczki danych w sytuacji gdy występują jakieś opóźnienia
+**Total length** - totalna długość paczki danych. Maksymalna wartość to $(2^{16}-1) = 524,280$
