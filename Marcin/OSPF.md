@@ -19,3 +19,7 @@ Uwzględnia:
 4. Przepustowość (bit/s, packet/s)
 5. Dostępność
 6. Niezawodność
+
+**Typy routerów**
+1. IR (Internal Router) - wszystkie interfacey routingowe są w tej sa
+2. ABR (Area Border Router)
