@@ -1,6 +1,7 @@
 # NAT
 NAT (Network Address Translation) 
 
-One-to-One NAT (inaczej basic NAT)
+Rodzaje:
+[[One-to-One NAT]]
 
-One-to-Many NAT
+[[NAT One-to-Many]] 
