@@ -5,4 +5,4 @@ BGP4 (Border Gateway Protocol version 4) jest to [[Protocol|protokół]] używan
 **iBGP** - użwany do routingu wewnątrz systemu
 
 **BGP security**
-Zapewnienie bezpieczeństwa w BGP jest trudne ponieważ, BGP routery należą do różnych sieci [[ISP]]. Oznacza to, że każdy router może mieć inne szyfrowanie i inne schematy bezpieczeństwa. Konsekwencjami tego mogą być słabe punkty w zakresie bezpieczeńśtwa
+Zapewnienie bezpieczeństwa w BGP jest trudne ponieważ, BGP routery należą do różnych sieci [[ISP]]. Oznacza to, że każdy router może mieć inne szyfrowanie i inne schematy bezpieczeństwa. Konsekwencjami tego mogą być słabe punkty w zakresie bezpieczeństwa - np. cięzko jest zautentykować wiadomości kiedy każdy z routerów ma inny schemat bezpieczeńśtwa, w efekcie czego przez zabezpieczenia może przejść jakiś malware.
