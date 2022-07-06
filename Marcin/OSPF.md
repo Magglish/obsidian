@@ -24,4 +24,4 @@ Uwzględnia:
 1. IR (Internal Router) - wszystkie interfacey routingowe są w tej samej sieci
 2. ABR (Area Border Router) - interfacy routingowe z subnetwork są połączone do głównej sieci (backbone network)
 3. BR (Backbone Router) - router łączący do głównej sieci (backbone network)
-4. ASBR (Autonomous System Boundary Router) - routing łączący różne autonomiczne systemy używając róznich routing protocols 
+4. ASBR (Autonomous System Boundary Router) - routing łączący różne autonomiczne systemy używając róznich routing protocols.
