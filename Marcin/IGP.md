@@ -11,4 +11,4 @@ IGP (Interior Gateway Protocol) [[Protocol|protokół]] używany przez [[Gateway
 3. [[IS-IS]]
 4. [[EIGRP]]
 
-**Najczęściej używane algorytmy to w IGP** to Link state routing protocols i OSPF. 
+**Najczęściej używane algorytmy to w IGP** to [[Link state]] routing protocols i [[OSPF]]. 
