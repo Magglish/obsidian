@@ -1,2 +1,2 @@
 # IGP
-IGP (Interior Gateway Protocol) protokół używany przez [[Gateway|bramki]] do wymiany informacji wewnątrz 
+IGP (Interior Gateway Protocol) [[Protocol|protokół]] używany przez [[Gateway|bramki]] do wymiany informacji wewnątrz autonomicznego systemu takiego jak np. sieć korporacyjna, sieć danego budynku, sieć [[ISP]].
