@@ -4,3 +4,7 @@ ARP (Address Resolution Protocol) [[Protocol|protokół]], który mapuje adresy 
 Przykład: mapowanie adresu MAC Ethernet do IPv4 adresu.
 
 W  przypadku IPv6 używamy [[NDP]] dla celów ARP
+
+![[ARP Packet Parameters.png]]
+
+Hardware ty
