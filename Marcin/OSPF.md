@@ -13,3 +13,9 @@ OSPF (Open Shortest Path First) najczęściej używany protokół [[IGP]].
 
 **Koszt linków**
 Uwzględnia:
+1. Dystans od routera
+2. RTT (Rount-Trip time) w sekundach (**co to jest?**)
+3. Liczba rotuerów/switchy aby dojść do destynacji
+4. Przepustowość (bit/s, packet/s)
+5. Dostępność
+6. Niezawodność
