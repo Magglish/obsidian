@@ -7,5 +7,5 @@ FTP (File Transfer Protocol) [[Protocol|protokół]] używany do transferu plik�
 3. FTP używa [[TLS]] do zabezpieczeń.
 
 **Tryby**
-1. Active - klient wysyła wiadomość do servera z informacją o tym jakie portu chce użyć. Następnie server używa [[Port|portu]] nuer 
-2. Passive - 
+1. Active - klient wysyła wiadomość do servera z informacją o tym jakiego portu server musi użyć. Następnie server używa swojego [[Port|portu]] numer 20 do wysłania danych do klienta używając portu, który otrzymał w informacji od klienta.
+2. Passive - używane kiedy klient jest chroniony [[Firewall|firewallem]] i nie może użyć protokołu TCP IP. Klient wysyła wiadomość z prośbą o inform
