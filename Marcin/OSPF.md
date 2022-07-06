@@ -7,4 +7,5 @@ OSPF (Open Shortest Path First) najczęściej używany protokół [[IGP]].
 
 **Operacje**
 1. Routery zbierają link state informacje z innych routerów wewnątrz sieci autonomicznego systemu
-2. 
+2. Następnie tworzone jest [[Network Connection Map]] uwzględniające koszt linków
+3. 
