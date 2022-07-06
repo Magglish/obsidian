@@ -12,4 +12,7 @@ W  przypadku IPv6 używamy [[NDP]] dla celów ARP
 **Hardware adress lenght** - długość adresu hardware (w bitach)
 **Protocol adress lenght** - długość adresu protokołu (w bitach)
 **Operation** - request albo reply
-**Sender hardware address** - adres 
+**Sender hardware address** - adres hardware nadawcy
+**Sender protocl address** - adres protokołu nadawcy
+**Target hardware address** - adres hardware odbiorcy
+**Target protocl address** - adres protokołu odbiorcy
