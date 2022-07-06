@@ -3,4 +3,4 @@ Inaczej IP Masquerading, pozwala na ukrycie wielu prywatnych adresów IP pod jed
 
 Zalety:
 1. Lepsze bezpieczeństwo
-2. Stworzone aby zapisać publiczne adresy IP 
+2. Stworzone aby zapisać publiczne adresy IP (jedno z rozwiązań na problem brakujących adresów IPv4)
