@@ -1,0 +1,2 @@
+# OSPF-TE
+OSPF-TE (Open Shortest Path First Traffic Engineering) to rozszerzenie prokołu [[OSPF]] jest to service pozwalający na kontrolowanie routingu paczek danych z [[Ingress node]] do [[Egress node|egress node]].
