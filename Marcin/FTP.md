@@ -18,4 +18,4 @@ FTP (File Transfer Protocol) [[Protocol|protokół]] używany do transferu plik�
 **Tryby wysyłu danych:**
 1. [[Stream processing|Stream mode]] - używane do wysyłu danych jako ciągły stream danych
 2. [[Batch processing|Block mode]] - dzielimy dane na części i wysyłamy 
-3. Compressed mode - używamy kompresji do danych i wysyłamy (w paczkach lub streaming)
+3. Compressed mode - używamy kompresji do danych i wysyłamy w paczkach.
