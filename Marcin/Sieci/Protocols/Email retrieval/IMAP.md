@@ -1,5 +1,5 @@
 # IMAP
-IMAP (Internet Message Access Protocol) to [[Email retrieval application]] która używa [[TCP IP]] (**do potwierdzenia**).
+IMAP (Internet Message Access Protocol) to [[Email retrieval application]] która używa [[TCP IP]].
 
 **Cechy**
 1. IMAP pozwala na zarządzanie skrzynke emailową (będącą na serverze) z lokalnych urządzeń (np. PC, smartphone). Przez to jest bardziej popularny, ze względu na wspieranie wielu urządzeń.
