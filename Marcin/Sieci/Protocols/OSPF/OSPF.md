@@ -1,5 +1,5 @@
 # OSPF
-OSPF (Open Shortest Path First) najczęściej używany protokół [[IGP]]. Oparty o protokół [[TCP IP]].
+OSPF (Open Shortest Path First) najczęściej używany protokół [[IGP]]. Oparty o protokół [[TCP IP]] i działa [[TCP IP Internet Layer|na warstwie IP]].
 
 1. Protokół dla [[IPv4]], [[IPv6]] oraz [[CIDR]]. 
 2. Używany przez [[Gateway]], [[Router]]
