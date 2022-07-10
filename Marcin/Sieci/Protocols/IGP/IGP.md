@@ -3,7 +3,7 @@ IGP (Interior Gateway Protocol) [[Protocol|protokół]] używany przez [[Gateway
 
 **Kategorie IGP:**
 1. [[Link-state routing protocol]] (najczęściej używane)
-2. [[Distance Vector]]
+2. [[Distance-vector routing protocol]]
 
 **Przykłady IGP:**
 1. [[OSPF]] (najczęściej używane)

@@ -1,2 +1,5 @@
 # Link-state routing protocol
-Routing protocol 
+Cechy link-state [[Routing protocol|routing protocol]]:
+1. zakłada, że każdy router w sieci posiada informacje o całej topologii sieci. 
+2. każdy router indywidualnie wylicza najkrótszą drogę do każdego innego routera w sieci.
+3. Jedyna informacja   
