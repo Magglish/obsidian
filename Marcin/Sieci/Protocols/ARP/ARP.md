@@ -1,5 +1,5 @@
 # ARP
-ARP (Address Resolution Protocol) [[Protocol|protokół]], który mapuje adresy IPv4 i IPv6 do IP [[DLL|Data Link Layer]] urządzenia.
+ARP (Address Resolution Protocol) [[Protocol|protokół]], który mapuje adresy IPv4 i IPv6 (z warstwy trzeciej [[TCP IP Internet Layer]]) do IP [[DLL|Data Link Layer]] urządzenia.
 
 Przykład: mapowanie adresu MAC Ethernet do IPv4 adresu.
 
