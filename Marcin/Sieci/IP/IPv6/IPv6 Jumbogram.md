@@ -1,7 +1,6 @@
 # IPv6 Jumbogram
-[[Protocol]] protokól który rozszerza [[MTU]] 
+[[Protocol]] protokól dla [[IPv6]] który rozszerza [[MTU]] z maksymalnego rozmiaru 65 535 bitów (który był dla IPv4) do $(2^{32}-1) ~ 4 \text{ GB}$ danych.
 
-$(2^{32}-1) ~ 4 \text{ GB}$ danych
+Aby móc przesłać dane za pomocą protokołu Jumbogram, należy dodać do [[IPv6 Packet Header]] *jumbo payload option*.
 
-Ale sieci muszą wspierać Jumbogram.
-Aby móc przesłać dane za pomocą protokołu Jumbogram, należy dodać do [[IPv6 Packet Header]] Jumbo Payload Option.
+Aby skorzystać z IPv6 Jumbogram, sieci muszą wspierać 
