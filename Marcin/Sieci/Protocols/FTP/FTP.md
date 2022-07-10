@@ -7,8 +7,8 @@ FTP (File Transfer Protocol) [[Protocol|protokół]] używany do transferu plik�
 3. FTP używa [[TLS]] do zabezpieczeń.
 
 **Tryby**
-
-2. 
+1. [[FTP active|aktywny]],
+2. [[FTP passive|pasywny]].
 
 **Tryby wysyłu danych:**
 1. [[Stream processing|Stream mode]] - używane do wysyłu danych jako ciągły stream danych
