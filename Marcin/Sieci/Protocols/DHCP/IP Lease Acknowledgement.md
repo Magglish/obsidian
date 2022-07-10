@@ -1,2 +1,2 @@
 # IP Lease Acknowledgment
-Wiadomość wysyłana w procesie uzyskania parametrów sieci i adresu IP używając [[DHCP]], która ma odnaleźć server DHCP.
+Wiadomość wysyłana w procesie uzyskania parametrów sieci i adresu IP używając [[DHCP]], która akceptuje żądanie od klienta o uzyskanie adresu IP oraz parametrów sieci na czas ograniczony.
