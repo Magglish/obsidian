@@ -1,5 +1,5 @@
 # SMTP
-SMTP (Simple Mail Transfer Protocol) to [[Email retrieval application]] która używa [[TCP IP].
+SMTP (Simple Mail Transfer Protocol) to [[Email retrieval application]] która używa [[TCP IP]]. 
 
 **Cechy**
 1. Jest to Internet e-mail protocol (**co to znaczy?**)
