@@ -13,7 +13,7 @@ DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie k
 ![[DHCP Setup Messages & Operations.png]]
 1. Obiekt (np. pc, telefon) się z siecią
 2. DHCP używa [[UDP]] z [[Port|portem]] 68 obiektu oraz z [[Port|portem]] 67 servera DHCP 
-3. Obiekt wysyła wiadomość typu [[Server Discovery]] aby uzyskać informacje o sieci
+3. Obiekt wysyła wiadomość typu [[Server Discovery|server discovery]] aby uzyskać informacje o sieci
 4. DHCP Server odpowiada wiadomością typu [[IP Lease Offer]] do obiektu
 5. Następnie obiekt odpowiada wiadomością typu [[IP Lease Request]] na wiadomość z servera DHCP
 6. DHCP Server odpowiada wiadomością typu [[IP Lease Acknowledgement]] pozwalając użyć adresu IP i parametrów sieci na **czas ograniczony.**
