@@ -3,6 +3,5 @@ Adres IP który jednoznacznie określa komponent w sieci. Poprzez komponent moż
 
 Np. telefon może mieć kilka interfaces w sobie, a każdy z nich wymaga oddzielniego IP adresu. Przykładami interfaces w telefonie są połączenia 2G, 3G, 4G, 5G, Wi-Fi oraz Bluetooth. 
 
-**Powiązane:**
-[[IPv6]], [[IPv4]]
+Obecne adresy IP to [[IPv4]] oraz nowszy [[IPv6]]. 
 
