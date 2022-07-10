@@ -7,7 +7,10 @@ Numery portów reprezentowane są przez liczby naturalne od $0$ do $(2^{16}-1 = 
 22 - [[SSH]]
 25 - [[SMTP]]
 53 - [[DNS]]
+80 - [[HTTP]]
 143 - [[IMAP]]
+443 - [[HTTPS]]
 389 - [[LDAP]]
+8080 - dodatkowe servery
 
-Numery od $1024$ do $49151$ są zarezerwowane przez [IANA](https://www.iana.org/) a nume
+Numery od $1024$ do $49151$ są zarezerwowane przez [IANA](https://www.iana.org/) a numery od $49152$ do $65535$ jako dynamiczne/prywatne
