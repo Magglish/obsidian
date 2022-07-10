@@ -12,12 +12,12 @@ DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie k
 **Proces uzyskania parametrów sieci i adresu IP:**
 ![[DHCP Setup Messages & Operations.png]]
 1. Obiekt (np. pc, telefon) się z siecią
-2. DHCP używa [[UDP]] z portem 68 obiektu oraz z portem 67 servera DHCP 
+2. DHCP używa [[UDP]] z [[Port|portem]] 68 obiektu oraz z [[Port|portem]] 67 servera DHCP 
 3. Obiekt wysyła wiadomość typu [[Server Discovery]] aby uzyskać informacje o sieci
 4. DHCP Server odpowiada wiadomością typu [[IP Lease Offer]] do obiektu
 5. Następnie obiekt odpowiada wiadomością typu [[IP Lease Request]] na wiadomość z servera DHCP
 6. DHCP Server odpowiada wiadomością typu [[IP Lease Acknowledgement]] pozwalając użyć adresu IP i parametrów sieci na **czas ograniczony.**
 
-W sytuacji gdy łączymy się do sieci ponownie, to DHCP stara się dać ten sam adres IP, który był używany wcześniej przez obiekt. Jednakże jeżeli jakieś inne urządzenie już korzysta z tego IP lub mamy zdefiniowane jakieś reguły (np. wynikające z bezpieczeństwa aby nie otrzymywać tego samego IP gdy się łączymy) to dostaniemy nowy adres.
+W sytuacji gdy łączymy się do sieci ponownie, to DHCP stara się dać ten sam [[IP adress|adres IP]], który był używany wcześniej przez obiekt. Jednakże jeżeli jakieś inne urządzenie już korzysta z tego IP lub mamy zdefiniowane jakieś reguły (np. wynikające z bezpieczeństwa aby nie otrzymywać tego samego IP gdy się łączymy) to dostaniemy nowy adres.
 
 
