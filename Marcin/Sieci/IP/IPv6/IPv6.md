@@ -8,7 +8,7 @@ $$ 2ac1:05b8:123e:0000:0000:0000:03a0:c234$$
 
 Skrócony zapis przykładowego adresu IPv6:
 1. możemy pominąć zera na początku hexadecymalnych liczb: $05b8 \rightarrow 5b8$
-2. jedna lub więcej kolejnych grup zer może zostać zastąpiona dwoma kolejnymi dwukropkami $::$ tylko raz w adresie IPv6
+2. jedna lub więcej kolejnych grup zer może zostać zastąpiona dwoma kolejnymi dwukropkami $::$ (ale tylko raz można to wykonać)
 
 $$ 2ac1:05b8:123e:0000:0000:0000:03a0:c234$$
 Po 1)
