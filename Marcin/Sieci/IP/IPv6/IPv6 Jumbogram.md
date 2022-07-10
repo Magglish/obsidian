@@ -1,5 +1,5 @@
 # IPv6 Jumbogram
-Protokól...
+[[Protocol]] protokól który rozszerza [[MTU]] 
 
 $(2^{32}-1) ~ 4 \text{ GB}$ danych
 
