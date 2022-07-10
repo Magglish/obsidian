@@ -25,7 +25,7 @@ Następnie przypisujemy IP do konkretnych komputerów i interfaceów.
 ![[IP Gateway and Router Configuration - Room A subnet.png]]
 0 jest przyporządkowane dla Network destionation
 Broadacasst IP i Gateway odpowiednio 127 i 126. Dlaczego tak? To są granice które wyznaczać nam będa dany subnet. Komputery otrzymają od 1 do 100. To co zostało, czyli 101 - 125 zostanie zarezerwowane na przyszłość.
-IP dla [[CIDR}]] w tym przypadku wynosi 165.132.9.0/25 
+IP dla [[CIDR]] w tym przypadku wynosi 165.132.9.0/25 
 
 **Pokój B**
 
