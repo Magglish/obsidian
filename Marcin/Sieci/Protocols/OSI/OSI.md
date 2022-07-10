@@ -1,2 +1,4 @@
 # OSI
-OSI (Open System Interconnection) charakteryzuje i standaryzuje komunikacje między systemamy komputerowymi i telekomunikacyjnymi. 1983 rok utworzenia.
+OSI (Open System Interconnection) charakteryzuje i standaryzuje komunikacje między systemamy komputerowymi i telekomunikacyjnymi.
+
+[[OSI Layers|Warstwy OS]]
