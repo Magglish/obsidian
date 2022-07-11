@@ -6,7 +6,7 @@ Odp Marcin: Subnety do tego nie służą chyba. Zobacz ip routing table i ip gte
 
 Time to Live w Ipv4 oraz Hop Limit w IPv6. Jak to działa? Czemu jest tam redukcja co przejście paczki przez routing o 1?
 
-W IPv6 header brakuje checksum, a w IPv4 jest. Dlaczego brakuje?
+W [[IPv6]] header brakuje checksum, a w [[IPv4]] jest. Dlaczego brakuje?
 
 Kiedy jest używany TCP a UDP?
 
