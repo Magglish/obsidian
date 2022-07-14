@@ -4,4 +4,4 @@ Metoda POST:
 2. Metode POST używamy do:
 	1.  przesyłania zawartości formularzy,
 	2.  dodawania nowego zasobu,
--   dodawanie danych do istniejącego zasobu.
+	3.  dodawanie danych do istniejącego zasobu.
