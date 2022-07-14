@@ -11,7 +11,7 @@ scheme:[//[user[:password]@]host[:port]][/path][?query][#fragment]
 - **scheme** - używane do określenia protokołu, np. [[HTTP]], [[HTTPS]]
 - **user:password** - używane do uwierzytelnienia. nie jest to bezpieczny sposób na przesyłanie loginu i hasła
 - **host** - nazwa domeny internetowej lub [[IP adress]]
-- **port** - 
-- **path** - 
-- **query** - 
-- **fragment** - 
+- **port** - numer [[Port|portu]]
+- **path** - ścieżka określająca zasób
+- **query** - dodatkowe dane identyfikujące zasób np. `parametr=wartosc&format=json`
+- **fragment** - określenie fragmentu strony url, np. nagłówek/rozdział w tekście
