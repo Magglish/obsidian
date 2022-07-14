@@ -1,5 +1,5 @@
 # HTTP
-HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] 
+HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] [[Text protocol|tekstowy]] służący do wymiany informacji pomiędzy serverem a klientem. 
 
 
 **Metody**
