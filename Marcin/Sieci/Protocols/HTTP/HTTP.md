@@ -6,7 +6,7 @@ HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] [[Text protocol|tekst
 2. Jest bezstanowy - oznacza to tyle, że każde zapytanie może być interpretowane w oderwaniu od pozostałych.
 
 
-1.  GET – pobranie zasobu wskazanego przez [URI](https://pl.wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier"), może mieć postać warunkową jeśli w nagłówku występują pola warunkowe takie jak "If-Modified-Since"
+1.  GET – pobranie zasobu wskazanego przez [[URI]], może mieć postać warunkową jeśli w nagłówku występują pola warunkowe takie jak "If-Modified-Since"
 2.  HEAD – pobiera informacje o zasobie, stosowane do sprawdzania dostępności zasobu
 3.  PUT – przyjęcie danych przesyłanych od klienta do serwera, najczęściej aby zaktualizować wartość [encji](https://pl.wikipedia.org/wiki/Encja_(bazy_danych) "Encja (bazy danych)")
 4.  POST – przyjęcie danych przesyłanych od klienta do serwera (np. wysyłanie zawartości formularzy)
