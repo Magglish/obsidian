@@ -1,6 +1,11 @@
 # HTTP
 HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] [[Text protocol|tekstowy]] służący do wymiany informacji pomiędzy serverem a klientem. 
 
+**Cechy**
+1. Komunikacja opiera się na już żądaniach i odpowiedziach
+2. Jest bezstanowy - oznacza to tyle, że każde zapytanie może być interpretowane w oderwaniu od pozostałych.
+3. 
+
 
 **Metody**
 1.  GET – pobranie zasobu wskazanego przez [URI](https://pl.wikipedia.org/wiki/Uniform_Resource_Identifier "Uniform Resource Identifier"), może mieć postać warunkową jeśli w nagłówku występują pola warunkowe takie jak "If-Modified-Since"
