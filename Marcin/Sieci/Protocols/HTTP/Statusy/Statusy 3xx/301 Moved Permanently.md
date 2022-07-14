@@ -1,0 +1,2 @@
+# [[Statusy 3xx|Status HTTP]] - 301 Moved Permanently
+Informuje klienta, że zasób został przeniesiony na stałe w inne miejsce. Ten status ma znaczenie duże dla twórców stron, którzy bazują na ruchu z wyszukiwarek. Taki status informuje wyszukiwarki o tym, że strona, która wcześniej była pod adresem X znajduje się w nowym miejscu.
