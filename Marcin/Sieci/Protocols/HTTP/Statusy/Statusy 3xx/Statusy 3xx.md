@@ -1,4 +1,4 @@
-# Statusy 3xx w HTTP
+# [[Statusy w HTTP|Statusy]] 3xx w HTTP
 Informują klienta o tym, że musi być podjęta dodatkowa akcja w celu skończenia przetwarzania zapytania. Statusy te wykorzystywane są do ustawiania przekierowań.
 
 **Najczęściej spotykane statusy:**

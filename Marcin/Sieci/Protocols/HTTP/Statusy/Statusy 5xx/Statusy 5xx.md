@@ -1,4 +1,4 @@
-# Statusy 5xx w HTTP
+# [[Statusy w HTTP|Statusy]] 5xx w HTTP
 Serwer informuje klienta o błędzie po stronie serwera, które uniemożliwiają przetworzenie zapytania.
 
 **Najczęściej spotykane statusy:**

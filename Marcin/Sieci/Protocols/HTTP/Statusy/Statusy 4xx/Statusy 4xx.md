@@ -1,4 +1,4 @@
-# Statusy 4xx w HTTP
+# [[Statusy w HTTP|Statusy]] 4xx w HTTP
 Statusy z tej grupy informują o błędzie klienta
 
 **Najczęściej spotykane statusy:**
