@@ -4,6 +4,8 @@ HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] [[Text protocol|tekst
 **Cechy**
 1. Komunikacja opiera się na już żądaniach i odpowiedziach
 2. Jest bezstanowy - oznacza to tyle, że każde zapytanie może być interpretowane w oderwaniu od pozostałych.
+3. [[Metody w HTTP]]
+4. [[Statusy w HTTP]]
 
 
 1.  GET – pobranie zasobu wskazanego przez [[URI]], może mieć postać warunkową jeśli w nagłówku występują pola warunkowe takie jak "If-Modified-Since"
