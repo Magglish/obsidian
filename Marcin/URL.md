@@ -8,6 +8,10 @@ W porównaniu do [[URI]], URL zawiera w sobie również informacje o "położeni
 scheme:[//[user[:password]@]host[:port]][/path][?query][#fragment]
 ```
 
-- **scheme** - 
-- **user:password**
-- 
+- **scheme** - używane do określenia protokołu, np. [[HTTP]], [[HTTPS]]
+- **user:password** - używane do uwierzytelnienia. nie jest to bezpieczny sposób na przesyłanie loginu i hasła
+- **host** - nazwa domeny internetowej lub [[IP adress]]
+- **port** - 
+- **path** - 
+- **query** - 
+- **fragment** - 
