@@ -6,5 +6,7 @@ HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] [[Text protocol|tekst
 2. Jest bezstanowy - oznacza to tyle, że każde zapytanie może być interpretowane w oderwaniu od pozostałych.
 3. [[Metody w HTTP]]
 4. [[Statusy w HTTP]]
+5. [[Nagłówki w HTTP]]
+6. [[Cookies]]
 
 
