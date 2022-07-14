@@ -1,8 +1,4 @@
 # Metoda HEAD w HTTP
 Metoda HEAD: 
-1. pobranie zasobu wskazanego przez [[URI]], 
-2. Jest to podstawowe żądanie. 
-3. Każde otworzenie strony internetowej zaczyna się od zapytania typu `GET`. Przeglądarka wysyła żądanie typu `GET` żeby otworzyć stronę internetową. 
-4. Specyfikacja mówi, że żądanie to służy do pobrania aktualnej reprezentacji zasobu. W praktyce może to oznaczać pobranie aktualnej wersji strony znajdującej się pod danym adresem. 
-5. Zakłada się, że żądania typu `GET` nie posiadają dołączonego ciała wiadomości.
-6. może mieć postać warunkową jeśli w nagłówku występują pola warunkowe takie jak "If-Modified-Since". 
+1. Zapytanie typu [[HEAD]] jest podobne do [[GET]]. Różni się jednym ważnym szczegółem. W przypadku tego zapytania odpowiedź serwera nie może zawierać ciała wiadomości. 
+2. Zapytania tego typu są używane do sprawdzenia czy dany zasób się zmienił, czy do sprawdzania poprawności odnośników. Zysk z używania tego zapytania polega na tym, że ciało wiadomości nie jest przesyłane. Wyobraź sobie plik PDF, który zawiera 10MB danych. Można wysłać zapytanie typu [[HEAD]], żeby sprawdzić czy zawartość tego pliku uległa zmianie. To czy plik jest nowszy można określić na podstawie nagłówków, które będą dołączone do odpowiedzi.

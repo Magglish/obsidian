@@ -1,5 +1,5 @@
 # Metody w HTTP
-1.  [[GET]]
+1.  [[GET]] - pobranie zasobu wskazanego przez URI
 2.  [[HEAD]] – pobiera informacje o zasobie, stosowane do sprawdzania dostępności zasobu
 3.  [[PUT]] – przyjęcie danych przesyłanych od klienta do serwera, najczęściej aby zaktualizować wartość encji
 4.  [[POST]] – przyjęcie danych przesyłanych od klienta do serwera (np. wysyłanie zawartości formularzy)
