@@ -1,2 +1,2 @@
 # Intrusion Detection System
-Intrusion Detection System to system któ©ego zadaniem jest wykrycie podejrzanego ruchu w sieci oraz 
+Intrusion Detection System to system którego zadaniem jest wykrycie podejrzanego ruchu w sieci oraz naruszeć polityki bezpieczeństwa. Informacje przekazywane są do Network Administrators lub do [[SIEM]].
