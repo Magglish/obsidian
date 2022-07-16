@@ -1,0 +1,2 @@
+# Whaling
+Atak [[Phishing|phishingowy]] 
