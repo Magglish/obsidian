@@ -1,0 +1,2 @@
+# Website Forgery
+Website Forgery to atak [[Phishing|phishingowy]] który zamienia adress bar użytkownika lub całą stronę na addres bar lub stronę hackera. W ten sposób ogłupiamy użytkownika np. wyświetlając 
