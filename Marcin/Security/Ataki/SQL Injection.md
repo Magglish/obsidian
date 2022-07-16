@@ -8,4 +8,4 @@ Przykładowe cele w jakich można użyć SQL Injection:
 4. zmiana statusu konta bankowego
 5. wyciek danych
 6. usunięcie danych
-7. 
+7. zdobycie roli administratora
