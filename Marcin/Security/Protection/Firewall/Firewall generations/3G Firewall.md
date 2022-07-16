@@ -5,3 +5,5 @@
 3. Zawiera w sobie [[Deep Packet Inspection]]
 4. Zawiera w sobie [[Intrusion Prevention System]]
 5. Monitoruje identyfikacje użytkowników
+6. Monitoring adresu [[MAC]] urządzenia
+7. Używa technologii [[Web Application Firewall]]
