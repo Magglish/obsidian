@@ -5,5 +5,6 @@ Atak DoS (Denial of Service) skupia się na:
 
 
 **Sposób obrony:**
-1. [[Firewall]]
-2. [[Anti-virus]]
+1. [[Firewall]],
+2. [[Anti-virus]],
+3. [[Email filters]]
