@@ -1,2 +1,2 @@
 # STARTTLS
-STARTTLS to szyfrowanie [[TLS]]
+STARTTLS pozwala na nawiązanie poł [[TLS]]
