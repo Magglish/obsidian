@@ -1,3 +1,2 @@
 # Ethernet
-
 Jest to standard komunikacji, który powstał w latach 70. XX wieku. Celem tego rozwiązania było połączenie sieci urządzeń w środowisku lokalnym ([[LAN]]). Odnalazło ono swoje zastosowanie w biurze oraz domu. Wszystkie sprzęty podłączone do sieci Ethernet mogły zatem udostępniać informacje pozostałym komputerom znajdującym się w tej samej lokalizacji.
