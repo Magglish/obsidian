@@ -1,5 +1,5 @@
 # POP3
-POP3 (Post Office Protocol version 3) to [[Email retrieval application]] która używa [[TCP IP]].
+POP3 (Post Office Protocol version 3) to [[Internet email protocol]] która używa [[TCP IP]].
 
 **Operacje**
 1. POP3 przenosi maile z servera do twojego urządzenia.
