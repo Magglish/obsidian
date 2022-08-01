@@ -1,9 +1,9 @@
 # ARP
-ARP (Address Resolution Protocol) [[Protocol|protokół]], który mapuje adresy IPv4 i IPv6 (z warstwy [[TCP IP Internet Layer]] lub [[OSI Network Layer]]) do IP urządzenia ([[TCP IP Network Access Layer]] lub [[OSI Data Link Layer]]).
+ARP (Address Resolution Protocol) [[Protocol|protokół]], który mapuje adresy IPv4 i IPv6 ( w przypadku IPv6 używamy [[NDP]] dla celów ARP) (z warstwy [[TCP IP Internet Layer]] lub [[OSI Network Layer]]) do IP urządzenia ([[TCP IP Network Access Layer]] lub [[OSI Data Link Layer]]).
 
 Przykład: mapowanie adresu MAC Ethernet do IPv4 adresu.
 
-W  przypadku IPv6 używamy [[NDP]] dla celów ARP
+
 
 ![[ARP Packet Parameters.png]]
 
