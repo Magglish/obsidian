@@ -1,9 +1,9 @@
 # NAT
-NAT (Network Address Translation) 
+NAT (Network Address Translation) polega na zamianie prywatnych lub wewnętrznych adresów na publiczne adresy. 
 
 Rodzaje:
 [[One-to-One NAT]]
 
-[[NAT One-to-Many]] 
+[[One-to-Many NAT]] 
 
 #dokoncz

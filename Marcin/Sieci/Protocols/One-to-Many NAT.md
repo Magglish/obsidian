@@ -1,4 +1,4 @@
-# NAT One-to-Many
+# One-to-Many NAT 
 Inaczej IP Masquerading, pozwala na ukrycie wielu prywatnych adresów IP pod jednym publicznym adresem IP.
 
 Zalety:
