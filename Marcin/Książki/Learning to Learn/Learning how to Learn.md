@@ -13,3 +13,5 @@
 	1. Skoncentorwanie uwagi na informacjach które chcesz poznać i zapamiętać
 	2. Zrozumienie podstawowych idei
 	3. Osadzenie informacji w kontekście
+
+![[Pasted image 20220802214151.png|500]]
