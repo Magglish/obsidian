@@ -2,6 +2,10 @@
 
 ![[Warstwy OSI.png|200]]
 
+**Ważne**
+1. warstwa X widzi to co jest pod nią, ale nie tego co nad nią,
+2. warstwy liczymy od dołu.
+
 1. [[OSI Application Layer|Application Layer]],
 2. [[OSI Presentation Layer|Presentation Layer]],
 3. [[OSI Session Layer|Session Layer]],
