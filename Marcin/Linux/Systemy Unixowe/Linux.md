@@ -9,4 +9,5 @@ Linux to system operacyjny [[Unix]], stworzony przez Linusa Torvaldsa w 1991 rok
 
 **Linux versus inne systemy Unixowe:**
 1. Jego [[Kernel|kernel]] jest [[Monolithic Kernel|monolityczny]]
-2. Pozwala na dynamiczne ładowanie poszczególnych modułów (kawałków kodu) potrzebnych do dane
+2. Pozwala na dynamiczne ładowanie poszczególnych modułów (kawałków kodu) potrzebnych do danej operacji
+3. Uzywa [[Kernel thread|kernel threading]]
