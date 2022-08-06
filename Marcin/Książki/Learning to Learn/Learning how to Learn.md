@@ -22,3 +22,5 @@
 7. O danym problemie można pomyśleć w innym środowisku, pomoże Ci to spojrzeć na to z innej perspektywy. 
 9. W przypadku zadań, w których czujesz dyskomfort powinieneś skupić się na **procesie** a nie na **produkcie**. (proces - trening, produkt - stanie na rękach)
 10. Przy wielozadaniowości, wielowątkowości możemy utracić to co się nauczyliśmy bo oznaczać to będzie dla organizmu zbyt duży wysiłek. 
+11. Aby coś łatwiej zrozumieć/zapamiętać, można utworzyć do tego analogie do bardzo prostego przykładu. To też jest dobre kiedy tłumaczysz komuś trudne pojęcie, aby wytworzyć analogie do czegoś co on dobrze zna.
+12. Pisanie pozwala na lepsze utrwalenie materiału. Ale istotne jest by pisać to własnymi słowami.
