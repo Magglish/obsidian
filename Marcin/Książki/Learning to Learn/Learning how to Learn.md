@@ -9,7 +9,7 @@
 2. Pozwól się zrelaksować, aby tryb rozproszony mógł przemyśleć czego sie dowiedziałeś i się nauczyłeś. W szczególności w efekcie nastawienia (efekt Einstellung) kiedy jesteś skoncentrowany na jednej rzeczy, "blokujesz" aby nowe pomysły wpadły do głowy. Trzeba odpuścić lub zmienić temat, na tyle aby uwolnić myśli od danego zagadnienia i pozwolić trybowi rozproszonemu na pracę. Zaakceptowanie pierwszego pomysłu, który przychodzi do głowy może Cie zablokować i uniemożliwić znalezienia innego, lepszego rozwiązania.
 3. Mamy ograniczoną pamięć podręczną (teoretycznie 4 rzeczy). Przechwowywanie wielu rzeczy wni je może ją szybko wyczerpac przez co wypadna nam rzeczy z glowy. Jednym z dobrych sposob jest zapisywanie sobie na kartce/aplikacji swoich przemyslen by uwolnic ja od tego.
 4. Technika odroczonych powtórek - efektywny sposób na utrwalenie rzeczy w pamięci długoterminowej. Regularne powtarzanie z przerwami pomiedzy nimi.
-5. Zbrylanie pojęć:
+5. Zbrylanie to integracja danego pojęcia w jeden gładki wzorzec połączeń nerwowych. Aby to uzyskać:
 	1. Skoncentorwanie uwagi na informacjach które chcesz poznać i zapamiętać
 	2. Zrozumienie podstawowych idei
 	3. Osadzenie informacji w kontekście
@@ -17,7 +17,7 @@
 
 ![[Top down and bottom up learning.png|500]]
 
-6. Próba przypomnienia materiału jest znacznie skuteczniejsza niż samo ponowne czytanie materiału. Ponowne czytanie materiału tworzy iluzje kompetencji, ale może być pomocne gdy pomiędzy kolejnymi czytaniami jest przerwa czasowa. 
+6. Próba aktywnego przypomnienia materiału jest znacznie skuteczniejsza niż samo ponowne czytanie materiału. Ponowne czytanie materiału tworzy iluzje kompetencji, ale może być pomocne gdy pomiędzy kolejnymi czytaniami jest przerwa czasowa. 
 7. O danym problemie można pomyśleć w innym środowisku, pomoże Ci to spojrzeć na to z innej perspektywy. 
 8. Tworzenie nawyku z nauki pozwala oszczędzić energie - jest to normalne, że się uczysz. 
 9. W przypadku zadań, w których czujesz dyskomfort powinieneś skupić się na **procesie** a nie na **produkcie**. (proces - trening, produkt - stanie na rękach)
