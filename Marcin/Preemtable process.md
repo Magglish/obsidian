@@ -1,2 +1,2 @@
 # Preemtable process
-Preemtable [[Process|process]] to proces, który jest monitorowany przez 
+Preemtable [[Process|process]] to proces, który jest monitorowany przez system operacyjny w celu określenia ile zużywanego jest CPU aby móc odpalić [[Process scheduler|schedulera]]
