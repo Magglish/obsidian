@@ -6,3 +6,4 @@ Zaimplementowane w nim musi być:
 2. Mechanizm ochrony jednej aplikacji przed bugami w drugiej.
 3. Mechanizm ochrony jednej aplikacji przed wirusami w drugiej.
 4. Mechanizm przyznawający zasoby do odpowiednich userów (miejsce na dysku, własna przestrzeń id), lub pozwalający na [[user groups|współdzielenie zasobów]].
+5. [[Process|Procesy]] muszą być [[Preemtable process|wyprzedzające]].
