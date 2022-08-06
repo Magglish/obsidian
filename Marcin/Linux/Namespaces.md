@@ -9,3 +9,5 @@ W linuxie wyróżniamy 6 namespaces:
 4. Mount - kontroluje punkt montowania systemu plików (ang. *file system mountpoints*) które widoczne są przez kontenery.
 5. PID - pozwala na izolacje ID procesów zachodzących w systemie. 
 6. Network -  izoluje stack networkingowy, dzieki czemu każdy kontener ma swoje IP, firewalla itd.
+
+#review 
