@@ -24,5 +24,3 @@ df.visualize_execution(output_columns, './my-dag.dot', {})
 ```
 
 ![[Hamilton DAG.png]]
-
-#flashcards
