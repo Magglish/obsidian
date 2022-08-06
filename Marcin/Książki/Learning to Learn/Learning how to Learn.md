@@ -25,3 +25,4 @@
 11. Aby coś łatwiej zrozumieć/zapamiętać, można utworzyć do tego analogie do bardzo prostego przykładu. To też jest dobre kiedy tłumaczysz komuś trudne pojęcie, aby wytworzyć analogie do czegoś co on dobrze zna.
 12. Pisanie pozwala na lepsze utrwalenie materiału. Ale istotne jest by pisać to własnymi słowami.
 13. Burza mózgów jest istotna - wtedy masz okazje sprawdzic swoje pomysly. 
+14. Sprawdzanie wiedzy i testowanie się to skuteczna metoda utrwalania wiedzy długoterminowej - fiszki są największym przyjacielem.
