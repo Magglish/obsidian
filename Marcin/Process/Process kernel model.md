@@ -1,2 +1,2 @@
 # Process kernel model
-[[Process]] [[Kernel mode|kernel model]]  
+Process kernel model to model w którym każdy [[Process|proces]] wytwarza iluzję, w której to on jest jedynym procesem działającym w systemie. Gdy proces chce dosięgnąc [[Kernel|kernela]] 
