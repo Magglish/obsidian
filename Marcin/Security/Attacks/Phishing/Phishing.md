@@ -4,4 +4,4 @@ Atak phishinowy polega na:
 2. Użytkownicy są oszukiwani aby pobrać wirusa
 3. Następnie malware atakuje system operacyjny lub konkretne aplikacje
 
-Najczęściej używany kanał do phishingu jest email, do którego wraz z wiadomością dołączany jest plik/aplikacja lub link do strony internetowej. #review
+Najczęściej używany kanał do phishingu jest email, do którego wraz z wiadomością dołączany jest plik/aplikacja lub link do strony internetowej.

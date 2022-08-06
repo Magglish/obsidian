@@ -1,2 +1,2 @@
 # Covert Redirect
-Covert Redirect to atak [[Phishing|phishingowy]] polegający na zainfekowaniu prawdziwej strony internetowej malwarem, przez który klientowi pokaże się okno logowania przekazujące dane do hackera/logujący się na strone hackera. #review
+Covert Redirect to atak [[Phishing|phishingowy]] polegający na zainfekowaniu prawdziwej strony internetowej malwarem, przez który klientowi pokaże się okno logowania przekazujące dane do hackera/logujący się na strone hackera.
