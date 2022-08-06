@@ -15,3 +15,5 @@
 	3. Osadzenie informacji w kontekście
 
 ![[Pasted image 20220802214151.png|500]]
+
+Najlepiej najpierw przejrzeć ogólne idee aby zrozumieć kontekst i mniej wiecej wiedzieć o czym będzie mowa, a następnie wchodzić w detale.
