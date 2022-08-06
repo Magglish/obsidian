@@ -1,2 +1,2 @@
 # Operating system
-Operating system (system operacyjny) to innymi słowy podstawowy zestaw programów/kodów źródłowych, który pozwala na prawidłowe funkcjonowanie systemu komputerowego. Najważniejszy element systemu operacyjnego to [[Kernel|jądro.]] 
+Operating system (system operacyjny) to innymi słowy podstawowy zestaw programów/kodów źródłowych, który pozwala na prawidłowe funkcjonowanie systemu komputerowego. Najważniejszy element systemu operacyjnego to [[Kernel|jądro.]] (dlatego też często jądro (kernel) jest synonimem dla s)
