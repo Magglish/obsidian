@@ -16,4 +16,4 @@ Linux to system operacyjny [[Unix]], stworzony przez Linusa Torvaldsa w 1991 rok
 5. Jego [[Kernel]] jest [[Preemptive kernel|preemtive]].
 6. Wspiera [[Symmetric multiprocessing|symetryczne przetwarzanie wieloprocesorowe]].
 7. Wspiera wiele różnych systemów plików dzięki [[Virtual File System Technology|virutal file system technology]].
-8. Linux jest zdecy
+8. Linux jest zdecydowanie szybszy, poprzez odrzucenie niektórych komponentów zainstalowanych( np. [[STREAMS I/O]]) w innych systemach Unixowych które istotnie mogą go spowolnić.
