@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-10
+sr-interval: 4
+sr-ease: 270
+---
+
 # Namespaces
 
 Przestrzenie nazw (ang. *namespaces*) pozwalają na wydzielenie/partycjonowanie zasobów w taki sposób, że są one widoczne tylko przez dany proces, a pozostałe nie mogą z tego korzystać.

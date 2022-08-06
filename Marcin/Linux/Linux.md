@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-07
+sr-interval: 1
+sr-ease: 230
+---
+
 # Linux
 Linux to [[Operating system|system operacyjny]] [[Unix]], stworzony przez Linusa Torvaldsa w 1991 roku dla komputerów stacjonarych firmy IBM operujących na porcesorach Intel 80386. 
 
