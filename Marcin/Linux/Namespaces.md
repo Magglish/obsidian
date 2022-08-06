@@ -16,4 +16,4 @@ W linuxie wyróżniamy 6 namespaces:
 5. PID - pozwala na izolacje ID procesów zachodzących w systemie. 
 6. Network -  izoluje stack networkingowy, dzieki czemu każdy kontener ma swoje IP, firewalla itd.
 
-#review 
+ 
