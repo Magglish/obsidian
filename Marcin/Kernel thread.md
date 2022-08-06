@@ -1,2 +1,2 @@
 # Kernel thread
-[[Kernel]] thread to inaczej 
+[[Kernel]] thread to inaczej kontekst wykonawczy, który może być niezależnie zaplanowany. Kontekst wykonawczy może być związany z programem użytkownika, albo uruchamiać pewne [[Kernel function|funkcje kernela]].
