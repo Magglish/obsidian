@@ -1,8 +1,8 @@
 # Unix
-Unix to [[Operating system|system operacyjny.]]
+Unix to [[Operating system|system operacyjny]]
 
 Cechy systemów Unixowych:
-1. Jest to [[Multiuser system|multiuser system]].
+1. Jest to [[Multiuser system|multiuser system]], w którym obligatoryjne jest aby stosować [[Kernel Mode|tryb uprzywil]]
 2. 
 
 Różnica pomiędzy systemami Unix a innymi systemami:
