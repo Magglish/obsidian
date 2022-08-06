@@ -1,5 +1,5 @@
 # Monolithic kernel vs microkernel
-[[Monolithic kernel]] vs [[Microkernel]]:
+[[Monolithic Kernel]] vs [[Microkernel]]:
 
 1. Mikrokernel jest wolniejszy od monolithic, ponieważ przekazywanie informacji pomiędzy dobudowanymi warstwami w mikrokernelu ma swój koszt.
 2. Dzięki temu, że konkretne warstwy w mikrokernelu są rozdzielane, stosowane jest modularne podejście co ułatwia w utrzymaniu kodu oraz warstwy muszą być od siebie niezależne i mieć odpowiednie API.
