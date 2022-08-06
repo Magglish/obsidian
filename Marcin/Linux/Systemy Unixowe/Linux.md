@@ -8,7 +8,7 @@ Linux to [[Operating system|system operacyjny]] [[Unix]], stworzony przez Linusa
 4. W implementacji Linuxa skupiany sie na zaimplementowaniu najlepszych featerów systemu Unixowego, dodatkowo opierając się na tym co jest zaimplementowane w innych systemach Unixowych i co się sprawdza.
 
 **Linux versus inne systemy Unixowe:**
-1. Jego [[Kernel|kernel]] jest [[Monolithic Kernel|monolityczny]],
+1. Jego [[Kernel|kernel]] jest [[Monolithic Kernel|monolityczny]], ale oparte o [[Kernel module|podejście modułowe]] 
 2. Pozwala na dynamiczne ładowanie poszczególnych modułów (kawałków kodu) potrzebnych do danej operacji,
 3. Używa [[Kernel thread|kernel threading]] w znacznie mniejszym stopniu,
 4. W inny sposób zaimplementowane jest [[Linux multithreading|przetwarzanie wielowątkowe]]
