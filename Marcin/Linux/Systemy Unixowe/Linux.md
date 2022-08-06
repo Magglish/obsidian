@@ -13,4 +13,5 @@ Linux to system operacyjny [[Unix]], stworzony przez Linusa Torvaldsa w 1991 rok
 3. Używa [[Kernel thread|kernel threading]] w znacznie mniejszym stopniu,
 4. W inny sposób zaimplementowane jest [[Linux multithreading|przetwarzanie wielowątkowe]]
 5. Jego [[Kernel]] jest [[Preemptive kernel|preemtive]].
-6. Wspiera [[Symmetiricsymetryczne przetwarzanie wieloprocesorowe
+6. Wspiera [[Symmetric multiprocessing|symetryczne przetwarzanie wieloprocesorowe]].
+7. Wspiera wiele różnych systemów plików dzięki 
