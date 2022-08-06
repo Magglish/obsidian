@@ -13,7 +13,8 @@
 	1. Skoncentorwanie uwagi na informacjach które chcesz poznać i zapamiętać
 	2. Zrozumienie podstawowych idei
 	3. Osadzenie informacji w kontekście
+	   Najlepiej najpierw przejrzeć ogólne idee aby zrozumieć kontekst i mniej wiecej wiedzieć o czym będzie mowa, a następnie wchodzić w detale.
 
-![[Top down and bottom up lerning.png|500]]
+![[Top down and bottom up learning.png|500]]
 
-Najlepiej najpierw przejrzeć ogólne idee aby zrozumieć kontekst i mniej wiecej wiedzieć o czym będzie mowa, a następnie wchodzić w detale.
+6. Próba przypomnienia materiału jest znacznie skuteczniejsza niż samo ponowne czytanie materiału. Ponowne czytanie materiału tworzy iluzje kompetencji
