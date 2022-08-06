@@ -1,2 +1,2 @@
 # Link manipulation
-Link manipulation to atak [[Phishing|phishingowy]] polegający na wysłaniu linka do strony, który wygląda bardzo podobnie do oryginalnej strony, z malware lub które łączy do sieci hackera.
+Link manipulation to atak [[Phishing|phishingowy]] polegający na wysłaniu linka do strony, który wygląda bardzo podobnie do oryginalnej strony, z malware lub które łączy do sieci hackera. #review

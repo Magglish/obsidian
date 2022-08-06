@@ -1,2 +1,2 @@
 # Social Engineering
-Social Engineering to atak [[Phishing|[phishingowy]] polegający na sprowokowaniu użytkownika na kliknięciu w zainfekowany link posługująć się technikami socjalnymi, np. wyświetlenie jakiegoś fake newsu.
+Social Engineering to atak [[Phishing|[phishingowy]] polegający na sprowokowaniu użytkownika na kliknięciu w zainfekowany link posługująć się technikami socjalnymi, np. wyświetlenie jakiegoś fake newsu. #review
