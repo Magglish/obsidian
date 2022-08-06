@@ -17,4 +17,5 @@
 
 ![[Top down and bottom up learning.png|500]]
 
-6. Próba przypomnienia materiału jest znacznie skuteczniejsza niż samo ponowne czytanie materiału. Ponowne czytanie materiału tworzy iluzje kompetencji
+6. Próba przypomnienia materiału jest znacznie skuteczniejsza niż samo ponowne czytanie materiału. Ponowne czytanie materiału tworzy iluzje kompetencji, ale może być pomocne gdy pomiędzy kolejnymi czytaniami jest przerwa czasowa. 
+7. O danym problemie można pomyśleć w inn
