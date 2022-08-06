@@ -1,2 +1,2 @@
 # Process
-Process to fundamentalne pojęcie używane w [[Operating system|systemach operacyjnych]] które oznacza 
+Process to fundamentalne pojęcie używane w [[Operating system|systemach operacyjnych]] które oznacza instancję programu w trakcie wykonywania lub kontekst wykonania działającego programu. Process wykonuje zestaw instrukcji w danym [[Adress space|adresie pamięci]].
