@@ -20,6 +20,5 @@
 
 6. Próba aktywnego przypomnienia materiału jest znacznie skuteczniejsza niż samo ponowne czytanie materiału. Ponowne czytanie materiału tworzy iluzje kompetencji, ale może być pomocne gdy pomiędzy kolejnymi czytaniami jest przerwa czasowa. 
 7. O danym problemie można pomyśleć w innym środowisku, pomoże Ci to spojrzeć na to z innej perspektywy. 
-8. Tworzenie nawyku z nauki pozwala oszczędzić energie - jest to normalne, że się uczysz. 
 9. W przypadku zadań, w których czujesz dyskomfort powinieneś skupić się na **procesie** a nie na **produkcie**. (proces - trening, produkt - stanie na rękach)
 10. Przy wielozadaniowości, wielowątkowości możemy utracić to co się nauczyliśmy bo oznaczać to będzie dla organizmu zbyt duży wysiłek. 
