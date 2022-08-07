@@ -1,0 +1,2 @@
+# Kernel reentrant function
+Kernel reentrant function to [[Kernel function|funkcja kernela]], która zaimplementowana jest w taki sposób aby jednocześnie wiele różnych procesów zachodzących w systemie mogło przejść w tryb [[Kernel Mode]]. Osiągalnej est 
