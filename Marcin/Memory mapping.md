@@ -1,2 +1,2 @@
 # Memory mapping
-Memory mapping to technika, w której część pliku może zostać zapisana [[Adress space|w konkretnym adresie pamięci]] i może stanowić alternatywę do opcji *read* i *write*. 
+Memory mapping to technika, w której część pliku może zostać zapisana [[Adress space|w konkretnym adresie pamięci]] i może stanowić alternatywę do opcji *read* i *write*. Jeśli wiele [[Process|processów korzysta z samego pliku, memory mapping jest dodawane do [[adresu pamięci]].
