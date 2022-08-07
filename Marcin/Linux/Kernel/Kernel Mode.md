@@ -1,2 +1,2 @@
 # Kernel mode
-User mode to tryb programu, który nie pozwala na dostęp do wszystkich funkcjonalności [[Kernel|kernela]]. Jest to domyślny tryb w którym każdy program jest uruchamiany.
+Kernel mode to tryb programu, który pozwala na dostęp do wszystkich funkcjonalności [[Kernel|kernela]]. Jest to tryb, na który dany program jest przełączany gdy potrzebuje czegoś z [[Kernel|kernela]], a po zakończeniu operacji wraca do domyślnego [[User mode|user mode]].
