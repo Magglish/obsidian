@@ -5,7 +5,7 @@ Dane przechowywane są w formacie [[POSIX]]:
 1. [[Unix file types|typ pliku]]
 2. Liczba [[Soft link|symbolicznych linków]] odnoszących się do niego
 3. Długośc w bitach
-4. Defice ID
+4. Device ID
 5. Inode number identyfikujący plik w systemie plików
 6. User ID użytkownika
 7. [[user groups|ID user groups]]
