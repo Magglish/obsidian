@@ -1,2 +1,2 @@
 # Unix file
-Pojedynczy plik w systemie [[Unix|unixowym]] to  
+Pojedynczy plik w systemie [[Unix|Unixowym]] to struktura składająca się z sekwencji bitów, jednakże sam [[Kernel|kernel]] nie interpretuje zawartości plików. W tym celu muszą zostać napisane biblioteki operujące na plikach, zawierające w sobie wyższe poziomy abstrakcji, ale i tak te programy muszą opierać się na tym co oferuje [[Kernel|kernel]]. Jest to podstawowa jednostka w [[Unix filesystem|unixowym systemie plików]]. 
