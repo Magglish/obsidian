@@ -1,0 +1,2 @@
+# Kernel control path
+Kernel control path to ścieżka postępowania w kernelach gdy procesy wysyłają [[system calls|system call]] lub gdy w procesach występują jakieś wyjątki (*exceptions*) lub zatrzymania (*interruptions*). Taka ścieżka postępowania jest szczególnie istotna w [[Reentrant kernel|kernelach reentrantnych]].
