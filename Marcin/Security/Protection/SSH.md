@@ -4,4 +4,4 @@ SSH (Secure Shell) to protokół kryptograficzny używany do połączenia się w
 Aplikacje oparte o SSH pozwalają na:
 1. Zdalne łączenie się poprzez loginy
 2. Zdalne wykonywanie komend
-3. I wiele innych czynności zabezpieczające połączenie
+3. I wiele innych czynności zabezpieczające połączenie #review

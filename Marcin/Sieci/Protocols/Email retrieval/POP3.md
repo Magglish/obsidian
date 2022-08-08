@@ -8,4 +8,4 @@ POP3 (Post Office Protocol version 3) to [[Internet email protocol]] która uży
 **W zakresie bezpieczeństwa używamy:**
 1. [[TLS]]
 2. [[STARTTLS]]
-3. [[SSL]]
+3. [[SSL]] #review

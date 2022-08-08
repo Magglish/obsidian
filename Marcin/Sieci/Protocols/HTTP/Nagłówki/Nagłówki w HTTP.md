@@ -22,4 +22,4 @@
 13. `Location` - Zawiera informacje o położeniu zasobu, może być użyty na przykład przy przekierowaniach i tworzeniu nowych zasobów
 14. `Server` - Serwer informuje klienty jakiego oprogramowania używa do obsługi odpowiedzi
 15. `Set-Cookie` - Nagłówek służący do ustawienia ciasteczka
-16. `User-Agent` - Nagłówek dołączany do zapytania informujący o tym jaki klient został użyty do jego wysłania
+16. `User-Agent` - Nagłówek dołączany do zapytania informujący o tym jaki klient został użyty do jego wysłania #review

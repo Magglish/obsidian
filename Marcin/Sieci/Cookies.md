@@ -7,4 +7,4 @@ Cookies (ciasteczka) to mały fragment tekstu, który [serwis internetowy](http
 
 Witryna ustawiająca cookie może dodatkowo określić opcje cookie, m.in. kiedy ono wygaśnie (np. po zamknięciu przeglądarki lub o określonej godzinie, określonego dnia), czy jest dostępne tylko poprzez zabezpieczony protokół ([HTTPS](https://pl.wikipedia.org/wiki/HTTPS "HTTPS")) oraz czy ma być dostępne dla skryptów uruchamianych w przeglądarce
 
-#dokoncz
+#dokoncz #review

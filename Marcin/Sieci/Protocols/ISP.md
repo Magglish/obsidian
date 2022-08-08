@@ -7,4 +7,4 @@ Do głównych zadań ISP należą:
 - hosting,
 - rejestracja nazw domen,
 - dostarczanie usług poczty elektronicznej,
-- utrzymywanie infrastruktury technologicznej.
+- utrzymywanie infrastruktury technologicznej. #review

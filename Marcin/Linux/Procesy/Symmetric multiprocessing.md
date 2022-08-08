@@ -1,2 +1,2 @@
 # Symmetric multiprocessing
-Symmetric [[Multiprocessing|multiprocessing]]
+Symmetric [[Multiprocessing|multiprocessing]] #review

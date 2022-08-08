@@ -6,4 +6,4 @@ Każdy [[Process|proces]] jest opisany przez *process descriptor*, który zawier
 4. [[Floating point register]]
 5. [[Processor control register]]
 6. [[Memory management register]] 
-Kiedy kernel zdecyduje, że chce wznowić proces, korzysta z powyższych rejestrów aby określić odpowiedni etap/moment wznowienia. 
+Kiedy kernel zdecyduje, że chce wznowić proces, korzysta z powyższych rejestrów aby określić odpowiedni etap/moment wznowienia.  #review

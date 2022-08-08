@@ -1,2 +1,2 @@
 # Text protocol
-[[Protocol|Protokół]] zorientowany wokół tekstu. Wymiana danych odbywa się poprzez ciągi tekstowe - on przeznaczony do przekazywania płaskiego strumienia wierszy tekstu (zwykle czytelnych dla człowieka).
+[[Protocol|Protokół]] zorientowany wokół tekstu. Wymiana danych odbywa się poprzez ciągi tekstowe - on przeznaczony do przekazywania płaskiego strumienia wierszy tekstu (zwykle czytelnych dla człowieka). #review

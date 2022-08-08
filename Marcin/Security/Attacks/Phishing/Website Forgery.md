@@ -1,2 +1,2 @@
 # Website Forgery
-Website Forgery to atak [[Phishing|phishingowy]] który zamienia adress bar użytkownika lub całą stronę na addres bar lub stronę hackera. W ten sposób ogłupiamy użytkownika np. wyświetlając inne okienko logowania (przekazujące informacje do hackera) uzyskując w ten sposób login, hasło i inne dane.
+Website Forgery to atak [[Phishing|phishingowy]] który zamienia adress bar użytkownika lub całą stronę na addres bar lub stronę hackera. W ten sposób ogłupiamy użytkownika np. wyświetlając inne okienko logowania (przekazujące informacje do hackera) uzyskując w ten sposób login, hasło i inne dane. #review

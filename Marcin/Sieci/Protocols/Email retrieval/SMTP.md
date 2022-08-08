@@ -3,4 +3,4 @@ SMTP (Simple Mail Transfer Protocol) to [[Internet email protocol]] która używ
 
 **Cechy**
 1. Jest to [[Text protocol|protokół tekstowy]].
-2. Często używany do wysyłki i odbierania emaili pomiędzy serverami.
+2. Często używany do wysyłki i odbierania emaili pomiędzy serverami. #review

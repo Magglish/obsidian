@@ -1,2 +1,2 @@
 # Kernel reentrant function
-Kernel reentrant function to [[Kernel function|funkcja kernela]], która zaimplementowana jest w taki sposób aby jednocześnie wiele różnych procesów zachodzących w systemie mogło przejść w tryb [[Kernel Mode]]. Osiągalne jest to w taki sposób, że takie funkcje modyfikują tylko lokalne zmienne, a nie globalne. 
+Kernel reentrant function to [[Kernel function|funkcja kernela]], która zaimplementowana jest w taki sposób aby jednocześnie wiele różnych procesów zachodzących w systemie mogło przejść w tryb [[Kernel Mode]]. Osiągalne jest to w taki sposób, że takie funkcje modyfikują tylko lokalne zmienne, a nie globalne.  #review

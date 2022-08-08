@@ -15,4 +15,4 @@ Przykład: mapowanie adresu MAC Ethernet do IPv4 adresu.
 **Sender hardware address** - adres hardware nadawcy
 **Sender protocl address** - adres protokołu nadawcy
 **Target hardware address** - adres hardware odbiorcy
-**Target protocl address** - adres protokołu odbiorcy
+**Target protocl address** - adres protokołu odbiorcy #review

@@ -4,4 +4,4 @@ Opisz jeszcze [[Loop-Free Shortest Path Tree]]
 
 [[Shortest path algorithm]]
 
-#dokoncz
+#dokoncz #review

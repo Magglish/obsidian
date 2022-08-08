@@ -7,4 +7,4 @@
 6.  [[OPTIONS]] – informacje o opcjach i wymaganiach istniejących w kanale komunikacyjnym
 7.  [[TRACE]] – diagnostyka, analiza kanału komunikacyjnego
 8.  [[CONNECT]] – żądanie przeznaczone dla serwerów pośredniczących pełniących funkcje tunelowania
-9.  [[PATCH]] – aktualizacja części danych
+9.  [[PATCH]] – aktualizacja części danych #review

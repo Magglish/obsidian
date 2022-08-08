@@ -1,2 +1,2 @@
 # Repeater
-Repeater (extender) to wzmacniacz sygnału [[Wi-Fi]].
+Repeater (extender) to wzmacniacz sygnału [[Wi-Fi]]. #review

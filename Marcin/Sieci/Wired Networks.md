@@ -9,4 +9,4 @@ Wady:
 1. Brak mobilności - ciężko jest wziąc laptopa i iść w inne miejsce
 2. Okablowanie
 3. Utrzymywanie
-4. Instalowanie i konfigurowanie
+4. Instalowanie i konfigurowanie #review

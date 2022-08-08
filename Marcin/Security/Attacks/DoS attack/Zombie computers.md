@@ -1,2 +1,2 @@
 # Zombie computer
-Zombie computer to inaczej komputer, który został "przejęty" lub jest wykorzystywany w atakach przez hakerów. Użytkowniky w takiej sytuacji często nawet nie wiedza, że ich sprzęt jest używany do ataków.
+Zombie computer to inaczej komputer, który został "przejęty" lub jest wykorzystywany w atakach przez hakerów. Użytkowniky w takiej sytuacji często nawet nie wiedza, że ich sprzęt jest używany do ataków. #review

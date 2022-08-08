@@ -1,2 +1,2 @@
 # eBGP
-Protokół [[BGP]] używany do routing pomiędzy systemami.
+Protokół [[BGP]] używany do routing pomiędzy systemami. #review

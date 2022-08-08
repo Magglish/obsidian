@@ -6,4 +6,4 @@
 3. Mikrokernele są łatwiejsze w przenoszeniu pomiędzy systemami ze względu na wyziolowane warstwy oprogramowania.
 4. Mikrokernel lepiej używa pamięć RAM.
 
-Jednak większość tych różnic jest usuwana w Linuxie na skutek zastosowania [[Linux kernel module|podejścia modułowego]].
+Jednak większość tych różnic jest usuwana w Linuxie na skutek zastosowania [[Linux kernel module|podejścia modułowego]]. #review

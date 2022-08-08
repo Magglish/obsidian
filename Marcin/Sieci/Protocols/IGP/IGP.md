@@ -9,4 +9,4 @@ IGP (Interior Gateway Protocol) [[Protocol|protokół]] używany przez [[Gateway
 1. [[OSPF]] (najczęściej używane)
 2. [[RIP]]
 3. [[IS-IS]]
-4. [[EIGRP]]
+4. [[EIGRP]] #review

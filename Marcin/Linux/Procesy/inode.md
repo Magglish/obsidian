@@ -10,4 +10,4 @@ Dane przechowywane są w formacie [[POSIX]]:
 6. User ID użytkownika
 7. [[user groups|ID user groups]]
 8. Zmienne czasowe o utworzeniu, modyfikacji itd.
-9. [[Unix Acces rights and file mode|Prawa dostępu i typ pliku]]
+9. [[Unix Acces rights and file mode|Prawa dostępu i typ pliku]] #review

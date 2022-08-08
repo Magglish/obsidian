@@ -7,3 +7,4 @@ Kilka procesów może wykonywać ten sam program jednocześnie, podczas gdy ten 
 
 
 
+ #review

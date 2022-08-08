@@ -6,4 +6,4 @@ Przykłady:
 ![[Ethernet MTU.png]]
 
 **Wi-FI: 2304 bitów**
-![[WiFi MTU.png]]
+![[WiFi MTU.png]] #review

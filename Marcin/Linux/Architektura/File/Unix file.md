@@ -4,3 +4,4 @@ Pojedynczy plik w systemie [[Unix|Unixowym]] to struktura składająca się z se
 W systemie unixowym jest rozróżnienie pomiędzy zawartością pliku a informacją (metadanymi) o pliku - metadane zawarte są w [[inode]].
 
 De facto wykonywane operacje na plikach to [[Unix file descriptor|sięgnięcie po dane]] zachowane na hardwarze (dysku) stąd też wszelkie operacje wykonywane na plikach są wykonywane w trybie [[Kernel Mode]].
+ #review

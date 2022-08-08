@@ -1,2 +1,2 @@
 # IP Lease Request
-Wiadomość wysyłana w procesie uzyskania parametrów sieci i adresu IP używając [[DHCP]], która akceptuje pierwszą ofertę wysłaną przez [[IP Lease Offer]], która oferowała dzierżawę adresu IP, żądając tego adresu.
+Wiadomość wysyłana w procesie uzyskania parametrów sieci i adresu IP używając [[DHCP]], która akceptuje pierwszą ofertę wysłaną przez [[IP Lease Offer]], która oferowała dzierżawę adresu IP, żądając tego adresu. #review

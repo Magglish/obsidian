@@ -7,3 +7,4 @@ Opiera się o białą i czarną listę stron:
 
 Istotne jest to, że WAF działa w tle. Nie wymaga ingerencji ze strony abonenta usługi, konfiguracji, ani też wiedzy informatycznej. WAF jest funkcjonalnością dodawaną do wszystkich serwerów i hostingów jako standard.
 
+ #review

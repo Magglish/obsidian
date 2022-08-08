@@ -6,4 +6,4 @@
 **Sposoby obrony:**
 1. Rozdzielenie kodu i danych aby zapobieć uruchomieniu paczki danych
 2. Losowość pozycji heap'a
-3. Cykliczne sprawdzanie heap'a
+3. Cykliczne sprawdzanie heap'a #review

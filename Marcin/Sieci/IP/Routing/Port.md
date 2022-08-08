@@ -14,3 +14,4 @@ Numery portów reprezentowane są przez liczby naturalne od $0$ do $(2^{16}-1 = 
 8080 - dodatkowe servery
 
 Numery od $1024$ do $49151$ są zarezerwowane przez [IANA](https://www.iana.org/) a numery od $49152$ do $65535$ jako dynamiczne/prywatne
+ #review

@@ -3,4 +3,4 @@ Unix file descriptor to obiekt który jest tworzony kiedy dany [[Process|proces]
 
 Zawiera w sobie:
 1. Podstawowe informacje o strukturze danych pliku
-2. Wskaźniki do [[Kernel function|funkcji kernelowskich]], które proces może wywołać.
+2. Wskaźniki do [[Kernel function|funkcji kernelowskich]], które proces może wywołać. #review

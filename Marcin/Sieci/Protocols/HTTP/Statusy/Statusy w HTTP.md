@@ -5,3 +5,4 @@
 [[Statusy 4xx]] - statusy z tej grupy informują o błędzie klienta
 [[Statusy 5xx]] - serwer informuje klienta o błędzie po stronie serwera, które uniemożliwiają przetworzenie zapytania
 
+ #review

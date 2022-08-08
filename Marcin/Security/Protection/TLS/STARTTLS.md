@@ -1,2 +1,2 @@
 # STARTTLS
-STARTTLS pozwala na nawiązanie połączenia nieszyfrowanego lub szyfrowanego z użyciem [[TLS]] w zależności od negocjacji klienta z serverem pocztowym - nawiąż komunikację szyfrowaną, chyba że się nie da – wówczas zezwól na nieszyfrowaną.
+STARTTLS pozwala na nawiązanie połączenia nieszyfrowanego lub szyfrowanego z użyciem [[TLS]] w zależności od negocjacji klienta z serverem pocztowym - nawiąż komunikację szyfrowaną, chyba że się nie da – wówczas zezwól na nieszyfrowaną. #review

@@ -7,4 +7,4 @@ Statusy z tej grupy informują o tym, że zapytanie zostało poprawnie przetworz
 3. [[202 Accepted]],
 4. [[204 No Content]].
 
-[Lista wszystkich statusów 2xx](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#:~:text=message.%5B7%5D-,2xx%20success,-This%20class%20of)
+[Lista wszystkich statusów 2xx](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#:~:text=message.%5B7%5D-,2xx%20success,-This%20class%20of) #review

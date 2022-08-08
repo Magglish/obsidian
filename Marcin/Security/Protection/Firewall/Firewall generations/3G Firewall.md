@@ -6,4 +6,4 @@
 4. Zawiera w sobie [[Intrusion Prevention System]]
 5. Monitoruje identyfikacje użytkowników
 6. Monitoring adresu [[MAC]] urządzenia
-7. Używa technologii [[Web Application Firewall]]
+7. Używa technologii [[Web Application Firewall]] #review
