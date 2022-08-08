@@ -13,3 +13,5 @@ Statusy z tej grupy informują o błędzie klienta
 3. [[404 Not Found]]
 
 [Lista wszystkich statusów 4xx](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#:~:text=smoothly.%5B28%5D-,4xx%20client%20errors,-404%20error%20on)
+
+#review

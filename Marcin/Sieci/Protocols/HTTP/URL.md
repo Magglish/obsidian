@@ -15,3 +15,4 @@ scheme:[//[user[:password]@]host[:port]][/path][?query][#fragment]
 - **path** - ścieżka określająca zasób
 - **query** - dodatkowe dane identyfikujące zasób np. `parametr=wartosc&format=json`
 - **fragment** - określenie fragmentu strony url, np. nagłówek/rozdział w tekście
+#review
