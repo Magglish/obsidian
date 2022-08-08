@@ -11,4 +11,3 @@ Np. telefon może mieć kilka interfaces w sobie, a każdy z nich wymaga oddziel
 
 Obecne adresy IP to [[IPv4]] oraz nowszy [[IPv6]]. 
 
- #review

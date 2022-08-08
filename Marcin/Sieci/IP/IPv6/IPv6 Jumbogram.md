@@ -3,4 +3,4 @@
 
 Aby móc przesłać dane za pomocą protokołu Jumbogram, należy dodać do [[IPv6 Packet Header]] *jumbo payload option*.
 
-Aby skorzystać z IPv6 Jumbogram, sieci muszą wspierać ten prokół, a to często wymaga zmiany w warstwach *[[TCP IP Transport Layer|transport layer]]*. #review
+Aby skorzystać z IPv6 Jumbogram, sieci muszą wspierać ten prokół, a to często wymaga zmiany w warstwach *[[TCP IP Transport Layer|transport layer]]*.

@@ -1,2 +1,2 @@
 # iBGP
-Protokół [[BGP]] używany do routingu wewnątrz systemu. #review
+Protokół [[BGP]] używany do routingu wewnątrz systemu.

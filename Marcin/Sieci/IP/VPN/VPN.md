@@ -11,4 +11,4 @@ VPN (Virtual Private Network) służy do zabezpieczania połączenia za pośredn
 2. Następnie serwer stosuje [[Cryptographic Protocol|protokół szyfrowania]] w odniesieniu do wszystkich wysyłanych i otrzymywanych danych.
 3. Usługa VPN tworzy [[VPN Tunnel|zaszyfrowany internetowy tunel]]. Zabezpiecza on dane przesyłane między Tobą a miejscem docelowym.
 4. Aby zapewnić bezpieczeństwo każdego pakietu danych, VPN umieszcza go w zewnętrznym pakiecie, który jest następnie szyfrowany poprzez [[Encapsulating Security Payload|enkapsulację]]. Dzięki takiemu rozwiązaniu tunel VPN pozwala na zachowanie maksymalnej ochrony danych, a Twoje dane pozostają bezpieczne podczas przesyłania.
-5. Gdy dane docierają do serwera, pakiet zewnętrzny jest usuwany w procesie deszyfrowania. #review
+5. Gdy dane docierają do serwera, pakiet zewnętrzny jest usuwany w procesie deszyfrowania.

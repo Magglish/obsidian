@@ -1,3 +1,3 @@
 # Host-based firewall
 Host-based [[Firewall|firewall]]:
-1. Używany w systemach operacyjnych #review
+1. Używany w systemach operacyjnych

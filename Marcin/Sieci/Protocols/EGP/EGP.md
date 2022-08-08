@@ -1,2 +1,2 @@
 # EGP
-EGP (Exterior Gateway Protocol) [[Protocol|protokół]] używany przez [[Gateway|bramki]] do wymiany informacji pomiędzy autonomicznymi systemami, przykład: pomiędzy różnymi sieciami korporacyjna, sieciami danego budynku. #review
+EGP (Exterior Gateway Protocol) [[Protocol|protokół]] używany przez [[Gateway|bramki]] do wymiany informacji pomiędzy autonomicznymi systemami, przykład: pomiędzy różnymi sieciami korporacyjna, sieciami danego budynku.

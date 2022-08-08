@@ -9,4 +9,4 @@ IMAP (Internet Message Access Protocol) to [[Internet email protocol]] która u�
 **W zakresie bezpieczeństwa używamy:**
 1. [[TLS]]
 2. [[STARTTLS]]
-3. [[SSL]] #review
+3. [[SSL]]

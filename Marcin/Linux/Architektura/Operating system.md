@@ -9,4 +9,4 @@ Operating system (system operacyjny) to innymi słowy podstawowy zestaw program�
 
 Są dwa główne cele systemu operacyjnego:
 1. Interakcja z fizycznymi komponentami systemu komputerowego,
-2. Zapewnienie środowiska uruchomieniowego dla aplikacji uruchamianych przez uzytkownika. #review
+2. Zapewnienie środowiska uruchomieniowego dla aplikacji uruchamianych przez uzytkownika.

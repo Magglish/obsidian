@@ -1,2 +1,2 @@
 # Kernel nonreentrant function
-Kernel nonreentrant function to [[Kernel function|funkcja kernela]], która zaimplementowana jest w taki sposób aby tylko jeden proces w danym momencie mógł przejść w tryb [[Kernel Mode]]. #review
+Kernel nonreentrant function to [[Kernel function|funkcja kernela]], która zaimplementowana jest w taki sposób aby tylko jeden proces w danym momencie mógł przejść w tryb [[Kernel Mode]].

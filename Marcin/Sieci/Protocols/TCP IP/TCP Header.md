@@ -19,4 +19,4 @@ Często używamy port:
 **Options + Padding** - przechowywane są dodatkowe opcje ustawione przez źródło odnośnie wysyłki paczki. 
 **Reserved** - zachowane dla przyszłego użytku
 **PSH Flag** - PSH = 1 pcha dane do aplikacji do której chcemy wysłać dane. Pozwala aby dane mogły zostać szybko użyte przez aplikacje.
-**URG Flag** - określa czy Urgent Pointer jest używany (jest na obrazku), który wskazuje ile ważnych/pilnych danych wchodzi #review
+**URG Flag** - określa czy Urgent Pointer jest używany (jest na obrazku), który wskazuje ile ważnych/pilnych danych wchodzi

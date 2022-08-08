@@ -14,4 +14,4 @@ Czym są pilne dane w Urgent Pointer w TCP?
 
 W IPv6 kest Flow Label - specjalny serwis dla aplikacji, które przekazują dane w czasie rzeczywistym. Jednakże obecnie jest to inaczej wykorzystywane - jako informacja dla routerów i switchy, że zmiany w routing nie powinny zostać zaaplikowane ponieważ te pakiety nie będą sortowane u dostarczyciela. Dlaczego zastosowanie zostało zmienione?
 
-[[Wi-Fi Protected Access]] jest zastąpione przez [[Wired Equivalent Privacy]], jednakże podobno [[Temporal Key Integrity Protocol]] jest do złamania. To prawda? #review
+[[Wi-Fi Protected Access]] jest zastąpione przez [[Wired Equivalent Privacy]], jednakże podobno [[Temporal Key Integrity Protocol]] jest do złamania. To prawda?

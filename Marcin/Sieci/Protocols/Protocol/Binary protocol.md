@@ -1,2 +1,2 @@
 # Binary protocol
-[[Protocol|Protokół]] zorientowany wokół struktur danych. Wymiana danych odbywa się poprzez zamianę danych na bity i przesył ich często w formacie ustrukturyzowanej struktury danych lub w formacie plików. #review
+[[Protocol|Protokół]] zorientowany wokół struktur danych. Wymiana danych odbywa się poprzez zamianę danych na bity i przesył ich często w formacie ustrukturyzowanej struktury danych lub w formacie plików.

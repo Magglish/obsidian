@@ -26,4 +26,3 @@ Uwzględnia:
 3. BR (Backbone Router) - router łączący do głównej sieci (backbone network)
 4. ASBR (Autonomous System Boundary Router) - routing łączący różne autonomiczne systemy używając róznich routing protocols.
 
- #review

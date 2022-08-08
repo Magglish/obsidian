@@ -1,2 +1,2 @@
 # 2048 bit encryption
-2048 bit encryption #review
+2048 bit encryption

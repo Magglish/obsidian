@@ -10,4 +10,4 @@ Tworzy hard link `p2` odnoszący się do pliku o ścieżce `p1`. Każda operacja
 
 **Wady:**
 1. Nie możliwe jest stworzenie hard linków bezpośrednio do folderów, bo stworzy się w ten sposób cykliczny graf i nie mozliwe będzie zidenyfikować folder.
-2. Hard linki można tworzyć w obrębie tylko tego samego rodzaju systemu plików, a że w systemach Unixowych rodzajów systemów plików może być więcej, to jest to spora wada. #review
+2. Hard linki można tworzyć w obrębie tylko tego samego rodzaju systemu plików, a że w systemach Unixowych rodzajów systemów plików może być więcej, to jest to spora wada.

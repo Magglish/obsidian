@@ -4,4 +4,4 @@
 **Sposób obrony:**
 1. Losowość układu pamięci
 2. Celowe pozostawienie przestrzeni pomiędzy buforami
-3. Monitorowanie sytuacji w których następuje przekroczenie granicy bufora i nadpisanie sąsiedznich lokalizacji pamięci. #review
+3. Monitorowanie sytuacji w których następuje przekroczenie granicy bufora i nadpisanie sąsiedznich lokalizacji pamięci.

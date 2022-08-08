@@ -18,4 +18,3 @@ Fragment Offset mówi o tym gdzie dana paczka danych znajduje się w całej pacz
 **Options + Padding** - przechowywane są dodatkowe opcje ustawione przez źródło odnośnie wysyłki paczki. 
 
 
- #review

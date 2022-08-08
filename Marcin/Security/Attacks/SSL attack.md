@@ -1,2 +1,2 @@
 # SSL attack
-Atak na [[SSL]] polega na wykradnięciu danych o użytkowniku (hasła, [[Cookies|ciasteczka]], [[Authentication Header|tokenów autoryzujących]] i innych), zanim zostaną one zaszyfrowane w polączeniu SSL. #review
+Atak na [[SSL]] polega na wykradnięciu danych o użytkowniku (hasła, [[Cookies|ciasteczka]], [[Authentication Header|tokenów autoryzujących]] i innych), zanim zostaną one zaszyfrowane w polączeniu SSL.

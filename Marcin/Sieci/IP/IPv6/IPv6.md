@@ -30,4 +30,3 @@ $$0000:0000:0000:0000:0000:0000:0000:0000$$
 2. $::/0$ default route (czyli pokrywa wszystkie adresy)
 
 *(jest to odpowiednik adresu IPv4 $0.0.0.0/0$)*
- #review

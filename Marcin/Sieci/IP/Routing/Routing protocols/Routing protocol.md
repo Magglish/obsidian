@@ -11,4 +11,4 @@ Routing protocols:
 1. [[Link-state routing protocol]]
 2. [[Distance-vector routing protocol]]
 3. [[Path-vector routing protocol]]
-4. [[Hybrid routing protocol]] (połączenie link-state i distance-vector) #review
+4. [[Hybrid routing protocol]] (połączenie link-state i distance-vector)

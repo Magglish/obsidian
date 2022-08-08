@@ -6,4 +6,4 @@
 4. [[Block-oriented device file]]
 5. [[Character-oriented device file]]
 6. [[Pipe]]
-7. [[Socket file]] #review
+7. [[Socket file]]

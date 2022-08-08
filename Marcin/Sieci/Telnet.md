@@ -4,4 +4,3 @@ Telnet to protokół komunikacyjny pozwalający na obsługe terminala na innym s
 Sposób korzystania:
 
 ``telnet <<adres_ip>>``
- #review

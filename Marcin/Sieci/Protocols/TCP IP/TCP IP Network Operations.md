@@ -21,4 +21,4 @@ Po 6 krokach wygląda to tak:
 9. Następnie zczytywany jest nagłówek IP wraz z funkcjami kontrolnymi, które są sprawdzane (np. [[IPv4 ECN]])
 10. Następnie zczytywany jest nagłówek TCP/IP, który kontroluje wielkość okienka decydując o rozmiarze transferu danych. W tym kroku zczytywany jest również adres portu aby połączyć się z Appką na H5.
 11. Następnie zacztywana jest paczka i podzielone elementy pliku są łączone w całość.
-12. Plik przekazywany jest do apki na H5. #review
+12. Plik przekazywany jest do apki na H5.
