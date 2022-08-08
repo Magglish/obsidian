@@ -10,6 +10,6 @@ Process (proces) to fundamentalne pojęcie używane w [[Operating system|systema
 **Różnica pomiędzy procesem a programem:**
 Kilka procesów może wykonywać ten sam program jednocześnie, podczas gdy ten sam proces może wykonywać kilka programów sekwencyjnie.
 
-
+#review
 
 
