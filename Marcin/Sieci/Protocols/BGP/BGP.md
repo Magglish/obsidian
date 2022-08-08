@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-09
+sr-interval: 1
+sr-ease: 232
+---
+
 # BGP
 BGP (Border Gateway Protocol). Jest to [[Protocol|protokół]] obecnie używany obecnie przez internet (używamy wersji BGP4). Jego odmiany to [[eBGP]] używany do routing pomiędzy systemami oraz [[iBGP]] używany do routingu wewnątrz systemu. Wykorzystuje protokół [[Path-vector routing protocol]] do określenia routerów w sieci.
 
