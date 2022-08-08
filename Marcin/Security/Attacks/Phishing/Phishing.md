@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-12
+sr-interval: 4
+sr-ease: 270
+---
+
 # Phishing
 Atak phishinowy polega na:
 1. Oryginalna aplikacja/plik jest "zastępowana" przez [[Malware|malware]].

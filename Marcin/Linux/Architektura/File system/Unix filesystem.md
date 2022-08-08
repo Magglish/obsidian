@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-12
+sr-interval: 4
+sr-ease: 270
+---
+
 # Unix filesystem
 ![[Unix filesystem.png]]
 
