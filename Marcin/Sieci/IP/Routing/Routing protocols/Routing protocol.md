@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-12
+sr-interval: 4
+sr-ease: 272
+---
+
 # Routing protocol
 Routing [[Protocol|protocol]] to mechanizm który określa jak [[IP routing table|routery]] mogą się ze sobą komunikować.
 
