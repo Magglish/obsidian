@@ -7,3 +7,4 @@ Warstwy w modelach OSI i TCP to abstrakcyjne pojęcia (można je uprościć jako
 W modelach warstwowych istotne jest to:
 1. że warstwa X widzi to co jest pod nią, ale nie tego co nad nią,
 2. warstwy liczymy od dołu.
+#review
