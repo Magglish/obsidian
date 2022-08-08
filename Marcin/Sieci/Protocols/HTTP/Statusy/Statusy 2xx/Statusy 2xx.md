@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-11
+sr-interval: 3
+sr-ease: 250
+---
+
 # [[Statusy w HTTP|Statusy]] 2xx w HTTP
 Statusy z tej grupy informują o tym, że zapytanie zostało poprawnie przetworzone. W zależności od kodu odpowiedzi wynik tego przetwarzania może być różny.
 
