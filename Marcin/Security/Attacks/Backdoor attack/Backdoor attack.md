@@ -3,3 +3,4 @@ Ataki backdoor polegają na pozostawieniu w komponentach systemu/aplikacji sposo
 
 **Sposoby obrony:**
 1. Częste aktualizacje zabezpieczeń.
+#review

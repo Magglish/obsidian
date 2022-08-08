@@ -6,3 +6,4 @@ Ataki na [[DNS]] polegają na:
 **Sposób obrony:**
 1. Używanie randomowych portów
 2. Częste aktualizacje zabezpieczeń
+#review

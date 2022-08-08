@@ -8,3 +8,5 @@ Brute force attack skupia się na:
 2. Nie używanie prostych haseł, które potencjalnie ktoś inny równiez może wykorzysytwać i temu komuś hasło zostanie złamane i umieszczone w jakichś zewnętrznych bazach.
 
 Brute force attack można inaczej określić jako [[Dictionary attacks]].
+
+#review
