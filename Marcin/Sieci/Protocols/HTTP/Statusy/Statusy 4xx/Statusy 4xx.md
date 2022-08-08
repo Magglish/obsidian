@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-11
+sr-interval: 3
+sr-ease: 266
+---
+
 # [[Statusy w HTTP|Statusy]] 4xx w HTTP
 Statusy z tej grupy informują o błędzie klienta
 
