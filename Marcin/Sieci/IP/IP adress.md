@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-11
+sr-interval: 3
+sr-ease: 250
+---
+
 # IP adress
 Adres IP który jednoznacznie określa komponent w sieci. Poprzez komponent możemy rozumieć konkretne urządzenie (telefon, laptop) lub *interface*. 
 
