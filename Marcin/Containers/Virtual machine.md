@@ -9,3 +9,4 @@ Hypervisor type 2 - działa na systemie operacyjnym hosta, który dostarcza opro
 
 **Dodatkowe powiązania:**
 [[Nested virtualization]], [[LXC]]
+#review

@@ -1,5 +1,5 @@
 # Orchestration
-
+#dokoncz
 
 **Software do zarządzania kontenerami:**
 1. [[Kubernetes]]
