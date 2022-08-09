@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-10
+sr-interval: 1
+sr-ease: 225
+---
+
 # Port
 Port to numer używany do identyfikacji procesów działających w systemie. Port jest jednym z elementów [[Socket|gniazda (socketa)]].
 
