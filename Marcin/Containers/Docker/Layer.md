@@ -9,3 +9,4 @@
 Poniższy rysunek przedstawia pobranie obrazu z docker-hub, który ma w sobie 4 warstwy:
 
 ![[Docker layers in CLI.png]]
+#review

@@ -6,3 +6,4 @@ W tym celu używane są [[Container|kontenery]] oraz [[Container orchestration|n
 
 Przeciwieństwem do mikroserwisu jest monolith.
 
+#review

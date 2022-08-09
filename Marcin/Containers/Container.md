@@ -46,3 +46,4 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 2013 - [[LMCTFY]]
 2013/2016 - [[Docker]]
 2014/2015 - [[Kubernetes]]
+#review

@@ -11,3 +11,4 @@ Cechy docker swarma:
 7. Można przekierować porty do [[Load Balancing|load balancera]] lub wewnatrz docker swarma skonfigurować jak powinien dystrybuować pracę między kontenerami. 
 8. Jest bezpieczny - operuje na [[TLS]] i [[Encryption|enkrypcji]]
 9. Pozwala na [[Rolling updates|rolling updates]] 
+#review

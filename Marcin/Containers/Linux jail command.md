@@ -1,0 +1,2 @@
+# Linux jail command
+#dokoncz

@@ -3,3 +3,4 @@ LXC (Linux Containers) pozwala na tworzenie izolowonaych kontenerów oraz zarzą
 
 **Dodatkowe powiązania:**
 [[Virtual machine]], [[Container]]
+#review
