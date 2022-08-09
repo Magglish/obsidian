@@ -1,1 +1,2 @@
 # Semaphore
+Semaphore wykorzysytwane jest zarówno w systemach uniprocesowych jak i [[Multiprocessing|multiprocesowych]] i jest po prostu zwykłym counterem, który jest sprawdzany za każdym razem kiedy [[Kernel thread|kernel thread]] chce uzyskać dostęp do struktur danych. Opiera się o metod
