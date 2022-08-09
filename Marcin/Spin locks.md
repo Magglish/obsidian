@@ -1,0 +1,2 @@
+# Spin locks
+Spin locks to technika wykorzystywana w systemach [[Multiprocessing|multiprocessing]], aby ułatwić synchronizację pomiędzy [[Kernel control path|procesami]]. Działanie jest bardzo podobne do [[Sema]]
