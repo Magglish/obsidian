@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-13
+sr-interval: 4
+sr-ease: 275
+---
+
 # Soft link
 Do [[Unix file|pliku]] w [[Unix filesystem|systemie unixowym]] możemy stworzyć *soft link* (lub inaczej *symbolic link*). Soft links mogą przyjąć dowolną nazwę. Pojedynczy plik może mieć więcej niż 1 soft link do niego się odnoszący.
 
