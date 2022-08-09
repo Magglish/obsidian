@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-10
+sr-interval: 1
+sr-ease: 234
+---
+
 # Process descriptor
 Każdy [[Process|proces]] jest opisany przez *process descriptor*, który zawiera w sobie wszystkie informacje o procesie. Po zakończeniu procesu, zapisywane są w nim informacje o:
 1. [[Program counter register]] 
