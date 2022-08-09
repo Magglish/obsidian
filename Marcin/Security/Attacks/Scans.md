@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-13
+sr-interval: 4
+sr-ease: 270
+---
+
 # Scans
 Atak ten polega na:
 1. Skanowaniu komputera użytkownika w poszukiwaniu otwartych portów, które pozwoliłyby na włamanie się do systemu,
