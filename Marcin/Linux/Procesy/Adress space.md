@@ -8,4 +8,4 @@ sr-ease: 274
 ?
 Adress space to inaczej zestaw adresów pamięci do których [[Process|dane zadanie/proces]]/program/użytkownik może się odwoływać - mogą to być dane, kod czy [[Stack|stack]].
 #review
-<!--SR:!2022-08-12,3,274-->
+<!--SR:!2022-08-10,1,254-->
