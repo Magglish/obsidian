@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-10
+sr-interval: 1
+sr-ease: 232
+---
+
 # OSI Daya Link Layer
 ![[Warstwy OSI.png|200]]
 

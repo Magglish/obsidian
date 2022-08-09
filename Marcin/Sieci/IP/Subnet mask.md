@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-12
+sr-interval: 3
+sr-ease: 251
+---
+
 # Subnet mask
 1. Internet podzielony jest na subnets, a kolejne subnety podzielone na jeszcze mniejsze subnety. 
 2. Subnet mask zależy od wielkości subnetu, do której jest połączony klient (np. PC, telefon).

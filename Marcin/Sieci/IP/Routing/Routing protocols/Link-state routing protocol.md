@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-12
+sr-interval: 3
+sr-ease: 255
+---
+
 # Link-state routing protocol
 Cechy link-state [[Routing protocol|routing protocol]]:
 1. zakłada, że każdy router w sieci posiada informacje o całej topologii sieci. 
