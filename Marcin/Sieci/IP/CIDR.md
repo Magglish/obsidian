@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-13
+sr-interval: 4
+sr-ease: 270
+---
+
 # CIDR
 CIDR (Classles Inter-Domain Routing) to sposób zapisu [[IP adress|IP]] wraz z wielkością [[Subnet mask|subnetu]] (nazywa się to VLSM - Variable-Length Subnet Masking). Przykład:
 
