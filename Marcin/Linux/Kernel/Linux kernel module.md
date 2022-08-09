@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-13
+sr-interval: 4
+sr-ease: 274
+---
+
 # Linux kernel module
 Linux kernel module to podejście zaczerpnięte z systemów [[Microkernel|mikrokernelowych]]. Jest to zestaw funkcji i instrukcji które mogą być podpięte pod lub odpięte od [[Kernel|kernela]] w czasie wykonywania operacji. 
 
