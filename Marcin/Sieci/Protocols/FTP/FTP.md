@@ -1,5 +1,11 @@
+---
+sr-due: 2022-08-10
+sr-interval: 1
+sr-ease: 233
+---
+
 # FTP
-FTP (File Transfer Protocol) [[Protocol|protokół]] używany do transferu plików z servera do klienta. 
+FTP (File Transfer Protocol) [[Protocol|protokół]] używany do transferu plików z servera do klienta. Słucha na porcie 20.
 
 **Cechy:**
 1. FTP używa [[TCP IP]] do transferu danych.
