@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-13
+sr-interval: 4
+sr-ease: 272
+---
+
 # Hub
 Używany do połączenia komputerów w sieć [[LAN]], działa [[OSI Data Link Layer|na warstwie drugiej w modelu OSI]]. 
 
