@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-09
+sr-due: 2022-08-10
 sr-interval: 1
-sr-ease: 231
+sr-ease: 211
 ---
 
 # Unix
