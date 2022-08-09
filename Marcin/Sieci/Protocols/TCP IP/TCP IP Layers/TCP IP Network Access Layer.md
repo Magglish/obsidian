@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-10
+sr-interval: 1
+sr-ease: 230
+---
+
 # TCP IP Network Access Layer
 
 ![[Warstwy TCP IP.png]]

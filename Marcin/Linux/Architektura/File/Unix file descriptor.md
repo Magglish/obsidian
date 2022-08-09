@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-12
+sr-interval: 3
+sr-ease: 255
+---
+
 # Unix file descriptor
 Unix file descriptor to obiekt który jest tworzony kiedy dany [[Process|proces]] chce sięgnąć do danych w [[Unix file|pliku]]. Reprezentuje on interakcje pomiędzy [[Process|procesem]] a otwartym plikiem. 
 
