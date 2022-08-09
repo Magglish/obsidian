@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-12
+sr-interval: 3
+sr-ease: 250
+---
+
 # OSI Presentation Layer
 ![[Warstwy OSI.png|200]]
 
