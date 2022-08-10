@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-10
+sr-due: 2022-08-11
 sr-interval: 1
-sr-ease: 228
+sr-ease: 208
 ---
 
 # URI
