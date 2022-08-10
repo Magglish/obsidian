@@ -1,2 +1,2 @@
 # Unix process management
-Unix [[Process|process]] management rozróżnica proces od programu, który dany proces uruchamia. W systemach unixowych procesy są non stop tworzone z nowymi [[Adress space|adresami pamięci]] i zabijane.
+Unix [[Process|process]] management rozróżnica proces od programu, który dany proces uruchamia. W systemach unixowych procesy są non stop tworzone z nowymi [[Adress space|adresami pamięci]] i zabijane. W tym podejściu rozróżniamy pojęcie rodzica (*parent*) i dziecka (*child*). Rodzic tworzy non stop nowe procesy i je ubija, a dziecko to jest utworzony proces w jakimś celu. 
