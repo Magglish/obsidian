@@ -15,10 +15,11 @@ Maksymalna długość nazwy 255 znaków.
 2. Ściezki w systemie unixowym mogą być albo [[absolute path|absolutne]] albo [[relative path|relatywne]].
 3. Do plików w systemie unixowym możemy odwoływać się poprzez [[Hard link|hard linki]] lub [[Soft link|soft linki (symbolic links)]]. 
 
-**Znaczenie poszczególnych folderów:**
+**Znaczenie najważniejszych folderów:**
 1. `dev` - 
-2. `home` - 
-3. `etc` - 
+2. `bin` - pliki binarne zawierające w sobie 
+3. `home` - 
+4. `etc` - 
 #dokoncz
 
 #review
