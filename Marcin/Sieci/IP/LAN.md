@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-12
-sr-interval: 4
-sr-ease: 270
+sr-due: 2022-09-09
+sr-interval: 25
+sr-ease: 290
 ---
 
 # LAN
