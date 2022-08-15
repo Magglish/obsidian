@@ -18,8 +18,9 @@ Maksymalna długość nazwy 255 znaków.
 **Znaczenie najważniejszych folderów:**
 1. `dev` - 
 2. `bin` - pliki binarne zawierające w sobie podstawowe usługi jak np. `ls`, `cp`, `bash`
-3. `home` - 
-4. `etc` - 
-#dokoncz
+3. `boot` - pliki do prawidłowego uruchomienia systemu
+4. `home` - pliki użytkowników
+5. `etc` - systemowe pliki konfiguracyjne i systemowe bazydanych
+6. `var` - miejsce z plikami ktore moga zmieniac sie szybko 
 
 #review
