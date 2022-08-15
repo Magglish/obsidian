@@ -17,7 +17,7 @@ Maksymalna długość nazwy 255 znaków.
 
 **Znaczenie najważniejszych folderów:**
 1. `dev` - 
-2. `bin` - pliki binarne zawierające w sobie 
+2. `bin` - pliki binarne zawierające w sobie podstawowe usługi jak np. `ls`, `cp`, `bash`
 3. `home` - 
 4. `etc` - 
 #dokoncz
