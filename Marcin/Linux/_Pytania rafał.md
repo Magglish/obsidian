@@ -3,3 +3,6 @@ Kiedy jest używany de facto user mode? Z definicji, kernel mode jest potrzebny 
 
 2. [[Multithreading]] a [[Multiprocessing]].
 Nie łapie jeszcze różnicy pomiędzy tymi pojęciami. My w ML używamy pojęcia multiprocessing. 
+
+3. Pytanie o [[One-to-Many NAT]]
+Jak wiemy do której osoby wysłać plik, skoro pod jednym adresem IP jest wiele osób. Jak to jest rozwiązywane?
