@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-11
-sr-interval: 2
-sr-ease: 248
+sr-due: 2022-09-05
+sr-interval: 21
+sr-ease: 268
 ---
 
 # Nagłówki w HTTP
