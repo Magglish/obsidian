@@ -1,2 +1,2 @@
 # Demand paging
-Demand paging to [[Unix memory management|sposób alokowania]] [[Address space|wirtualnej pamięci]] w systemach Unixowych. Dzięki temu podejściu [[Process|proces]] może rozpocząć działanie bez żadnej [[Memory page frame]]zalokowanej strony w pamięci podręcznej.
+Demand paging to [[Unix memory management|sposób alokowania]] [[Address space|wirtualnej pamięci]] w systemach Unixowych. Dzięki temu podejściu [[Process|proces]] może rozpocząć działanie bez żadnej [[Memory page frame|zalokowanej strony]] w pamięci fizycznej. Jeżeli taki proces startuje, to [[Memory Management Unit|MMU]] generuje wyjątek i poprzez jego obsługę generowana jest [[Memory page frame|strona pamięci]] dla tego procesu.
