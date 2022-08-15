@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 175
+---
+
 # Microservice
 
 Mikroserwis to taki typ architektury, który w swoich założeniach dzieli daną aplikacje na znacznie mniejsze, niezależne od siebie komponenty/serwisy. Dzięki temu każdy z elementów może być budowany, zmodyfikowany i skalowany indywidualnie bez wpływa na inne mikroserwisy.
