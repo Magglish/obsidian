@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-12
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-09-01
+sr-interval: 17
+sr-ease: 250
 ---
 
 # OSI Network Layer

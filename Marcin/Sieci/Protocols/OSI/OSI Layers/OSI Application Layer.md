@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-12
-sr-interval: 3
-sr-ease: 250
+sr-due: 2022-09-02
+sr-interval: 18
+sr-ease: 270
 ---
 
 # OSI Application Layer
