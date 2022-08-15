@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-12
-sr-interval: 4
-sr-ease: 270
+sr-due: 2022-09-12
+sr-interval: 28
+sr-ease: 290
 ---
 
 # IPv4
