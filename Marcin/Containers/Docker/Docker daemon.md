@@ -1,3 +1,2 @@
 # Docker daemon
-#review 
 #dokoncz

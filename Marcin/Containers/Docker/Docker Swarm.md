@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 181
+---
+
 # Docker Swarm
 Docker Swarm jest jednym z narzedzi do [[Orchestration|orchestracji]]. Pozwala na stworzenie klastra z kilku komputerów/serwerów. 
 
