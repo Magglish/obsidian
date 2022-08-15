@@ -1,5 +1,5 @@
 # cgroups
-*cgroup* (lub *control groups*) pozwalają na ograniczenie oraz wyizolowanie używanych zasobów przez zachodzące procesy w systemie. cgroups są mylnie określane jako 7 warstwa w [[Namespaces|przestrzeni nazw w Linuxie]]. 
+*cgroup* (lub *control groups*) pozwalają na ograniczenie oraz wyizolowanie używanych zasobów przez zachodzące procesy w systemie. cgroups są mylnie określane jako 7 warstwa w [[Linux namespaces|przestrzeni nazw]] w [[Linux|Linuxie]]. 
 
 1. blkio - pozwala na ograniczenie procesów I/O,
 2. cpu - pozwala na ograniczenie zużycia CPU,

@@ -5,6 +5,6 @@ sr-ease: 178
 ---
 
 # LXC
-LXC (Linux Containers) pozwala na tworzenie izolowonaych kontenerów oraz zarządzanie nimi (połączenie [[Chroot]], [[cgroups]], [[Namespaces]], [[SELinux]]/[[AppArmor]]).  
+LXC (Linux Containers) pozwala na tworzenie izolowonaych kontenerów oraz zarządzanie nimi (połączenie [[Chroot]], [[cgroups]], [[Linux namespaces]], [[SELinux]]/[[AppArmor]]).  
 
 #review
