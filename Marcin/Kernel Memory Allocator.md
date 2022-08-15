@@ -1,0 +1,2 @@
+# Kernel Memory Allocator
+Kernel Memor Allocator to podsystem, który stara się spełniać wymagania/requesty do [[Address space|przestrzeni pamięci]] splywające ze wszystkich części systemu - mogą to być rządania od .
