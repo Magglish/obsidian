@@ -1,2 +1,2 @@
 # Multithreading
-Oparty o [[LWP]]
+Oparty o [[LWP|Lightweight Process]]
