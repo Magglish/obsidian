@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 180
+---
+
 # Container
 
 Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, która pozwala na uruchomienie i zdeployowanie oprogramowania na różnych systemach.
@@ -13,8 +19,6 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 1. Mniej elastyczne niż VMki (nie odpalisz kontenera linuxowego na windowsie).
 2. Trudniejsze w [[Container orchestration|zarządzaniu]].
 
-
-
 **Use cases:**
 1. przenośność oprogramowania
 2. izolacja
@@ -27,6 +31,5 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 1. [[Docker|Docker]]
 2. [[Rocket (rkt)|rkt]]
 3. [[containerd|containerd]]
-
 
 #review

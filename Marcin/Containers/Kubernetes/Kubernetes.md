@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 178
+---
+
 # Kubernetes
 
 Kubernetes to [[Orchestration|jedne z narzędzi do orchestracji]] (zarządzania) kontenerami.
