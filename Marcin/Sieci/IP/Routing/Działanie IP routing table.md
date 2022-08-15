@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-13
-sr-interval: 3
-sr-ease: 250
+sr-due: 2022-08-31
+sr-interval: 16
+sr-ease: 270
 ---
 
 # Działanie IP routing table

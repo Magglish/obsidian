@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-13
-sr-interval: 3
-sr-ease: 250
+sr-due: 2022-09-01
+sr-interval: 17
+sr-ease: 270
 ---
 
 # OSI
