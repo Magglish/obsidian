@@ -8,3 +8,5 @@ Zalety:
 4. Procesowi można nadać dostęp tylko do pewnego wycinka dostępnej pamięci fizycznej,
 5. Programy mogą być umieszczone w dowolnym miejscu w pamięci fizycznej,
 6. Dzięki temu programiści mogą pisać kod niezależnie od hardwareu i nie przejmować się zarządzaniem pamięcią fizyczną.
+
+#review
