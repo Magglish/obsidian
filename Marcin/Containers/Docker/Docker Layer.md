@@ -1,4 +1,10 @@
-# Layer
+---
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 180
+---
+
+# Docker Layer
 ![[Docker layers.png]]
 
 [[Docker image|Obraz dockerowy]] może składać się z kilku warstw - na powyższym obrazku mamy:
