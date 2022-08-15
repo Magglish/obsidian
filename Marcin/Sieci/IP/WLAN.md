@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-13
-sr-interval: 3
-sr-ease: 252
+sr-due: 2022-09-02
+sr-interval: 18
+sr-ease: 272
 ---
 
 # WLAN
