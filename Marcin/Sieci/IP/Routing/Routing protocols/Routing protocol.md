@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-12
-sr-interval: 4
-sr-ease: 272
+sr-due: 2022-09-15
+sr-interval: 31
+sr-ease: 292
 ---
 
 # Routing protocol
