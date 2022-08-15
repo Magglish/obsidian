@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-13
-sr-interval: 4
-sr-ease: 272
+sr-due: 2022-09-08
+sr-interval: 24
+sr-ease: 292
 ---
 
 # Hostname

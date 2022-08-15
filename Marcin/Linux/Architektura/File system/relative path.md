@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-13
-sr-interval: 4
-sr-ease: 275
+sr-due: 2022-09-07
+sr-interval: 23
+sr-ease: 295
 ---
 
 # relative path
