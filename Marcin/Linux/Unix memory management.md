@@ -1,3 +1,4 @@
 # Unix memory management
-
-1. Unix memory management głównie opiera się o abstrakcje zwaną [[Unix virtual memory]]
+[[Unix]] memory management opiera się o:
+1. o abstrakcje zwaną [[Unix virtual memory]]
+2. 
