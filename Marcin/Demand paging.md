@@ -1,2 +1,2 @@
 # Demand paging
-Demand paging to [[Unix memory managementsposób alokowania [[Address space|wirtualnej pamięci]]
+Demand paging to [[Unix memory management|sposób alokowania]] [[Address space|wirtualnej pamięci]] w systemach Unixowych. Dzięki temu podejściu [[Process|proces]] może rozpocząć działanie bez żadnej [[Memory page frame]]zalokowanej strony w pamięci podręcznej.
