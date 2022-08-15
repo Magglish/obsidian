@@ -5,7 +5,9 @@ sr-ease: 274
 ---
 
 # Process descriptor
-Każdy [[Process|proces]] jest opisany przez *process descriptor*, który zawiera w sobie wszystkie informacje o procesie. Po zakończeniu procesu, zapisywane są w nim informacje o:
+Każdy [[Process|proces]] jest opisany przez *process descriptor*, który zawiera w sobie wszystkie informacje o procesie, np. priorytet, jakie zużywa CPU. [[Address space]] itd.  
+
+Po zakończeniu procesu, zapisywane są w nim informacje o:
 1. [[Program counter register]] 
 2. [[Stack pointer register]]
 3. [[General purpose register]]
