@@ -16,11 +16,13 @@ Maksymalna długość nazwy 255 znaków.
 3. Do plików w systemie unixowym możemy odwoływać się poprzez [[Hard link|hard linki]] lub [[Soft link|soft linki (symbolic links)]]. 
 
 **Znaczenie najważniejszych folderów:**
-1. `dev` - 
+1. `dev` - miejsce z plikami do urządzeń
 2. `bin` - pliki binarne zawierające w sobie podstawowe usługi jak np. `ls`, `cp`, `bash`
 3. `boot` - pliki do prawidłowego uruchomienia systemu
 4. `home` - pliki użytkowników
 5. `etc` - systemowe pliki konfiguracyjne i systemowe bazydanych
 6. `var` - miejsce z plikami ktore moga zmieniac sie szybko 
+7. `tmp` - miejsce z plikami tymczasowymi
+8. `lib` - miejsce z systemowymi bilbiotekami
 
 #review
