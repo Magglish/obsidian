@@ -1,5 +1,5 @@
 # Unix virtual memory
-Unix virtual memory to abstrakcja, opierająca się o [[Address space|virtual address space]], która pełni rolę warstwy pomiędzy pamięcia aplikacji a [[Memory Management Unit]]
+Unix virtual memory to abstrakcja, opierająca się o [[Address space|address space ale w wersji virtualnej]], która pełni rolę warstwy pomiędzy pamięcia aplikacji a [[Memory Management Unit]]
 
 Zalety:
 1. Wiele procesów może być uruchomiona jednocześnie,
