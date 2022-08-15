@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-11
-sr-interval: 3
-sr-ease: 250
+sr-due: 2022-09-07
+sr-interval: 23
+sr-ease: 270
 ---
 
 # IP Packet
