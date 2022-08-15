@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 178
+---
+
 # Self-healing applications
 
 Self-healing applications to aplikacje, które automatycznie same są w stanie wykryć w sobie błędy i podjąć próbę ich naprawy - bez ingerencji developera.

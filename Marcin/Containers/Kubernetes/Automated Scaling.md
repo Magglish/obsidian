@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-16
+sr-interval: 1
+sr-ease: 155
+---
+
 # Automated Scaling
 
 Automatyczne skalowanie odnosi się do automatycznego rozszerzania/zmniejszania usług/[[Microservice|mikroserwisów]] zgodnie z ich obecnym użyciem i zapotrzebowaniem.
