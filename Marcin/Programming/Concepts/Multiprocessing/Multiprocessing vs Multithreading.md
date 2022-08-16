@@ -1,0 +1,2 @@
+# [[Multiprocessing]] vs [[Multithreading]]
+W multithreading kilka watkow jest przyporządkowanych do jednego procesu, shareuja pamiec miedzy sobą. Wady: trzeba pisac aplikacje thread safe - trzeba uwazac np. na zmienne globalne, ktore moga sie zmieniac. Natomiast w Multiprocessing  kazdy proces ma swoja pamiec. Jest szybciej i łatwiej, nie musimy sie martwic o shareowalne zmienne globalne, nie musimy pisać kodu thread-safe. (Multiprocessing "przyszło" ponieważ  mamy teraz lepsze CPU i wiecej pamieci, więc możemy sobie na to pozwolić)
