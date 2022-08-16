@@ -5,7 +5,7 @@ sr-ease: 274
 ---
 
 # Process descriptor
-Każdy [[Process|proces]] jest opisany przez *process descriptor*, który zawiera w sobie wszystkie informacje o procesie, np. priorytet, jakie zużywa CPU. [[Address space]] itd. 
+Każdy [[Process|proces]] jest opisany przez *process descriptor*, który zawiera w sobie wszystkie informacje o procesie, np. priorytet, ile alokujemy CPU,  [[Address space|pamięci]] itd. 
 Process descriptory są trzymane w [[Dynamic memory allocation|dynamicznej pamięci]] ze względu na ich dużą zmienność - jest ich bardzo dużo a ich czas życia może być od nanosekund do miesięcy (wyjątkiem jest [[Process 0]]). 
 Wszystkie procesy są zawarte w [[Process list]] 
 
