@@ -1,0 +1,2 @@
+# runqueue
+*runqueue* to lista, która przechowuje w sobie [[Process||procesy]] posortowane zgodnie z informacją o ich priorytecie. W [[Multiprocessing| systemach multiprocessing]] każdy CPU przechowuje swoje własne *runqueue*.
