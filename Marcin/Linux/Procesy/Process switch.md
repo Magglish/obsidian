@@ -1,2 +1,2 @@
 # Process switch
-Process switch to czynności w [[Unix process management|systemie zarządzania procesami]], które polegają na zablokowaniu jakiegoś procesu i uruchomienia innego [[Process|procesu]]. Wykonywane są tylko i wyłącznie w trybie [[Kernel Mode]]. 
+Process switch to czynności w [[Unix process management|systemie zarządzania procesami]], które polegają na zablokowaniu jakiegoś procesu i uruchomienia innego [[Process|procesu]]. Wykonywane są tylko i wyłącznie w trybie [[Kernel Mode]]. Czynności te wykonywane są przez [[Process scheduler|schedulera]].
