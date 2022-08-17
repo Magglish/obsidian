@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-16
-sr-interval: 1
-sr-ease: 178
+sr-due: 2022-08-23
+sr-interval: 6
+sr-ease: 198
 ---
 
 # Zero-Downtime Deployment
