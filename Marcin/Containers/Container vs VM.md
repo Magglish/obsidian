@@ -1,10 +1,11 @@
 ---
-sr-due: 2022-08-16
-sr-interval: 1
+sr-due: 2022-08-20
+sr-interval: 3
 sr-ease: 176
 ---
 
 # Container vs. VM
 1. Tak jak w przypadku [[Virtual machine|wirtualnych maszyn]], [[Container|kontenery]] izolują oprogramowanie w jednym, spójnym środowisku, pozwalając na deploy na wielu różnych środowiskach z gwarancją że działają tak samo.
 2. Jesteśmy w stanie umieścić więcej kontenerów niż wirtualnych maszyn w danym środowisku, ze względu na fakt iż wirtualna maszyna potrzebuje w sobie całego, nowego systemu operacyjnego wraz ze wszystkimi jego komponentami, co powoduje znacznie większe zużycie zasobów. W przypadku kontenerów pracują one bezpośrednio na systemie na którym zostały zdeployowane (czyli korzystają z pewnych zasobów tego systemu), ale do pełnego funkcjonowania nie potrzebują całej kopii tego systemu, przez co zużywają znacznie mniej zasobów.
+#dokoncz
 #review
