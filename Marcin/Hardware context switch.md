@@ -1,2 +1,2 @@
 # Hardware context switch
-Hardware context switch jest to zbiór danych określających 
+Hardware context [[Process switch|switch]] jest to zbiór danych niezbędnych do określenia w którym momencie dany proces się zakończył. Informacje te trzymane są w [[Process descriptor]].
