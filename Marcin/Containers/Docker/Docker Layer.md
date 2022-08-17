@@ -15,4 +15,5 @@ sr-ease: 180
 Poniższy rysunek przedstawia pobranie obrazu z docker-hub, który ma w sobie 4 warstwy:
 
 ![[Docker layers in CLI.png]]
+#dokoncz - czym jest warstwa?
 #review
