@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-16
-sr-interval: 1
-sr-ease: 180
+sr-due: 2022-08-22
+sr-interval: 5
+sr-ease: 200
 ---
 
 # Docker Layer
