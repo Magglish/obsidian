@@ -1,2 +1,2 @@
 # Asynchronous interrupts
-Asynchronous interrupts to zatrzymania generowane przez inne komponenty niż CPU.
+Asynchronous interrupts to zatrzymania generowane przez inne komponenty niż CPU, np. jakieś urządzenia I/O czyGenerują [[Unix signals|sygnały]] wysyłane do programów/procesów.
