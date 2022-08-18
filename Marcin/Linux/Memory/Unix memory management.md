@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-18
-sr-interval: 1
-sr-ease: 182
+sr-due: 2022-08-21
+sr-interval: 3
+sr-ease: 202
 ---
 
 # Unix memory management

@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-18
+sr-due: 2022-08-19
 sr-interval: 1
-sr-ease: 189
+sr-ease: 169
 ---
 
 # Unix virtual memory
@@ -15,4 +15,5 @@ Zalety:
 5. Programy mogą być umieszczone w dowolnym miejscu w pamięci fizycznej,
 6. Dzięki temu programiści mogą pisać kod niezależnie od hardwareu i nie przejmować się zarządzaniem pamięcią fizyczną.
 
+#dokoncz
 #review
