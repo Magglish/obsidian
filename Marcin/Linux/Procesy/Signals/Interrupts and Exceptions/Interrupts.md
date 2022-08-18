@@ -4,3 +4,5 @@
 Wyróżniamy [[Synchronous interrupts|synchroniczne/wyjątki]] i [[Asynchronous interrupts|asynchroniczne/przerwania]] *interrupts*.
 
 Każdy z wyjątków i przerwań ma swój numer - od 0 do 255.
+
+#review
