@@ -1,3 +1,9 @@
+---
+sr-due: 2022-08-26
+sr-interval: 3
+sr-ease: 246
+---
+
 # LWP
 LWP (Lightweight process) to inaczej mniejsza część procesu, wykorzystywana w przetwarzaniu równoległym.
 
