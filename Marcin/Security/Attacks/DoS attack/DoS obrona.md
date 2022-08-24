@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 228
+sr-due: 2022-09-16
+sr-interval: 23
+sr-ease: 248
 ---
 
 # Obrona przed [[DoS]]

@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-20
-sr-interval: 2
-sr-ease: 180
+sr-due: 2022-09-11
+sr-interval: 18
+sr-ease: 200
 ---
 
 # Linux multihreading

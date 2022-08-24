@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 217
+sr-due: 2022-08-25
+sr-interval: 1
+sr-ease: 197
 ---
 
 # Memory mapping
