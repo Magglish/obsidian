@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-24
-sr-interval: 7
-sr-ease: 250
+sr-due: 2022-09-21
+sr-interval: 28
+sr-ease: 270
 ---
 
 # IP adress

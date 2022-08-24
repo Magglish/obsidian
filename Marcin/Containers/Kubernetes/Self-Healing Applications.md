@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-23
-sr-interval: 6
-sr-ease: 198
+sr-due: 2022-09-16
+sr-interval: 23
+sr-ease: 218
 ---
 
 # Self-healing applications
