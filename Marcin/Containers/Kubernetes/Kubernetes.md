@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-20
-sr-interval: 3
-sr-ease: 178
+sr-due: 2022-09-12
+sr-interval: 19
+sr-ease: 198
 ---
 
 # Kubernetes
