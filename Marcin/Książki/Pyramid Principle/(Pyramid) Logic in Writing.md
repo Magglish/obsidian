@@ -14,3 +14,12 @@ want to present, with your thinking having begun at the lowest level by forming
 sentences that you grouped logically into paragraphs. You then grouped the para-
 graphs into sections, and the sections into the total memorandum represented by
 a single thought at the top.
+3. Stating this stun mary sentence n1oves you up one level of abstraction and allows you
+to think of the paragraph as containing one point rather than six. With this act of
+efficiency you now group together, say, three pamgraphs, each containing a single
+thought at a level of abstraction one step higher than that of the individual sentences.
+4. they must obey **three rules**:
+	1. Ideas at any level in the pyrantid ntust always be sun1n1aries
+of the ideas grouped below them.
+	2.  Ideas in each grouping must always be the same kind of idea.
+	3. Ideas in each grouping ntust al-ways be logically ordered.
