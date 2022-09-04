@@ -23,3 +23,7 @@ thought at a level of abstraction one step higher than that of the individual se
 of the ideas grouped below them.
 	2.  Ideas in each grouping must always be the same kind of idea.
 	3. Ideas in each grouping ntust al-ways be logically ordered.
+	   (deductively (major premise, minor premise, conclusion))
+	   (chronologically (first, second, third))
+	   (structurally (Boston, New York, Washington))
+	   (Comparatively (first most itnportant, second most important, etc.))
