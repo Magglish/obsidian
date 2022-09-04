@@ -18,4 +18,11 @@ ML models later.
 	1. task is repetitive - when a task is repetitive, each pattern is repeated multiple times, which makes it easier for machines to learn it, 
 	2. cost of wrong prediction is cheap (recommendation systems), if high, the average outcome should be big (self-driving cars)
 	3. it's at scale - ML systems are costly so they make sens if youre using it a lot(making a lot of predictions, solving a lot of problems)
-	4. the patterns are constantly changing - 
+	4. the patterns are constantly changing - hardcoded solutions in such case can be quickly outdated
+6. Most of today’s ML algorithms shouldn’t be used under any of the following conditions:
+• It’s unethical. We’ll go over one case study where the use of ML algorithms can
+be argued as unethical in the section “Case study I: Automated grader’s biases” on
+page 341.
+• Simpler solutions do the trick. In Chapter 6, we’ll cover the four phases of ML
+model development where the first phase should be non-ML solutions.
+• It’s not cost-effective.
