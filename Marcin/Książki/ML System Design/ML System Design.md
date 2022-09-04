@@ -14,4 +14,4 @@ trained on any data, but they will learn from incoming data in production. Witho
 til-you make it” approach: launching a product that serves predictions made by
 humans, instead of ML models, with the hope of using the generated data to train
 ML models later.
-5. 
+5. ML solutions will especially shine if your problem has these additional following characteristics: task is repetitive, cost of wrong prediction is cheap, it's at scale (making a lot of predictions, solving a lot of problems)
