@@ -9,3 +9,8 @@ logical argument.
 2. **Magical number seven** - The major problem is that you've run into the magical number seven. This is a phrase coined by George A. Miller in his treatise, "The Magical Number Seven, Plus or Minus Two."'· What he points out is that the mind cannot hold more than about seven iten1s in its short-tern1 1nen1ory at any one tin1e. Son1e n1inds can hold as tnany as nine items, while others can hold only five (I'm a five myself). A convenient number is three, but of course the easiest nun1ber is one.
 3. **Ordering from the top down** - The clearest sequence is al'ways to
 give the summarizing idea before you give the individual ideas being summarized.
+4. The reader is always going to look for a structure connecting the
+ideas as they con1e to hi1n. To n1ake sure he finds the one you intended, you n1ust
+tell him in advance what it is-to make sure he knows what to look for. Otherwise
+he is likely either to see an unintended relationship, or worse, none at all, in which
+case you have both wasted your time.
