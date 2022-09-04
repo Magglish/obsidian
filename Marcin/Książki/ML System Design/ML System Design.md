@@ -17,4 +17,5 @@ ML models later.
 5. ML solutions will especially shine if your problem has these additional following characteristics: 
 	1. task is repetitive - when a task is repetitive, each pattern is repeated multiple times, which makes it easier for machines to learn it, 
 	2. cost of wrong prediction is cheap (recommendation systems), if high, the average outcome should be big (self-driving cars)
-	3. it's at scale - ML systems (making a lot of predictions, solving a lot of problems)
+	3. it's at scale - ML systems are costly so they make sens if youre using it a lot(making a lot of predictions, solving a lot of problems)
+	4. the patterns are constantly changing - 
