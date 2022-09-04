@@ -30,3 +30,10 @@ in revenue for an ecommerce site. However, for many tasks, a small improvement
 might not be noticeable for users. For the second type of task, if a simple model can
 do a reasonable job, complex models must perform significantly better to justify the
 complexity.
+9. ML algorithms don’t predict the future, but encode the past, thus perpetuating the
+biases in the data and more. When ML algorithms are deployed at scale, they can
+discriminate against people at scale. If a human operator might only make sweeping
+judgments about a few individuals at a time, an ML algorithm can make sweeping
+judgments about millions in split seconds. This can especially hurt members of
+minority groups because misclassification on them could only have a minor effect on
+models’ overall performance metrics.
