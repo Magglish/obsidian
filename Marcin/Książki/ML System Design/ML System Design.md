@@ -20,9 +20,13 @@ ML models later.
 	3. it's at scale - ML systems are costly so they make sens if youre using it a lot(making a lot of predictions, solving a lot of problems)
 	4. the patterns are constantly changing - hardcoded solutions in such case can be quickly outdated
 6. Most of today’s ML algorithms shouldn’t be used under any of the following conditions:
-• It’s unethical. We’ll go over one case study where the use of ML algorithms can
-be argued as unethical in the section “Case study I: Automated grader’s biases” on
-page 341.
-• Simpler solutions do the trick. In Chapter 6, we’ll cover the four phases of ML
-model development where the first phase should be non-ML solutions.
-• It’s not cost-effective.
+	1. It’s unethical.
+	2. Simpler solutions do the trick.
+	3. It’s not cost-effective.
+7. However, even if ML can’t solve your problem, it might be possible to break your
+problem into smaller components, and use ML to solve some of them. For example,
+if you can’t build a chatbot to answer all your customers’ queries, it might be possible
+to build an ML model to predict whether a query matches one of the frequently asked
+questions. If yes, direct the customer to the answer. If not, direct them to customer
+service.
+8. 
