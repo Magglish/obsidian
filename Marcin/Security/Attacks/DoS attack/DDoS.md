@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-24
-sr-interval: 15
-sr-ease: 294
+sr-due: 2022-10-23
+sr-interval: 60
+sr-ease: 314
 ---
 
 # DDoS

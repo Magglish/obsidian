@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-24
+sr-due: 2022-08-25
 sr-interval: 1
-sr-ease: 149
+sr-ease: 130
 ---
 
 # Unix virtual memory
