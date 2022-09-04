@@ -14,3 +14,4 @@ ideas as they con1e to hi1n. To n1ake sure he finds the one you intended, you n1
 tell him in advance what it is-to make sure he knows what to look for. Otherwise
 he is likely either to see an unintended relationship, or worse, none at all, in which
 case you have both wasted your time.
+![[Pyramid.png]]
