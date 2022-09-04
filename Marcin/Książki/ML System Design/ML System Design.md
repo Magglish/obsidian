@@ -29,4 +29,11 @@ if you can’t build a chatbot to answer all your customers’ queries, it might
 to build an ML model to predict whether a query matches one of the frequently asked
 questions. If yes, direct the customer to the answer. If not, direct them to customer
 service.
-8. If a simple model can do a reasonable job, complex models must perform significantly better to justify the complexity.
+8. For many tasks, a small improvement in performance can result in a huge boost
+in revenue or cost savings. For example, a 0.2% improvement in the click-through
+rate for a product recommender system can result in millions of dollars increase
+in revenue for an ecommerce site. However, for many tasks, a small improvement
+might not be noticeable for users. For the second type of task, if a simple model can
+do a reasonable job, complex models must perform significantly better to justify the
+complexity.
+9. 
