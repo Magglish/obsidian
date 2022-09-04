@@ -36,17 +36,5 @@ in revenue for an ecommerce site. However, for many tasks, a small improvement
 might not be noticeable for users. For the second type of task, if a simple model can
 do a reasonable job, complex models must perform significantly better to justify the
 complexity.
-9. In research, you care more about how many samples you can process in a second
-(throughput) and less about how long it takes for each sample to be processed
-(latency). You’re willing to increase latency to increase throughput, for example, with
-aggressive batching. However, once you deploy your model into the real world, latency matters a lot.
-10. If your system always processes one query at a time, higher latency means lower
-throughput. If the average latency is 10 ms, which means it takes 10 ms to process
-a query, the throughput is 100 queries/second. If the average latency is 100 ms, the
-throughput is 10 queries/second.
-However, because most modern distributed systems batch queries to process them
-together, often concurrently, higher latency might also mean higher throughput.
-![[Processing query at a time.png]]
-11. When thinking about latency, it’s important to keep in mind that latency is not an
-individual number but a distribution.
+
 
