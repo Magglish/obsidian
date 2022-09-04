@@ -36,4 +36,4 @@ in revenue for an ecommerce site. However, for many tasks, a small improvement
 might not be noticeable for users. For the second type of task, if a simple model can
 do a reasonable job, complex models must perform significantly better to justify the
 complexity.
-9. 
+9. Research usually prioritizes fast training, whereas production usually prioritizes fast inference.
