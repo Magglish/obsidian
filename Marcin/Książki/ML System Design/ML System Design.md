@@ -37,3 +37,11 @@ might not be noticeable for users. For the second type of task, if a simple mode
 do a reasonable job, complex models must perform significantly better to justify the
 complexity.
 9. Research usually prioritizes fast training, whereas production usually prioritizes fast inference.
+10. If your system always processes one query at a time, higher latency means lower
+throughput. If the average latency is 10 ms, which means it takes 10 ms to process
+a query, the throughput is 100 queries/second. If the average latency is 100 ms, the
+throughput is 10 queries/second.
+However, because most modern distributed systems batch queries to process them
+together, often concurrently, higher latency might also mean higher throughput.
+![[Processing query at a time.png]]
+
