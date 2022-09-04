@@ -29,4 +29,4 @@ if you can’t build a chatbot to answer all your customers’ queries, it might
 to build an ML model to predict whether a query matches one of the frequently asked
 questions. If yes, direct the customer to the answer. If not, direct them to customer
 service.
-8. 
+8. If a simple model can do a reasonable job, complex models must perform significantly better to justify the complexity.
