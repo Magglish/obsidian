@@ -47,4 +47,6 @@ throughput is 10 queries/second.
 However, because most modern distributed systems batch queries to process them
 together, often concurrently, higher latency might also mean higher throughput.
 ![[Processing query at a time.png]]
+11. When thinking about latency, it’s important to keep in mind that latency is not an
+individual number but a distribution.
 
