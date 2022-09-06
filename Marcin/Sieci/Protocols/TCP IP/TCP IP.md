@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 14
-sr-ease: 272
+sr-due: 2022-10-29
+sr-interval: 53
+sr-ease: 292
 ---
 
 # TCP IP
