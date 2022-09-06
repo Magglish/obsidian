@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 18
-sr-ease: 273
+sr-due: 2022-11-05
+sr-interval: 60
+sr-ease: 293
 ---
 
 # inode
