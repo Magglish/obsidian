@@ -15,10 +15,3 @@ data and use these patterns to make (4) predictions on (5) unseen data.*"
 7. Jeżeli dany problem nie może być rozwiązany przez MLa, spróbuj rozbić go na mniejsze cześci i użyj MLa do tych mniejszych problemów aby je rozwiązać.
 8. Jeśli prosty model jest w stanie zrobić dobrą robotę, to za stosowaniem bardziej skomplikowane modeli może być potrzebnych znacznie wiecej argumentów (zasada KISS - Keep It Stupid Simple)
 9. Modele MLowe nie przewidują przeszłości, one kodują przeszłość. Uczą się na danych historycznych wzorców i podając do niego przykłady, on zwraca Ci wynik korzystając z zależności których się nauczył. Czyli możemy stosować model tylko wtedy kiedy w przyszłości będą spełnione takie same warunki jak w przeszłości.
-10. ML algorithms don’t predict the future, but encode the past, thus perpetuating the
-biases in the data and more. When ML algorithms are deployed at scale, they can
-discriminate against people at scale. If a human operator might only make sweeping
-judgments about a few individuals at a time, an ML algorithm can make sweeping
-judgments about millions in split seconds. This can especially hurt members of
-minority groups because misclassification on them could only have a minor effect on
-models’ overall performance metrics.
