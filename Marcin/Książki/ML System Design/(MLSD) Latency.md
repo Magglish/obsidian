@@ -1,11 +1,11 @@
 # (MLSD) Latency
 ![[Processing query at a time.png]]
-1. Podczas reserachu zależy Ci najbardziej na *throughput* czyli na tym ile obserwacji obserwacji jesteś w stanie przetworzyć na raz (w jakiejś jednostce czasu) - im więc
+1. Podczas researchu zależy Ci najbardziej na *throughput* (przepustowość) czyli na tym ile obserwacji obserwacji jesteś w stanie przetworzyć na raz (w jakiejś jednostce czasu) - im więcej, tym lepiej bo przeprowadzisz więcej eksperymentów. Jednakże w produktyzacji modeli najważniejsze jest *latency* czyli opóźnienie w przetworzeniu pojedynczej obserwacji.
+2. Jeśli twój system przetwarza maksymalnie jedną obserwacje w czasie, wtedy wyższe *latency* oznacza niższe *throughput*. 
+   Średnie latency 10 ms = przepustowość 100 na sekundę. 
+   Średnie latency 100 ms = przepustowość 10 na sekundę.
+   
 
-1. In research, you care more about how many samples you can process in a second
-(throughput) and less about how long it takes for each sample to be processed
-(latency). You’re willing to increase latency to increase throughput, for example, with
-aggressive batching. However, once you deploy your model into the real world, latency matters a lot.
 2. If your system always processes one query at a time, higher latency means lower
 throughput. If the average latency is 10 ms, which means it takes 10 ms to process
 a query, the throughput is 100 queries/second. If the average latency is 100 ms, the
