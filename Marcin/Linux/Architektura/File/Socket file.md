@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-25
-sr-interval: 2
-sr-ease: 215
+sr-due: 2022-10-19
+sr-interval: 43
+sr-ease: 235
 ---
 
 # Socket file
