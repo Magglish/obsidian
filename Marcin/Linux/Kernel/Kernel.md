@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 13
-sr-ease: 250
+sr-due: 2022-10-22
+sr-interval: 46
+sr-ease: 270
 ---
 
 # Kernel
