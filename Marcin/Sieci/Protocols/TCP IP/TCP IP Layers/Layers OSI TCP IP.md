@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 12
-sr-ease: 253
+sr-due: 2022-10-12
+sr-interval: 36
+sr-ease: 273
 ---
 
 # Layers (w modelach [[OSI Layers|OSI]] i [[TCP IP Layers|TCP]])
