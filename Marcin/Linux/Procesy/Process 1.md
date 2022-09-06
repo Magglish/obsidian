@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-25
-sr-interval: 2
-sr-ease: 205
+sr-due: 2022-09-07
+sr-interval: 1
+sr-ease: 185
 ---
 
 # Process 1
