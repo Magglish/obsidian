@@ -1,5 +1,6 @@
 # (MLSD) Latency
 ![[Processing query at a time.png]]
+1. Podczas reserachu zależy Ci najbardziej na *throughput* czyli na tym ile obserwacji obserwacji jesteś w stanie przetworzyć na raz (w jakiejś jednostce czasu) - im więc
 
 1. In research, you care more about how many samples you can process in a second
 (throughput) and less about how long it takes for each sample to be processed
