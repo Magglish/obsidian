@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 19
-sr-ease: 271
+sr-due: 2022-11-05
+sr-interval: 60
+sr-ease: 291
 ---
 
 # Subnet mask
