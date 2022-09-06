@@ -6,6 +6,9 @@ data and use these patterns to make (4) predictions on (5) unseen data.*"
    Podejście "fake-it-til-you-make-it" - odpalamy serwis w którym to człowiek wykonuje predykcje, następnie te przykłady są wrzucane do modelu żeby się uczył aby ostatecznie zastąpić człowieka.
 5. ML sprawdza się świetnie gdy:
 	1. task jest powtarzalny - dlatego, że patterny pojawiają się wielokrotnie w czasie, dzieki czemu łatwo jest je nauczyć
+	2. koszt błędnej predykcji jest tani (np. systemy rekomendacyjne) lub gdy koszty błędnych predykcji są wysokie to średni zysk z modeli musi być odpowiednio bardzo duży aby zrekopensować to (np. autonomiczne samochody)
+	3. jest "in scale", tzn. model MLowy jest wykorzystywany na dużą skalę, dlatego, że model MLowy jest drogi, więc przy niewielkim wykorzystnaiu po prostu nie będzie się opłacał.
+	4. patterny ciągle się zmieniają, przez co takie zhardkodowane rozwiązania nie poradzą sobie z
 
 	2. task is repetitive - when a task is repetitive, each pattern is repeated multiple times, which makes it easier for machines to learn it, 
 	3. cost of wrong prediction is cheap (recommendation systems), if high, the average outcome should be big (self-driving cars)
