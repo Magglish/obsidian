@@ -1,2 +1,2 @@
 # Interrupts Descriptor Table
-Interrupts Descriptor Table to struktura danych, która mapuje każde [[Asynchronous interrupts|przerwanie]] lub [[Synchronous interrupts|wyjątek]] z [[Address space|adresem pamięci]] na którym zdażyło się przerwanie/wyjątek.
+Interrupts Descriptor Table to struktura danych, która mapuje każde [[Hardware interrupts|przerwanie]] lub [[Software interrupts|wyjątek]] z [[Address space|adresem pamięci]] na którym zdażyło się przerwanie/wyjątek.

@@ -1,0 +1,2 @@
+# Software interrupts
+Software interrupts to zatrzymania generowane przez CPU. Inaczej interpretujemy je jako *exceptions*, czyli wyjątki. Najczęściej powodowane przez błędy w kodzie lub przez jakieś warunki logiczne. Generują [[Unix signals|sygnały]] wysyłane do programów/procesów.
