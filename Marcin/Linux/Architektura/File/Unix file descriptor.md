@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-08-25
-sr-interval: 10
-sr-ease: 255
+sr-due: 2022-09-09
+sr-interval: 3
+sr-ease: 235
 ---
 
 # Unix file descriptor
