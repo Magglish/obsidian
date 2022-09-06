@@ -2,17 +2,15 @@
 data and use these patterns to make (4) predictions on (5) unseen data.*"
 2. *Patterns* (zależności) są czymś innym niż *distribution* rozkładem - w rzucie kostką znamy rozkład prawdopodobieństwa wylosowania cyferek od 1 do 6, ale nie znamy wzorca tego jak ten rozkład powstał, a to ten wzorzec chcemy poznać.
 3. Nawet jeśli modele źle działają, nie oznacza to, że nie ma *patternu* w danych.
-4. It’s also possible to launch an ML system without data. For example, in the
-context of continual learning, ML models can be deployed without having been
-trained on any data, but they will learn from incoming data in production. Without data and without continual learning, many companies follow a “fake-it-
-til-you make it” approach: launching a product that serves predictions made by
-humans, instead of ML models, with the hope of using the generated data to train
-ML models later.
-5. ML solutions will especially shine if your problem has these additional following characteristics: 
-	1. task is repetitive - when a task is repetitive, each pattern is repeated multiple times, which makes it easier for machines to learn it, 
-	2. cost of wrong prediction is cheap (recommendation systems), if high, the average outcome should be big (self-driving cars)
-	3. it's at scale - ML systems are costly so they make sens if youre using it a lot(making a lot of predictions, solving a lot of problems)
-	4. the patterns are constantly changing - hardcoded solutions in such case can be quickly outdated
+4. Jest możliwość odpalenia modelu ML bez danych - continual learning. Takie modele są deployowane i uczone z danych które przychodzą z produkcji. 
+   Podejście "fake-it-til-you-make-it" - odpalamy serwis w którym to człowiek wykonuje predykcje, następnie te przykłady są wrzucane do modelu żeby się uczył aby ostatecznie zastąpić człowieka.
+5. ML sprawdza się świetnie gdy:
+	1. task jest powtarzalny - dlatego, że patterny pojawiają się wielokrotnie w czasie, dzieki czemu łatwo jest je nauczyć
+
+	2. task is repetitive - when a task is repetitive, each pattern is repeated multiple times, which makes it easier for machines to learn it, 
+	3. cost of wrong prediction is cheap (recommendation systems), if high, the average outcome should be big (self-driving cars)
+	4. it's at scale - ML systems are costly so they make sens if youre using it a lot(making a lot of predictions, solving a lot of problems)
+	5. the patterns are constantly changing - hardcoded solutions in such case can be quickly outdated
 6. Most of today’s ML algorithms shouldn’t be used under any of the following conditions:
 	1. It’s unethical.
 	2. Simpler solutions do the trick.
