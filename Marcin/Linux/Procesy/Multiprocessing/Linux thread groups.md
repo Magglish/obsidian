@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 9
-sr-ease: 201
+sr-due: 2022-09-29
+sr-interval: 23
+sr-ease: 221
 ---
 
 # Linux thread groups

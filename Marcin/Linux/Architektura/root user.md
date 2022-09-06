@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 22
-sr-ease: 281
+sr-due: 2022-11-05
+sr-interval: 60
+sr-ease: 301
 ---
 
 # root user
