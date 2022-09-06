@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 17
-sr-ease: 270
+sr-due: 2022-10-31
+sr-interval: 55
+sr-ease: 290
 ---
 
 # Deep Packet Inspection

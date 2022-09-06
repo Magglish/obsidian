@@ -1,6 +1,6 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 17
+sr-due: 2022-10-24
+sr-interval: 48
 sr-ease: 270
 ---
 

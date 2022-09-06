@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 15
-sr-ease: 268
+sr-due: 2022-09-09
+sr-interval: 3
+sr-ease: 248
 ---
 
 # SSH
