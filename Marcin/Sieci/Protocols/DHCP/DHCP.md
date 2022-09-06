@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 12
-sr-ease: 251
+sr-due: 2022-10-15
+sr-interval: 39
+sr-ease: 271
 ---
 
 # DHCP

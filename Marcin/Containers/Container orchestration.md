@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 12
-sr-ease: 196
+sr-due: 2022-10-10
+sr-interval: 34
+sr-ease: 216
 ---
 
 # Container orchestration
