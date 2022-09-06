@@ -13,15 +13,9 @@ data and use these patterns to make (4) predictions on (5) unseen data.*"
 	1. istnieją prostsze rozwiązania - nalezy je stosować
 	2. nie jest efektywny kosztowo - koszty wdrożenia przekraczają zyski
 7. Jeżeli dany problem nie może być rozwiązany przez MLa, spróbuj rozbić go na mniejsze cześci i użyj MLa do tych mniejszych problemów aby je rozwiązać.
-8. Jeśli prosty model jest w stanie zrobić dobrą robotę, to bardziej skomplikowane modele 
-9. For many tasks, a small improvement in performance can result in a huge boost
-in revenue or cost savings. For example, a 0.2% improvement in the click-through
-rate for a product recommender system can result in millions of dollars increase
-in revenue for an ecommerce site. However, for many tasks, a small improvement
-might not be noticeable for users. For the second type of task, if a simple model can
-do a reasonable job, complex models must perform significantly better to justify the
-complexity.
-9. ML algorithms don’t predict the future, but encode the past, thus perpetuating the
+8. Jeśli prosty model jest w stanie zrobić dobrą robotę, to za stosowaniem bardziej skomplikowane modeli może być potrzebnych znacznie wiecej argumentów (zasada KISS - Keep It Stupid Simple)
+9. Modele MLowe nie przewidują przeszłości, one kodują przeszłość. Uczą się na danych historycznych wzorców i podając do niego przykładu 
+10. ML algorithms don’t predict the future, but encode the past, thus perpetuating the
 biases in the data and more. When ML algorithms are deployed at scale, they can
 discriminate against people at scale. If a human operator might only make sweeping
 judgments about a few individuals at a time, an ML algorithm can make sweeping
