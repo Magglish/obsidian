@@ -1,5 +1,9 @@
 # Ovierview
-1. The easiest order for a reader is to receive the n1ajor, n1ore abstract ideas before he is
+1. Najlepiej aby słuchacz/czytasz otrzymał najważniejsze idee na początku, zanim pokażemy mu mniejsze idee (od ogółu do szczegółu).
+2. Mniejsze, bardziej szczegółowe pomysły są pochodnymi większych i bardziej ogólnych pomysłów, zatem naturalne jest, że można je przedstawić za pomocą struktury. Tych mniejszych, szczegółowych jest więcej niż ogólniejszych (to logiczne) zatem można przedstawić je w strukturze piramidy.
+3. W tej piramidzie
+4. 
+5. The easiest order for a reader is to receive the n1ajor, n1ore abstract ideas before he is
 required to take in the minor supporting ones. And since the n1ajor ideas arc alvvays
 derived from the ntinor ones, the ideal structure of the ideas will ahvays be apyramid of groups of ideas tied together by a single overall thought. Within that
 pyramidal structure, the ideas will relate vertically-in that a point at any level
