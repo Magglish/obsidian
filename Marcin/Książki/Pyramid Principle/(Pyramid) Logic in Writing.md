@@ -1,4 +1,2 @@
 # Logic in writing
-![[Pyramid.png]]
-
 1. Czytelnicy grupują i sami sobie podsumowują idee aby móc je zapamiętać/zrozumieć. Dlatego warto jest pisać od ogółu do szczegółu - najpierw te ogólne idee, potem bardziej szczegółowe. Jest to sprzeczne z podejściem w myśleniu - w myśleniu najpierw zaczynamy od mniejszych idei aby potem przejść do ogółu.

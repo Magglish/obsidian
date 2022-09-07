@@ -1,6 +1,8 @@
 # Ovierview
 ![[Pyramid.png]]
 
+![[Pyramid2.png]]
+
 1. Najlepiej aby słuchacz/czytasz otrzymał najważniejsze idee na początku, zanim pokażemy mu mniejsze idee (od ogółu do szczegółu).
 2. Mniejsze, bardziej szczegółowe pomysły są pochodnymi większych i bardziej ogólnych pomysłów, zatem naturalne jest, że można je przedstawić za pomocą struktury. Tych mniejszych, szczegółowych jest więcej niż ogólniejszych (to logiczne) zatem można przedstawić je w strukturze piramidy.
 3. W tej piramidzie patrząc na idee od góry do dołu (wertykalnie) zauważamy, że te powyżej są podsumowaniem tych poniżej. Z kolei idee patrzone od lewej do prawej (horyzontalnie) tworzą logicznie powiązane ze sobą idee w grupy.
@@ -14,3 +16,5 @@
 		2. chronologicznie - od poczatku do konca historii
 		3. strukturalnie - jakas wewnetrzna struktura/zaleznosci pomiedzy nimi
 		4. porównawczo - najwazniejsza, mniej wazna, najmniej wazna
+
+
