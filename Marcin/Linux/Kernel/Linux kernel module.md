@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-07
-sr-interval: 23
-sr-ease: 294
+sr-due: 2022-11-06
+sr-interval: 60
+sr-ease: 314
 ---
 
 # Linux kernel module
