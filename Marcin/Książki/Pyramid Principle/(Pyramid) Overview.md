@@ -18,4 +18,5 @@
 
 ![[Pyramid QA.png]]
 
+9. Ale zanim przedstawiamy idee w piramidzie, należy zaprezentować początek, kontekst i sytuację - **sytuacja, problem/komplikacje, pytanie, odpowiedź**
 
