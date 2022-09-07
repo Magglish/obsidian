@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-06
-sr-interval: 8
-sr-ease: 175
+sr-due: 2022-09-23
+sr-interval: 17
+sr-ease: 195
 ---
 
 # Automated Scaling
