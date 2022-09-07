@@ -14,9 +14,4 @@
 		2. chronologicznie - od poczatku do konca historii
 		3. strukturalnie - jakas wewnetrzna struktura/zaleznosci pomiedzy nimi
 		4. porównawczo - najwazniejsza, mniej wazna, najmniej wazna
-8. Najlepiej aby piramidy przyjęły forme **pytanie/dopowiedź**
-
-![[Pyramid QA.png]]
-
-9. Ale zanim przedstawiamy idee w piramidzie, należy zaprezentować początek, kontekst i sytuację - **sytuacja, problem/komplikacje, pytanie, odpowiedź**
 
