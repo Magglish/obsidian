@@ -7,3 +7,7 @@
 4. **Magiczna liczba 7** - tyle pomysłów/idei dany człowiek może przechowywać na raz w głowie. Jedni natomiast twierdzą, że może być ich 4 lub 5. Chodzi o to, aby nie zasypywać człowieka zbyt dużą ilością informacji - musi być ona zwięzła.
 5. Zawsze podczas przedstawiania idei najpierw przekazujemy idee podsumowującą, a potem bardziej szczegółowe (zgodnie ze strukturą piramidy).
 6. Słuchacz/czytelnik zawsze będzie szukał pewnej struktury w ideach/wnioskach które przedstawiasz aby łatwiej "połączyć kropki", zrozumieć to co chcesz przekazać. Dlatego w takiej sytuacji warto mu te zadanie ułatwić i po prostu wprost przedstawić mu tak idee aby miały jakąś strukturę - np. piramidalną. Bez tego, może on źle połączyć idee albo w ogóle nic nie zrozumieć, bo będzie to za bardzo zagmatwane.
+7. Mamy trzy zasady podczas tworzenia idei:
+	1. idee wyżej są podsumowaniem idei niżej
+	2. idee w danych grupach horyzontalnych musza byc ze sobą logicznie powiązane
+	3. idee w danych gr

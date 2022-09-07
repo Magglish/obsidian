@@ -2,19 +2,7 @@
 ![[Pyramid.png]]
 
 1. Czytelnicy grupują i sami sobie podsumowują idee aby móc je zapamiętać/zrozumieć. Dlatego warto jest pisać od ogółu do szczegółu - najpierw te ogólne idee, potem bardziej szczegółowe. Jest to sprzeczne z podejściem w myśleniu - w myśleniu najpierw zaczynamy od mniejszych idei aby potem przejść do ogółu.
-
-
-2. If you are going to group and summarize all your information and
-present it in a top-down 1nanner, it would seetn your docun1ent would have to look
-something like the structure opposite. The boxes stand for the individual ideas you
-want to present, with your thinking having begun at the lowest level by forming
-sentences that you grouped logically into paragraphs. You then grouped the para-
-graphs into sections, and the sections into the total memorandum represented by
-a single thought at the top.
-3. Stating this stun mary sentence n1oves you up one level of abstraction and allows you
-to think of the paragraph as containing one point rather than six. With this act of
-efficiency you now group together, say, three pamgraphs, each containing a single
-thought at a level of abstraction one step higher than that of the individual sentences.
+2. 
 4. they must obey **three rules**:
 	1. Ideas at any level in the pyrantid ntust always be sun1n1aries
 of the ideas grouped below them.
