@@ -5,5 +5,14 @@
 		1. jaki jest oczekiwany rezultat?
 		2. z jakiego wyniku będziemy najbardziej zadowoleni?
 		3. jaki wynik minimalnie jesteśmy w stanie zaakceptować?
+		4. jaka jest definicja "zdarzenia"?
 	2. Obecne podejście
 		1. jaki jest problem z obecnym podejściem?
+		2. jakie generuje obecnie wyniki (zysk/koszt)?
+		3. ile kosztuje czasu?
+		4. ile kosztuje zasobów ludzkich?
+	3. Czas
+		1. dlaczego teraz jest to istotne?
+		2. ile mamy czasu na to?
+		3. jak bardzo jest to pilne?
+3. 
