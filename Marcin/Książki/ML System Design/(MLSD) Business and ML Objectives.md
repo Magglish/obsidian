@@ -23,4 +23,6 @@
 		3. jak bardzo jest to pilne?
 	5. Wdrożenie
 		1. w czym to będzie wdrożone?
-		2. jak wygląda ten system? apka? (przeklikaj ją, nabierz ko)
+		2. jak wygląda ten system? apka? (przeklikaj ją, nabierz zrozumienia)
+		3. gdzie model MLowy będzie działał? w którym komponencie systemu/aplikacji?
+		4. 
