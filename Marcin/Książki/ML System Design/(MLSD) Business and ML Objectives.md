@@ -25,4 +25,7 @@
 		1. w czym to będzie wdrożone?
 		2. jak wygląda ten system? apka? (przeklikaj ją, nabierz zrozumienia)
 		3. gdzie model MLowy będzie działał? w którym komponencie systemu/aplikacji?
-		4. 
+	6. Wiedza
+		1. z kim moge porozmawiać o tym temacie jeszcze?
+		2. czy ktoś może wskazać mi jak to jest teraz obecnie robione?
+		3. czy ktoś razem ze mną może usiąść i pokazać mi system, jak to działa?
