@@ -10,7 +10,8 @@
 		1. jakie są wymagania biznesowe?
 		2. jakie są wymagania techniczne? (latency, przepustowość, pamięć itd.)
 		3. czego system MLowy nie może robić?
-		4. ile może kosztować system M
+		4. ile może kosztować system MLowy?
+		5. jaką mamy technologię? (GPU, chmura)
 	3. Obecne podejście
 		1. jaki jest problem z obecnym podejściem?
 		2. jakie generuje obecnie wyniki (zysk/koszt)?
@@ -20,4 +21,6 @@
 		1. dlaczego teraz jest to istotne?
 		2. ile mamy czasu na to?
 		3. jak bardzo jest to pilne?
-3. 
+	5. Wdrożenie
+		1. w czym to będzie wdrożone?
+		2. jak wygląda ten system? apka? (przeklikaj ją, nabierz ko)
