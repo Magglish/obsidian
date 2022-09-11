@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-09
-sr-interval: 3
-sr-ease: 229
+sr-due: 2022-09-12
+sr-interval: 1
+sr-ease: 209
 ---
 
 # Linux
