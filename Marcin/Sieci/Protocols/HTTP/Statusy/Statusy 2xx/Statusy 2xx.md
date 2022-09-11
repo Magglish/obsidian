@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-08
-sr-interval: 24
-sr-ease: 270
+sr-due: 2022-11-10
+sr-interval: 60
+sr-ease: 290
 ---
 
 # [[Statusy w HTTP|Statusy]] 2xx w HTTP
