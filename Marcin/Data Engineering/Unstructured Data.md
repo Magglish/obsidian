@@ -1,5 +1,6 @@
 
 
+Przykłady: text, obrazki, video
 
 Zalety:
-1. Nie ma strukt
+1. Nie ma [[Structured Data|struktury]]
