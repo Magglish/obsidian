@@ -1,2 +1,2 @@
 # Data serialization
-Data serialization
+Data serialization to proces, który polega na przetworzeniu obiektów/struktur danych do takiego formatu który może być przechowywany, transmitowany czy zrekonstruowany w przyszłości. Przykładowymi formatami są CSV, JSON, Parquet, Avro, Pickel, Feather itd.
