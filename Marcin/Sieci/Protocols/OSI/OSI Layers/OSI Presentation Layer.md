@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-10
-sr-interval: 4
-sr-ease: 250
+sr-due: 2022-09-26
+sr-interval: 15
+sr-ease: 270
 ---
 
 # OSI Presentation Layer

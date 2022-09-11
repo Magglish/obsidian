@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-11
-sr-interval: 27
-sr-ease: 291
+sr-due: 2022-11-10
+sr-interval: 60
+sr-ease: 311
 ---
 
 # Kernel mode
