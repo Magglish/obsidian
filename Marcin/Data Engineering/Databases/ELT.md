@@ -1,2 +1,3 @@
+# ELT
 # ETL
 ETL (Extract, Transform, Load) ogólne przetwarzanie danych polegające na wydobyciu/pobraniu z różnych źródeł danych (*extract*) następnie przetransformowaniu do odpowiedniej postaci (*transform*) i następnie załadowaniu do źródeł danych z których finalnie będziemy korzystać (*load*). Stosowany głównie w [[Relational Database|bazach relacyjnych]] czy [[Data Warehouse|hurtowniach danych]].
