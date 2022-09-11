@@ -1,5 +1,5 @@
 # CSV
-CSV (Comma-Separated Values) to 
+CSV (Comma-Separated Values) to pliki tekstowe, w których wartości rozdzielone są przecinkami. 
 
 
 Cechy: 
