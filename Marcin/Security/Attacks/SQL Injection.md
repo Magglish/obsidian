@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-10
-sr-interval: 26
-sr-ease: 290
+sr-due: 2022-11-10
+sr-interval: 60
+sr-ease: 310
 ---
 
 # SQL Injection
