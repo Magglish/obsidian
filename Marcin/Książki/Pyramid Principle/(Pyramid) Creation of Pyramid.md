@@ -14,3 +14,9 @@ Sposób stworzenia piramidy:
 	2. Następnie przedstaw Problem/Komplikacje, w taki sposób aby powstały mu w głowie pytania najlepiej te, które zapisałeś w piramidzie
 	3. Jeżeli stało się, że Pytania mogą być inne, to zmień je w piramidzie na te które właśnie teraz powstały, lub może masz zły opis Problemu/Komplikacji, albo właśnie złe pytania - trzeba to przeanalizować
 	4. Wszystkie te powyższe kroki są po to aby być pewnym pytań jakie powinny pojawić się w piramidzie - później już pójdzie z górki
+
+
+**Tipy do tworzenia piramidy:**
+1. Zawsze spróbuj metody top-down, w ostateczności metoda bottom up
+2. Zawsze zacznij myslenie od określenia Sytuacji
+3. 
