@@ -3,7 +3,7 @@
 
 **Inna struktura:**
 
-![[Pasted image 20220914210633.png]]
+![[Pyramid Inna Strutktura.png]]
 
 Sposób stworzenia piramidy:
 1. Narysuj boxa startowego, na górze i napisz w nim temat o którym dyskutujemy.
