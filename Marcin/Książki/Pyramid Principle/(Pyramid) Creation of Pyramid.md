@@ -9,3 +9,4 @@ Sposób stworzenia piramidy:
 	1. należy zatem zgodnie z [[(Pyramid) Logic in Writing|introductiory flow]] wziąc temat (punkt 1 powyżej) zidentyfikować Sytuacje, i najlepiej opisać ją w taki sposób aby słuchacz/czytelnik się z nią zgodził. 
 	2. Następnie przedstaw Problem/Komplikacje, w taki sposób aby powstały mu w głowie pytania najlepiej te, które zapisałeś w piramidzie
 	3. Jeżeli stało się, że Pytania mogą być inne, to zmień je w piramidzie na te które właśnie teraz powstały, lub może masz zły opis Problemu/Komplikacji, albo właśnie złe pytania - trzeba to przeanalizować
+	4. Wszystkie te powyższe kroki są po to aby być pewnym pytań jakie powinny pojawić się w piramidzie - później już pójdzie z górki
