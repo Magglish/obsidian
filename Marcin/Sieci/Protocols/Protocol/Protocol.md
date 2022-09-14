@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-13
-sr-interval: 29
-sr-ease: 290
+sr-due: 2022-11-13
+sr-interval: 60
+sr-ease: 310
 ---
 
 # Protocol
