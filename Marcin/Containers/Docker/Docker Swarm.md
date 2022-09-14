@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-12
-sr-interval: 19
-sr-ease: 201
+sr-due: 2022-11-04
+sr-interval: 51
+sr-ease: 221
 ---
 
 # Docker Swarm
