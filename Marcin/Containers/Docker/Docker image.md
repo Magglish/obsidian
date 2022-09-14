@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-14
-sr-interval: 21
-sr-ease: 216
+sr-due: 2022-11-08
+sr-interval: 55
+sr-ease: 236
 ---
 
 # Docker image
