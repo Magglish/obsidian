@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-14
-sr-interval: 30
-sr-ease: 267
+sr-due: 2022-11-13
+sr-interval: 60
+sr-ease: 287
 ---
 
 # URL
