@@ -15,6 +15,20 @@ Komu:
 3. `o` - wszystkim pozostałym
 4. `a` - wszystkim (bez rozróżnienia)
 
+Nadawanie uprawnień skrócone:
+0: bez uprawnień 
+1: execute
+2: write
+3: write i execute
+4: read
+5: read i execute
+6: read i write
+7: read, write i execute
+
+
 Przykłady:
 Nadanie uprawnień użytkownikowi
 `chmod u+rwx <<NAZWA_PLIKU>>`
+Odjęcie wszystkich uprawnień wszystkim 
+`chmod a-rwx <<NAZWA_PLIKU>>`
+Nadanie upraw
