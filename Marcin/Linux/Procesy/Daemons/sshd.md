@@ -1,2 +1,2 @@
 # sshd
-sshd to [[Daemons|daemon]], który odpowiedzialny jest za połączenia [[SSH]]. 
+sshd to [[Daemon|daemon]], który odpowiedzialny jest za połączenia [[SSH]]. 

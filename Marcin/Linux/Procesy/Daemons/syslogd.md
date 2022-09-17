@@ -1,2 +1,2 @@
 # syslogd
-journald to [[Daemons|daemon]], który odpowiedzialny jest za logowanie. 
+journald to [[Daemon|daemon]], który odpowiedzialny jest za logowanie. 
