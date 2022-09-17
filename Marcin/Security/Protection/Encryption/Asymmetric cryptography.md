@@ -7,6 +7,7 @@ Idea działania jest następująca:
 2. Adresat otrzymuje wiadomość zaszyfrowaną swoim kluczem publicznym przeze mnie
 3. Używa w tym celu swoje klucza prywatnego aby sparować go z publicznym i w ten sposób odszyfrowuje wiadomość
 
+![[Assymetric cryptography.png|400]]
 
 Zalety:
 1. Zdecydowanie większe bezpieczeństwo
