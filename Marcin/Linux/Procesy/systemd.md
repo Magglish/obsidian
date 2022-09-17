@@ -6,4 +6,5 @@ Cechy:
 2. systemd jest jednym z [[Daemon|daemonów]], zatem działa w tle
 3. zastąpił [[SysV init]]
 4. systemd zarządza procesami poprzez [[cgroups]] a nie poprzez ich [[PID|PIDy]]
-5. 
+
+#review
