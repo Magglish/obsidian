@@ -1,0 +1,1 @@
+# Najważniejsze komendy w Linuxie
