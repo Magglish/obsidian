@@ -2,6 +2,10 @@
 
 #### Sieć:
 1. [[ssh]]
+2. [[ifconfig]]
+3. [[ping]]
+4. [[ip]]
+5. 
 
 #### Uprawnienia:
 1. [[chmod]]
