@@ -30,11 +30,19 @@
 7. [[wc]]
 
 #### Analiza logów
-1. [[]]
+1. [[secure]]
 
 #### Uprawnienia:
 1. [[chmod]]
 2. [[usermod]]
+
+#### Diagnostyczne
+1. [[history]]
+2. [[uname]]
+3. [[iotop]]
+4. [[iostat]]
+5. [[vmstat]]
+6. [[free]]
 
 #### Inne
 1. [[ls]]
@@ -44,4 +52,4 @@
 5. [[reset]]
 6. [[users]]
 7. [[su]]
-8. [[history]]
+
