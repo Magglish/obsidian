@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-17
-sr-interval: 24
-sr-ease: 228
+sr-due: 2022-11-16
+sr-interval: 60
+sr-ease: 248
 ---
 
 # HTTP
