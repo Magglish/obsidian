@@ -31,4 +31,5 @@ Nadanie uprawnień użytkownikowi
 `chmod u+rwx <<NAZWA_PLIKU>>`
 Odjęcie wszystkich uprawnień wszystkim 
 `chmod a-rwx <<NAZWA_PLIKU>>`
-Nadanie upraw
+Nadanie uprawnien uzytkownikowi, grupie i pozostalych
+`chmod 760 <<NAZWA_PLIKU>>`
