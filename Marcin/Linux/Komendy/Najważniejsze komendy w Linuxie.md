@@ -32,6 +32,7 @@
 
 #### Analiza logów
 1. [[secure]]
+2. [[journalctl]]
 
 #### Uprawnienia:
 1. [[chmod]]
