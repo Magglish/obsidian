@@ -8,7 +8,7 @@
 5. [[route]]
 6. [[dig]]
 7. [[nc]]
-8. [[iptables]]
+8. [[iptables-save]]
 9. [[curl]]
 
 #### Uprawnienia:
