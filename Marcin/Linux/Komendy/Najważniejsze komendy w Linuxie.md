@@ -5,7 +5,11 @@
 2. [[ifconfig]]
 3. [[ping]]
 4. [[ip]]
-5. 
+5. [[route]]
+6. [[dig]]
+7. [[nc]]
+8. [[iptables]]
+9. [[curl]]
 
 #### Uprawnienia:
 1. [[chmod]]
