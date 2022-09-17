@@ -1,8 +1,11 @@
 # Najważniejsze komendy w Linuxie
 
+#### Sieć:
+1. [[ssh]]
+
 #### Uprawnienia:
 1. [[chmod]]
-2. 
+2. [[usermod]]
 
 #### Inne
 1. [[ls]]
