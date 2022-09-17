@@ -33,3 +33,4 @@ Odjęcie wszystkich uprawnień wszystkim
 `chmod a-rwx <<NAZWA_PLIKU>>`
 Nadanie uprawnien uzytkownikowi, grupie i pozostalych
 `chmod 760 <<NAZWA_PLIKU>>`
+#review

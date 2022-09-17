@@ -4,3 +4,4 @@
 Typowe zastosowanie:
 1. Zapisanie użytkownika do jakiejś grupy
 `usermod -a -G <<GRUPA>> <<USER>>`
+#review
