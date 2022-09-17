@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-15
-sr-interval: 22
-sr-ease: 230
+sr-due: 2022-11-16
+sr-interval: 60
+sr-ease: 250
 ---
 
 # Firewall
