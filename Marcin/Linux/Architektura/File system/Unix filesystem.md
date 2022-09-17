@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-15
-sr-interval: 4
-sr-ease: 270
+sr-due: 2022-10-06
+sr-interval: 19
+sr-ease: 290
 ---
 
 # Unix filesystem
