@@ -1,5 +1,9 @@
 # Najważniejsze komendy w Linuxie
 
+#### Uprawnienia:
+1. [[chmod]]
+2. 
+
 #### Inne
 1. [[ls]]
 2. [[groups]]
@@ -9,4 +13,3 @@
 6. [[users]]
 7. [[su]]
 8. [[history]]
-9. [[chmod]]
