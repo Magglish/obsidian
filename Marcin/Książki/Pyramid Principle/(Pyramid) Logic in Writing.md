@@ -8,9 +8,10 @@
 
 **Sytuacja:**
 1. opis sytuacji rozpoczyna sie od zdan, z ktorymi czytelnik sie na pewno zgodzi i wie o tym - w sytuacji gdy nie jestemy w stanie takiej sytuacji przedstawic, mamy zatem problem z określeniem Przedmiotu o którym będziemy pisać, albo znajdujesz sie w zlej sytuacji aby to przedstawic
-2. 
+2. opis sytuacji ma umiescic czytelnika w czasie i przestrzeni, w konkretnym kontekście w którym zada pytania na który jesteś przygotowany
 
 **Komplikacja:**
+1. 
 
 **Pytanie:**
 
