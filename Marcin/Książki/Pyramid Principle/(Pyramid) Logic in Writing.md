@@ -4,7 +4,7 @@
 
 ![[Pyramid QA.png]]
 
-3. Ale zanim przedstawiamy idee w piramidzie, warto w formie opowieści zaprezentować początek, kontekst i sytuację (*narrative introductory flow*) - **sytuacja, problem/komplikacje, pytanie, odpowiedź**.
+3. Ale zanim przedstawiamy idee w piramidzie, warto w formie opowieści zaprezentować początek, kontekst i sytuację (*narrative introductory flow*) - **sytuacja, problem/komplikacje, pytanie, odpowiedź S-Q-C-A)**.
 
 **Sytuacja:**
 1. opis sytuacji rozpoczyna sie od zdan, z ktorymi czytelnik sie na pewno zgodzi i wie o tym - w sytuacji gdy nie jestemy w stanie takiej sytuacji przedstawic, mamy zatem problem z określeniem Przedmiotu o którym będziemy pisać, albo znajdujesz sie w zlej sytuacji aby to przedstawic
@@ -26,4 +26,6 @@
 3. Main Point - czyli odpowiedzi, najlepiej przedstawione na początku w punktach (key lines) - daje to czytelnikowi od razu odpowiedź i sam decyduje czy chce czytać szczegóły czy nie. 
 4. Key lines powinny być zapisane jako idee
 5. A konkretne nagłówki w dalszych dokumencie to wyjaśnienie konkretnych punktów (key lines) - **nie stosujemy żadnych nagłówków typu Introduction, Conclussions itd.**
-6. Długość dokumentu zależy od potrzeb czytelnika
+![[Key Lines.png]]
+6. Key lines też mają strukturę S-Q-C-A
+7. Długość dokumentu zależy od potrzeb czytelnika
