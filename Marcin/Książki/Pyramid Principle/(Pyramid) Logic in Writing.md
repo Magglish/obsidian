@@ -18,3 +18,6 @@
 **Pytanie:**
 
 **Odpowiedź:**
+
+#### Struktura dokumentu
+![[Struktura dokumentu.png]]
