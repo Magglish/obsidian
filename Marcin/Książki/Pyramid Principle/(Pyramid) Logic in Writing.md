@@ -12,7 +12,8 @@
 3. opis sytuacji ma umiescic czytelnika w czasie i przestrzeni, w konkretnym kontekście w którym zada pytania na który jesteś przygotowany
 
 **Komplikacja:**
-1. Komplikacja jest kontynuacją Sytuacji i  
+1. Komplikacja jest kontynuacją Sytuacji i opisuje co się wydarzyło dalej, aby móc zadać konkretne pytania:
+![[Situation and Complication.png]]
 
 **Pytanie:**
 
