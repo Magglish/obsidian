@@ -4,4 +4,4 @@
 
 ![[Pyramid QA.png]]
 
-9. Ale zanim przedstawiamy idee w piramidzie, warto w formie opowieści zaprezentować początek, kontekst i sytuację (*narrative introductory flow*) - **sytuacja, problem/komplikacje, pytanie, odpowiedź**.
+3. Ale zanim przedstawiamy idee w piramidzie, warto w formie opowieści zaprezentować początek, kontekst i sytuację (*narrative introductory flow*) - **sytuacja, problem/komplikacje, pytanie, odpowiedź**.
