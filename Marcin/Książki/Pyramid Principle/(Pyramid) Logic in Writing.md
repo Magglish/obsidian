@@ -23,6 +23,11 @@
 	4. Dlaczego to się stało?
 
 **Odpowiedź:**
+1. Odpowiedzi na postawione wyżej pytania:
+	1. ...
+	2. Najczęściej przedstawione w formie kroków/etapów
+	3. ...
+	4. ...
 
 #### Struktura dokumentu
 ![[Struktura dokumentu.png]]
