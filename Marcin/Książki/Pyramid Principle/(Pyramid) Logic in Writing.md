@@ -22,4 +22,5 @@
    Powyższe jest lepsze niż poniższe:
    ![[Deductive writing.png]]
    Ponieważ w drugim podejściu czytelnik musi trzymać w pamiętaci co jest złe (A1, B1, C1) a potem powody (A2, B2, C2) aby dojść do konkluzji - "You must change"
+   Po drugie: najlepiej na początku przedstawić akcje, a potem powody dlaczego - akcja bardziej interesuje czytelnika.
    
