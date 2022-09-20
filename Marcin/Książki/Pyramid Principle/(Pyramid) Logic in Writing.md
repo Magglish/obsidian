@@ -23,4 +23,5 @@
    ![[Deductive writing.png]]
    Ponieważ w drugim podejściu czytelnik musi trzymać w pamiętaci co jest złe (A1, B1, C1) a potem powody (A2, B2, C2) aby dojść do konkluzji - "You must change"
    Po drugie: najlepiej na początku przedstawić akcje, a potem powody dlaczego - akcja bardziej interesuje czytelnika.
-   Ale z kolei myślenie dedukcyjne można uruchomić na niższych poziomach piramidy
+   Ale z kolei myślenie dedukcyjne można uruchomić na niższych poziomach piramidy, ale ograniczajmy się do maks 4 punktów/powiązań.
+   
