@@ -10,3 +10,4 @@ Polega na tym, aby zebrać pomysły/idee podobne do siebie i następnie na ich p
 
 #### Różnice
 1. Myślenie dedukcyjne jest łatwiejsze niż indukcyjne, dlatego w większości przypadków jest ono "wybierane".
+2. W myśleniu dedukcyjnym zawsze kolejny punkt będzie komentował/wspominał o podmiocie lub orzeczeniu z poprzedniego punktu. Jeśli tak nie jest - powinieneś zatem spróbować określić je jakoś/zgru
