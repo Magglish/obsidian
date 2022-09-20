@@ -25,8 +25,12 @@
 **Odpowiedź:**
 1. Odpowiedzi na postawione wyżej pytania:
 	1. ...
-	2. Najczęściej przedstawione w formie kroków/etapów
-	3. ...
+	2. Najczęściej przedstawione w formie kroków/etapów jak to zrobić
+	3. Przedstawiamy argumenty ZA np. 
+	   - rozwiązanie nie może poczekać
+	   - ta akcja rozwiąże problem
+	   - oprócz tego zyskamy jeszcze X i Y
+	   - jakieś uzasadnienie finansowe
 	4. ...
 
 #### Struktura dokumentu
