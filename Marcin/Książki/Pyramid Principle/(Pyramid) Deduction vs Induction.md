@@ -9,3 +9,4 @@ Polega na tym, aby przedstawić linie/kolejność rozumowania krok po kroku, kt�
 Polega na tym, aby zebrać pomysły/idee podobne do siebie i następnie na ich podstawie stworzyć jakiś wniosek/konkluzje.
 
 #### Różnice
+1. Myślenie dedukcyjne jest łatwiejsze niż indukcyjne, dlatego w większości przypadków jest ono "wybierane".
