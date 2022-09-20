@@ -23,3 +23,8 @@ Polega na tym, aby zebrać pomysły/idee podobne do siebie i następnie na ich p
    1. *The fact that American businessmen will soon be entering the market is sute to stimulate them further*
    2. *American businessmen are escalating theri drive for the Chinese market*
       Pierwszy z nich to myślenie dedukcyjne, drugi to myślenie indukcyjne.
+      W myśleniu indukcyjnym możemy zastosować dwa podejścia:
+      1) Albo nie zmieniamy tematu, a zmieniamy podmiot
+         ![[Indukcyjne vs Dedukcyjne 3.png]]
+      2) Albo zmieniamy temat, ale nie zmieniamy podmiotu
+         ![[Indukcyjne vs Dedukcyjne 4.png]]
