@@ -27,6 +27,6 @@
 4. Key lines powinny być zapisane jako idee
 5. A konkretne nagłówki w dalszych dokumencie to wyjaśnienie konkretnych punktów (key lines) - **nie stosujemy żadnych nagłówków typu Introduction, Conclussions itd.**
 ![[Key Lines.png]]
-6. Key lines też mają strukturę S-Q-C-A
+6. Key lines też mogą przyjąć strukturę S-Q-C-A
 7. Key Lines (czyli Twoje idee) też są powiązane ze sobą w opisie, zatem 1-wszy Key Line nawiązuje do tego dlaczego ten temat ważny, a kolejne key line mogą nawiązać do poprzednich.
 8. Długość dokumentu zależy od potrzeb czytelnika
