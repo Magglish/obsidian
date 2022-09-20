@@ -7,3 +7,5 @@ runlevel to inaczej tryb w którym znajduje się [[System V]] po uruchomieniu. J
 4. User definable - dla specjalnego zastosowania
 5. Full mode
 6. Reboot - wyłącza urządzenie
+
+#review
