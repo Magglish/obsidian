@@ -17,4 +17,9 @@
 6. Key lines też mogą przyjąć strukturę S-Q-C-A
 7. Key Lines (czyli Twoje idee) też są powiązane ze sobą w opisie, zatem 1-wszy Key Line nawiązuje do tego dlaczego ten temat ważny, a kolejne key line mogą nawiązać do poprzednich.
 8. Długość dokumentu zależy od potrzeb czytelnika
-9. W pisaniu najlepiej używać [[(Pyramid) Deduction vs Induction|indukcyjnego sposobu myślenia]].
+9. W pisaniu najlepiej używać [[(Pyramid) Deduction vs Induction|indukcyjnego sposobu myślenia]], ponieważ łatwiej jest wchłonąc informacje:
+   ![[Inductive writing.png]]
+   Powyższe jest lepsze niż poniższe:
+   ![[Deductive writing.png]]
+   Ponieważ w drugim podejściu czytelnik musi trzymać w pamiętaci co jest złe (A1, B1, C1) a potem 
+   
