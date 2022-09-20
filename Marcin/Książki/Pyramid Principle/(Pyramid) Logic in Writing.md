@@ -19,7 +19,8 @@
 1. Najczęściej stawiane pytania:
 	1. Co powinniśmy zrobić?
 	2. Jak to powinniśmy zrobić?
-	3. Czy powinniśm
+	3. Czy powinniśmy to zrobić?
+	4. Dlaczego to się stało?
 
 **Odpowiedź:**
 
