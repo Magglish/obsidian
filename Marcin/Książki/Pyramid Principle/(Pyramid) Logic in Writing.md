@@ -4,7 +4,7 @@
 
 ![[Pyramid QA.png]]
 
-3. Ale zanim przedstawiamy idee w piramidzie, warto w formie opowieści zaprezentować początek, kontekst i sytuację (*narrative introductory flow*) - **sytuacja, problem/komplikacje, pytanie, odpowiedź ([[(Pyramid) S-C-Q-A|S-Q-C-A]])**.
+3. Po narysowaniu sobie idei w piramidzie, w formie opowieści opisujemy [[(Pyramid) S-C-Q-A|sytuacje, komplikacje, pytania, odpowiedzi]]).
 
 #### Struktura dokumentu
 ![[Struktura dokumentu.png]]
@@ -23,4 +23,4 @@
    ![[Deductive writing.png]]
    Ponieważ w drugim podejściu czytelnik musi trzymać w pamiętaci co jest złe (A1, B1, C1) a potem powody (A2, B2, C2) aby dojść do konkluzji - "You must change"
    Po drugie: najlepiej na początku przedstawić akcje, a potem powody dlaczego - akcja bardziej interesuje czytelnika.
-   
+   Ale z kolei myślenie dedukcyjne można uruchomić na niższych poziomach piramidy
