@@ -24,7 +24,7 @@
 
 **Odpowiedź:**
 1. Odpowiedzi na postawione wyżej pytania:
-	1. ...
+	1. Powinniśmy przedstawić rozwiązanie, które w pełni rozwiązuje dany problem i
 	2. Najczęściej przedstawione w formie kroków/etapów jak to zrobić
 	3. Przedstawiamy argumenty ZA np. 
 	   - rozwiązanie nie może poczekać
