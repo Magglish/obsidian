@@ -24,14 +24,15 @@
 
 **Odpowiedź:**
 1. Odpowiedzi na postawione wyżej pytania:
-	1. Powinniśmy przedstawić rozwiązanie, które w pełni rozwiązuje dany problem i
+	1. Powinniśmy przedstawić rozwiązanie, które w pełni rozwiązuje dany problem i uargumentować je dlaczego jest najlepsze. 
+	   W sytuacji gdy takiego rozwiązania nie mamy, możemy przedstawić różne sposoby rozwiązania które w pełni problemu nie adresują, ale jego część i porównać je z innymi. 
 	2. Najczęściej przedstawione w formie kroków/etapów jak to zrobić
 	3. Przedstawiamy argumenty ZA np. 
 	   - rozwiązanie nie może poczekać
 	   - ta akcja rozwiąże problem
 	   - oprócz tego zyskamy jeszcze X i Y
 	   - jakieś uzasadnienie finansowe
-	4. ...
+	4. Opis sytuacji, logicznie, od początku do końca
 
 #### Struktura dokumentu
 ![[Struktura dokumentu.png]]
