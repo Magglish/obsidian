@@ -4,3 +4,7 @@ W systemie RSA klucze generowane są na bazie dwóch bardzo dużych liczb pierws
 #review
 
 - which
+
+
+
+flaga s (suit) w chmod
