@@ -21,5 +21,5 @@
    ![[Inductive writing.png]]
    Powyższe jest lepsze niż poniższe:
    ![[Deductive writing.png]]
-   Ponieważ w drugim podejściu czytelnik musi trzymać w pamiętaci co jest złe (A1, B1, C1) a potem 
+   Ponieważ w drugim podejściu czytelnik musi trzymać w pamiętaci co jest złe (A1, B1, C1) a potem powody (A2, B2, C2) aby dojść do konkluzji - "You must change"
    
