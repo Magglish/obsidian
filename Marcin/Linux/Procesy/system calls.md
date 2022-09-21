@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-18
-sr-interval: 7
-sr-ease: 195
+sr-due: 2022-10-14
+sr-interval: 23
+sr-ease: 215
 ---
 
 # system calls
