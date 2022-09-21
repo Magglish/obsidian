@@ -1,3 +1,9 @@
+---
+sr-due: 2022-09-24
+sr-interval: 3
+sr-ease: 232
+---
+
 # systemd
 systemd to system do zarządzania procesami, urządzeniami, logowaniem do systemu, siecią oraz logowaniem w systemach [[Linux|Linuxowych]]. 
 
