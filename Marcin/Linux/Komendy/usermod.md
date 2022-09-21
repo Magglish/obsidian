@@ -1,3 +1,9 @@
+---
+sr-due: 2022-09-23
+sr-interval: 2
+sr-ease: 220
+---
+
 # usermod
 `usermod` służy do modyfikacji konkretnego użytkownika.
 
