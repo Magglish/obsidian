@@ -1,3 +1,9 @@
+---
+sr-due: 2022-09-23
+sr-interval: 2
+sr-ease: 220
+---
+
 # chmod
 `chmod` służy do nadania uprawnień do plików
 
@@ -5,6 +11,7 @@ Uprawnienia:
 1. `r` - czytania
 2. `w` - zapisu
 3. `x` - uruchomienia
+4. `s` - inaczej()
 Nadawanie:
 1. `-` - zabierz
 2. `+` - dodaj
