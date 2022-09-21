@@ -1,3 +1,9 @@
+---
+sr-due: 2022-09-23
+sr-interval: 2
+sr-ease: 221
+---
+
 # Symmetric cryptography
 Symmetric cryptography opiera się o szyfrowanie kluczem, który zarówno adresat i odbiorca je posiada. 
 
