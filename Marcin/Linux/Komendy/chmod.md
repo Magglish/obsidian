@@ -11,7 +11,7 @@ Uprawnienia:
 1. `r` - czytania
 2. `w` - zapisu
 3. `x` - uruchomienia
-4. `s` - inaczej()
+4. `s` - inaczej (*suit*)
 Nadawanie:
 1. `-` - zabierz
 2. `+` - dodaj
