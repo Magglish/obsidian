@@ -1,2 +1,2 @@
 # Snowball sampling
-Snowball [[Sampling|sampling]]  polega na wyborze próbki na podstawie po prostu ich dostępności.
+Snowball [[Sampling|sampling]] polega na wyborze małej próbki, a następnie korzystając z danych z tej małej próbki spróbować powiększyć próbkę, np. scrapujesz kilka kont Twittera i następnie pozyskujesz kolejne konta poprzez wykorzystanie połączeń między tymi kontami co masz, a nowymi.
