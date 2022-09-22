@@ -9,6 +9,7 @@ Samplowanie danych to nic innego jak pewien sposób na wybór podbróbki danych:
 2. [[Snowball sampling]]
 3. [[Judgement sampling]]
 4. [[Quota sampling]]
+
 **Metody samplowania probabilistyczne:**
 1. [[Random Sampling]]
 2. [[Stratisfied Sampling]]
