@@ -1,4 +1,2 @@
 # Stratisfied Sampling
-Stratisfied [[Sampling|sampling]] to wybór próbki danych w sposób losowy, tzn. każda z obserwacji ma takie same prawdopodobieństwo znalezienia się w próbce.
-
-Minusem jest to, że przy bardzo małej reprezentatywności niektórych kategorii, możemy nie otrzymać tych obserwacji.
+Stratisfied [[Sampling|sampling]] to wybór próbki danych w sposób losowy, ale w taki sposób aby maksymalnie zachować rozkład w oryginalnej populacji i aby mieć gwarancję by mieć obserwacje z każdej kategorii, w szczególności mało licznej - jest to odpowiedź na wadę w [[Random Sampling|random sampling]]. 
