@@ -1,2 +1,2 @@
 # Weak supervision
-Weak supervision to sposób na nadawanie labelek/wykonywanie predykcji na podstawie ręcznie wygenerowanych heurystyk/reguł/regexów itd. Nie potrzebne są już prawdziwe labelki, ale jeżeli są to mogą wspomóc tworzenie lepszych reguł [[snorkel]]
+Weak supervision to sposób na nadawanie labelek/wykonywanie predykcji na podstawie ręcznie wygenerowanych heurystyk/reguł/regexów itd. Nie potrzebne są już prawdziwe labelki, ale jeżeli są to mogą wspomóc tworzenie lepszych reguł - popularną biblioteką do tego jest [[snorkel]].
