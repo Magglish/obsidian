@@ -1,0 +1,2 @@
+# Weighted Sampling
+Weighted [[Sampling|sampling]] to wybór próbki danych w sposób losowy, ale prawdopodobieństwo wylosowania obserwacji zależy od pewnych charakterystych, na podstawie których konstruowane są wagi.
