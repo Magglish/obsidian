@@ -1,2 +1,2 @@
 # SMOTE
-SMOTE (Synthetic Minority [[Oversampling]] Technique) 
+SMOTE (Synthetic Minority [[Oversampling]] Technique) algorytm polegający na 
