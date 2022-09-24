@@ -16,11 +16,12 @@
 
 #### Procesy:
 1. [[ps]]
-2. [[isof]]
+2. [[lsof]]
 3. [[atop]]
 4. [[htop]]
 5. [[top]]
 6. [[systemctl]]
+7. [[kill]]
 
 #### Praca nad tekstem
 1. [[grep]]
