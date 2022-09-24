@@ -1,2 +1,2 @@
 # htop
-Komenda `htop` pozwala na analizę bierzącego użycia maszyny pod względem CPU, RAM itd. Jest dokładniejszym odpowiednikiem komendy [[top]].
+Komenda `htop` pozwala na analizę bierzącego użycia maszyny pod względem CPU, RAM itd. Jest dokładniejszym odpowiednikiem komendy [[top]] i pozwaladodatkowo  na filtorwanie, wyszukiwanie, ubijanie procesów.
