@@ -2,7 +2,11 @@
 Data Synthesis polega na tworzeniu syntetycznych próbek w CV i NLP
 
 **CV:**
-Połączenie obserwacji z labelkami 
+Połączenie obserwacji z labelkami zero-jedynkowymi w labelki z liczbami zmienno przecinkowymi:
+
+$$ x' = \gamma x_{1} + (1-\gamma)x_{2}$$
+
+**Ale jest to sposób mocno researchowy, nie potwierdzone w wielu zastosowaniach aby działało**
 
 
 **NLP:** 
