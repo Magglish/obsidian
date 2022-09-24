@@ -7,3 +7,4 @@ Rozwiązania:
 3. [[Two-phase learning in class imbalance]]
 4. [[Dynamic sampling]]
 5. [[Adjusting loss functions in class imbalance]]
+6. W jakimś stopniu również można zastosować [[Data Augmentation]]
