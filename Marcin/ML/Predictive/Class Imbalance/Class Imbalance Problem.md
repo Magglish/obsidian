@@ -6,3 +6,4 @@ Rozwiązania:
 2. [[Oversampling]] 
 3. [[Two-phase learning in class imbalance]]
 4. [[Dynamic sampling]]
+5. [[Adjusting loss functions in class imbalance]]
