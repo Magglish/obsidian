@@ -13,3 +13,4 @@ Uzyskujemy informacje o
 `nmap www.facebook.com`
 
 ![[nmap scan.png]]
+#review
