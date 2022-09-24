@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-23
-sr-interval: 2
-sr-ease: 225
+sr-due: 2022-10-04
+sr-interval: 10
+sr-ease: 245
 ---
 
 # route

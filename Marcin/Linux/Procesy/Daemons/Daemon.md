@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-24
-sr-interval: 3
-sr-ease: 238
+sr-due: 2022-10-05
+sr-interval: 11
+sr-ease: 258
 ---
 
 # Daemon

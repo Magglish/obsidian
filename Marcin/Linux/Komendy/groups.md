@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-23
-sr-interval: 2
-sr-ease: 220
+sr-due: 2022-09-30
+sr-interval: 6
+sr-ease: 240
 ---
 
 # groups
