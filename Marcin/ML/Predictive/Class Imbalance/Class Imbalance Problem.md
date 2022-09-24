@@ -3,5 +3,5 @@ Problem kiedy klasy są niedoreprezentowane. Implikuje to fakt, że model może 
 
 Rozwiązania:
 1. [[Undersampling|Undersamplowanie]] danych - wybieramy podzbiór z klas bardziej licznych
-2. [[Undersampling|Oversamplowanie]] danych - kopiujemy obserawcje z klas niedoreprezentowanych
+2. [[Oversampling|Oversamplowanie]] danych - 
 3. 
