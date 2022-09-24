@@ -6,5 +6,3 @@ Rozwiązania:
 2. [[Oversampling]] 
 3. [[Two-phase learning in class imbalance]]
 4. [[Dynamic sampling]]
-
-Nigdy nie nalezy ewaluować modelu na danych zsamplowanych, bo możemy się do nich przeuczyć.

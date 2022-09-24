@@ -1,0 +1,2 @@
+# Dynamic sampling
+Dynamic sampling to połączenie [[Oversampling|oversamplingu]] i [[Undersampling|undersamplingu]] w taki sposób, że w trakcie uczenia obserwacje z klas, na których model gorzej performuje są oversamplowane, a obserawcje z klas, na których model lepiej działa są undersamplowane.
