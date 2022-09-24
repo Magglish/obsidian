@@ -4,3 +4,6 @@ Problem kiedy klasy są niedoreprezentowane. Implikuje to fakt, że model może 
 Rozwiązania:
 1. [[Undersampling]]
 2. [[Oversampling]] 
+3. [[Two-phase learning]]
+
+Nigdy nie nalezy ewaluować modelu na danych zsamplowanych, bo możemy się do nich przeuczyć.
