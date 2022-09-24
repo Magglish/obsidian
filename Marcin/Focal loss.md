@@ -1,1 +1,2 @@
 # Focal loss
+Focal loss to funkcja kosztu, która bierze pod uwagę prawdopodobieństwo tego, że model dobrze oceni daną obserwację. Taką ocenę można określić jako waga, która decyduje jak bardzo skupić się na uczeniu się danych obserwacji - im prawdopodobieństwo niższe (tzn. przypuszczalnie ciężej będzie d)
