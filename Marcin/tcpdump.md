@@ -7,6 +7,6 @@ Komenda `tcpdump` służy do wychwycenia i analizy ruchu sieciowego wychodząceg
 
 ![[tcpdump list interfaces.png]]
 
-`sudo tcpdump --interface any`
+`sudo tcpdump --interface any` - pokazuje jakie paczki danych są wysyłane w czasie rzeczywistym
 
-![[nmap scan.png]]
+![[tcpdump interface any.png]]
