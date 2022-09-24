@@ -1,0 +1,2 @@
+# Class-balanced loss
+W podejściu class-balanced loss chodzi o to, aby zważyć obserwacji wagami opartymi o to jaki błąd model popełnia - im większy błąd, tym większa waga. W szczególności istotne w [[Class Imbalance Problem]].
