@@ -3,6 +3,10 @@ Komenda `tcpdump` służy do wychwycenia i analizy ruchu sieciowego wychodząceg
 
 **Przykład użycia:**
 
-`nmap www.facebook.com`
+`sudo tcpdump --list-interfaces` - pokazuje interfacey ktore mogą przesyłąć dane przez sieć
+
+![[tcpdump list interfaces.png]]
+
+`sudo tcpdump --interface any`
 
 ![[nmap scan.png]]
