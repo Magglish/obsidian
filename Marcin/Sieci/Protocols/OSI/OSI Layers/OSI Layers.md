@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-23
-sr-interval: 12
-sr-ease: 246
+sr-due: 2022-11-01
+sr-interval: 38
+sr-ease: 266
 ---
 
 # OSI Layers
