@@ -10,4 +10,6 @@ Uzyskujemy informacje o
 
 **Przykład użycia:**
 
-`nmap www.facebook`
+`nmap www.facebook.com`
+
+![[nmap scan.png]]
