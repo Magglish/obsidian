@@ -19,7 +19,8 @@
 2. [[isof]]
 3. [[atop]]
 4. [[htop]]
-5. [[systemctl]]
+5. [[top]]
+6. [[systemctl]]
 
 #### Praca nad tekstem
 1. [[grep]]
