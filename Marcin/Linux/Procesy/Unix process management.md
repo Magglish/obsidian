@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-26
-sr-interval: 20
-sr-ease: 203
+sr-due: 2022-11-17
+sr-interval: 52
+sr-ease: 223
 ---
 
 # Unix process management
