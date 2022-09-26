@@ -8,3 +8,4 @@ Najczęściej `ps` stosowane z flagami `aux` aby:
 
 można dodać jeszcze
 **ww** aby otrzymać informacje o wszystkich parametrach procesów
+#review

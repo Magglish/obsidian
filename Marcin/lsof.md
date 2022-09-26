@@ -4,3 +4,4 @@ Komenda `lsof`, czyli ListOpen Files zwraca informacje o tym który plik jest ja
 **Użycie**
 
 `lsof` + odpowiednie parametry do wyfiltrowania wyników
+#review
