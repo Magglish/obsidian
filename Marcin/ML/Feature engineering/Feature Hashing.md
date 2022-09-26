@@ -9,3 +9,6 @@ Definiujemy ile bitów ma mieć przestrzeń (np. 18) co przekłada się na $2^{
 
 **Wykorzystanie:**
 Wtedy kiedy mamy problem ze zmiennymi kategorycznymi, w których non stop zmieniają się kategorie z biegiem czasu (dochodzą nowe, stare się dezaktualizują)
+
+**Implementacja:**
+[scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html)
