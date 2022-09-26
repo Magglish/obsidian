@@ -1,0 +1,2 @@
+# Missing not at random (MNAR)
+Missing not at random (MNAR) oznacza, że brakuje danej wartości ze względu na konkretną wartość. Przykład: ludzie mogą nie podawać dochodu bo wstydzą się, że jest za niski lub za duży. Powodem jest sama wartość, dlatego jej brakuje.
