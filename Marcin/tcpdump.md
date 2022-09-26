@@ -1,3 +1,9 @@
+---
+sr-due: 2022-09-27
+sr-interval: 1
+sr-ease: 180
+---
+
 # tcpdump
 Komenda `tcpdump` służy do wychwycenia i analizy ruchu sieciowego wychodzącego z Twojego systemu. 
 

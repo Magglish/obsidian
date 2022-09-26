@@ -1,3 +1,9 @@
+---
+sr-due: 2022-09-27
+sr-interval: 1
+sr-ease: 180
+---
+
 # namp
 Komenda `nmap` służy do eksploracji sieci i audotywania zabezpieczeń. 
 
