@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-25
-sr-interval: 14
-sr-ease: 270
+sr-due: 2022-11-12
+sr-interval: 47
+sr-ease: 290
 ---
 
 # TCP IP Network Access Layer
