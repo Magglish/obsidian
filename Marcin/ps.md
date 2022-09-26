@@ -1,3 +1,9 @@
+---
+sr-due: 2022-09-28
+sr-interval: 2
+sr-ease: 220
+---
+
 # ps
 Komenda `ps` listuje nam procesy w systemie.
 
