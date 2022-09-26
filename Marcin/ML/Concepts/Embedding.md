@@ -1,0 +1,3 @@
+# Embedding
+*Embedding* to reprezentacja numeryczna danych. Można to sobie wyobrazić jako wektor o konkretnej długości, a w nim wartości numeryczne. Embedingi tworzone są dla reprezentacji, które "naturalnie" nie są liczbami, czyli np. tekst zamieniany jest na embedding. Obrazy też są zamieniane na embeddingi, z racji ich ogromnej wielowymiarowości.
+Ale obecnie embeddingi są stosowane wszędzie, nawet na danych tabelarycznych.
