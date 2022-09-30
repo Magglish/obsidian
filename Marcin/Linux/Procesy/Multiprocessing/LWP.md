@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-27
-sr-interval: 21
-sr-ease: 246
+sr-due: 2022-11-29
+sr-interval: 60
+sr-ease: 266
 ---
 
 # LWP

@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-27
-sr-interval: 16
-sr-ease: 290
+sr-due: 2022-11-29
+sr-interval: 60
+sr-ease: 310
 ---
 
 # OSI Session Layer
