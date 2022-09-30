@@ -14,4 +14,7 @@ Najczęstsze powody:
 4. **Group leakage**
    Część obserwacj może być silnie ze sobą powiązana pod względem labelek, a niestety w wyniku podziału znalazły się zarówno w uczącym jak i testowym zbiorze.
    Przykład: 2 osoby na tym samym wniosku kredytowym, zdjęcia zrobione temu samemu obiektowi w przeciągu krótkiego czasu.
-5. **Leakage **
+   **Poprawnie:** zidentyfikować takie obserwacji i zapewnić że sa w tym samym splicie
+5. **Leakage związany ze sposobem generowania danych**
+   Przykład: zdjęcia generowane z jednego narzędzia mogą być pod jakimś względem inne niż z drugiego narzędzia, przez co model doucza się do danego typu narzędzia. 
+   **Poprawnie:** trudne, ale może się uda to zidentyfikować. Można zmniejszyć to ryzyko np. majac więcej danych zróż
