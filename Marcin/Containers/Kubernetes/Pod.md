@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-09-30
-sr-interval: 24
-sr-ease: 215
+sr-due: 2022-11-29
+sr-interval: 60
+sr-ease: 235
 ---
 
 # Pod
