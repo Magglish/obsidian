@@ -12,4 +12,6 @@ Najczęstsze powody:
    Mając zduplikowane dane w zbiorze, może istniec ryzyko, że część obserwacji identycznych wylosuje się do zbioru treningowego, częśc do zbioru testowego a to wciąż będą te same dane.
    **Poprawnie**: wykonaj deduplikacje
 4. **Group leakage**
-   
+   Część obserwacj może być silnie ze sobą powiązana pod względem labelek, a niestety w wyniku podziału znalazły się zarówno w uczącym jak i testowym zbiorze.
+   Przykład: 2 osoby na tym samym wniosku kredytowym, zdjęcia zrobione temu samemu obiektowi w przeciągu krótkiego czasu.
+5. **Leakage **
