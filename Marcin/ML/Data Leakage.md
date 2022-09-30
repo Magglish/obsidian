@@ -2,7 +2,10 @@
 Data Leakage następuje wtedy kiedy w jakiś sposób informacja o zmiennej celu (`y`) przeniika do danych wejściowych (`x`) i ta informacja nie jest dostępna w momencie inferencji.
 
 #### Wykrywanie data leakage:
-1. Sprawdzanie korelacji i mocy predyktorów względem zmiennej celu, czy nie ma jakichś podejrzanie mega silnych zmiennych
+1. Sprawdzanie korelacji i mocy predyktorów względem zmiennej celu, czy nie ma jakichś podejrzanie mega silnych zmiennych.
+2. Sprawdzanie zmiennych poprzed techniki drop-one-effect, tzn. sprawdzić jak model się pogarsza gdy usuniemy jedną zmienną i jeżeli pogorszył się znacznie to zinwestygować dlaczego.
+3. Monitoruj dodawane nowe zmienne do modelu, zastanów się dlaczego tak bardzo poprawiły model.
+4. Uważaj na wykorzystanie modelu testowego - jeżeli używasz go do optymalizacji hiperparametrów lub nowych featerów to informacja z przyszłości może "przenieść" się do treningu i w efekcie overfittować zbiór testowy.
 
 #### Najczęstsze powody:
 1. **Podział danych zależnych od czasu w sposób losowy (a nie zgodnie z czasem).** 
