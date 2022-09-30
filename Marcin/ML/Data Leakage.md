@@ -4,4 +4,7 @@ Data Leakage następuje wtedy kiedy w jakiś sposób informacja o zmiennej celu
 Najczęstsze powody:
 1. Podział danych zależnych od czasu w sposób losowy (a nie zgodnie z czasem). 
    Przykład: Czyli mamy dane 7 dniowe:
-   poprawnie - pierwsze 6 dni do treningu, 7-my dzień do testu
+   źle - losowo dni do treningu i losowo do testu.
+   poprawnie - pierwsze 6 dni do treningu, 7-my dzień do testu.
+   ![[Pasted image 20220930210137.png]]
+2. 
