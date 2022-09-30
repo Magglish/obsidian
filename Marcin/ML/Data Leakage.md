@@ -11,4 +11,5 @@ Najczęstsze powody:
 3. **Brak deduplikacji danych**
    Mając zduplikowane dane w zbiorze, może istniec ryzyko, że część obserwacji identycznych wylosuje się do zbioru treningowego, częśc do zbioru testowego a to wciąż będą te same dane.
    **Poprawnie**: wykonaj deduplikacje
-4. 
+4. **Group leakage**
+   

@@ -7,3 +7,4 @@ Oversampling polega na wygenerowaniu obserawcje dla klas niedoreprezentowanych:
 
 **Minusy:**
 1. Bardzo duża szansa overfittowania.
+2. Po oversamplingu warto deduplikować dane bo mogą spowodować [[Data Leakage|data leakage (punkt 3)]]
