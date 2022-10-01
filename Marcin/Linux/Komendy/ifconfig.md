@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-01
-sr-interval: 7
-sr-ease: 240
+sr-due: 2022-10-18
+sr-interval: 17
+sr-ease: 260
 ---
 
 # ifconfig
