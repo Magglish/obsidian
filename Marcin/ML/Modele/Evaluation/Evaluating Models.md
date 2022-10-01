@@ -8,4 +8,7 @@ Model można zewaluować na różne sposoby:
 Podczas ewaluacji modeli trzeba odróżnić **dobry system** od **systemu użytecznego**
 
 Sposoby na sprawdzenie modeli:
-1. 
+1. [[Perturbation tests]]
+2. [[Invariance tests]]
+3. [[Directional expectation tests]]
+4. [[Mode]]
