@@ -13,4 +13,5 @@
 #### Unikaj błędów ludzkich w wyborze modeli
 1. Nie fixuj sie na jakiejś konkretnej architekturze, np. porównywałeś MLP z XGBoostem, gdzie przy MLP wykonałeś 1000 eksperymentów, a nad XGB 10. Niech każdy z algorytmów ma taką samą "szanse".
 
-#### 
+#### Najlepszy model teraz nie oznacza najlepszego modelu potem
+1. Ewaluuj różne modele wraz z nowymi danymi - pomocnym w tym celu może być learning curve vs. ilość obserwacji, po to aby nabrać spojrzenia czy więcej danych może poprawić jakość modelu.
