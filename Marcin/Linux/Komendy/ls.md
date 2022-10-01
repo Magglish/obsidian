@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-01
-sr-interval: 7
-sr-ease: 240
+sr-due: 2022-10-20
+sr-interval: 19
+sr-ease: 260
 ---
 
 # ls
