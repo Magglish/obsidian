@@ -4,4 +4,4 @@ Asynchronous Stochastic Gradient Descent to wersja asynchroniczna [[Stochastic G
 ![[Asynchronous Stochastic Gradient Descent.png]]
 
 **Wady:**
-1. Wymaga w
+1. Wymaga więcej iteracji
