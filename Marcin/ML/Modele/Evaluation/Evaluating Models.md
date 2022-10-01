@@ -11,4 +11,6 @@ Sposoby na sprawdzenie modeli:
 1. [[Perturbation tests]]
 2. [[Invariance tests]]
 3. [[Directional expectation tests]]
-4. [[Mode]]
+4. [[Model calibration]]
+5. [[Confidence measurement]]
+6. [[Slice-based evaluation]]
