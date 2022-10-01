@@ -9,3 +9,8 @@
 1. Prostsze modele łatwiej i szybciej zdeployować, dzięki czemu szybko możemy sprawdzić błędy w naszym pipeline.
 2. Zaczynajac od prostszych modeli i iterując dalej, dodając dodatkowe bardziej skomplikowane komponenty, pozwoli na lepsze zrozumienie tego jak model działa.
 3. Proste modele służą jako baseline.
+
+#### Unikaj błędów ludzkich w wyborze modeli
+1. Nie fixuj sie na jakiejś konkretnej architekturze, np. porównywałeś MLP z XGBoostem, gdzie przy MLP wykonałeś 1000 eksperymentów, a nad XGB 10. Niech każdy z algorytmów ma taką samą "szanse".
+
+#### 
