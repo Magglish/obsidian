@@ -3,8 +3,6 @@ Pipeline Parallelism to jedna z technik [[Distributed training]], w której para
 
 ![[Pipeline Parallelism.png]]
 
-![[Pasted image 20221001155121.png]]
-
 Przykład:
 1. Mamy 4 maszyny i na 1-wszej maszynie jest 1-wsza warstwa sieci, na 2-giej 2-ga itd. itd.
 2. Dzielimy batch na jeszcze 4 mikro batche.
