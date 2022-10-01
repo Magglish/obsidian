@@ -1,1 +1,4 @@
 # Boosting
+
+
+![[Boosting.png]]

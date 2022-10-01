@@ -1,1 +1,4 @@
 # Bagging
+
+
+![[Bagging.png]]
