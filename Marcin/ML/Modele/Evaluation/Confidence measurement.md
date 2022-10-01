@@ -1,2 +1,2 @@
 # Confidence measurement
-Confidence measurement oznacza pomiar na każdej obserwa
+Confidence measurement oznacza pomiar na każdej obserwacji, pod warunkiem, że taki pomiar cie bardzo interesuje. Warte w tym celu jest to aby model zwracał też oszacowanie niepewności, aby móc ocenić czy jest pewny predykcji, czy też nie.
