@@ -4,4 +4,4 @@ Model Parallelism to jedna z technik [[Distributed training]], w której paralle
 ![[Model Parallelism.png]]
 
 **Trudności:**
-1. Jeżeli dana warstwa X potrzebuje 
+1. Jeżeli dana warstwa X potrzebuje wyjść z warstwy X-1 to oznacza, że musi poczekać co wydłuża proces uczenia.

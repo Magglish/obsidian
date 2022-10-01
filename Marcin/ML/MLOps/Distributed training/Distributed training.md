@@ -4,3 +4,4 @@ Distributed training to technika uczenia modeli korzystając z wielu maszyn jedn
 Techniki:
 1. [[Data Parallelism]]
 2. [[Model Parallelism]]
+3. [[Pipeline Parallelism]]
