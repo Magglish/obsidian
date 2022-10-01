@@ -4,4 +4,4 @@ Model calibration polega na sprawdzeniu czy faktycznie outputowane prawdopodobie
 **Metody kalibracji:**
 1. [[Platt scaling]]
 
-#dokoncz na podstawie https://www.unofficialgoogledatascience.com/2021/04/why-model-calibration-matters-and-how.html
+#dokoncz na podstawie https://www.unofficialgoogledatascience.com/2021/04/why-model-calibration-matters-and-how.html i https://github.com/gpleiss/temperature_scaling
