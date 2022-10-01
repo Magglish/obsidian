@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-01
-sr-interval: 14
-sr-ease: 230
+sr-due: 2022-11-09
+sr-interval: 39
+sr-ease: 250
 ---
 
 # Reentrant kernel
