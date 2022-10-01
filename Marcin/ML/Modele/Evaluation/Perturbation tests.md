@@ -1,2 +1,2 @@
 # Perturbation tests
-Perturbation tests
+Perturbation tests polegają na dodaniu [[Perturbations|szumu do danych]] aby sprawdzić jak model będzie zachowywał się na takich obserwacjach. Suma sumarum chciałbyś wybrać model który działa najlepiej na takich zaszumionych danych, a nie na idealnie czystych. 
