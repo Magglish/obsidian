@@ -8,3 +8,5 @@ Quantization to metoda polegająca na zredukowaniu bitów użytych do reprezenta
 
 **Wady:**
 1. Redukując reprezentacje liczb, ograniczasz liczby jakie mogą się pojawić - liczby spoza zakresu trzeba albo 0-ować, albo zaokrąglać.
+
+![[Quantization case study.png]]
