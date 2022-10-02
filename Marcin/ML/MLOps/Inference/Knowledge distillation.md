@@ -7,4 +7,4 @@ Przykładem jest [[DistilBERT]], który rozmiarowo jest mniejszy o 40%, czas inf
 1. Niezależny od architektury - studentem może być random forest, a teacherem sieć neuronowa.
 
 **Wady:**
-1. Potrzebny teacher. W przypadku o
+1. Potrzebny teacher. W przypadku open-sourceowych, pretrenowanych modeli może to być skuteczna metoda, ale gdy brakuje teachera to jest nie do użycia, bo stworzenie teachera może kosztować nas bardzo dużo czasu i zasobów.
