@@ -7,4 +7,4 @@ Quantization to metoda polegająca na zredukowaniu bitów użytych do reprezenta
 3. Przyspieszenie modelu - mniejsza precyzja przyspiesza działanie modelu i czas jego inferencji.
 
 **Wady:**
-1. Redukując reprezentacje liczb, ograniczasz liczby jakie mogą się pojawić - liczby spoza zakresu trzeba albo 0-ować, albo zaokrąglać
+1. Redukując reprezentacje liczb, ograniczasz liczby jakie mogą się pojawić - liczby spoza zakresu trzeba albo 0-ować, albo zaokrąglać.
