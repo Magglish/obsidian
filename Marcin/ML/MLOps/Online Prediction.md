@@ -1,2 +1,2 @@
 # Online Prediction
-Online Prediction występuje
+Online Prediction (inaczej określane jako *on-demand prediction*) występuje wtedy kiedy predykcje generowane są i zwracane jak tylko przychodzi request.
