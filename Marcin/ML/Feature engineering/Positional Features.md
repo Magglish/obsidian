@@ -1,0 +1,2 @@
+# Positional Features
+Positional Features to zmienne określające pozycję np. na liście, mogą być wykorzystywane w [[Recommendation engines]] aby zredukować [[(MLSD) Degenerated Feedback Loops|Degenerated Feedback Loop]] 
