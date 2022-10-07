@@ -9,4 +9,4 @@ Te założenie jest bardzo często naruszalne - dane zmieniają się dynamiczni
 W zalezności od tego co model ma robić, edge case mogą go "zabić". Przykładem mogą być modele do autonomicznych aut - nawet jeżeli są one bardziej bezpiecznie niż człowiek, to i tak te pojedyncze przypadki mogą spowodować to, że model nie zostanie wdrożony.
 Innym przykładem mogą być modele w medycynie, kontroli ruchu drogowego.
 
-#### 
+#### Degenerated feedback loops
