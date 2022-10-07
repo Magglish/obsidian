@@ -5,4 +5,4 @@ Kolejnym przykładem mogą być systemy skanujące CV. Jeżeli dopuszczają oni 
 
 **Sposoby wykrycia:**
 Niestety dopóki model nie działa na produkcji, cięzko będzie wykryć degenerated feedback loop. Ale po wdrożeniu go można:
-1. 
+1. W przypadku systemów rekomendacyjnych - można porównac popularność danych rzeczy po wdrożeniu modelu vs. to co było obserwowane wcześniej.
