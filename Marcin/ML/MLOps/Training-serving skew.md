@@ -1,2 +1,2 @@
 # Training-serving skew
-*Training-serving skew* czyli innymi słowy występuje wtedy kiedy model działa świetnie na zbiorze treningowym, na zbiorze testowym też dobrze a jednak po wdrożeniu na produkcje działa słabo. Jest to spowo 
+*Training-serving skew* czyli innymi słowy występuje wtedy kiedy model działa świetnie na zbiorze treningowym, na zbiorze testowym też dobrze a jednak po wdrożeniu na produkcje działa słabo. Jest to spowodowane różnicą w rozkładach pomiędzy danymi uczącymi a tymi, na których model ostatecznie będzie działał i może spowodować [[(MLSD) ML-Specific Failures|"ciche" popsucie się modelu]].
