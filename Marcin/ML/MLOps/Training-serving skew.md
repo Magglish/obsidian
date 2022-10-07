@@ -1,0 +1,2 @@
+# Training-serving skew
+*Training-serving skew* czyli innymi słowy występuje wtedy kiedy model działa świetnie na zbiorze treningowym, na zbiorze testowym też dobrze a jednak po wdrożeniu na produkcje działa słabo. Jest to spowo 
