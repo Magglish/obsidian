@@ -8,3 +8,4 @@ Niestety dopóki model nie działa na produkcji, cięzko będzie wykryć degener
 1. W przypadku systemów rekomendacyjnych - można porównac popularność danych rzeczy po wdrożeniu modelu vs. to co było obserwowane wcześniej. (ale to jeszcze wymaga [większego researchu](https://arxiv.org/abs/2111.09963) jak to się robi)
 
 **Sposoby poprawy**
+1. W przypadku systemów rekomendacyjnych - możemy użyć [randomizacji](https://ieeexplore.ieee.org/document/5680904), tzn. oprócz rekomendowania zawsze najbardziej odpowiednich rzeczy, pokażmy troche losowych.
