@@ -11,4 +11,5 @@ Continual learning możemy wykorzystać do:
 
 Problemy w Continual learning:
 1. Dostęp do nowych danych - może być wydłużony z racji tego, że muszą one przejść daleką ścieżkę zanim będzie można z nich skorzystać
-2. Labelki - dane można otrzymać szybko, ale w niektórych przypadkach trzeba je olab
+2. Labelki - dane można otrzymać szybko, ale w niektórych przypadkach trzeba je olabelować albo nawet poczekać aż labelki będą dostepne (np. klient musi wykonać jakąś akcje, albo musi się coś zadziać - zakupienie produkty, brak zapłaty itd.)
+3. 
