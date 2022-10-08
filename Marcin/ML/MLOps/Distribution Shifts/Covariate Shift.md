@@ -5,3 +5,9 @@ $P(Y)$ - rozkład wyjść `Y`
 
 Covariate shift występuje wtedy gdy rozkład inputów $P(X)$ się zmienia, ale $P(Y|X)$ pozostaje takie same.
 
+Innymi słowy, covariate shift występuje wtedy kiedy mamy różnice w rozkładach zmiennych wtedy gdy uczyliśmy model vs. wtedy gdy model działa na produkcji.
+
+**Powody:**
+1. Selection biases kiedy budowany jest zbiór uczący
+2. Modyfikowanie zbioru gdy mamy problem z niezbalansowanymi klasami
+3. [[Active learning]] może 
