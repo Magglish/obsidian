@@ -7,6 +7,6 @@
 5. zużycie CPU/GPU/RAM
 
 **ML-based metrics**
-![[Pasted image 20221008162237.png]]
+![[ML-based metrics in monitoring models.png]]
 
 
