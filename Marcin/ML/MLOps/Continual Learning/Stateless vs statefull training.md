@@ -1,9 +1,8 @@
 # Stateless vs statefull training
 ![[Stateless and statefull training.png]]
 
-1. W stateless training **uczymy model od zera** na nowych danych, podczas gdy w statefull training (inaczej również określane jako [[Fine-tuning|fine-tuning]]) **douczamy model** na kolejnych nowych danych.
-2. 
-
 | Stateless | Statefull |
 | ---- | --- |
-| 
+| Uczymy model od zera na nowych danych | Douczamy model na kolejnych nowych danych |
+| Może wymagać dużych mocy obliczeniowych | Może wymagać znacznie mniej mocy obliczeniowych |
+| Wymaga przechowania wszystkich danych | Można mieć tylko ostatnie dane (może być przydatne gdy dane są specjalnie chronione) |
