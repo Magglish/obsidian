@@ -10,4 +10,6 @@ Innymi słowy, covariate shift występuje wtedy kiedy mamy różnice w rozkłada
 **Powody:**
 1. Selection biases kiedy budowany jest zbiór uczący
 2. Modyfikowanie zbioru gdy mamy problem z niezbalansowanymi klasami
-3. [[Active learning]] może 
+3. [[Active learning]] i wybór próbek najlepszych może zbiasować zbiór
+4. Duże zmiany w środowisku w którym ma działać model
+5. 
