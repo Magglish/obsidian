@@ -3,3 +3,4 @@ Continual Learning oznacza retrenowanie modelu co jakiś określony czas lub co 
 
 Continual Learning opiera się o :
 1. [[Champion-Challenger approach|Podejście Champion-Challenger]]
+2. Wykorzystuje [[Stateless vs statefull training|stateless lub statefull learning]]
