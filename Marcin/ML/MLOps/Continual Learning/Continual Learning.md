@@ -7,4 +7,5 @@ Continual Learning opiera się o :
 
 Continual learning możemy wykorzystać do:
 1. Zniwelowania [[Distribution Shift|data distribution shifts]]
-2. Zaadaptowanie modelu do rzadkich przypadków/zdarzeń
+2. Zaadaptowanie modelu do rzadkich przypadków/zdarzeń - np. uczenie modelu na zdarzeniach z ostatnich godzin/minut w trakcie trwania Black Friday, żeby model mógł douczyć się do specyfiki danego dnia.
+3. 
