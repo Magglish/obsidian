@@ -12,4 +12,4 @@ Continual learning możemy wykorzystać do:
 Problemy w Continual learning:
 1. Dostęp do nowych danych - może być wydłużony z racji tego, że muszą one przejść daleką ścieżkę zanim będzie można z nich skorzystać.
 2. Labelki - dane można otrzymać szybko, ale w niektórych przypadkach trzeba je [[olabelować|Snorkel]] albo nawet poczekać aż labelki będą dostepne (np. klient musi wykonać jakąś akcje, albo musi się coś zadziać - zakupienie produkty, brak zapłaty itd.). Proces można przyśpieszyć korzystając z [[Stream processing|streamowania]], ale nie jest to takie proste.
-3. 
+3. Ewaluacja modeli - bezpośrednio związana z labelkami. Chcemy szybko updateować model, ale niestety na pewne rzeczy trzeba poczekać. 
