@@ -1,3 +1,7 @@
 # Covariate shift
+$P(Y|X)$ - prawdopodobieństwo warunkowe wyjścia z modelu `Y` pod warunkiem otrzymania inputów `X`
+$P(X)$ - rozkład wejść `X`
+$P(Y)$ - rozkład wyjść `Y`
 
-$P(Y|X)$ - prawdopodobieństwo warunkowe wyjścia z modelu `y` pod warunkiem otrzymania inputów `x`
+Covariate shift występuje wtedy gdy rozkład inputów $P(X)$ się zmienia, ale $P(Y|X)$ pozostaje takie samo
+
