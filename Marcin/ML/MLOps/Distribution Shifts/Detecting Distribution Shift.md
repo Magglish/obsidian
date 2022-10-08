@@ -5,3 +5,4 @@ Metody detekcji [[Distribution Shift|distribution shift]]:
 2. Testy statystyczne na porównanie rozkładów:
 	1. [[Test Kolmogorov-Smirnov]]
 	2. [[Maximum Mean Discrepancy]]
+3. Analizowanie rozkładów zmiennych w czasie
