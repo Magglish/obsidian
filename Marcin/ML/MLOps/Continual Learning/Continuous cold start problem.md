@@ -1,2 +1,2 @@
 # Continuous cold start problem
-Continuous cold start problem mówi o problemie wykonywania predykcji dla klienta, który w ogóle nie ma żadnych danych historycznych o sobie.
+Continuous cold start problem mówi o problemie wykonywania predykcji dla klienta, który w ogóle nie ma żadnych danych historycznych o sobie. Ale tez może dotyczyć do klientów obecnych, którzy zmieniają swoje zachowania diametralnie i nie mamy dla nich danych historycznych aby móc wykonać dobrej jakości predykcje.
