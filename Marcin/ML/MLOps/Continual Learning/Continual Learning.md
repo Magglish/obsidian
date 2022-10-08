@@ -1,2 +1,5 @@
 # Continual Learning
-Continual Learning oznacza retrenowanie modelu co jakiś określony czas lub co jakąś określona liczbę nowych obserwacji. 
+Continual Learning oznacza retrenowanie modelu co jakiś określony czas lub co jakąś określona liczbę nowych obserwacji (np. co 1000 obserwacji, co 1 mikro batch). Napewno nie dotyczy to uczenia co jedną nową  obserwację, bo jest to nieefektywne pod względem kosztowym i czasowym.
+
+Continual Learning opiera się o :
+1. 
