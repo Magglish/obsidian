@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-03
-sr-interval: 9
-sr-ease: 254
+sr-due: 2022-11-25
+sr-interval: 47
+sr-ease: 274
 ---
 
 # iptables-save
