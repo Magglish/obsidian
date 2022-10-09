@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-08
-sr-interval: 8
-sr-ease: 232
+sr-due: 2022-11-02
+sr-interval: 24
+sr-ease: 252
 ---
 
 # systemctl
