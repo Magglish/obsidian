@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-02
-sr-interval: 8
-sr-ease: 240
+sr-due: 2022-11-22
+sr-interval: 44
+sr-ease: 260
 ---
 
 # whoami

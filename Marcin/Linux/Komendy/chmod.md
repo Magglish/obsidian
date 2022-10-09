@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-02
-sr-interval: 8
-sr-ease: 240
+sr-due: 2022-11-19
+sr-interval: 41
+sr-ease: 260
 ---
 
 # chmod
