@@ -2,8 +2,9 @@
 Continual Learning oznacza retrenowanie modelu co jakiś określony czas lub co jakąś określona liczbę nowych obserwacji (np. co 1000 obserwacji, co 1 mikro batch). Napewno nie dotyczy to uczenia co jedną nową  obserwację, bo jest to nieefektywne pod względem kosztowym i czasowym.
 
 Jak określić świeżość danych? Można sprawdzić to np. w taki sposób jak na obrazku 
-- eksperymentalnie i ocenić jak zmienia się jakość modelu w zależności od "świeżości" danych.
+- eksperymentalnie i ocenić jak zmienia się jakość modelu w zależności od "świeżości" danych. 
 ![[Frequency of Retraining Models.png]]
+Można też zmodyfikować ten wariant i zostawić początek w "miejscu" i przesuwać prawy.
 
 **Continual Learning opiera się o :**
 1. [[Champion-Challenger approach|Podejście Champion-Challenger]]
