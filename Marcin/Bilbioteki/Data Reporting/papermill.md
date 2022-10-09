@@ -1,2 +1,2 @@
 # papermill
-biblioteka do
+[papermill](https://github.com/nteract/papermill) biblioteka do parametryzowania notebookow.
