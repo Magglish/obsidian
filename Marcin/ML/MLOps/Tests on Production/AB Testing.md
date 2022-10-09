@@ -1,0 +1,2 @@
+# A/B Testing
+Testy A/B są podobne do [[Shadow Deployment]], jednakże w tym wariancie część ruchu np. (1%, 10%) przekierowywana jest do nowego, kandydującego modelu. Albo wariant - jednego dnia model A, drugiego dnia model B.
