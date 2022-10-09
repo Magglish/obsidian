@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-03
-sr-interval: 9
-sr-ease: 240
+sr-due: 2022-11-18
+sr-interval: 40
+sr-ease: 260
 ---
 
 # usermod

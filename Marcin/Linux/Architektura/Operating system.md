@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-03
-sr-interval: 16
-sr-ease: 250
+sr-due: 2022-10-13
+sr-interval: 4
+sr-ease: 230
 ---
 
 # Operating system
