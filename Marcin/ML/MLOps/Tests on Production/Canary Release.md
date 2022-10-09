@@ -1,1 +1,2 @@
 # Canary Release
+Canary Release jest podobne do [[AB Testing]]. Różnica polega na tym, że w Canary Release stopniowo zwiększamy ruch jaki jest przekierowywany do nowego modelu. W tym podejściu możemy w nim zastosować zasady jak w [[AB Testing]] albo i nie i np. przekierować ruch od jakiegoś małego, konkretnego wynika osób
