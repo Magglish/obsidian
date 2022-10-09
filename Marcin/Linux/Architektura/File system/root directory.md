@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-05
-sr-interval: 18
-sr-ease: 294
+sr-due: 2022-12-08
+sr-interval: 60
+sr-ease: 314
 ---
 
 # root directory
