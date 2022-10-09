@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-09
-sr-interval: 33
-sr-ease: 256
+sr-due: 2022-12-08
+sr-interval: 60
+sr-ease: 276
 ---
 
 # Monolithic kernel vs microkernel
