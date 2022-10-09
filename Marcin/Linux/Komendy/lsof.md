@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-03
-sr-interval: 2
-sr-ease: 160
+sr-due: 2022-10-24
+sr-interval: 15
+sr-ease: 180
 ---
 
 # lsof
