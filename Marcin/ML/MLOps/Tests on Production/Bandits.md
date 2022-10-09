@@ -5,3 +5,5 @@ Założenia:
 1. Model jest w stanie wykonywać [[Online Prediction|online predictions]].
 2. Krótkie feedback loopy aby otrzymać labelki
 3. Mechanizm zbierający dane i kalkulujący jakość modeli
+
+Jednakże jest to trudne do zaimplementowania i rzadko kto to stosuje - najczęściej stosowane w praktyce są [[AB Testing|testy A/B]].
