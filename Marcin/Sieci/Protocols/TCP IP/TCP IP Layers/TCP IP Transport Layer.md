@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-16
-sr-interval: 40
-sr-ease: 247
+sr-due: 2022-10-25
+sr-interval: 8
+sr-ease: 227
 ---
 
 # TCP IP Transport Layer
