@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-13
-sr-interval: 26
-sr-ease: 252
+sr-due: 2022-10-22
+sr-interval: 5
+sr-ease: 232
 ---
 
 # Process kernel model

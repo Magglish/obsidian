@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-13
-sr-interval: 13
-sr-ease: 242
+sr-due: 2022-12-06
+sr-interval: 50
+sr-ease: 262
 ---
 
 # runlevel
