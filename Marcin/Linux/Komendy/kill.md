@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-10
-sr-interval: 10
-sr-ease: 242
+sr-due: 2022-12-05
+sr-interval: 49
+sr-ease: 262
 ---
 
 # kill
