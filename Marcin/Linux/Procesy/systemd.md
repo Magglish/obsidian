@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-20
-sr-interval: 19
-sr-ease: 272
+sr-due: 2022-12-19
+sr-interval: 60
+sr-ease: 292
 ---
 
 # systemd
