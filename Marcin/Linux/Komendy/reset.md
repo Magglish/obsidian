@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-21
-sr-interval: 20
-sr-ease: 260
+sr-due: 2022-12-23
+sr-interval: 60
+sr-ease: 280
 ---
 
 # reset
