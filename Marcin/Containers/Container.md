@@ -1,6 +1,6 @@
 ---
-sr-due: 2022-10-24
-sr-interval: 33
+sr-due: 2022-12-23
+sr-interval: 60
 sr-ease: 200
 ---
 
@@ -25,7 +25,7 @@ Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, 
 3. skalowanie
 4. automatyzacja
 5. efektywne wykorzystanie zasobów środowiska w którym działają
-6. zapewniają tzw. developer visibility - oznacza to, że środowisko w środku kontenera jest właśnie środowiskiem produkcyjnym. Innymi słowy, to co w dockerze zaimplementujemy, to będzie działać na produkcji. Dzięki temu developerzy można już w procesie tworzenia oprogramowania odtworzyć "produkcję" i sprawdzić jak ich kod będzie tam działał.
+6. zapewniają tzw. **developer visibility** - oznacza to, że środowisko w środku kontenera jest właśnie środowiskiem produkcyjnym. Innymi słowy, to co w dockerze zaimplementujemy, to będzie działać na produkcji. Dzięki temu developerzy można już w procesie tworzenia oprogramowania odtworzyć "produkcję" i sprawdzić jak ich kod będzie tam działał.
 
 **Software:**
 1. [[Docker|Docker]]
