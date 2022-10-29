@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-28
-sr-interval: 52
-sr-ease: 274
+sr-due: 2022-12-28
+sr-interval: 60
+sr-ease: 294
 ---
 
 # DNS attack

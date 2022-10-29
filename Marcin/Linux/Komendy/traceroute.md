@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-28
-sr-interval: 19
-sr-ease: 220
+sr-due: 2022-12-21
+sr-interval: 53
+sr-ease: 240
 ---
 
 # traceroute
