@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-10-30
-sr-interval: 54
-sr-ease: 270
+sr-due: 2022-11-14
+sr-interval: 12
+sr-ease: 250
 ---
 
 # TCP IP Internet Layer
