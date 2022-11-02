@@ -1,0 +1,2 @@
+# Kube - API Server
+Kube API - Server to frontend dla [[Kubernetes|klastra kubernetesowego]] który rezyduje w [[Master|masterze]]. Jego zadaniem jest przekierowanie wszelkich zapytań do API (np. korzystając z komendy `kubectl`) do konkretnych serwisów.

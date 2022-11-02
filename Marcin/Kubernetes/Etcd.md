@@ -1,2 +1,2 @@
 # Etcd
-Etcd do baza key-value 
+Etcd to baza key-value w [[Kubernetes|kubernetesowym klastrze]]  
