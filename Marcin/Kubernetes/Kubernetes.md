@@ -14,15 +14,12 @@ Pozwala na łatwe budowanie, zarządzanie i automatyzację infrastruktury oparte
 
 **Komponenty Kubernetesa:**
 
-Kubernetes master - odpwiedzialny za zarządzanie klastrami
-1. kube-apiserver - eksponuje API 
-2. etcd - key store i buckup store dla wszystkich istotnych danych do prawidłowej pracy klastra
-3. kube-scheduler - zarządza deployem podów (w zależności od dostępnych zasobów)
-4. kube-controller manager - zarządza nodeami, replicami, endpointami, service accountami i tokenami
-5. cloud-controller manager - pozwala dostawcom usług wbić się do kubernetesa i zarządzać nim 
+1. [[Kubernetes master]] - odpwiedzialny za zarządzanie klastrami
+1. [[kube-apiserver]] - eksponuje API 
+2. [[ETCD]] - key store i buckup store dla wszystkich istotnych danych do prawidłowej pracy klastra
+3. [[kube-scheduler]] - zarządza deployem podów (w zależności od dostępnych zasobów)
+4. [[kube-controller manager]] - zarządza nodeami, replicami, endpointami, service accountami i tokenami
+5. [[cloud-controller manager]] - pozwala dostawcom usług wbić się do kubernetesa i zarządzać nim 
 
-Kubernetes worker (Node):
-1. kubelet - agent do zarządzania nodem i komunikowania z masterem
-2. kube-proxy - zarządza siecią i przychodzącymi/wychodzącymi żądaniami
-3. Container Runtime - środowisko do uruchamiania kontenerów (np. [[Docker]])
+
 #review
