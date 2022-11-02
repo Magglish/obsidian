@@ -7,4 +7,6 @@ sr-ease: 235
 # Pod
 Podstawowa jednostka deploymentu w [[Kubernetes|Kubernetesie]] - pojedynczy lub grupa [[Container|kontenerów]].
 Kontenery w podzie mają ten sam IP, ale pody w kontenerze mają unikalne IP w [[Subnet mask|swojej przestrzeni]].
+
+Dodatkowo jeden kontener może kontaktować się z innym kontenerem bezpośrednio poprzez IP ()
 #review
