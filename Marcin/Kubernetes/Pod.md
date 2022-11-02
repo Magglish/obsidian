@@ -6,4 +6,5 @@ sr-ease: 235
 
 # Pod
 Podstawowa jednostka deploymentu w [[Kubernetes|Kubernetesie]] - pojedynczy lub grupa [[Container|kontenerów]].
+Kontenery 
 #review
