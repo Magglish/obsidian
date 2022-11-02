@@ -6,6 +6,8 @@ sr-ease: 218
 
 # Kubernetes
 
+![[Kubernetes.png]]
+
 Kubernetes to [[Orchestration|jedne z narzędzi do orchestracji]] (zarządzania) kontenerami.
 
 Pozwala na łatwe budowanie, zarządzanie i automatyzację infrastruktury opartej o [[Container|kontenery]].
@@ -23,10 +25,4 @@ Kubernetes worker (Node):
 1. kubelet - agent do zarządzania nodem i komunikowania z masterem
 2. kube-proxy - zarządza siecią i przychodzącymi/wychodzącymi żądaniami
 3. Container Runtime - środowisko do uruchamiania kontenerów (np. [[Docker]])
-
-**Software bazujący na kubernetesie:**
-1. [[Amazon Elastic Container Service]]
-2. [[Amazon ECS for Kubernetes]]
-3. [[Azure Kubernetes Service]]
-4. [[Google Kubernetes Engine]]
 #review
