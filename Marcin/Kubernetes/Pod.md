@@ -14,5 +14,5 @@ Podstawowa jednostka deploymentu w [[Kubernetes|Kubernetesie]] - pojedynczy lub 
 Cechy Poda:
 1. Może mieć swój współdzielone zasoby (*shared volume*)
 2. Kontenery w podzie mają ten sam IP co Pod.
-3. Kontenery wewnątrz PODa mają ten sam IP więc mogą komunikać się po localhoście. 
+3. Kontenery wewnątrz PODa mają ten sam IP więc mogą komunikać się po localhoście.   
 #review
