@@ -13,4 +13,7 @@ Przykładowa konfiguracja pokazana u góry:
 - `metadata: name: example-deployment` - nasz deployment ma nazwe `example-deployment`
 - `metadata: labels: app: nginx` -  nadajemy labelke `app: nginx`
 - `replicas: 2` - chcemy 2 pody
-- `selector: matchLabels: app: nginx` - deployment dot
+- `selector: matchLabels: app: nginx` - deployment dotyczy podów z labelkami `app: nginx` 
+- `spec: containers: name` - nazwa kontnera
+- `spec: containers: image` - ścieżka do obrazu kontenera
+- `spec: containers: ports: containerPorts` - który port otwieramy na kontenerze (tutaj akurat 80 na http bo domyślnie nginx słucha na porcie 80)
