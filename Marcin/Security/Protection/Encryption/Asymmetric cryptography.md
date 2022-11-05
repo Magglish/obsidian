@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-11-03
-sr-interval: 26
-sr-ease: 240
+sr-due: 2023-01-04
+sr-interval: 60
+sr-ease: 260
 ---
 
 # Asymmetric cryptography
