@@ -1,5 +1,7 @@
 # Deployment
 
+![[Kubernetes Deployment.png]]
+
 Deployment to obiekt w [[Kubernetes|kubernetesowym]] klastrze, który definiuje specyfikacje zestawu podów ([[Replica Set]]) i klaster będzie dążył do tego stanu, poprzez [[Automated Scaling|automatyczne skalowanie]] i [[Self-Healing Applications|updateowanie i stawianie nowych podów gdy których z nich się wysypie]].
 
 Deployment pozwala na:
