@@ -3,8 +3,10 @@
 Deployment to obiekt w [[Kubernetes|kubernetesowym]] klastrze.
 
 Deployment pozwala na:
-1. Uruchomienie [[Replica Set]]
+1. Uruchomienie i zarządzanie [[Replica Set]]
 2. Deklaracje nowego stanu [[Pod|podów]] w [[Replica Set]]
-3. Rollbackować do poprzedniej wersji
-4. Skalować
-5. Czyszczenie [[Replica Set]], które nie są już potrzebne
+3. Ma w sobie [[PodSpec]]
+4. Rollbackować do poprzedniej wersji
+5. Skalować
+6. Stosować odpowiednie techniki deploymenty (np. [[Rolling updates]], [[Canary Release]])
+7. Czyszczenie [[Replica Set]], które nie są już potrzebne
