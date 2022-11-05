@@ -8,7 +8,7 @@ Odpytując te IP i ten port, odpytujesz pody.
 Zaletą jest to, że jeżeli pody padną i zmienią swoje adresy, to service to ogarnia pod spodem. Jeżeli chcesz je zescalować to tak samo. 
 Cały czas odpytujesz ten sam IP i ten sam port, a pod spodem może dziać się "magia".
 
-Konfiguracja:
+Przykładowa konfiguracja pokazana u góry:
 - ` metadata: name: Web service` - nazwa service'u
 - `selector: app: Web` oznacza, że wszystkie pody, które mają label `app: Web`
 - `port: 80` - port który service otwiera na zewnatrż
