@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-11-01
-sr-interval: 3
-sr-ease: 160
+sr-due: 2022-11-18
+sr-interval: 13
+sr-ease: 180
 ---
 
 # tcpdump
