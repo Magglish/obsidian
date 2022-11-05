@@ -1,3 +1,3 @@
 # Kubeadm
 
-Kubeadm to dodatkowe narzędzie które ułatwia proces 
+Kubeadm to dodatkowe narzędzie które ułatwia proces instalowania klastra [[Kubernetes]].
