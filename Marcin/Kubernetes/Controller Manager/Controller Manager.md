@@ -6,3 +6,5 @@ Zarządza Managerami na [[Kubernetes|klastrze kubernetesowym]]:
 2. [[Replication Controller]]
 3. [[Endpoints Controller]]
 4. [[Service Account & Token Controller]]
+
+#review 
