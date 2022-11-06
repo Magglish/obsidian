@@ -1,5 +1,6 @@
 # Orchestration
-#dokoncz
+
+Orchestration to automatyczne zarządzanie i koordynacja pracy wielu systemów, aplikacji i serwisów wch
 
 **Software do zarządzania kontenerami:**
 1. [[Kubernetes]]
