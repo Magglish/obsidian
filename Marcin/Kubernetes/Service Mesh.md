@@ -1,3 +1,9 @@
+---
+sr-due: 2022-11-13
+sr-interval: 2
+sr-ease: 202
+---
+
 # Service Mesh
 
 Service Mesh to warstwa architektury, którą możesz dodać do swojej istniejącej architektury lub aplikacji, bez potrzeby dodawania jej do swojej konfiguracji/kodu - może dotyczyć to np. możliwość obserwowania zużycia achitektury; [[Load Balancing|load balancing]], zwiększenie/dodanie nowych zabezpieczeń sieciowych

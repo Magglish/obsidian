@@ -1,3 +1,9 @@
+---
+sr-due: 2022-11-13
+sr-interval: 2
+sr-ease: 221
+---
+
 # Service
 
 ![[Kubernetes Service.png]]
