@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-11-11
-sr-interval: 48
-sr-ease: 240
+sr-due: 2023-01-10
+sr-interval: 60
+sr-ease: 260
 ---
 
 # Process init
