@@ -1,3 +1,9 @@
+---
+sr-due: 2022-11-13
+sr-interval: 2
+sr-ease: 179
+---
+
 # Persistent Volume
 
 Persistent Volume to storage (np. dysk) który został stworzony przez administratora lub dynamicznie przez [[Storage Class]] w celu używania tego przez jeden lub wiele [[Pod|podów]] jednocześnie.
