@@ -1,3 +1,9 @@
+---
+sr-due: 2022-11-13
+sr-interval: 2
+sr-ease: 201
+---
+
 # Istio service mesh
 
 Istio to software typu [[Service Mesh|service mesh]], który dostarcza:
