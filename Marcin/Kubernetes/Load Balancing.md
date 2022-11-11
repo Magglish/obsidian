@@ -1,3 +1,9 @@
+---
+sr-due: 2022-11-13
+sr-interval: 2
+sr-ease: 222
+---
+
 # Load Balancing
 
 Load Balancing to nic innego jak efektywne zarządzanie przychodzącymi requestami i odpowiednie przekierowywanie ich do aplikacji/serwisów, które mogą je obsłużyć.
