@@ -1,3 +1,9 @@
+---
+sr-due: 2022-11-13
+sr-interval: 2
+sr-ease: 183
+---
+
 # Ephemeral Volume
 Jest to dodatkowy [[Volume]] w [[Pod|podach]], które wraz z ubiciem Poda znika.
 
