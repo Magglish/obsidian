@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-11-07
-sr-interval: 29
-sr-ease: 240
+sr-due: 2023-01-10
+sr-interval: 60
+sr-ease: 260
 ---
 
 # curl
