@@ -5,5 +5,5 @@ sr-ease: 312
 ---
 
 # Hostname
-Hostname (lub inaczej domain name) to etykieta/nazwa nadana danej aplikacji/urządzeniu w sieci.
+Hostname (lub inaczej [[DNS|domain name]]) to etykieta/nazwa nadana danej aplikacji/urządzeniu w sieci.
 #review

@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-11-10
+sr-due: 2023-01-10
 sr-interval: 60
-sr-ease: 315
+sr-ease: 355
 ---
 
 # Soft link
