@@ -9,7 +9,7 @@ sr-ease: 130
 
 ![[Kubernetes Pod.png]]
 
-Podstawowa jednostka deploymentu w [[Kubernetes|Kubernetesie]] - pojedynczy lub grupa [[Container|kontenerów]].
+Podstawowa jednostka obliczeniowa/deploymentu w [[Kubernetes|Kubernetesie]] - pojedynczy lub grupa [[Container|kontenerów]].
 
 Cechy Poda:
 1. Może mieć swój współdzielone zasoby ([[Persistent Volume]])
