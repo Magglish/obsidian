@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-11-12
-sr-interval: 1
-sr-ease: 180
+sr-due: 2022-11-28
+sr-interval: 2
+sr-ease: 200
 ---
 
 # Kubeadm
