@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-11-28
-sr-interval: 50
-sr-ease: 200
+sr-due: 2023-01-30
+sr-interval: 60
+sr-ease: 220
 ---
 
 # Docker
@@ -12,7 +12,7 @@ Docker to oprogramowanie służące do tworzenia, uruchamiania i zarządzania ko
 
 Cechy Dockera:
 1. Izoluje aplikacje i wszystkie jej zależności w pojedynczy obiekt zwany [[Container|kontenerem]].
-2. Jest zoptymalizowany pod aplikacje,
+2. Jest zoptymalizowany pod aplikacje ( #dokoncz w jaki sposób?)
 3. Pozwala na automatyzację budowy kontenerów poprzez umożliwienie definiowania ich jako kod i przekazywania go dalej do [[Docker daemon|servera Dockera]],
 4. Pozwala na wersjonowanie kontenerów tak jak git,
 5. Kontenery są reużywalne, tzn. jeden konterem może zostać pobrany i uruchomiony w innym kontenerze i wykorzystany w różnych celach,
