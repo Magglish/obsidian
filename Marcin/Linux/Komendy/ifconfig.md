@@ -1,6 +1,6 @@
 ---
-sr-due: 2022-12-03
-sr-interval: 44
+sr-due: 2023-02-01
+sr-interval: 60
 sr-ease: 260
 ---
 
@@ -9,4 +9,6 @@ sr-ease: 260
 1. `lo` - loopback
 2. np. `wlp5s0` - to router wifi
 3. np. `enp3s0` - to karta sieciowa w laptopie
+4. asd
+5. asdsd
 #review
