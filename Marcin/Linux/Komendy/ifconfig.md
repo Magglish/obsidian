@@ -9,8 +9,4 @@ sr-ease: 260
 1. `lo` - loopback
 2. np. `wlp5s0` - to router wifi
 3. np. `enp3s0` - to karta sieciowa w laptopie
-4. asd
-5. asdsd
-6. asd
-7. asd
 #review
