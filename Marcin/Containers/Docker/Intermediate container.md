@@ -29,6 +29,4 @@ Successfully built 86c73954ea96
 1) `b1719e1db756` to id obrazu kontenera, który powstał z `FROM ubuntu:14.04`
 2) `532ed79e6d55` to id tymczasowego kontenera, który został stworzony z `b1719e1db756`
 3) `ea6184bb8ef5` to id warstwy dockera stworzona jako wynik instrukcji, tzn. zapisanie tymczasowego kontenera `532ed79e6d55`
-4) Następnie Docker tworzony jest jako złączenie tych wszystkich obrazów 
-
-3) yes. Docker calls this the [Union File System](https://docs.docker.com/engine/understanding-docker/#/union-file-systems) and it's the main reason why images are so efficient.
+4) Następnie Docker tworzony jest jako złączenie tych wszystkich obrazów - i jest to nazwanej jako [[Docker Union File System]]
