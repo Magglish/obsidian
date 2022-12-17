@@ -2,4 +2,4 @@
 
 ![[Forward proxy.png]]
 
-Forward [[Proxy]]
+Forward [[Proxy]] to technologia "pośrednicząca" pomiędzy klientem a naszym serverem. Dostarcza funkcjonalności: zabezpieczeń, niezawodności, load balancingu, zwiększa performance.

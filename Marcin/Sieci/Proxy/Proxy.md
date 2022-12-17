@@ -11,4 +11,5 @@ Zalety:
 
 Wady:
 1. dla nowych danych dłuższy czas ładowania
-2. utrudniona 
+2. utrudniona identyfikacja klientów
+3. wdrażanie nowych wersji aplikacj może być utrudnione
