@@ -1,5 +1,5 @@
 # API Framework
-[[API]] Framework zbudowany jest z poniższych elementów:
+Frameworki do [[API]] (np. Flask, FastAPI) zbudowane są z poniższych elementów:
 
 ![[API Framework.png]]
 
