@@ -1,3 +1,9 @@
+---
+sr-due: 2022-12-19
+sr-interval: 1
+sr-ease: 180
+---
+
 # Design by Contract
 
 Design by Contract (DbC) polega na pewnym "kontrakcie" pomiędzy aplikacja/serverem a klientem, który z niego korzysta. Kontrakt w tym przypadku jest pewną abstrakcją dostarczająca zasad jak ma odbywać się komunikacja,
