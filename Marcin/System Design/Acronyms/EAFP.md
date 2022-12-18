@@ -10,3 +10,7 @@ except SomeException as e:
 ```
 
 EAFP jest przeciwieństwiem [[LBYL]]
+
+
+
+#review

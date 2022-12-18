@@ -9,3 +9,5 @@ Kontrakt zawiera w sobie:
 4. Side effects - jeśli są jakieś
 
 W sytuacji naruszenia kontraktu, rzucane są wyjątki i powinny być na tyle dobrze udokumentowane i zaimplementowane aby było wiadomo co jest nie tak.
+
+#review

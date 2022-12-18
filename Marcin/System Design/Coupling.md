@@ -4,3 +4,5 @@ Coupling oznacza to jak obiekty miedzy sobą są powiązane. Im bardziej obiekty
 1. ma mniejszą możliwość reużywalności, bo ciężej użyć jej w innym kontekście
 2. zwiększa to [[Ripple effect]]
 3. mały poziom abstrakcyjności - im obiekty bardziej od siebie zależne, tym ciężej widzieć je jako oddzielne [[Separation of concerns|concerny]].
+
+#review
