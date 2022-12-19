@@ -3,7 +3,7 @@
 
 Kiedy warto stosować dziedzienie:
 1. Kiedy chcemy aby był spójny interfejs klas - tworzymy wtedy klase abstrakcyjną, która definiuje interface
-2. Kiedy 
+2. Kiedy nowa klasa jest czymś bardziej specyficznym od klasy z której dziedziczymy, ale użyjemy znacznej większość metod z klasy po której dziedziczymy (tworzymy "specjalizację")
 
 
 Kiedy warto nie robić dziedziczenia:
