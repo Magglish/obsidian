@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-12-19
-sr-interval: 60
-sr-ease: 251
+sr-due: 2023-01-01
+sr-interval: 13
+sr-ease: 231
 ---
 
 # Unix file
