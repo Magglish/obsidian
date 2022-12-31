@@ -6,4 +6,4 @@ Przykład dla łatwiejszego zrozumienia
 
 ![[Dependency inversion principle.png]]
 
-Gdyby `EventStreamer` zależał wprost od `Syslog` to jakakolwiek zmiana w `Syslog` powodowała by zmianę w naszej klasie `EventStreamer`, czyli metoda `stream` non stop by się zmieniała. Pomysłem jest aby 
+Gdyby `EventStreamer` zależał wprost od `Syslog` to jakakolwiek zmiana w `Syslog` powodowała by zmianę w naszej klasie `EventStreamer`, czyli metoda `stream` non stop by się zmieniała. Pomysłem jest aby między nimi sworzyć [[Abstract class|klasę abstrakcyjna]] `DataTargetClient`, przez co `Syslog` będzie niejako rozwinięciem/uszczegółowieniem tej klasy abstrakcyjnej. Oczywiście to nie oznacza, że problem ze zmianami w kodzie znikną, on dalej występuje, ale poprzez taką implementację zarządzanie tym wszystkim jest znacznie łatwiejsze.
