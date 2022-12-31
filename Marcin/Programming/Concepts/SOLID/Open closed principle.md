@@ -8,7 +8,7 @@ Nie stosowanie open closed principle zwiększa [[Ripple effect]].
 
 **Przykład:** 
 
-![[Pasted image 20221231093103.png]]
+![[Open closed principle.png]]
 
 ```python
 class Event:

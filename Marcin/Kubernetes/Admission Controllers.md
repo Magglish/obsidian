@@ -6,7 +6,7 @@ sr-ease: 194
 
 # Admission Controllers
 
-![[Pasted image 20221227171405.png]]
+![[Admission controllers.png]]
 
 [Admission Controllers](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) to nic innego jak obiekty/kod, który kontroluje odpytania do [[K8s API Server]].
 
