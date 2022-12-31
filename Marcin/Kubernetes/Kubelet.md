@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-12-27
-sr-interval: 9
-sr-ease: 165
+sr-due: 2023-01-02
+sr-interval: 2
+sr-ease: 145
 ---
 
 # Kubelet
