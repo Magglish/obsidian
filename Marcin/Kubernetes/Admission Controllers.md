@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-02
+sr-interval: 2
+sr-ease: 194
+---
+
 # Admission Controllers
 
 ![[Pasted image 20221227171405.png]]
