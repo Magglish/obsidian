@@ -1,0 +1,3 @@
+# Duck typing
+
+Duck typing
