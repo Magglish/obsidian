@@ -4,4 +4,4 @@ Single responsibility principle (SRP) (podobnie jak [[Cohesion]] oraz [[Separati
 
 Jeśli dana klasa spełnia SRP, to znaczy, że robi jedną rzecz i jeżeli wymagane są w niej zmiany to wynikają tylko z jednego powodu. Gdyby było inaczej, tzn. zmieniamy implementację klasy z wielu różnych powodów (może jest to [[God object]]?), to znaczy, że nie spełniony jest SRP i warto zastanowić się czy daną nie wyodrębnić do innej klasy.
 
-#reviews
+#review

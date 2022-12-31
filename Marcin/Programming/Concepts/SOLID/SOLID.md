@@ -7,3 +7,5 @@ SOLID, czyli:
 3. L - [[Liskov's substitution principle]]
 4. I - [[Interface segregation principle]]
 6. D - [[Dependency inversion principle]]
+
+#review
