@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-07
+sr-interval: 2
+sr-ease: 197
+---
+
 # Ephemeral Container
 
 Ephemeral [[Container]] to specjalny typ kontenera, który może zostać uruchomiony wewnątrz [[Pod|Poda]] aby móc wykonać pewne operacje. Głównie używany w celu sprawdzenia czegoś lub debugowania a nie budowania aplikacji.
