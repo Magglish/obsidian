@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-06
+sr-interval: 1
+sr-ease: 180
+---
+
 # Dependency injection
 
 Dependency injection oznacza, że nie tworzymy zależności podczas inicjalizacji, a pozwalamy użytkownikom na zdefiniowanie zależności poprzez argumenty do inicjalizacji klasy - dzięki temu jest to bardziej elastyczne.

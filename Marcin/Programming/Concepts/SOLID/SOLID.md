@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-06
+sr-interval: 1
+sr-ease: 172
+---
+
 # SOLID
 
 SOLID, czyli:
