@@ -1,6 +1,6 @@
 # Liskov's substitution principle
 
-Liskov's substitution principle mówi o tym, że używanie podtypów danej klasy powinno być transparentne i nie zauważalne. Innymi słowy, zmiany w hierarchi dziedziczenia nie powinny mieć wpływu na działanie programu. (Podobne do [[Design by Contract]])
+Liskov's substitution principle mówi o tym, że używanie podtypów danej klasy powinno być transparentne i nie zauważalne. Innymi słowy, jeżeli zastąpisz klase po której dziedziną inne klasy, właśnie tymi klasami. (Podobne do [[Design by Contract]])
 
 Oryginalna definicja: Jeśli object $S$ jest podtypem $T$, to obiekty typu $T$ mogą zostać zastąpione przez $S$ bez rozwalenia programu.
 
