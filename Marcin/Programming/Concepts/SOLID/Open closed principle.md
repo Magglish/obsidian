@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-06
+sr-interval: 1
+sr-ease: 180
+---
+
 # Open closed principle
 
 Open closed principle oznacza, że implementacja klasy powinna być zarówno otwarta, czyli możliwa do rozszerzenia (np. nowe metody, nowa subklasa), ale również zamknięta, czyli logika powinna być tak zaimplementowana, że nie wymagane są zmiany w kodzie, który został już napisany.
