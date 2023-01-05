@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-06
+sr-interval: 1
+sr-ease: 176
+---
+
 # Liskov's substitution principle
 
 Liskov's substitution principle mówi o tym, że używanie podtypów danej klasy powinno być transparentne i nie zauważalne. Innymi słowy, jeżeli zastąpisz klase po której dziedziną inne klasy (superklase), właśnie tymi klasami, które dziedziczą (podklasy) to działanie aplikacji nie powinno się rozwalić. (Podobne do [[Design by Contract]])

@@ -12,3 +12,5 @@ class EventStreamer:
 		for event in events:
 			self._target.send(event.serialise())
 ```
+
+#review
