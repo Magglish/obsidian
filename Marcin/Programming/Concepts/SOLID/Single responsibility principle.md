@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-07
+sr-interval: 2
+sr-ease: 191
+---
+
 # Single responsibility principle
 
 Single responsibility principle (SRP) (podobnie jak [[Cohesion]] oraz [[Separation of concerns]]) oznacza, że dana implementacja musi być odpowiedzialna za tylko jedną rzecz. 
