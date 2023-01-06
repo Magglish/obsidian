@@ -6,7 +6,7 @@ sr-ease: 200
 
 # LBYL
 
-LBYL (Look Before You Leep) zakłada sprawdzenie tego co będziemy używać/na czym będziemy działać zanim użyjemy naszej funkcji.
+LBYL (Look Before You Leap) zakłada sprawdzenie tego co będziemy używać/na czym będziemy działać zanim użyjemy naszej funkcji.
 
 ``` python
 if condition_is_met:
