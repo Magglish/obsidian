@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-02
-sr-interval: 32
+sr-due: 2023-03-05
+sr-interval: 58
 sr-ease: 171
 ---
 
@@ -15,5 +15,5 @@ Cechy systemów Unixowych:
 5. Oparte są o [[Process kernel model]].
 6. Wszystkie [[Reentrant kernel|kernele unixowe są reentryczne]].
 7. Jeśli chodzi o interakcje z hardware'm, w przypadku systemów unixowych aplikacje wysyłają zapytania do systemu operacyjnego czy mogą wykonywać operacje bezpośrednio na hardwarze. Oparte jest to o to czy dany hardware pozwala na taką interakcję. W przypadku CPU, można odróżnić dwa rodzaje interakcji: [[User Mode]] i [[Kernel Mode]].
-8. Interesującą cechą systemów Unixowych jest to, że są *"everything is a file"*, oznacza, to że na obiektach w unixie można pracować jak na plikach i stosować popularne wobec nich komendy "plikowe", dlatego, że każdy plik jest opisany przez [[Unix file descriptor|file descriptory]] z [[inode|inodeami]]
+8. Interesującą cechą systemów Unixowych jest to, że są *"everything is a file"*, oznacza, to że na wszystkich obiektach w unixie można pracować jak na plikach i stosować popularne wobec nich komendy "plikowe", dlatego, że każdy plik jest opisany przez [[Unix file descriptor|file descriptory]] z [[inode|inodeami]]. Czyli np. podłączona klawiatura, myszka, inny hardware jest jako plik i można na tych urząðzeniach działać jak na plikach.
 #review
