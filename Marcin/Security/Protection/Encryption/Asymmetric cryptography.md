@@ -1,5 +1,5 @@
 ---
-sr-due: 2023-01-04
+sr-due: 2023-03-07
 sr-interval: 60
 sr-ease: 260
 ---
@@ -13,13 +13,13 @@ Idea działania jest następująca:
 2. Adresat otrzymuje wiadomość zaszyfrowaną swoim kluczem publicznym przeze mnie
 3. Używa w tym celu swoje klucza prywatnego aby sparować go z publicznym i w ten sposób odszyfrowuje wiadomość
 
-![[Assymetric cryptography.png|400]]
+![[Assymetric cryptography.png]]
 
 Zalety:
 1. Zdecydowanie większe bezpieczeństwo
 
 Wady:
-2. Stosując asymetryczne szyfrowanie, przesył danych jest znacznie wolniejszy niż w [[Symmetric cryptography|szyfrowaniu symetrycznym]]
+1. Stosując asymetryczne szyfrowanie, przesył danych jest znacznie wolniejszy niż w [[Symmetric cryptography|szyfrowaniu symetrycznym]]
 
 
 #review
