@@ -9,5 +9,5 @@ SSL (Secure Socket Layer) używany jest do stworzenia zaszyfrowanego połączeni
 1. stroną a przeglądarką
 2. serverem emailowym a aplikacją do czytania maili użytkownika
 
-SSL jest zastąpiony przez [[TLS]]
+SSL jest zastąpiony przez [[TLS]] (czy aby na pewno? #dokoncz)
 #review
