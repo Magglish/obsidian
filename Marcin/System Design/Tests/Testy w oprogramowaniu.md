@@ -9,3 +9,6 @@ Testy w oprogramowaniu są istotne:
 Testy powinny być:
 
 1. Wyizolowane - nie zależą od innych testów i nie zależą od innych komponentów/serwisów (aby taką niezależność uzyskać można zastosować [[Mocking|mockowanie]])
+2. Szybkie - bo używamy ich wielokrotnie
+3. Deterministyczne
+4. Samo-walidujące się - 
