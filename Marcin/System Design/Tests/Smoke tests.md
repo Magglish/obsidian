@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-11
+sr-interval: 4
+sr-ease: 200
+---
+
 # Smoke tests
 
 Smoke tests polegają na tym aby sprawdzić (np. lokalnie) czy aplikacja w ogóle działa.
