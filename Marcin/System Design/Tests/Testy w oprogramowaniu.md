@@ -20,5 +20,6 @@ Wyróżniamy:
 4. [[Mutation tests]] 
 5. [[Smoke tests]]
 6. [[Stress tests]] 
+7. [[Sanity tests]]
 
 #review
