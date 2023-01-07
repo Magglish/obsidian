@@ -1,3 +1,9 @@
+---
+sr-due: 2023-01-09
+sr-interval: 2
+sr-ease: 200
+---
+
 # Testy w oprogramowaniu
 
 Testy w oprogramowaniu są istotne:
