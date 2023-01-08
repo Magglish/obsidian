@@ -6,4 +6,5 @@ Wyróżniamy między innymi:
 1. [[Factory]]
 2. [[Singleton]]
 3. [[Builder]]
-4. [[Borg]]
+4. [[Monostate]]
+5. [[Borg]]
