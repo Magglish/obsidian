@@ -8,3 +8,4 @@ Wyróżniamy między innymi:
 3. [[Builder]]
 4. [[Monostate]]
 5. [[Borg]]
+6. [[Strategy]]
