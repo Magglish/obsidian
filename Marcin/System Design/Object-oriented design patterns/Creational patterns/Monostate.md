@@ -1,2 +1,3 @@
 # Monostate
 
+Używamy też [[Descriptor]]
