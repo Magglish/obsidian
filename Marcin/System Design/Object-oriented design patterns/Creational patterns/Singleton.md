@@ -1,3 +1,1 @@
-# Singleton
-
-#dokoncz
+#dokoncz z książki refactoring guru 

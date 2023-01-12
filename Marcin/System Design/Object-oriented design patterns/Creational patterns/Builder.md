@@ -1,3 +1,1 @@
-# Builder
-
-#dokoncz
+#dokoncz z książki refactoring guru 

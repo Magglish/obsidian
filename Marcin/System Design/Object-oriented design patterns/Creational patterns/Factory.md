@@ -1,5 +1,1 @@
-# Factory
-
-#dokoncz koniecznie daj przykład w Pythonie
-
-#review
+#dokoncz z książki refactoring guru 
