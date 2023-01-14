@@ -14,4 +14,26 @@ Używamy gdy:
 
 
 
-**Przykład w Pythonie:**
+**Przykład w Pythonie:** #dokoncz  sprawdz czy to ponizsze ma sens
+
+```python
+class MyClass1:
+	pass
+
+class MyClass2:
+	pass
+
+class MyClass3:
+	pass
+
+class MyClassBuilder:
+	all_classes = {
+		'1': MyClass1,
+		'2': MyClass2,
+		'3': MyClass3
+	}
+
+	@staticmethod
+	def build(class_name, *args, **kwargs):
+		return all_classes[class_name](*args, **kwargs)
+```
