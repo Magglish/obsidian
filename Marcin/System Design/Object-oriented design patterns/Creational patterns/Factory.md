@@ -5,4 +5,13 @@ Factory oznacza, że tworzenie konkretnych klas obsługujemy inną klasą, któ
 W Factory chodzi o to aby wydzielić logikę inicjalizacji klas do oddzielnej klasy Factory, a konkretne klasy skupiają się na samej logice działania.
 
 Używamy gdy:
-1. 
+1. nie wiemy do końca z jakimi typami i zależnościami będziemy finalnie pracować - dlatego lepiej jest rozdzielić kod odpowiedzialny za tworzenie klas (który będzie w Factory) od logiki działania klasy
+
+
+
+
+
+
+
+
+**Przykład w Pythonie:**
