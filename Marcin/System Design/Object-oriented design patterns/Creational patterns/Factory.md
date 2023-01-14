@@ -1,1 +1,2 @@
-#dokoncz z książki refactoring guru 
+# Factory
+
