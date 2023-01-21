@@ -26,7 +26,7 @@ class MyClass2:
 class MyClass3:
 	pass
 
-class MyClassBuilder:
+class MyClassFactory:
 	all_classes = {
 		'1': MyClass1,
 		'2': MyClass2,
