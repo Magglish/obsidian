@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-01-24
-sr-interval: 12
-sr-ease: 160
+sr-due: 2023-01-29
+sr-interval: 3
+sr-ease: 140
 ---
 
 # Cohesion

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-24
-sr-interval: 12
+sr-due: 2023-02-28
+sr-interval: 33
 sr-ease: 250
 ---
 
