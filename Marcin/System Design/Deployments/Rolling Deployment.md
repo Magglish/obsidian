@@ -1,5 +1,7 @@
 # Rolling Deployment
 
+![[Rolling Deployment.png]]
+
 Rolling update polega na powolnym udpateowaniu tak aby żadna z aplikacj nie była wyłączona.
 
 W sytuacji gdy mamy tylko 1 [[Container|instancje]], dokładana jest 2-ga z nową wersją i potem ubijana 1-wsza stara.
