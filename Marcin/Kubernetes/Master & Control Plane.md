@@ -4,7 +4,7 @@ sr-interval: 60
 sr-ease: 199
 ---
 
-# Master
+# Master & Control Plane
 
 ![[Master in Kubernetes.png]]
 

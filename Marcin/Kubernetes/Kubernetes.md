@@ -8,7 +8,7 @@ sr-ease: 198
 
 ![[Kubernetes.png]]
 
-Kubernetes to [[Orchestration|jedne z narzędzi do orchestracji]] (zarządzania) kontenerami. Pozwala na łatwe budowanie, zarządzanie i automatyzację infrastruktury opartej o [[Container|kontenery]]. Zbudowany na bazie [Borg]
+Kubernetes to [[Orchestration|jedne z narzędzi do orchestracji]] (zarządzania) kontenerami. Pozwala na łatwe budowanie, zarządzanie i automatyzację infrastruktury opartej o [[Container|kontenery]]. Zbudowany na bazie [Borg](https://en.wikipedia.org/wiki/Borg_(cluster_manager), który działał właśnie w celu orchestryzacji kontenerów.
 Kubernetes opiera się o kontenery, więc Kubernetes też można określić jako API do Dockera i zarządzania kontenerami.
 
 Kubernetes dostarcza wielu rozwiązań po prostu out-of-the-box:
