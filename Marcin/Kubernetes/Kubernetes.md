@@ -19,7 +19,7 @@ Kubernetes dostarcza wielu rozwiązań po prostu out-of-the-box:
 3. [[Self-Healing Applications|Self-healing]]
 
 Wady:
-1. Wymaga wiedzy i doświadczenia w zdeployowaniu i zarząðzaniu
-2. Może być drogi, po
+1. Wymaga wiedzy i doświadczenia w zdeployowaniu i zarząðzaniu (można ułatwić to sobie deployując na chmurze i wtedy zarządzanie w pewnym stopniu zostawiamy dostarczycielowi chmury)
+2. Może być drogi, ponieważ podstawowe działania k8s wymagają pewnych zasobów
 
 #review
