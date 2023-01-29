@@ -1,6 +1,8 @@
 # Continuous Integration
 
-![[Pasted image 20230129134658.png]]
+![[CICD.png]]
+
+W Continuous Integration chodzi o to aby zmiany wdrażane były zintegrowane ze środowiskiem do którego te zmiany wprowadzamy. Dokładnie chodzi tutaj o to aby wdrażane zmiany nie p 
 
 W kontekście MLa, dochodzi jeszcze [[Testing|wariant testowania danych oraz modeli]].
 

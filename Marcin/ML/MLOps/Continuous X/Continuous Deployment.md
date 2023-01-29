@@ -1,6 +1,6 @@
 # Continuous deployment
 
-![[Pasted image 20230129134702.png]]
+![[CICD.png]]
 
 Continuous deployment to praktyka polegająca na deployowaniu nowego kodu w sposób pełni automatyczny i częsty. W kontekście MLa, mówimy jeszcze o nowej wersji pipelinea, modelu czy service'u.
 
