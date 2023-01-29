@@ -16,6 +16,10 @@ Kubernetes dostarcza wielu rozwiązań po prostu out-of-the-box:
 	1. Kontenery w podzie mają ten sam IP, ale pody w klastrze mają unikalne IP w [[Subnet mask|swojej przestrzeni]].
 	2. Jeden kontener może kontaktować się z innym kontenerem na innym podzie bezpośrednio poprzez IP (nie potrzebne jest stosowanie tutaj [[NAT]])
 2. [[Automated Scaling|Automatyczne scalowanie]]
-3. Definiowanie [[Deployment|deploymentów]]
+3. [[Self-Healing Applications|Self-healing]]
+
+Wady:
+1. Wymaga wiedzy i doświadczenia w zdeployowaniu i zarząðzaniu
+2. Może być drogi, po
 
 #review
