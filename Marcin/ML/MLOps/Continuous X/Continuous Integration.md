@@ -1,5 +1,7 @@
 # Continuous Integration
 
+![[Pasted image 20230129134658.png]]
+
 W kontekście MLa, dochodzi jeszcze [[Testing|wariant testowania danych oraz modeli]].
 
 **Źródła:**
