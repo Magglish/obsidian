@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script adds or deleted #review tags
+# this script add or delete #review tags
 # that are used in spaced repetition obsidian plugin
 # author: Marcin Rybiński
 
