@@ -1,3 +1,9 @@
+---
+sr-due: 2023-02-13
+sr-interval: 2
+sr-ease: 206
+---
+
 # Rolling Deployment
 
 ![[Rolling Deployment.png]]
