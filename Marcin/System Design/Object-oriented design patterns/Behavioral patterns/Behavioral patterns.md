@@ -7,3 +7,4 @@ Wyróżniamy między innymi:
 2. [[Template method]]
 3. [[Command]]
 4. [[State]]
+5. [[Visitor]]
