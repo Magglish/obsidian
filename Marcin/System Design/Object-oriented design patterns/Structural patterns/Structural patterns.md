@@ -7,3 +7,4 @@ Wyróżniamy między innymi:
 2. [[Composite]]
 3. [[Decorator]]
 4. [[Facade]]
+5. [[Unit of Work]]
