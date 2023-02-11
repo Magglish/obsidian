@@ -7,7 +7,7 @@ sr-ease: 220
 # Docker Layer
 ![[Docker layers.png]]
 
-Warstwa dockera to też jest [[Intermediate container|obraz]], ale bez nadanego taga przez człowieka, a z wygenerowanym dla nich sztucznym IDkiem. Każda instrukcja 
+Warstwa dockera to też jest [[Intermediate container|obraz]], ale bez nadanego taga przez człowieka, a z wygenerowanym dla nich sztucznym IDkiem. Każda instrukcja w [[Dockerfile]] to pojedyncza warstwa. Każda z wartw przechowuje informacje o różnicach w stosunku do poprzedniego obrazu na którym została zbudowana.
 
 [[Docker image|Obraz dockerowy]] może składać się z kilku warstw - na powyższym obrazku mamy:
 1. warstwe pobrania obrazu, na bazie którego tworzymy nasz kontener - *base image Ubuntu 14.04*
