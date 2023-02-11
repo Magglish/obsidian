@@ -9,7 +9,9 @@ sr-ease: 220
 
 Warstwa dockera to też jest [[Intermediate container|obraz]], ale bez nadanego taga przez człowieka, a z wygenerowanym dla nich sztucznym IDkiem. Każda instrukcja w [[Dockerfile]] to pojedyncza warstwa. 
 
-Każda kolejna wartw modyfikuje dane poprzedniej warstwy i przechowuje informacje o różnicach pomiędzy nimi. Ale wykorzystujące [[Docker cache|Dockerowego cache'a]] aby nie kopiować redundantych informacji
+Każda kolejna wartw modyfikuje dane poprzedniej warstwy i przechowuje informacje o różnicach pomiędzy nimi. Ale wykorzystujące [[Docker cache|Dockerowego cache'a]] aby nie kopiować redundantych informacji.
+
+Bardzo ważne: **kiedy dana warstwa się zmieni, wszystkie pod nią muszą zostać zbudowane na nowo.**
 
 [[Docker image|Obraz dockerowy]] może składać się z kilku warstw - na powyższym obrazku mamy:
 1. warstwe pobrania obrazu, na bazie którego tworzymy nasz kontener - *base image Ubuntu 14.04*
