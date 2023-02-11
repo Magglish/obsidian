@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-02-01
-sr-interval: 11
+sr-due: 2023-03-09
+sr-interval: 26
 sr-ease: 160
 ---
 
@@ -15,3 +15,4 @@ Przykład dla łatwiejszego zrozumienia
 Gdyby `EventStreamer` zależał wprost od `Syslog` to jakakolwiek zmiana w `Syslog` powodowała by zmianę w naszej klasie `EventStreamer`, czyli metoda `stream` non stop by się zmieniała. Pomysłem jest aby między nimi sworzyć [[Abstract class|klasę abstrakcyjna]] `DataTargetClient`, przez co `Syslog` będzie niejako rozwinięciem/uszczegółowieniem tej klasy abstrakcyjnej. Oczywiście to nie oznacza, że problem ze zmianami w kodzie znikną, on dalej występuje, ale poprzez taką implementację zarządzanie tym wszystkim jest znacznie łatwiejsze. W tym podejściu można też użyć [[Dependency injection]] aby do `EventStreamera` podać jakąś klasę, która ma w sobie metode `send`.
 
 #review
+#dokoncz sprawdz w innych zródłach
