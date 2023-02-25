@@ -5,6 +5,9 @@ sr-ease: 250
 ---
 
 # VPN
+
+![[Types of VPN.png]]
+
 VPN (Virtual Private Network) służy do zabezpieczania połączenia za pośrednictwem publicznej sieci Wi-Fi, dzięki czemu możesz przeglądać strony z zachowaniem pełnej prywatności.
 
 **Cechy VPN:**
