@@ -18,6 +18,6 @@ Cechy Dockera:
 5. Kontenery są reużywalne, tzn. jeden konterem może zostać pobrany i uruchomiony w innym kontenerze i wykorzystany w różnych celach,
 6. Docker umożliwia shareowanie swoich obrazów poprzez [docker-hub](https://hub.docker.com/).
 7. Docker jest open-source.
-8. Docker udostepnia [[REST API]] aby móc zintegorwać go z innymi aplikacjami.
+8. Docker udostepnia [[REST]] aby móc zintegorwać go z innymi aplikacjami.
 9. Serverem uruchomieniowym jest [[Docker daemon]].
 #review
