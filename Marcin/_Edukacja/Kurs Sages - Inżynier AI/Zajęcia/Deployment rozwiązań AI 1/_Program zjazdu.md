@@ -20,3 +20,4 @@
 5. Upewnienie się odnośnie wirtualnej maszyny:
 	1. Co na niej jest, można z niej skorzystać
 	2. Dlaczego Wirtualna Maszyna? te same środowisko pracy
+	3. Dlaczego Linux? Serwery na których zdeployownae będą modele są systemami Unixowymi, tak samo kontenery będą postawione na VMkach opartych o systemy Unixowe. Dodatkowo brak problemów z instalacją bibliotek w Pythonie, co o Windowsnie nie można powiedzieć.

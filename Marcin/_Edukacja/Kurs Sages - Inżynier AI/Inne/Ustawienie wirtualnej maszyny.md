@@ -1,2 +1,3 @@
 # Ustawienie wirtualnej maszyny
 
+**Software**
