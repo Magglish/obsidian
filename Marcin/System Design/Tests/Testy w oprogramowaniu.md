@@ -23,4 +23,3 @@ Wyróżniamy:
 6. [[Stress tests]] 
 7. [[Sanity tests]]
 
-#review

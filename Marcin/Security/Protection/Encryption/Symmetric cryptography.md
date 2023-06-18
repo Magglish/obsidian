@@ -9,4 +9,3 @@ Wady:
 
 Można połączyć szyfrowanie symetryczne z [[Asymmetric cryptography|asymetrycznym]] w ten sposób, że klucz do szyfrowania symetrycznego przekazywany jest w sposób asymetryczny.
 
-#review

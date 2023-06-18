@@ -9,4 +9,3 @@ Przykłady:
 1. Klasy, które dziedziczą po jakiejś klasie powinny mieć argumenty tego samego typu i powinny zwracać ten sam typ co klasa po której dziedziczą.
 2. Klasy, które dziedziczą po jakiejś klasie powinny mieć takie same argumenty (nie więcej, nie mniej).
 
-#review

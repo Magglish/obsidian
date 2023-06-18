@@ -27,4 +27,3 @@ class Tokenizer(UpperIterableMixin, BaseTokenizer):
 ```
 W ten sposób korzystamy z `__iter__` z `UpperIterableMixin`. Kiedy warto tego użyć? Kiedy np. bardzo dużo klas dziedziczy po `BaseTokenizer` i nie chcemy zmieniać tej bazowej implementacji.
 
-#review

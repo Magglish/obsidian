@@ -20,4 +20,4 @@ DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie k
 
 W sytuacji gdy łączymy się do sieci ponownie, to DHCP stara się dać ten sam [[IP adress|adres IP]], który był używany wcześniej przez obiekt. Jednakże jeżeli jakieś inne urządzenie już korzysta z tego IP lub mamy zdefiniowane jakieś reguły (np. wynikające z bezpieczeństwa aby nie otrzymywać tego samego IP gdy się łączymy) to dostaniemy nowy adres.
 
-#review
+

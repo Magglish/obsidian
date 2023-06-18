@@ -7,4 +7,3 @@
 4. Mikrokernel lepiej używa pamięć RAM.
 
 Jednak większość tych różnic jest usuwana w Linuxie na skutek zastosowania [[Linux kernel module|podejścia modułowego]].
-#review

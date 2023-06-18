@@ -11,4 +11,4 @@ Algorytmy:
 4. [[IP URL Hash]]
 5. [[Least Connections]]
 6. [[Least Time]]
-#review 
+ 

@@ -5,4 +5,3 @@ Self-healing applications to aplikacje, które automatycznie same są w stanie w
 W tej kwestii używane są [[Container|kontenery]] z racji tego, że są:
 1. szybkie w deployu, bo są lekkie
 
-#review

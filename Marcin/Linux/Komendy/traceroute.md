@@ -6,4 +6,3 @@ Komenda `traceroute` pokazuje sciezke przesyłu danych do destynacji.
 `traceroute google.com`
 
 ![[traceroute google.com.png]]
-#review

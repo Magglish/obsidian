@@ -14,4 +14,3 @@
 6. [[OSI Presentation Layer|Presentation Layer]],
 7. [[OSI Application Layer|Application Layer]],
 
-#review

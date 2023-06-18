@@ -10,4 +10,3 @@ Zalety:
 6. Dzięki temu programiści mogą pisać kod niezależnie od hardwareu i nie przejmować się zarządzaniem pamięcią fizyczną.
 
 #dokoncz
-#review

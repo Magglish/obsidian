@@ -6,4 +6,3 @@ Informują klienta o tym, że musi być podjęta dodatkowa akcja w celu skończe
 
 [Lista wszystkich statusów 3xx](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#:~:text=instance.%5B17%5D-,3xx%20redirection,-This%20class%20of)
 
-#review

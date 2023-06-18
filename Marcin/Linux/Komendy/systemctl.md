@@ -5,4 +5,4 @@ Możemy np.:
    `sudo systemctl enable/disable <<JAKIS_SERVICE>>` 
 2. wylistować servicy i [[Daemon|daemony]]
    `sudo systemctl list-units `
-   #review
+  

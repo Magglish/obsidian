@@ -7,4 +7,3 @@ Problem ze zduplikowanym kodem:
 2. Jest drogi - musimy pamiętać o zmianach w kilku miejsach
 3. Nie ma single source of truth.
 
-#review

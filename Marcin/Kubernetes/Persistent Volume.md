@@ -7,4 +7,4 @@ Persistent Volume jest jak [[Volume|volume]] w [[Pod|podzie]], z tym, że zarzą
 
 
 
-#review 
+ 

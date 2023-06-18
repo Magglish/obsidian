@@ -12,4 +12,3 @@ Problem: Usługa niedostepna przez pewien czas.
 3. Usuwamy powoli stare kontenery
 
 Zero-downtime deployment możliwy jest z użyciem [[Orchestration|orchestration tools]].
-#review

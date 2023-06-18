@@ -13,4 +13,3 @@ class EventStreamer:
 			self._target.send(event.serialise())
 ```
 
-#review

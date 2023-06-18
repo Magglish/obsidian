@@ -4,4 +4,3 @@ Service Mesh to warstwa architektury, którą możesz dodać do swojej istnieją
 
 Pojęcie *service mesh* dotyczy softweru, który umożliwia takie działanie oraz wszelkie ustawienia sieciowe, które powstają w wyniku tego działania.
 
-#review

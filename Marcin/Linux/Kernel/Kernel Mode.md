@@ -3,4 +3,3 @@ Kernel mode to tryb programu, który pozwala na dostęp do wszystkich funkcjonal
 
 Kernel Mode stosowany jest głównie w celach zabezpieczeń, np. dany proces (ms word) nie ma dostępu do pamięci innych procesów (np. przeglądarki). Dodatkowo nie musimy myśleć czy nasza aplikacja/kod coś popsuje - jest to obsługiwane odpowiednio przez Kernel.
 
-#review

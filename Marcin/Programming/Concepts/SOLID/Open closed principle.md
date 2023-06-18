@@ -62,4 +62,3 @@ class TransactionEvent(Event):
 		return event_data["after"].get("transaction") is not None
 ```
 
-#review

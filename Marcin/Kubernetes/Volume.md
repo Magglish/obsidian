@@ -4,4 +4,3 @@ Volume używane w [[Pod|podach]] to nic innego jak storage, którym mogą się d
 
 Różni się tym od [[Ephemeral Volume]], że nie zostaje utracony po ubiciu kontenera.
 
-#review

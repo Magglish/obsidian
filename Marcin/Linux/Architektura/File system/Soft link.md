@@ -6,4 +6,3 @@ Komenda:
 ln -s p1 p2
 ```
 Tworzy soft link `p2` odnoszący się do pliku o ścieżce `p1`. Każda operacja/proces na `p2` będzie odnosiło się do pliku `p1`.
-#review

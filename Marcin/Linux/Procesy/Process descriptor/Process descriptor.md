@@ -14,4 +14,3 @@ Po zakończeniu procesu, zapisywane są w nim informacje o:
 6. [[Memory management register]] 
 7. [[Hardware context switch]]
 Kiedy kernel zdecyduje, że chce wznowić proces, korzysta z powyższych rejestrów aby określić odpowiedni etap/moment wznowienia. 
-#review

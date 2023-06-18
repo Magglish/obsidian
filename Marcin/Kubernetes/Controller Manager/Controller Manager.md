@@ -7,4 +7,4 @@ Zarządza Managerami na [[Kubernetes|klastrze kubernetesowym]]:
 3. [[Endpoints Controller]]
 4. [[Service Account & Token Controller]]
 
-#review 
+ 

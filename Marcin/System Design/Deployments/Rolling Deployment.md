@@ -6,4 +6,4 @@ Rolling update polega na powolnym udpateowaniu tak aby żadna z aplikacj nie by�
 
 W sytuacji gdy mamy tylko 1 [[Container|instancje]], dokładana jest 2-ga z nową wersją i potem ubijana 1-wsza stara.
 W sytuacji gdy mamy n instancji, to ubijana jest 1 instancja i w jej miejsce pojawia się nowa zupdateowana i tak pojedynczo jest robione.
-#review 
+ 

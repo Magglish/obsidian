@@ -10,4 +10,3 @@ HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] [[Text protocol|tekst
 6. [[Cookies]]
 
 
-#review

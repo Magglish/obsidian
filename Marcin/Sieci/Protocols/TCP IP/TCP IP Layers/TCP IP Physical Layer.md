@@ -4,4 +4,3 @@
 
 **Physical Layer** - warstwa określa z jakiego sprzetu skorzystamy do wysyłki (kabel, rotuer wifi, antena, laser)
 
-#review

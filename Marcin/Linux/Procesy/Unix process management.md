@@ -7,4 +7,3 @@ W sytuacji kiedy dziecko wykona swoje operacje i czeka aż rodzic "przejmie" inf
 
 ![[Process management - parent and children.png]]
 
-#review

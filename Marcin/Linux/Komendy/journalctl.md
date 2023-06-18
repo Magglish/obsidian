@@ -6,4 +6,3 @@ Np.
    `journalctl -b`
 2. Zobacz wszystkie logi z jakiego service'u
    `journalctl -b -u nginx.service`
-#review

@@ -14,4 +14,3 @@ Cechy Dockera:
 7. Docker jest open-source.
 8. Docker udostepnia [[REST]] aby móc zintegorwać go z innymi aplikacjami.
 9. Serverem uruchomieniowym jest [[Docker daemon]].
-#review

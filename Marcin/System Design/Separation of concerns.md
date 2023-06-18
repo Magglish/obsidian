@@ -4,4 +4,3 @@ Separation of concerns zakłada, że każda funkcjonalność powinna być w oddz
 
 Separation of concerns można połączyć z [[Design by Contract]], w taki sposób, że kontrakt jest oddzielnych concern-em.
 
-#review

@@ -4,4 +4,3 @@ Ephemeral [[Container]] to specjalny typ kontenera, który może zostać uruchom
 
 Ephemeral container wstrzykuje się w Poda i używane są w sytuacji debugowania Poda, który natywnie takiej opcji nie ma, w szczególności w [[Distroless image]] albo gdy kontener w Podzie się crashuje i musimy sprawdzić o co chodzi albo gdy kontener ma za małe uprawnienia żeby cokolwiek zrobić i nie chcemy mu specjalnie w tym celu tego zwiększać. Istotne: **wstrzyknięty ephemeral container ma uprawnienia [[root user|roota]]**, więc możemy robić wszystko.
 
-#review

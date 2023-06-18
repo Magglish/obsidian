@@ -8,4 +8,4 @@
 Kubernetes node jest lekki, ponieważ jedynym podem jaki na nim działa po starcie jest tylko [[K8s Proxy]], a [[Kubelet]] i [[Container Runtime]] to daemony.
 
 
-#review 
+ 

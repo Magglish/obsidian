@@ -12,4 +12,4 @@ Przykładowa konfiguracja pokazana u góry:
 - `port: 80` - port który service otwiera na zewnatrż
 - `targetPort` - port który targetujemy na podzie
 
-#review 
+ 

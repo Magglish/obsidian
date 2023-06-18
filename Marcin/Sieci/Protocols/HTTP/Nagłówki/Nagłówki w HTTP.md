@@ -24,4 +24,3 @@
 15. `Set-Cookie` - Nagłówek służący do ustawienia ciasteczka
 16. `User-Agent` - Nagłówek dołączany do zapytania informujący o tym jaki klient został użyty do jego wysłania
 
-#review

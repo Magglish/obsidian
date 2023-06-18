@@ -6,4 +6,3 @@ W tym celu używane są [[Container|kontenery]] aby podzielić aplikacje na mni
 
 Przeciwieństwem do mikroserwisu jest monolith.
 
-#review

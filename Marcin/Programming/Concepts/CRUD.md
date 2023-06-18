@@ -4,4 +4,3 @@ CRUD (*Create, Read, Update, Delete*) to podstawowe funkcjonalności aplikacji -
 
 Aplikacje CRUD tłumaczą metody [[HTTP]] w operacje SQL-owe wykonywane na bazach danych.
 
-#review

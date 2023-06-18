@@ -3,4 +3,3 @@
 1. `lo` - loopback
 2. np. `wlp5s0` - to router wifi
 3. np. `enp3s0` - to karta sieciowa w laptopie
-#review

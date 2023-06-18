@@ -5,4 +5,3 @@ Przykładowe protokoły to:
 1. [[IMAP]]
 2. [[POP3]]
 3. [[SMTP]]
-#review

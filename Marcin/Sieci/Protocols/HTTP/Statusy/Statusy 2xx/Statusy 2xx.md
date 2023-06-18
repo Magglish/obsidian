@@ -9,4 +9,3 @@ Statusy z tej grupy informują o tym, że zapytanie zostało poprawnie przetworz
 
 [Lista wszystkich statusów 2xx](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#:~:text=message.%5B7%5D-,2xx%20success,-This%20class%20of)
 
-#review

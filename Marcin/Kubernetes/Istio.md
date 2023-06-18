@@ -7,4 +7,4 @@ Istio to software typu [[Service Mesh|service mesh]], który dostarcza:
 4. szyfrowanie połączenia korzystając z [[TLS]]
 5. monitorowania aplikacji/infrastruktury
 
-#review 
+ 

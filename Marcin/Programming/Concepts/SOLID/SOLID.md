@@ -8,4 +8,3 @@ SOLID, czyli:
 4. I - [[Interface segregation principle]]
 6. D - [[Dependency inversion principle]]
 
-#review

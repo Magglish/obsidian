@@ -9,4 +9,3 @@
 8.  [[CONNECT]] – żądanie przeznaczone dla serwerów pośredniczących pełniących funkcje tunelowania
 9.  [[PATCH]] – aktualizacja części danych
 
-#review

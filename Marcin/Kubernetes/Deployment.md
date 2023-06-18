@@ -18,4 +18,4 @@ Przykładowa konfiguracja pokazana u góry:
 - `spec: containers: image` - ścieżka do obrazu kontenera
 - `spec: containers: ports: containerPorts` - który port otwieramy na kontenerze (tutaj akurat 80 na http bo domyślnie nginx słucha na porcie 80)
 
-#review 
+ 

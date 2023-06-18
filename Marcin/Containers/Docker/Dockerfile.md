@@ -10,4 +10,3 @@ Przykład ([[Dockerfile commands|komendy]]):
 Tworzy poniższy obraz z 3 warstwami
 
 ![[Docker layers.png]]
-#review

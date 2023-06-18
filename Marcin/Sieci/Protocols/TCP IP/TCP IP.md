@@ -4,5 +4,5 @@ TCP/IP (Transmission Control [[Protocol]]) stworzone przez departament obrony dl
 **Powiązane pojęcia:**
 [[TCP IP Layers]], [[TCP IP Network Operations]]
 
-#review 
+ 
 #dokoncz

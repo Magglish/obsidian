@@ -10,4 +10,3 @@ Przykładowe cele w jakich można użyć SQL Injection:
 6. usunięcie danych
 7. zdobycie roli administratora
 
-#review

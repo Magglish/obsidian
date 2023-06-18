@@ -7,4 +7,3 @@ Cechy:
 3. zastąpił [[SysV init]]
 4. systemd zarządza procesami poprzez [[cgroups]] a nie poprzez ich [[PID|PIDy]]
 
-#review

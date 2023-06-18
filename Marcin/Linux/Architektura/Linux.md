@@ -8,4 +8,3 @@ Linux to [[Operating system|system operacyjny]] [[Unix]], stworzony przez Linusa
 3. Jest kompatybilny z standardem [[POSIX]]
 4. W implementacji Linuxa skupiany sie na zaimplementowaniu najlepszych featerów systemu Unixowego, dodatkowo opierając się na tym co jest zaimplementowane w innych systemach Unixowych i co się sprawdza.
 
-#review

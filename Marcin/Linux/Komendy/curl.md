@@ -3,4 +3,3 @@
 
 `curl <<IP_ADRES>>` - proste użyce żeby sprawdzić czy strona odpowiada
 #dokoncz
-#review

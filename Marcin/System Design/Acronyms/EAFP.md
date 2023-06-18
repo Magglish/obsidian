@@ -13,4 +13,3 @@ EAFP jest przeciwieństwiem [[LBYL]]
 
 
 
-#review

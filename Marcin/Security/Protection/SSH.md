@@ -7,4 +7,3 @@ Aplikacje oparte o SSH pozwalają na:
 3. I wiele innych czynności zabezpieczające połączenie
 
 Połączenie nawiązujemy poprzez `ssh <USER>>@<<ADRES_IP>>`
-#review

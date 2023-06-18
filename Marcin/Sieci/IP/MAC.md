@@ -6,4 +6,3 @@ Adres MAC składa się z sześciu zestawów po dwa znaki, każdy oddzielony dwu
 $$00:1\text{B}:44:11:3\text{A}:\text{B}7$$
 
 **Ciekawostka:** Jeśl nie wiesz do kogo wysłać paczke danych, to możesz to zrobić do adresu $00:00:00:00:00$, czyli de facto do każdego urządzenia.
-#review

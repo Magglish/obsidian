@@ -6,4 +6,3 @@ Przykładowe użycia:
 1. Logowanie requestów i responseów
 2. Autoryzacja użytkowników przed tym jak wpuścimy ich requesty do naszej aplikacji.
 
-#review

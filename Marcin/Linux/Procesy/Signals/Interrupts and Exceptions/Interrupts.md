@@ -5,4 +5,3 @@ Wyróżniamy [[Software interrupts|przerwania softwareowe]] i [[Hardware interru
 
 Każdy z wyjątków i przerwań ma swój numer - od 0 do 255.
 
-#review

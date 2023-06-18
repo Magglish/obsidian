@@ -4,4 +4,4 @@ Wewnątrz klastra [[Kubernetes|kubernetesowego]] mam swoją własną wewnętrzn�
 
 Do zarządzania siecią w kubernetesie są stworzone odpowiednie serwisy/aplikacje/oprogramowanie jak np. np. [[Flannel]], [[Istio]] lub [[Anthos service mesh]] - wszystko zalezy od tego gdzie budujemy klaster.
 
-#review 
+ 

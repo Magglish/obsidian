@@ -19,4 +19,3 @@ Maksymalna długość nazwy 255 znaków.
 7. `tmp` - miejsce z plikami tymczasowymi
 8. `lib` - miejsce z systemowymi bilbiotekami
 
-#review
