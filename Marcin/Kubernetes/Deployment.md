@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-12
-sr-interval: 45
-sr-ease: 181
----
-
 # Deployment
 
 ![[Kubernetes Deployment.png]]

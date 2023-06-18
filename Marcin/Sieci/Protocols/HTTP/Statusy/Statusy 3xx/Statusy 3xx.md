@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 306
----
-
 # [[Statusy w HTTP|Statusy]] 3xx w HTTP
 Informują klienta o tym, że musi być podjęta dodatkowa akcja w celu skończenia przetwarzania zapytania. Statusy te wykorzystywane są do ustawiania przekierowań.
 

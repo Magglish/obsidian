@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 306
----
-
 # [[Statusy w HTTP|Statusy]] 5xx w HTTP
 Serwer informuje klienta o błędzie po stronie serwera, które uniemożliwiają przetworzenie zapytania.
 

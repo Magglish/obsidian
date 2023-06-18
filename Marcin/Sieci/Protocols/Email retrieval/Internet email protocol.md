@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 292
----
-
 # Internet email protocol
 Jest to [[Protocol|protokół]] który określa zasady i reguły do poprawnej wysyłki emaili przez internet.
 

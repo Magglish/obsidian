@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 310
----
-
 # SQL Injection
 [[SQL]] Injection polega na strzyknięciu kodu SQLowego który zadziała wewnątrz systemu/aplikacji użytkownika opartego o bazy danych (data-driven application). 
 

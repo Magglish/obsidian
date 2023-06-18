@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 310
----
-
 # Brute force attack
 Brute force attack skupia się na:
 1. Jest to wielokrotne próby odgadnięcia hasła/PINu.

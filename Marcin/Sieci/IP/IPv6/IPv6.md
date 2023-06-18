@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 290
----
-
 # IPv6
 [[IP adress|Adres IPv6]] ma długość 128 bitów i jest przedstawiony za pomocą hexadecimalnych cyfr:
 

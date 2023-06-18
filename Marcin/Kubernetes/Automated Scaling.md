@@ -1,8 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 215
----
 
 # Automated Scaling
 

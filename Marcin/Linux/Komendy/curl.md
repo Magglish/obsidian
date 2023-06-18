@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-13
-sr-interval: 60
-sr-ease: 260
----
-
 # curl
 `curl` to komenda służąca do wysyłki danych przez sieć. Można nią testować strony czy tez komunikować się z nimi aby wykonywać mniej lub bardziej zaawansowane operacje.
 
