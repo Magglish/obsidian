@@ -5,4 +5,3 @@ ASGI (Asynchronous Server Gateway Interace) to standard do obsługi zapytań [[H
 W porównaniu do [[WSGI]], ASGI jest **asynchroniczne** co pozwala na przetwarzanie wielu żądań jednocześnie (np. [uvicorn](https://www.uvicorn.org/), [hypercorn](https://github.com/pgjones/hypercorn))
 
 
-#review

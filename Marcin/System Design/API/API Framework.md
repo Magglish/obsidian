@@ -9,4 +9,3 @@ Frameworki do [[API]] (np. Flask, FastAPI) zbudowane są z poniższych elementó
 4. [[Middleware]] które może dodatkowo przetworzyć zapytanie przed jego obsługą przez naszą aplikacje i/lub dodatkowo przetworzyć odpowiedź z naszej aplikacji zanim trafi do klienta
 5. [[Widok w API]]
 
-#review

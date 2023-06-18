@@ -16,4 +16,3 @@ Wady:
 1. Stosując asymetryczne szyfrowanie, przesył danych jest znacznie wolniejszy niż w [[Symmetric cryptography|szyfrowaniu symetrycznym]]
 
 
-#review
