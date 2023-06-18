@@ -1,0 +1,2 @@
+# Ustawienie wirtualnej maszyny
+
