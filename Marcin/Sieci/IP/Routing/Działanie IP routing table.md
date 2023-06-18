@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-01
-sr-interval: 60
-sr-ease: 290
----
-
 # Działanie IP routing table
 ![[IP routing table final.png]]
 

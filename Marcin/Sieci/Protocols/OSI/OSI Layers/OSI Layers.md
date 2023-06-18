@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-06
-sr-interval: 60
-sr-ease: 266
----
-
 # OSI Layers
 
 ![[Warstwy OSI.png|200]]

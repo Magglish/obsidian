@@ -1,9 +1,3 @@
----
-sr-due: 2023-02-26
-sr-interval: 28
-sr-ease: 130
----
-
 # Pod
 
 

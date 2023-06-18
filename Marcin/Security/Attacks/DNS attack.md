@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-01
-sr-interval: 60
-sr-ease: 294
----
-
 # DNS attack
 Ataki na [[DNS]] polegają na:
 1. Zamianie orginalnej nazwy/adresu hosta, dla którego system [[DNS]] wygenerował adres IP, na błędną nazwę/adres (inaczej jest to określane jako *DNS spoofing* albo *DNS cache poisoning*)

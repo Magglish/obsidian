@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-06
-sr-interval: 60
-sr-ease: 268
----
-
 # Nagłówki w HTTP
 **Cechy**:
 1. Nagłówki dołączane są przez klienty do wysyłanych zapytań i przez serwery do wysyłanych odpowiedzi. 

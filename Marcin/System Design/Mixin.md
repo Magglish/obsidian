@@ -1,9 +1,3 @@
----
-sr-due: 2023-02-26
-sr-interval: 28
-sr-ease: 200
----
-
 # Mixin
 
 Mixin to taka klasa, która dostarcza pewnej implementacji/zachowania i tworzona jest z myślą o reużywalności kodu. Z reguły sama z siebie klasa Mixin jest nieużyteczna - staje się dopiero w innych klasach, które po niej dziedziczą.

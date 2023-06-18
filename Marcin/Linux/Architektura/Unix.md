@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-05
-sr-interval: 58
-sr-ease: 171
----
-
 # Unix
 Unix to [[Operating system|system operacyjny]]
 

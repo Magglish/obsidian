@@ -1,9 +1,3 @@
----
-sr-due: 2023-02-27
-sr-interval: 29
-sr-ease: 211
----
-
 # Unix file
 Pojedynczy plik w systemie [[Unix|Unixowym]] to struktura składająca się z sekwencji bitów, jednakże sam [[Kernel|kernel]] nie interpretuje zawartości plików. W tym celu muszą zostać napisane biblioteki operujące na plikach, zawierające w sobie wyższe poziomy abstrakcji, ale i tak te programy muszą opierać się na tym co oferuje [[Kernel|kernel]]. Jest to podstawowa jednostka w [[Unix filesystem|unixowym systemie plików]]. 
 
