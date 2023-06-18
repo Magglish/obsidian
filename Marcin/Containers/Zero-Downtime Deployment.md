@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 238
----
-
 # Zero-Downtime Deployment
 **Wcześniej deploy wyglądał tak:**
 1. Wyłącz server,

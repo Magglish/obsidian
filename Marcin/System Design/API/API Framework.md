@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-12
-sr-interval: 60
-sr-ease: 205
----
-
 # API Framework
 Frameworki do [[API]] (np. Flask, FastAPI) zbudowane są z poniższych elementów:
 

@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-12
-sr-interval: 60
-sr-ease: 200
----
-
 # DRY
 
 DRY (Dont Repeat Yourself) oznacza aby uniknąc deduplikacji jak tylko się da - jest to prawie to samo co [[OAOO]].

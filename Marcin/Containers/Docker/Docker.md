@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-12
-sr-interval: 60
-sr-ease: 220
----
-
 # Docker
 
 ![[Docker.png|400]]

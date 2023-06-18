@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 260
----
-
 # chmod
 `chmod` służy do nadania uprawnień do plików
 

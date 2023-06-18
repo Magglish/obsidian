@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 248
----
-
 # Obrona przed [[DoS]]
 1. [[Firewall]],
 2. [[Anti-virus]],

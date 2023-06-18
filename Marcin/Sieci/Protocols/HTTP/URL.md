@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 287
----
-
 # URL
 URL (Uniform Resource Locator)  jest to identyfikator zasobów, który wykorzystywany jest w żadaniach i odpowiedziak protokołu [[HTTP]]. 
 

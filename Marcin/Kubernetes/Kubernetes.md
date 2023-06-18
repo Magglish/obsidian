@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-30
-sr-interval: 60
-sr-ease: 198
----
-
 # Kubernetes
 
 ![[Kubernetes.png]]

@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-12
-sr-interval: 60
-sr-ease: 262
----
-
 # runlevel
 runlevel to inaczej tryb w którym znajduje się [[System V]] po uruchomieniu. Jest ich łącznie 6, różnia się troche od dystrybucji Unixa, ale ich generalny pattern jest następujący:
 0. Off - wyłącza urządzenie

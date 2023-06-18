@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-12
-sr-interval: 60
-sr-ease: 200
----
-
 # LBYL
 
 LBYL (Look Before You Leap) zakłada sprawdzenie tego co będziemy używać/na czym będziemy działać zanim użyjemy naszej funkcji.

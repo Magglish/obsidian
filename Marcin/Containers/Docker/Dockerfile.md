@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-12
-sr-interval: 60
-sr-ease: 235
----
-
 # Dockerfile
 Dockerfile to plik konfiguracyjny, który określa jak ma zostać zbudowany obraz [[Docker|dockerowy]].
 

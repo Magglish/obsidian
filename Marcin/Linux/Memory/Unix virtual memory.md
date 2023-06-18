@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-01
-sr-interval: 49
-sr-ease: 130
----
-
 # Unix virtual memory
 Unix virtual memory to abstrakcja, opierająca się o [[Address space|address space ale w wersji virtualnej]], która pełni rolę warstwy pomiędzy żądaniem pamięci przez program/proces/aplikacje a [[Memory Management Unit]].
 
