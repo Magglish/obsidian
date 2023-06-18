@@ -6,4 +6,3 @@ Gdzie $165.132.9.0$ oznacza wprost adres ip dla Network destination, a $25$ ozna
 
 $$11111111.11111111.11111111.10000000 = 255.255.255.128$$
 
-#review
