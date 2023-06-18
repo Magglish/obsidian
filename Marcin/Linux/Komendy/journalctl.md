@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 200
----
-
 # journalctl
 `journalctl` to komenda korzystajaca z daemona [[journald]] aby wyświetlić logi.
 

@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 260
----
-
 # history
 `history` wyświetla historie wszystkich komend uruchamianych w terminalu. 
 
