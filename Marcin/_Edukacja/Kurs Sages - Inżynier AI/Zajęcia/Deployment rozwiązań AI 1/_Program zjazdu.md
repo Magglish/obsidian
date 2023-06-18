@@ -8,7 +8,7 @@
 	1. doświadczenie zawodowe
 	2. ML moją pasją
 	3. czym sie interesuje poza MLem
-	4. dlaczego MLOps? scieżka DS do MLOps -dlaczego mnie to jara, DSi też powinni 
+	4. dlaczego MLOps? scieżka DS do MLOps -dlaczego mnie to jara, DSi też powinni znać tematy wdrożeniowe
 4. Podejście do uczenia się i jak będziemy my się uczyć
 	1. Praktyka, praktyka i jeszcze raz praktyka
 	3. Prezentacja - obrazki, hasła, bez tekstu
