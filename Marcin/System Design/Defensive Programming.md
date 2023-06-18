@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-08
-sr-interval: 41
-sr-ease: 200
----
-
 # Defensive Programming
 
 Defensive Programming zakłada, że twoja implementacja jest wstanie "obronić się" przed źle podanym inputem do funkcji/serwisu. 

@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 252
----
-
 # systemctl
 `systemctl` to komenda do zarzadzania procesami korzystajac z [[systemd]].
 Możemy np.:

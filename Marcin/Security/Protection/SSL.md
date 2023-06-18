@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 306
----
-
 # SSL
 SSL (Secure Socket Layer) używany jest do stworzenia zaszyfrowanego połączenia pomiędzy: 
 1. stroną a przeglądarką

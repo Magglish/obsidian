@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 310
----
-
 # DoS
 Atak DoS (Denial of Service) wykorzystuje [[Buffer overflow|buffer overflow]] i skupia się na:
 1. Atakuje komputer, sieć, aplikacje aby zablokować komunikację i działanie

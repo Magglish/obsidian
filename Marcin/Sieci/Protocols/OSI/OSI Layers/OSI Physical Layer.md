@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 310
----
-
 # OSI Physical Layer
 
 ![[Warstwy OSI.png|200]]

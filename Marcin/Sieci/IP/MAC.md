@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 310
----
-
 # MAC
 MAC (Medium Acces Control) to niepowtarzalny numer identyfikacyjny nadawany przez producentów każdemu urządzeniu sieciowemu (np. karcie sieciowej). Adres MAC nie może się powtórzyć.
 

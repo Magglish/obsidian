@@ -1,8 +1,3 @@
----
-sr-due: 2023-03-09
-sr-interval: 26
-sr-ease: 160
----
 
 # Dependency inversion principle
 

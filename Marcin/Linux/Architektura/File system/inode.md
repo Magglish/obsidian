@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 293
----
-
 # inode
 inode to struktura danych, która przechowuje metadane o [[Unix file|pliku w systemie unixowym]]. 
 

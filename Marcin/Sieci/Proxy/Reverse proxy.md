@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-08
-sr-interval: 41
-sr-ease: 200
----
-
 # Reverse proxy
 
 ![[Reverse proxy.png]]

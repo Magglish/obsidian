@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 290
----
-
 # UDP
 UDP (User Datagram Protocol) dostarca informacji o portach aby aplikacje mogły się ze sobą komunikować. UDP jest connectionless, czyli nie tworzy połączenia end-to-end aby sprawdzić otrzymane [[IP Packet|paczki danych]].
 

@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 291
----
-
 # TCP IP Application Layer
 ![[Warstwy TCP IP.png]]
 

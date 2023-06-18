@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-07
-sr-interval: 60
-sr-ease: 285
----
-
 # Metody w [[HTTP]]
 1.  [[GET]] - pobranie zasobu wskazanego przez URI
 2.  [[HEAD]] – pobiera informacje o zasobie, stosowane do sprawdzania dostępności zasobu
