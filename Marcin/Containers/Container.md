@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-26
-sr-interval: 60
-sr-ease: 220
----
-
 # Container
 
 Kontener (ang. *container*) to przenośnie oprogramowanie. Jest to technologia, która pozwala na uruchomienie i zdeployowanie oprogramowania na różnych systemach.

@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-26
-sr-interval: 60
-sr-ease: 271
----
-
 # DHCP
 DHCP (Dynamic Host Configuration Protocol) odpowiedzialne jest za połączenie komputera/telefonu z lokalnym serverem DHCP i poprosić o [[IP adress|adres IP]], [[Subnet mask]], [[Gateway]], [[DNS]] dla tego urządzenia oraz o parametrach sieci niezbędnych do połączenia się z internetem.
 

@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-12
-sr-interval: 60
-sr-ease: 262
----
-
 # kill
 Komenda `kill` pozwala nam na ubicie procesów lub wysłanie różnych sygnałów do procesów:
 

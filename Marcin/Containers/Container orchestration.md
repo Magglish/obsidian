@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-26
-sr-interval: 60
-sr-ease: 216
----
-
 # Container orchestration
 
 Jest to proces zarządzania [[Container|kontenerami]] i automatyzacje ich deployu. 

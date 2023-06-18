@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-25
-sr-interval: 59
-sr-ease: 169
----
-
 # Volume
 
 Volume używane w [[Pod|podach]] to nic innego jak storage, którym mogą się dzielić kontenery wchodzące w skłąd Poda. 

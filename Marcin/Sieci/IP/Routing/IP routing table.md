@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-26
-sr-interval: 60
-sr-ease: 270
----
-
 # IP routing table
 ![[IP routing table.png]]
 
