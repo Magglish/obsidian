@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-26
-sr-interval: 60
-sr-ease: 248
----
-
 # SSH
 SSH (Secure Shell) to protokół kryptograficzny używany do połączenia się w sposób bezpieczny z sieciami, które nie mają zabezpieczeń. Słucha na porcie 22.
 

@@ -1,9 +1,3 @@
----
-sr-due: 2023-04-26
-sr-interval: 60
-sr-ease: 250
----
-
 # VPN
 
 ![[Types of VPN.png]]
