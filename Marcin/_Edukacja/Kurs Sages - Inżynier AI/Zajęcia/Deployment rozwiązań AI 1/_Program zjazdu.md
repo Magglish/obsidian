@@ -17,3 +17,6 @@
 	7. Live coding - wymagane jest to aby oni też kodzili i robili notatki
 	8. Podejście iteracyjne - od najprostszych implementacji, które po prostu działają po coraz to bardziej skomplikowane i trudniejsze - uczymy się JAK, ale przede wszystkim DLACZEGO coś takiego implementuje
 	9. Na końcu - projekt 2-3 godzinny, który implementuje wszystko to co robiliśmy przez cały zjazd - podlega ocenie, dostaniecie feedback odemnie w przeciagu tygodnia
+5. Upewnienie się odnośnie wirtualnej maszyny:
+	1. Co na niej jest, można z niej skorzystać
+	2. Dlaczego Wirtualna Maszyna? te same środowisko pracy
