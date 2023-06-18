@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-14
-sr-interval: 17
-sr-ease: 200
----
-
 # Feature Toggle
 
 ![[Feature Toggle.png]]

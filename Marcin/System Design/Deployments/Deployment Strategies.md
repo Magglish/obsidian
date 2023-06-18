@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-15
-sr-interval: 18
-sr-ease: 200
----
-
 # Deployment Strategies
 
 ![[Deployment Strategies.png]]

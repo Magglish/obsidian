@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-14
-sr-interval: 17
-sr-ease: 200
----
-
 # Blue-Green Deployment
 
 ![[Blue-green deployment.png]]

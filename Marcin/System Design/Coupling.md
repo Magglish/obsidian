@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-14
-sr-interval: 44
-sr-ease: 198
----
-
 # Coupling
 
 Coupling oznacza to jak obiekty miedzy sobą są powiązane. Im bardziej obiekty są miedzy sobą powiązane, tym nasz kod:
