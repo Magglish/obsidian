@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-22
-sr-interval: 60
-sr-ease: 199
----
-
 # Control Plane 
 
 ![[Master in Kubernetes.png]]

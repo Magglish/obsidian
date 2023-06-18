@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 223
----
-
 # Unix process management
 [[Unix]] [[Process|process]] management rozróżnica proces od programu, który dany proces uruchamia. W systemach unixowych procesy są non stop tworzone z nowymi [[Address space|adresami pamięci]] i zabijane. 
 

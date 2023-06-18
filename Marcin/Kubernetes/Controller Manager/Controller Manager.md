@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-25
-sr-interval: 58
-sr-ease: 200
----
-
 # Controller Manager
 
 Zarządza Managerami na [[Kubernetes|klastrze kubernetesowym]]:

@@ -1,8 +1,3 @@
----
-sr-due: 2023-03-18
-sr-interval: 35
-sr-ease: 176
----
 
 # Liskov's substitution principle
 

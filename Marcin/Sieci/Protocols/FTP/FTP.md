@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 233
----
-
 # FTP
 FTP (File Transfer Protocol) [[Protocol|protokół]] używany do transferu plików z servera do klienta. Słucha na porcie 20.
 

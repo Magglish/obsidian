@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 248
----
-
 # HTTP
 HTTP (Hypettext Transfer Protocol) [[Protocol|protokół]] [[Text protocol|tekstowy]] służący do wymiany informacji pomiędzy serverem a klientem. 
 

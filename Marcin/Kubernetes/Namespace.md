@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-22
-sr-interval: 60
-sr-ease: 208
----
-
 # Namespace
 
 Namespace w [[Kubernetes]] to mechanizm grupowania pewnych zasobów wewnątrz klastra. 

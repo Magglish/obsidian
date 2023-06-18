@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-23
-sr-interval: 26
-sr-ease: 200
----
-
 # Docker Layer
 ![[Docker layers.png]]
 

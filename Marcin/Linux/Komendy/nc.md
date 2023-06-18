@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 260
----
-
 # nc
 `nc` (*netcat*) to komenda do operacji wysyłki danych przez  TCP lub UDP. 
 

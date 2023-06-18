@@ -1,8 +1,3 @@
----
-sr-due: 2023-03-21
-sr-interval: 38
-sr-ease: 274
----
 
 # Address space
 

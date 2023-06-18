@@ -1,9 +1,3 @@
----
-sr-due: 2023-03-27
-sr-interval: 60
-sr-ease: 250
----
-
 # Firewall
 Firewall to:
 1. System monitorowania i kontroli ruchu sieciowego
