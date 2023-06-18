@@ -9,4 +9,3 @@ Brute force attack skupia się na:
 
 Brute force attack można inaczej określić jako [[Dictionary attacks]].
 
-#review
