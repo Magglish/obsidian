@@ -1,3 +1,9 @@
 # Ustawienie wirtualnej maszyny
 
-**Software**
+**Software:** [VirtualBox](https://www.virtualbox.org/)
+
+Kroki do odtworzenia wirtualnej maszyny: 
+
+1. ...
+2. ...
+3. ...
