@@ -1,5 +1,3 @@
 [Program_zjazdu](https://docs.google.com/spreadsheets/d/1CRiMvdGtCxgHokyInMCFFCuibtbJEcYWFIXMDzUVtlY/)
 
 # Program zjazdu
-
-1. 
