@@ -40,6 +40,7 @@
 17. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
 18. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
 19. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
+20. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
 
 
 
@@ -56,6 +57,7 @@
 4. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
 5. [Microservice vs. monolithic](https://blog.bytebytego.com/i/88429916/what-are-the-differences-between-monolithic-and-microservice-architecture)
 6. [What is k8s](https://blog.bytebytego.com/i/88429916/what-is-ks-kubernetes)
+7. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
 
 # AI 4
 
