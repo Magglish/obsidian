@@ -33,8 +33,9 @@
 10. [Retry Patterns](https://blog.bytebytego.com/i/56949882/retry-patterns)
 11. [Why is RESTful so popular](https://blog.bytebytego.com/p/why-is-restful-api-so-popular)
 12. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
-13. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api)
-14. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
+13. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api) [GraphQL vs RestAPI](https://blog.bytebytego.com/i/84137023/what-is-graphql-rest-vs-graphql)
+14. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work)
+15. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
 
 
 
