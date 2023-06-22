@@ -55,15 +55,16 @@
 # AI 3
 
 1. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com) przy stawianiu swojego wlasnego IPka
-2. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
-3. [Visual guide on troubleshooting k8s](https://blog.bytebytego.com/i/72593300/kubernetes)
-4. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
-5. [Microservice vs. monolithic](https://blog.bytebytego.com/i/88429916/what-are-the-differences-between-monolithic-and-microservice-architecture)
-6. [What is k8s](https://blog.bytebytego.com/i/88429916/what-is-ks-kubernetes)
-7. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
-8. [Process of deploying changes to production](https://blog.bytebytego.com/i/98040721/what-is-the-process-for-deploying-changes-to-production)
-9. [Load Balancing algorithms](https://blog.bytebytego.com/i/103707419/what-are-the-common-load-balancing-algorithms)
-10. [Api Gateway vs Load Balancer](https://blog.bytebytego.com/i/104978579/what-are-the-differences-between-a-load-balancer-and-an-api-gateway)
+2. [Jak działa DNS](https://blog.bytebytego.com/i/109085468/how-does-dns-work)
+3. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
+4. [Visual guide on troubleshooting k8s](https://blog.bytebytego.com/i/72593300/kubernetes)
+5. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
+6. [Microservice vs. monolithic](https://blog.bytebytego.com/i/88429916/what-are-the-differences-between-monolithic-and-microservice-architecture)
+7. [What is k8s](https://blog.bytebytego.com/i/88429916/what-is-ks-kubernetes)
+8. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
+9. [Process of deploying changes to production](https://blog.bytebytego.com/i/98040721/what-is-the-process-for-deploying-changes-to-production)
+10. [Load Balancing algorithms](https://blog.bytebytego.com/i/103707419/what-are-the-common-load-balancing-algorithms)
+11. [Api Gateway vs Load Balancer](https://blog.bytebytego.com/i/104978579/what-are-the-differences-between-a-load-balancer-and-an-api-gateway)
 
 # AI 4
 
