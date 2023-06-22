@@ -29,7 +29,7 @@
 6. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
 7. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
 8. [Single Sign-On](https://blog.bytebytego.com/i/54898662/what-is-sso-single-sign-on)
-9. [Retry Patterns]()
+9. [Retry Patterns](https://blog.bytebytego.com/i/56949882/retry-patterns)
 
 
 
@@ -40,7 +40,9 @@
 
 # AI 3
 
-3. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com) przy stawianiu swojego wlasnego IPka
+1. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com) przy stawianiu swojego wlasnego IPka
 
 
 # AI 4
+
+1. [How Companies Sheep Code to Production](https://blog.bytebytego.com/i/57967195/how-do-companies-typically-ship-code-to-production)
