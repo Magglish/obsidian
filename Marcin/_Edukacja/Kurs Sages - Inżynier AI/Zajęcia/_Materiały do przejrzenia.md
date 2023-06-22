@@ -34,10 +34,11 @@
 11. [Why is RESTful so popular](https://blog.bytebytego.com/p/why-is-restful-api-so-popular)
 12. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
 13. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api) [GraphQL vs RestAPI](https://blog.bytebytego.com/i/84137023/what-is-graphql-rest-vs-graphql)
-14. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work)
+14. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work) [RPC vs gRPC](https://blog.bytebytego.com/i/88429916/rpc-vs-grpc)
 15. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
 16. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
 17. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
+18. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
 
 
 
@@ -52,6 +53,7 @@
 2. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
 3. [Visual guide on troubleshooting k8s](https://blog.bytebytego.com/i/72593300/kubernetes)
 4. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
+5. [Microservice vs. monolithic](https://blog.bytebytego.com/i/88429916/what-are-the-differences-between-monolithic-and-microservice-architecture)
 
 # AI 4
 
