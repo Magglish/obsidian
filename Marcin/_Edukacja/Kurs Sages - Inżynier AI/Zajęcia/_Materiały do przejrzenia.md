@@ -33,7 +33,7 @@
 10. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
 11. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
 13. [Design Safe and effective API](https://blog.bytebytego.com/i/111973267/how-do-we-design-effective-and-safe-apis) [2 czesc](https://blog.bytebytego.com/p/design-effective-and-secure-rest)
-14. [HTTP]
+14. [HTTP Headers](https://blog.bytebytego.com/i/125673986/important-things-about-http-headers-you-may-not-know)
 15. [Authorization methods](https://blog.bytebytego.com/p/password-session-cookie-token-jwt) [Authorization methods 2](https://blog.bytebytego.com/p/password-session-cookie-token-jwt-ec1)
 16. [URL Structure](https://blog.bytebytego.com/i/110521562/do-you-know-all-the-components-of-a-url)
 17. [Which HTTP statuses are most common](https://blog.bytebytego.com/i/110521562/which-http-status-codes-are-most-common)
@@ -51,6 +51,7 @@
 29. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
 30. [Linux commands (look for network)](https://xmind.app/m/WwtB/)
 31. [What happens when you type ssh](https://blog.bytebytego.com/i/114917564/popular-interview-question-what-happens-when-you-type-ssh-hostname)
+32. [How to improve API pe]
 
 
 

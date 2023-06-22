@@ -1,1 +1,2 @@
 1. [DevOps, SRE, PlatformEngineer](https://blog.bytebytego.com/i/110521562/devops-vs-sre-vs-platform-engineering-what-is-the-difference)
+2. [VectorDB](https://blog.bytebytego.com/i/127263496/vector-databases-are-so-hot-right-now-but-what-is-a-vector-db)
