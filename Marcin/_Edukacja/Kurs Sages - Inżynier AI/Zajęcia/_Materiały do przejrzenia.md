@@ -25,20 +25,21 @@
 2. [How does the Domain Name System (DNS) lookup work?](https://blog.bytebytego.com/p/how-does-the-domain-name-system-dns)
 3. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com)
 4. [REST vs GraphQL vs SOAP vs gRPC](https://blog.bytebytego.com/p/soap-vs-rest-vs-graphql-vs-rpc) [Timeline](https://blog.bytebytego.com/i/85578651/api-architectural-styles)
-5. [HTTP 1.0, 1.1, 2.0, 3.0](https://blog.bytebytego.com/p/http-10-http-11-http-20-http-30-quic) [Youtube](https://blog.bytebytego.com/i/69544276/http-http-http)
-6. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
-7. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
-8. [Is HTTPS safe?](https://blog.bytebytego.com/i/70478435/is-https-safe)
-9. [Single Sign-On](https://blog.bytebytego.com/i/54898662/what-is-sso-single-sign-on)
-10. [Retry Patterns](https://blog.bytebytego.com/i/56949882/retry-patterns)
-11. [Why is RESTful so popular](https://blog.bytebytego.com/p/why-is-restful-api-so-popular)
-12. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
-13. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api) [GraphQL vs RestAPI](https://blog.bytebytego.com/i/84137023/what-is-graphql-rest-vs-graphql)
-14. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work) [RPC vs gRPC](https://blog.bytebytego.com/i/88429916/rpc-vs-grpc)
-15. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
-16. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
-17. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
-18. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
+5. [How REST API Works](https://blog.bytebytego.com/i/89821739/how-does-rest-api-work)
+6. [HTTP 1.0, 1.1, 2.0, 3.0](https://blog.bytebytego.com/p/http-10-http-11-http-20-http-30-quic) [Youtube](https://blog.bytebytego.com/i/69544276/http-http-http)
+7. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
+8. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
+9. [Is HTTPS safe?](https://blog.bytebytego.com/i/70478435/is-https-safe)
+10. [Single Sign-On](https://blog.bytebytego.com/i/54898662/what-is-sso-single-sign-on)
+11. [Retry Patterns](https://blog.bytebytego.com/i/56949882/retry-patterns)
+12. [Why is RESTful so popular](https://blog.bytebytego.com/p/why-is-restful-api-so-popular)
+13. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
+14. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api) [GraphQL vs RestAPI](https://blog.bytebytego.com/i/84137023/what-is-graphql-rest-vs-graphql)
+15. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work) [RPC vs gRPC](https://blog.bytebytego.com/i/88429916/rpc-vs-grpc)
+16. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
+17. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
+18. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
+19. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
 
 
 
@@ -54,6 +55,7 @@
 3. [Visual guide on troubleshooting k8s](https://blog.bytebytego.com/i/72593300/kubernetes)
 4. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
 5. [Microservice vs. monolithic](https://blog.bytebytego.com/i/88429916/what-are-the-differences-between-monolithic-and-microservice-architecture)
+6. [What is k8s](https://blog.bytebytego.com/i/88429916/what-is-ks-kubernetes)
 
 # AI 4
 
