@@ -34,6 +34,7 @@
 11. [Why is RESTful so popular](https://blog.bytebytego.com/p/why-is-restful-api-so-popular)
 12. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
 13. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api)
+14. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
 
 
 
@@ -47,6 +48,7 @@
 1. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com) przy stawianiu swojego wlasnego IPka
 2. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
 3. [Visual guide on troubleshooting k8s](https://blog.bytebytego.com/i/72593300/kubernetes)
+4. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
 
 # AI 4
 
