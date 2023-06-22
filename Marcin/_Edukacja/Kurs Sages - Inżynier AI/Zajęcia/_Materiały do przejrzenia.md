@@ -26,22 +26,23 @@
 3. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com)
 4. [REST vs GraphQL vs SOAP vs gRPC](https://blog.bytebytego.com/p/soap-vs-rest-vs-graphql-vs-rpc) [Timeline](https://blog.bytebytego.com/i/85578651/api-architectural-styles)
 5. [How REST API Works](https://blog.bytebytego.com/i/89821739/how-does-rest-api-work)
-6. [HTTP 1.0, 1.1, 2.0, 3.0](https://blog.bytebytego.com/p/http-10-http-11-http-20-http-30-quic) [Youtube](https://blog.bytebytego.com/i/69544276/http-http-http)
-7. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
-8. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
-9. [Is HTTPS safe?](https://blog.bytebytego.com/i/70478435/is-https-safe)
-10. [Single Sign-On](https://blog.bytebytego.com/i/54898662/what-is-sso-single-sign-on)
-11. [Retry Patterns](https://blog.bytebytego.com/i/56949882/retry-patterns)
-12. [Why is RESTful so popular](https://blog.bytebytego.com/p/why-is-restful-api-so-popular)
-13. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
-14. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api) [GraphQL vs RestAPI](https://blog.bytebytego.com/i/84137023/what-is-graphql-rest-vs-graphql)
-15. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work) [RPC vs gRPC](https://blog.bytebytego.com/i/88429916/rpc-vs-grpc)
-16. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
-17. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
-18. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
-19. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
-20. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
-21. [Linux commands (look for network)](https://xmind.app/m/WwtB/)
+6. [API architectural styles](https://blog.bytebytego.com/i/106350890/what-are-the-api-architectural-styles)
+7. [HTTP 1.0, 1.1, 2.0, 3.0](https://blog.bytebytego.com/p/http-10-http-11-http-20-http-30-quic) [Youtube](https://blog.bytebytego.com/i/69544276/http-http-http)
+8. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
+9. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
+10. [Is HTTPS safe?](https://blog.bytebytego.com/i/70478435/is-https-safe)
+11. [Single Sign-On](https://blog.bytebytego.com/i/54898662/what-is-sso-single-sign-on)
+12. [Retry Patterns](https://blog.bytebytego.com/i/56949882/retry-patterns)
+13. [Why is RESTful so popular](https://blog.bytebytego.com/p/why-is-restful-api-so-popular)
+14. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
+15. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api) [GraphQL vs RestAPI](https://blog.bytebytego.com/i/84137023/what-is-graphql-rest-vs-graphql)
+16. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work) [RPC vs gRPC](https://blog.bytebytego.com/i/88429916/rpc-vs-grpc)
+17. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
+18. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
+19. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
+20. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
+21. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
+22. [Linux commands (look for network)](https://xmind.app/m/WwtB/)
 
 
 
@@ -61,6 +62,7 @@
 7. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
 8. [Process of deploying changes to production](https://blog.bytebytego.com/i/98040721/what-is-the-process-for-deploying-changes-to-production)
 9. [Load Balancing algorithms](https://blog.bytebytego.com/i/103707419/what-are-the-common-load-balancing-algorithms)
+10. [Api Gateway vs Load Balancer](https://blog.bytebytego.com/i/104978579/what-are-the-differences-between-a-load-balancer-and-an-api-gateway)
 
 # AI 4
 
