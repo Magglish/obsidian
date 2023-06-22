@@ -24,7 +24,7 @@
 1. [What happens when you type a URL into your browser?](https://blog.bytebytego.com/p/what-happens-when-you-type-a-url)
 2. [How does the Domain Name System (DNS) lookup work?](https://blog.bytebytego.com/p/how-does-the-domain-name-system-dns)
 3. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com)
-4. [REST vs GraphQL vs SOAP vs gRPC](https://blog.bytebytego.com/p/soap-vs-rest-vs-graphql-vs-rpc)
+4. [REST vs GraphQL vs SOAP vs gRPC](https://blog.bytebytego.com/p/soap-vs-rest-vs-graphql-vs-rpc) [Timeline](https://blog.bytebytego.com/i/85578651/api-architectural-styles)
 5. [HTTP 1.0, 1.1, 2.0, 3.0](https://blog.bytebytego.com/p/http-10-http-11-http-20-http-30-quic) [Youtube](https://blog.bytebytego.com/i/69544276/http-http-http)
 6. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
 7. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
@@ -37,6 +37,7 @@
 14. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work)
 15. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
 16. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
+17. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
 
 
 
