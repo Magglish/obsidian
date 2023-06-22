@@ -48,6 +48,7 @@
 26. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
 27. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
 28. [Linux commands (look for network)](https://xmind.app/m/WwtB/)
+29. [What happens when you type ssh](https://blog.bytebytego.com/i/114917564/popular-interview-question-what-happens-when-you-type-ssh-hostname)
 
 
 
