@@ -59,6 +59,7 @@
 5. [Microservice vs. monolithic](https://blog.bytebytego.com/i/88429916/what-are-the-differences-between-monolithic-and-microservice-architecture)
 6. [What is k8s](https://blog.bytebytego.com/i/88429916/what-is-ks-kubernetes)
 7. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
+8. [Process of deploying changes to production](https://blog.bytebytego.com/i/98040721/what-is-the-process-for-deploying-changes-to-production)
 
 # AI 4
 
