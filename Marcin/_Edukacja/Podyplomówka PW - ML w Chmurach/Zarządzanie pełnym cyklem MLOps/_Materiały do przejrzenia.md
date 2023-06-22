@@ -1,1 +1,1 @@
-1. [DevOps, PlatformEngineer, ]
+1. [DevOps, SRE, PlatformEngineer](https://blog.bytebytego.com/i/110521562/devops-vs-sre-vs-platform-engineering-what-is-the-difference)
