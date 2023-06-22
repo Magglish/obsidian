@@ -36,6 +36,7 @@
 13. [What is GraphQL](https://blog.bytebytego.com/i/72593300/what-is-graphql-is-it-a-replacement-for-the-rest-api) [GraphQL vs RestAPI](https://blog.bytebytego.com/i/84137023/what-is-graphql-rest-vs-graphql)
 14. [What is gRPC](https://blog.bytebytego.com/i/84137023/how-does-grpc-work)
 15. [Nginx as a reverse proxy](https://blog.bytebytego.com/i/75883385/why-is-nginx-called-a-reverse-proxy)
+16. [Warstwy OSI](https://blog.bytebytego.com/i/85578651/how-is-data-sent-over-the-network-why-do-we-need-so-many-layers-in-the-osi-model)
 
 
 
