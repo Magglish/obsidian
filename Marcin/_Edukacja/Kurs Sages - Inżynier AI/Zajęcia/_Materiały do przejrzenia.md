@@ -22,7 +22,8 @@
 # AI 1
 
 1. [What happens when you type a URL into your browser?](https://blog.bytebytego.com/p/what-happens-when-you-type-a-url)
-2. 
+2. [How does the Domain Name System (DNS) lookup work?](https://blog.bytebytego.com/p/how-does-the-domain-name-system-dns)
+3. 
 
 
 
