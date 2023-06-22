@@ -21,7 +21,8 @@
 
 # AI 1
 
-
+1. [What happens when you type a URL into your browser?](https://blog.bytebytego.com/p/what-happens-when-you-type-a-url)
+2. 
 
 
 
