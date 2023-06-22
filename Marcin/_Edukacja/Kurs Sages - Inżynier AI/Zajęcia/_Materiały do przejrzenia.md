@@ -24,6 +24,7 @@
 1. [What happens when you type a URL into your browser?](https://blog.bytebytego.com/p/what-happens-when-you-type-a-url)
 2. [How does the Domain Name System (DNS) lookup work?](https://blog.bytebytego.com/p/how-does-the-domain-name-system-dns)
 3. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com)
+4. [REST vs GraphQL vs SOAP vs gRPC](https://blog.bytebytego.com/p/soap-vs-rest-vs-graphql-vs-rpc)
 
 
 
