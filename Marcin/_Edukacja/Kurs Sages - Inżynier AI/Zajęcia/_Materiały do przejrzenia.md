@@ -31,6 +31,8 @@
 
 # AI 2
 
+1. [Wirtualizacja vs. konteneryzacja](https://blog.bytebytego.com/p/what-are-the-differences-between)
+
 
 # AI 3
 
