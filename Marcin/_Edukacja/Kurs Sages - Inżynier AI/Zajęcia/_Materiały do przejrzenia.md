@@ -23,7 +23,7 @@
 
 1. [What happens when you type a URL into your browser?](https://blog.bytebytego.com/p/what-happens-when-you-type-a-url)
 2. [How does the Domain Name System (DNS) lookup work?](https://blog.bytebytego.com/p/how-does-the-domain-name-system-dns)
-3. 
+3. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com)
 
 
 
@@ -31,6 +31,8 @@
 
 
 # AI 3
+
+3. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com) przy stawianiu swojego wlasnego IPka
 
 
 # AI 4
