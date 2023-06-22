@@ -41,6 +41,7 @@
 18. [What happens when we ping a server](https://blog.bytebytego.com/i/85578651/what-happens-when-we-ping-a-server)
 19. [Token, Cookie, Session, JWT, Oauth](https://blog.bytebytego.com/i/86976622/token-cookie-session)
 20. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
+21. [Linux commands (look for network)](https://xmind.app/m/WwtB/)
 
 
 
@@ -62,3 +63,5 @@
 # AI 4
 
 1. [How Companies Sheep Code to Production](https://blog.bytebytego.com/i/57967195/how-do-companies-typically-ship-code-to-production)
+2. [Process of deploying changes to production](https://blog.bytebytego.com/i/98040721/what-is-the-process-for-deploying-changes-to-production)
+3. [What is CICD](https://blog.bytebytego.com/i/98040721/what-is-cicd-how-does-it-help-us-ship-faster-is-it-worth-the-hassle)
