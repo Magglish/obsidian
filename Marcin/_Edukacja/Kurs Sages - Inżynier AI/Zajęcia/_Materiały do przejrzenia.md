@@ -46,7 +46,7 @@
 
 1. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com) przy stawianiu swojego wlasnego IPka
 2. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
-
+3. [Visual guide on troubleshooting k8s](https://blog.bytebytego.com/i/72593300/kubernetes)
 
 # AI 4
 
