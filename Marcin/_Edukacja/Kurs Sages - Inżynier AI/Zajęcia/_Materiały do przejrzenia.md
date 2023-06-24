@@ -60,6 +60,7 @@
 
 1. [Wirtualizacja vs. konteneryzacja](https://blog.bytebytego.com/p/what-are-the-differences-between)
 2. [Poetry vs inne](https://getpocket.com/read/3635596132)
+3. [Python distroless image](https://getpocket.com/read/3781257562)
 
 
 # AI 3
@@ -85,3 +86,5 @@
 4. [DevOps, SRE, Platform Engineer](https://blog.bytebytego.com/i/110521562/devops-vs-sre-vs-platform-engineering-what-is-the-difference)
 5. [Model Monitoring challenges](https://getpocket.com/read/3541428265)
 6. [Temporal Quality Degradation in ML Models](https://getpocket.com/read/3802532084)
+7. [MLOps is a fork of DevOps](https://getpocket.com/read/3813735267)
+8. [MLOps definition - paper](https://arxiv.org/pdf/2205.02302.pdf)

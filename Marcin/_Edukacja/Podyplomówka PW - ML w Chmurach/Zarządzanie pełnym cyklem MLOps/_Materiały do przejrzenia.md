@@ -2,3 +2,5 @@
 2. [VectorDB](https://blog.bytebytego.com/i/127263496/vector-databases-are-so-hot-right-now-but-what-is-a-vector-db)
 3. [Model Monitoring challenges](https://getpocket.com/read/3541428265)
 4. [Temporal Quality Degradation in ML Models](https://getpocket.com/read/3802532084)
+5. [MLOps is a fork of DevOps](https://getpocket.com/read/3813735267)
+6. [MLOps definition - paper](https://arxiv.org/pdf/2205.02302.pdf)
