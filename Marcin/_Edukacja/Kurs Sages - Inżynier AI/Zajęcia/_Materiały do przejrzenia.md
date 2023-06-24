@@ -77,6 +77,7 @@
 10. [Load Balancing algorithms](https://blog.bytebytego.com/i/103707419/what-are-the-common-load-balancing-algorithms)
 11. [Api Gateway vs Load Balancer](https://blog.bytebytego.com/i/104978579/what-are-the-differences-between-a-load-balancer-and-an-api-gateway)
 12. [Debugging k8s application interactive from local](https://martinheinz.dev/blog/99)
+13. [The problem with YAML](https://getpocket.com/read/3785016570)
 
 # AI 4
 
@@ -88,3 +89,5 @@
 6. [Temporal Quality Degradation in ML Models](https://getpocket.com/read/3802532084)
 7. [MLOps is a fork of DevOps](https://getpocket.com/read/3813735267)
 8. [MLOps definition - paper](https://arxiv.org/pdf/2205.02302.pdf)
+9. [Optimizaing models for deployment and failures](https://getpocket.com/read/3793942668)
+10. [Bag of Tricks to optimize ML Pipelines](https://getpocket.com/read/3786436622)
