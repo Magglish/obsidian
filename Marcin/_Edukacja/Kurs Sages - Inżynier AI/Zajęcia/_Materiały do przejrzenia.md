@@ -59,6 +59,7 @@
 # AI 2
 
 1. [Wirtualizacja vs. konteneryzacja](https://blog.bytebytego.com/p/what-are-the-differences-between)
+2. [Poetry vs inne](https://getpocket.com/read/3635596132)
 
 
 # AI 3
@@ -82,3 +83,5 @@
 2. [Process of deploying changes to production](https://blog.bytebytego.com/i/98040721/what-is-the-process-for-deploying-changes-to-production)
 3. [What is CICD](https://blog.bytebytego.com/i/98040721/what-is-cicd-how-does-it-help-us-ship-faster-is-it-worth-the-hassle)
 4. [DevOps, SRE, Platform Engineer](https://blog.bytebytego.com/i/110521562/devops-vs-sre-vs-platform-engineering-what-is-the-difference)
+5. [Model Monitoring challenges](https://getpocket.com/read/3541428265)
+6. [Temporal Quality Degradation in ML Models](https://getpocket.com/read/3802532084)
