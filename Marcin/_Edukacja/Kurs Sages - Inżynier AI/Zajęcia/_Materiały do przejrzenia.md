@@ -53,7 +53,7 @@
 32. [How to improve API performance](https://blog.bytebytego.com/i/128938667/how-to-improve-api-performance)
 33. [TCP explained](https://blog.bytebytego.com/p/everything-you-always-wanted-to-know)
 34. [Multiprocessing vs multithreading reddit](https://www.reddit.com/r/Python/comments/13uxqez/i_used_multiprocessing_and_multithreading_at_the/?utm_name=androidcss&utm_source=pocket_saves)
-35. [Nested for loop https://getpocket.com/read/3746640165]
+35. [Nested for loop](https://getpocket.com/read/3746640165)
 
 
 
@@ -92,3 +92,5 @@
 8. [MLOps definition - paper](https://arxiv.org/pdf/2205.02302.pdf)
 9. [Optimizaing models for deployment and failures](https://getpocket.com/read/3793942668)
 10. [Bag of Tricks to optimize ML Pipelines](https://getpocket.com/read/3786436622)
+11. [DS hierarchy of needs](https://getpocket.com/read/3709580993)
+12. [Argo vs Airflow vs Prefect](https://getpocket.com/read/3738337398)
