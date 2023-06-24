@@ -18,6 +18,9 @@
 
 
 
+!!! [Data Scientist Should Be End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/?utm_source=pocket_saves)
+
+
 # AI 1
 
 1. [What happens when you type a URL into your browser?](https://blog.bytebytego.com/p/what-happens-when-you-type-a-url)
@@ -96,3 +99,5 @@
 12. [Argo vs Airflow vs Prefect](https://getpocket.com/read/3738337398)
 13. [Running Kedro on Vertex AI](https://getpocket.com/read/3694010736)
 14. [Guide to monitor your model on production](https://getpocket.com/read/3732294788)
+15. [Testing ML Pipelines](https://eugeneyan.com/writing/testing-pipelines/?utm_source=pocket_saves)
+16. [MLops](https://getpocket.com/read/3703492897)
