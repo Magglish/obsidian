@@ -5,7 +5,7 @@
 6. https://martinheinz.dev/ i wstaw
 7. https://www.tekhnoal.com/category/blog.html i wstaw
 8. Wystepy na konferencji KubeCon
-9. [HTTP Header](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7069700329595924480-tRCj/?utm_source=share&utm_medium=member_desktop)
+
 10. [https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker)
 11. [https://fastapi.tiangolo.com/lo/deployment/docker/](https://fastapi.tiangolo.com/lo/deployment/docker/)
 12. Materiały Youtube Tomasza
@@ -14,7 +14,7 @@
 15. Testcube dla k8s -> [https://www.youtube.com/watch?v=_-aPSvFI6KM](https://www.youtube.com/watch?v=_-aPSvFI6KM)
 16. może jednak kind zamiast minikube? -> [https://shipit.dev/posts/minikube-vs-kind-vs-k3s.html](https://shipit.dev/posts/minikube-vs-kind-vs-k3s.html) ma ingressa + multi-node\
 17. 1) Odnośnie Code Coverage, 2) testy z poziomu użytkownika (czyli np. testowanie publicznych metod a nie prywatnych) -> [https://www.youtube.com/watch?v=vlLSgdQNgMI](https://www.youtube.com/watch?v=vlLSgdQNgMI)  oraz [https://lukeonpython.blog/2021/11/why-i-find-100-code-coverage-very-useful/](https://lukeonpython.blog/2021/11/why-i-find-100-code-coverage-very-useful/)
-18. Obczaj jeszcze mutation testing, property-based testing
+18. Obczaj jeszcze mutation testing, [property-based testing](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 
 
 
@@ -32,7 +32,7 @@
 10. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
 11. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
 13. [Design Safe and effective API](https://blog.bytebytego.com/i/111973267/how-do-we-design-effective-and-safe-apis) [2 czesc](https://blog.bytebytego.com/p/design-effective-and-secure-rest)
-14. [HTTP Headers](https://blog.bytebytego.com/i/125673986/important-things-about-http-headers-you-may-not-know)
+14. [HTTP Headers](https://blog.bytebytego.com/i/125673986/important-things-about-http-headers-you-may-not-know) [HTTP Header](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7069700329595924480-tRCj/?utm_source=share&utm_medium=member_desktop)
 15. [Authorization methods](https://blog.bytebytego.com/p/password-session-cookie-token-jwt) [Authorization methods 2](https://blog.bytebytego.com/p/password-session-cookie-token-jwt-ec1)
 16. [URL Structure](https://blog.bytebytego.com/i/110521562/do-you-know-all-the-components-of-a-url)
 17. [Which HTTP statuses are most common](https://blog.bytebytego.com/i/110521562/which-http-status-codes-are-most-common)
