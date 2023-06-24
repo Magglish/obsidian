@@ -94,3 +94,5 @@
 10. [Bag of Tricks to optimize ML Pipelines](https://getpocket.com/read/3786436622)
 11. [DS hierarchy of needs](https://getpocket.com/read/3709580993)
 12. [Argo vs Airflow vs Prefect](https://getpocket.com/read/3738337398)
+13. [Running Kedro on Vertex AI](https://getpocket.com/read/3694010736)
+14. [Guide to monitor your model on production](https://getpocket.com/read/3732294788)
