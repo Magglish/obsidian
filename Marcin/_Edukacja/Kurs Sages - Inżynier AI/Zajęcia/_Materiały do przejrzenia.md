@@ -52,6 +52,7 @@
 31. [What happens when you type ssh](https://blog.bytebytego.com/i/114917564/popular-interview-question-what-happens-when-you-type-ssh-hostname)
 32. [How to improve API performance](https://blog.bytebytego.com/i/128938667/how-to-improve-api-performance)
 33. [TCP explained](https://blog.bytebytego.com/p/everything-you-always-wanted-to-know)
+34. [Multiprocessing vs multithreading reddit](https://www.reddit.com/r/Python/comments/13uxqez/i_used_multiprocessing_and_multithreading_at_the/?utm_name=androidcss&utm_source=pocket_saves)
 
 
 
