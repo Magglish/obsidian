@@ -74,6 +74,7 @@
 9. [Process of deploying changes to production](https://blog.bytebytego.com/i/98040721/what-is-the-process-for-deploying-changes-to-production)
 10. [Load Balancing algorithms](https://blog.bytebytego.com/i/103707419/what-are-the-common-load-balancing-algorithms)
 11. [Api Gateway vs Load Balancer](https://blog.bytebytego.com/i/104978579/what-are-the-differences-between-a-load-balancer-and-an-api-gateway)
+12. [Debugging k8s application interactive from local](https://martinheinz.dev/blog/99)
 
 # AI 4
 
