@@ -19,6 +19,9 @@
 
 
 !!! [Data Scientist Should Be End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/?utm_source=pocket_saves)
+[Beware the data science pin factory: The power of the full-stack data science generalist and the perils of division of labor through function](https://getpocket.com/read/2519151947)
+[Data Scientists Don't Care About Kubernetes](https://getpocket.com/read/3188582645)
+[]
 
 
 # AI 1
