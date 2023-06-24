@@ -51,7 +51,8 @@
 29. [Process vs. Thread](https://blog.bytebytego.com/i/91155806/what-is-the-difference-between-process-and-thread)
 30. [Linux commands (look for network)](https://xmind.app/m/WwtB/)
 31. [What happens when you type ssh](https://blog.bytebytego.com/i/114917564/popular-interview-question-what-happens-when-you-type-ssh-hostname)
-32. [How to improve API pe]
+32. [How to improve API performance](https://blog.bytebytego.com/i/128938667/how-to-improve-api-performance)
+33. [TCP explained](https://blog.bytebytego.com/p/everything-you-always-wanted-to-know)
 
 
 
