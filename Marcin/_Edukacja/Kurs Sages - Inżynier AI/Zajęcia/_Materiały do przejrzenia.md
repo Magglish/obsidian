@@ -75,6 +75,7 @@
 4. [Wszystko o dockerze na python speed](https://pythonspeed.com/docker/)
 5. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
 6. [Docker commands with Postgres](https://martinheinz.dev/blog/3)
+7. [Docker security](https://martinheinz.dev/blog/19)
 
 
 # AI 3
