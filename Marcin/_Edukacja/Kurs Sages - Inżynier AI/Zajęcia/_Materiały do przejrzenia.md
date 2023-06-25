@@ -1,4 +1,4 @@
-5. Przejrzyj [FullStackDeepLearning](https://fullstackdeeplearning.com/course/)
+
 6. https://martinheinz.dev/ i wstaw
 7. https://www.tekhnoal.com/category/blog.html i wstaw
 8. Wystepy na konferencji KubeCon
