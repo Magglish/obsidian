@@ -61,6 +61,7 @@
 35. [Nested for loop](https://getpocket.com/read/3746640165)
 36. Rate limiting - obczaj książke na pulpicie System Design Interview oraz biblioteki do [FastAPI](https://pypi.org/project/fastapi-limiter/) i do [ASGI](https://github.com/abersheeran/asgi-ratelimit)
 37. [Testy kontraktowe](https://schemathesis.readthedocs.io/en/stable/)
+38. [FastAPI Users](https://github.com/fastapi-users/fastapi-users)
 
 
 
