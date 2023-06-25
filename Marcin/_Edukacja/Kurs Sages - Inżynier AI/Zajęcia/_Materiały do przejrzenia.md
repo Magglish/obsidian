@@ -73,6 +73,7 @@
 1. [Wirtualizacja vs. konteneryzacja](https://blog.bytebytego.com/p/what-are-the-differences-between)
 2. [Poetry vs inne](https://getpocket.com/read/3635596132)
 3. [Python distroless image](https://getpocket.com/read/3781257562)
+4. [Wszystko o dockerze na python speed](https://pythonspeed.com/docker/)
 
 
 # AI 3
@@ -90,6 +91,7 @@
 11. [Api Gateway vs Load Balancer](https://blog.bytebytego.com/i/104978579/what-are-the-differences-between-a-load-balancer-and-an-api-gateway)
 12. [Debugging k8s application interactive from local](https://martinheinz.dev/blog/99)
 13. [The problem with YAML](https://getpocket.com/read/3785016570)
+14. [Lets use k8s. Now you have a problem](https://pythonspeed.com/articles/dont-need-kubernetes/)
 
 # AI 4
 
