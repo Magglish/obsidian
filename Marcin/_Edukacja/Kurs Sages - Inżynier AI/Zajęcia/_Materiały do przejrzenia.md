@@ -63,6 +63,7 @@
 37. [Testy kontraktowe](https://schemathesis.readthedocs.io/en/stable/)
 38. [FastAPI Users](https://github.com/fastapi-users/fastapi-users)
 39. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
+40. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
 
 
 
