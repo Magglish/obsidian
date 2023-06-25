@@ -65,6 +65,7 @@
 41. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
 42. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
 43. [Dodanie status endpoint?](https://pythonspeed.com/articles/identifying-images/) No nie wiem - poczytaj o tym jak inni ludzie robia
+44. [Networking tool every developer should know](https://martinheinz.dev/blog/38)
 
 
 
@@ -77,6 +78,7 @@
 5. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
 6. [Docker commands with Postgres](https://martinheinz.dev/blog/3)
 7. [Docker security](https://martinheinz.dev/blog/19)
+8. [It's time to forget about Docker](https://martinheinz.dev/blog/35)
 
 
 # AI 3
