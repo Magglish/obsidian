@@ -74,6 +74,7 @@
 3. [Python distroless image](https://getpocket.com/read/3781257562)
 4. [Wszystko o dockerze na python speed](https://pythonspeed.com/docker/)
 5. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
+6. [Docker commands with Postgres](https://martinheinz.dev/blog/3)
 
 
 # AI 3
