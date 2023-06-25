@@ -1,4 +1,3 @@
-3. Przejrzyj [Python Speed](https://pythonspeed.com/) i wstaw artykuły tutaj
 4. Przejrzyj [Made With ML](https://madewithml.com/)
 5. Przejrzyj [FullStackDeepLearning](https://fullstackdeeplearning.com/course/)
 6. https://martinheinz.dev/ i wstaw
@@ -66,7 +65,7 @@
 40. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
 41. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
 42. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
-43. [Dodanie status endpoint?](https://pythonspeed.com/articles/identifying-images/)
+43. [Dodanie status endpoint?](https://pythonspeed.com/articles/identifying-images/) No nie wiem - poczytaj o tym jak inni ludzie robia
 
 
 
