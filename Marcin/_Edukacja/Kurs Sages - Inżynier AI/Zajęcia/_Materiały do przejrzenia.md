@@ -58,12 +58,13 @@
 32. [How to improve API performance](https://blog.bytebytego.com/i/128938667/how-to-improve-api-performance)
 33. [TCP explained](https://blog.bytebytego.com/p/everything-you-always-wanted-to-know)
 34. [Multiprocessing vs multithreading reddit](https://www.reddit.com/r/Python/comments/13uxqez/i_used_multiprocessing_and_multithreading_at_the/?utm_name=androidcss&utm_source=pocket_saves)
-35. [Nested for loop](https://getpocket.com/read/3746640165)
-36. Rate limiting - obczaj książke na pulpicie System Design Interview oraz biblioteki do [FastAPI](https://pypi.org/project/fastapi-limiter/) i do [ASGI](https://github.com/abersheeran/asgi-ratelimit)
-37. [Testy kontraktowe](https://schemathesis.readthedocs.io/en/stable/)
-38. [FastAPI Users](https://github.com/fastapi-users/fastapi-users)
-39. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
-40. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
+35. [Parallelism in Python](https://pythonspeed.com/datascience/#:~:text=even%20more%20useful.-,Parallelism%20and%20multiprocessing,-When%20Python%20can%E2%80%99t)
+36. [Nested for loop](https://getpocket.com/read/3746640165)
+37. Rate limiting - obczaj książke na pulpicie System Design Interview oraz biblioteki do [FastAPI](https://pypi.org/project/fastapi-limiter/) i do [ASGI](https://github.com/abersheeran/asgi-ratelimit)
+38. [Testy kontraktowe](https://schemathesis.readthedocs.io/en/stable/)
+39. [FastAPI Users](https://github.com/fastapi-users/fastapi-users)
+40. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
+41. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
 
 
 
