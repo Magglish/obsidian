@@ -57,15 +57,16 @@
 33. [TCP explained](https://blog.bytebytego.com/p/everything-you-always-wanted-to-know)
 34. [Multiprocessing vs multithreading reddit](https://www.reddit.com/r/Python/comments/13uxqez/i_used_multiprocessing_and_multithreading_at_the/?utm_name=androidcss&utm_source=pocket_saves)
 35. [Parallelism in Python](https://pythonspeed.com/datascience/#:~:text=even%20more%20useful.-,Parallelism%20and%20multiprocessing,-When%20Python%20can%E2%80%99t)
-36. [Nested for loop](https://getpocket.com/read/3746640165)
-37. Rate limiting - obczaj książke na pulpicie System Design Interview oraz biblioteki do [FastAPI](https://pypi.org/project/fastapi-limiter/) i do [ASGI](https://github.com/abersheeran/asgi-ratelimit)
-38. [Testy kontraktowe](https://schemathesis.readthedocs.io/en/stable/)
-39. [FastAPI Users](https://github.com/fastapi-users/fastapi-users)
-40. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
-41. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
-42. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
-43. [Dodanie status endpoint?](https://pythonspeed.com/articles/identifying-images/) No nie wiem - poczytaj o tym jak inni ludzie robia
-44. [Networking tool every developer should know](https://martinheinz.dev/blog/38)
+36. [Real multithreading is coming to Python](https://martinheinz.dev/blog/97)
+37. [Nested for loop](https://getpocket.com/read/3746640165)
+38. Rate limiting - obczaj książke na pulpicie System Design Interview oraz biblioteki do [FastAPI](https://pypi.org/project/fastapi-limiter/) i do [ASGI](https://github.com/abersheeran/asgi-ratelimit)
+39. [Testy kontraktowe](https://schemathesis.readthedocs.io/en/stable/)
+40. [FastAPI Users](https://github.com/fastapi-users/fastapi-users)
+41. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
+42. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
+43. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
+44. [Dodanie status endpoint?](https://pythonspeed.com/articles/identifying-images/) No nie wiem - poczytaj o tym jak inni ludzie robia
+45. [Networking tool every developer should know](https://martinheinz.dev/blog/38)
 
 
 
@@ -79,6 +80,7 @@
 6. [Docker commands with Postgres](https://martinheinz.dev/blog/3)
 7. [Docker security](https://martinheinz.dev/blog/19)
 8. [It's time to forget about Docker](https://martinheinz.dev/blog/35)
+9. [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
 
 
 # AI 3
@@ -97,7 +99,10 @@
 12. [Debugging k8s application interactive from local](https://martinheinz.dev/blog/99)
 13. [The problem with YAML](https://getpocket.com/read/3785016570)
 14. [Lets use k8s. Now you have a problem](https://pythonspeed.com/articles/dont-need-kubernetes/)
-15. https://martinheinz.dev/blog/20
+15. [Deploy Any Python Project to Kubernetes]https://martinheinz.dev/blog/20
+16. [Cgroups - Deep Dive into Resource Management in Kubernetes](https://martinheinz.dev/blog/91)
+17. [Kuberhealthy](https://martinheinz.dev/blog/95)
+18. (https://martinheinz.dev/blog/73)
 
 # AI 4
 
