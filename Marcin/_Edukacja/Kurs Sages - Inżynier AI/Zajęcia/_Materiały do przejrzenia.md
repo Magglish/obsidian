@@ -59,6 +59,7 @@
 33. [TCP explained](https://blog.bytebytego.com/p/everything-you-always-wanted-to-know)
 34. [Multiprocessing vs multithreading reddit](https://www.reddit.com/r/Python/comments/13uxqez/i_used_multiprocessing_and_multithreading_at_the/?utm_name=androidcss&utm_source=pocket_saves)
 35. [Nested for loop](https://getpocket.com/read/3746640165)
+36. Rate limiting - obczaj książke na pulpicie System Design Interview oraz biblioteki do FastAP 
 
 
 
