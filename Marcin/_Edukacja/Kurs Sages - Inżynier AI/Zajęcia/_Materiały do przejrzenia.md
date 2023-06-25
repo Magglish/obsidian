@@ -65,6 +65,7 @@
 39. [FastAPI Users](https://github.com/fastapi-users/fastapi-users)
 40. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
 41. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
+42. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
 
 
 
@@ -74,6 +75,7 @@
 2. [Poetry vs inne](https://getpocket.com/read/3635596132)
 3. [Python distroless image](https://getpocket.com/read/3781257562)
 4. [Wszystko o dockerze na python speed](https://pythonspeed.com/docker/)
+5. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
 
 
 # AI 3
