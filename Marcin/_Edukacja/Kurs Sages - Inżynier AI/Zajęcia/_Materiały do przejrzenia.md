@@ -94,6 +94,7 @@
 12. [Debugging k8s application interactive from local](https://martinheinz.dev/blog/99)
 13. [The problem with YAML](https://getpocket.com/read/3785016570)
 14. [Lets use k8s. Now you have a problem](https://pythonspeed.com/articles/dont-need-kubernetes/)
+15. https://martinheinz.dev/blog/20
 
 # AI 4
 
