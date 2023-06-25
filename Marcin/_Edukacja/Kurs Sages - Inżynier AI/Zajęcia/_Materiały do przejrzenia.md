@@ -81,6 +81,9 @@
 7. [Docker security](https://martinheinz.dev/blog/19)
 8. [It's time to forget about Docker](https://martinheinz.dev/blog/35)
 9. [Why I Will Never Use Alpine Linux Ever Again](https://martinheinz.dev/blog/92)
+10. [Hardening Docker and Kubernetes with seccomp](https://martinheinz.dev/blog/41)
+11. [Building Docker Images The Proper Way](https://martinheinz.dev/blog/42)
+12. [Deep Dive into Docker Internals - Union Filesystem](https://martinheinz.dev/blog/44)
 
 
 # AI 3
@@ -107,6 +110,12 @@
 20. [Advanced features of Horizontal Pod Autoscaler](https://martinheinz.dev/blog/76)
 21. [Backup restore containers with k8s checkpointing api](https://martinheinz.dev/blog/85)
 22. [Continuous profiling of App](https://martinheinz.dev/blog/89)
+23. [Hardening Docker and Kubernetes with seccomp](https://martinheinz.dev/blog/41)
+24. [The Easiest Way to Debug Kubernetes Workloads](https://martinheinz.dev/blog/49)
+25. [Mastering YAML Processing in Command Line](https://martinheinz.dev/blog/51)
+26. [Could Kubernetes Pods Ever Become Deprecated?](https://martinheinz.dev/blog/53)
+27. [Making Kubernetes Operations Easy with kubectl Plugins](https://martinheinz.dev/blog/58)
+28. [Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
 
 # AI 4
 
