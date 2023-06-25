@@ -11,7 +11,6 @@
 15. Testcube dla k8s -> [https://www.youtube.com/watch?v=_-aPSvFI6KM](https://www.youtube.com/watch?v=_-aPSvFI6KM)
 16. może jednak kind zamiast minikube? -> [https://shipit.dev/posts/minikube-vs-kind-vs-k3s.html](https://shipit.dev/posts/minikube-vs-kind-vs-k3s.html) ma ingressa + multi-node\
 17. 1) Odnośnie Code Coverage, 2) testy z poziomu użytkownika (czyli np. testowanie publicznych metod a nie prywatnych) -> [https://www.youtube.com/watch?v=vlLSgdQNgMI](https://www.youtube.com/watch?v=vlLSgdQNgMI)  oraz [https://lukeonpython.blog/2021/11/why-i-find-100-code-coverage-very-useful/](https://lukeonpython.blog/2021/11/why-i-find-100-code-coverage-very-useful/)
-18. Obczaj jeszcze mutation testing, [property-based testing](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 
 
 # Rola DSa
