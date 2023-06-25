@@ -102,7 +102,11 @@
 15. [Deploy Any Python Project to Kubernetes]https://martinheinz.dev/blog/20
 16. [Cgroups - Deep Dive into Resource Management in Kubernetes](https://martinheinz.dev/blog/91)
 17. [Kuberhealthy](https://martinheinz.dev/blog/95)
-18. (https://martinheinz.dev/blog/73)
+18. [Automate All the Boring Kubernetes Operations with Python](https://martinheinz.dev/blog/73)
+19. [Stop Messing with k8s finalizers](https://martinheinz.dev/blog/74)
+20. [Advanced features of Horizontal Pod Autoscaler](https://martinheinz.dev/blog/76)
+21. [Backup restore containers with k8s checkpointing api](https://martinheinz.dev/blog/85)
+22. [Continuous profiling of App](https://martinheinz.dev/blog/89)
 
 # AI 4
 
