@@ -28,11 +28,12 @@
 4. [Jak działa DNS](https://blog.bytebytego.com/i/109085468/how-does-dns-work)
 5. [REST vs GraphQL vs SOAP vs gRPC](https://blog.bytebytego.com/p/soap-vs-rest-vs-graphql-vs-rpc) [Timeline](https://blog.bytebytego.com/i/85578651/api-architectural-styles)
 6. [gRCP vs REST](https://blog.bytebytego.com/i/121101935/how-to-choose-between-rpc-and-restful)
-7. [How REST API Works](https://blog.bytebytego.com/i/89821739/how-does-rest-api-work)
-8. [API architectural styles](https://blog.bytebytego.com/i/106350890/what-are-the-api-architectural-styles)
-9. [HTTP 1.0, 1.1, 2.0, 3.0](https://blog.bytebytego.com/p/http-10-http-11-http-20-http-30-quic) [Youtube](https://blog.bytebytego.com/i/69544276/http-http-http)
-10. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
-11. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
+7. [Implementing gRPC in Python](https://martinheinz.dev/blog/23)
+8. [How REST API Works](https://blog.bytebytego.com/i/89821739/how-does-rest-api-work)
+9. [API architectural styles](https://blog.bytebytego.com/i/106350890/what-are-the-api-architectural-styles)
+10. [HTTP 1.0, 1.1, 2.0, 3.0](https://blog.bytebytego.com/p/http-10-http-11-http-20-http-30-quic) [Youtube](https://blog.bytebytego.com/i/69544276/http-http-http)
+11. [Secure Web API - HMAC vs. Token](https://blog.bytebytego.com/p/how-to-design-a-secture-web-api-access) Możliwe, że API do OpenAI używa HMAC?
+12. [How does HTTPS work](https://blog.bytebytego.com/i/53596514/how-does-https-work)
 13. [Design Safe and effective API](https://blog.bytebytego.com/i/111973267/how-do-we-design-effective-and-safe-apis) [2 czesc](https://blog.bytebytego.com/p/design-effective-and-secure-rest)
 14. [HTTP Headers](https://blog.bytebytego.com/i/125673986/important-things-about-http-headers-you-may-not-know) [HTTP Header](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7069700329595924480-tRCj/?utm_source=share&utm_medium=member_desktop)
 15. [Authorization methods](https://blog.bytebytego.com/p/password-session-cookie-token-jwt) [Authorization methods 2](https://blog.bytebytego.com/p/password-session-cookie-token-jwt-ec1)
