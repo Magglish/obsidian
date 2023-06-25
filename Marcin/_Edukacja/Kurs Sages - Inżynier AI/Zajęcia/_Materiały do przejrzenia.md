@@ -113,3 +113,4 @@
 14. [Guide to monitor your model on production](https://getpocket.com/read/3732294788)
 15. [Testing ML Pipelines](https://eugeneyan.com/writing/testing-pipelines/?utm_source=pocket_saves)
 16. [MLops](https://getpocket.com/read/3703492897)
+17. [MadeWithML - monitoring](https://madewithml.com/courses/mlops/monitoring/)

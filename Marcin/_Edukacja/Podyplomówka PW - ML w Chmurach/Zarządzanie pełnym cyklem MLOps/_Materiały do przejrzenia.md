@@ -7,3 +7,4 @@
 7. [Optimizaing models for deployment and failures](https://getpocket.com/read/3793942668)
 8. [Bag of Tricks to optimize ML Pipelines](https://getpocket.com/read/3786436622)
 9. [Guide to monitor your model on production](https://getpocket.com/read/3732294788)
+10. [MadeWithML - monitoring](https://madewithml.com/courses/mlops/monitoring/)
