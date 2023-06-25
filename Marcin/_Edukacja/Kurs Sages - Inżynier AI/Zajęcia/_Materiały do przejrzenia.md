@@ -66,6 +66,7 @@
 40. [FastAPI paginaton](https://uriyyo-fastapi-pagination.netlify.app/)
 41. [FastAPI feature flags](https://github.com/Pytlicek/fastapi-featureflags)
 42. [Problem z gunicornem w Dockerze](https://pythonspeed.com/articles/gunicorn-in-docker/)
+43. [Dodanie status endpoint?](https://pythonspeed.com/articles/identifying-images/)
 
 
 
