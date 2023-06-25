@@ -1,4 +1,3 @@
-4. Przejrzyj [Made With ML](https://madewithml.com/)
 5. Przejrzyj [FullStackDeepLearning](https://fullstackdeeplearning.com/course/)
 6. https://martinheinz.dev/ i wstaw
 7. https://www.tekhnoal.com/category/blog.html i wstaw
