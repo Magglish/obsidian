@@ -102,7 +102,7 @@
 12. [Debugging k8s application interactive from local](https://martinheinz.dev/blog/99)
 13. [The problem with YAML](https://getpocket.com/read/3785016570)
 14. [Lets use k8s. Now you have a problem](https://pythonspeed.com/articles/dont-need-kubernetes/)
-15. [Deploy Any Python Project to Kubernetes]https://martinheinz.dev/blog/20
+15. [Deploy Any Python Project to Kubernetes](https://martinheinz.dev/blog/20)
 16. [Cgroups - Deep Dive into Resource Management in Kubernetes](https://martinheinz.dev/blog/91)
 17. [Kuberhealthy](https://martinheinz.dev/blog/95)
 18. [Automate All the Boring Kubernetes Operations with Python](https://martinheinz.dev/blog/73)
