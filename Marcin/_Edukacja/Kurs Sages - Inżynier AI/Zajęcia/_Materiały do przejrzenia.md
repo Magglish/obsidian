@@ -115,7 +115,7 @@
 ](https://martinheinz.dev/blog/63)
 29. [Wszystkie odcinki Kubernetes Po Polsku](https://subauth.c.cloudowski.com/confirm?t=Im1hcmNpbi5yeWJpbnNraTk1QGdtYWlsLmNvbSI.ZJnd_Q.GGFz-ea4J8b6ACdgGU62LuRVunc&rd=https%3A%2F%2Fkubernetespopolsku.c.cloudowski.com%2F)
 30. [Materiały Youtube Tomasza](https://www.youtube.com/@cloudowski/videos)
-31. [Testcube](https://github.com/tobyqin/testcube)
+31. [Testcube](https://github.com/kubeshop/testkube)
 
 # AI 4
 
