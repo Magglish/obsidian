@@ -118,6 +118,7 @@
 28. [Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
 29. [Improving Application Availability with Pod Readiness Gates
 ](https://martinheinz.dev/blog/63)
+29. [Wszystkie odcinki Kubernetes Po Polsku](https://cloudowski.com/kubernetes-po-polsku/) na mailu masz linka do tego
 
 # AI 4
 
