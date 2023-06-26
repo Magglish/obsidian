@@ -1,5 +1,4 @@
 
-6. https://martinheinz.dev/ i wstaw
 7. https://www.tekhnoal.com/category/blog.html i wstaw
 8. Wystepy na konferencji KubeCon
 
@@ -84,6 +83,7 @@
 10. [Hardening Docker and Kubernetes with seccomp](https://martinheinz.dev/blog/41)
 11. [Building Docker Images The Proper Way](https://martinheinz.dev/blog/42)
 12. [Deep Dive into Docker Internals - Union Filesystem](https://martinheinz.dev/blog/44)
+13. [Speeding Up Container Image Builds with Remote Cache](https://martinheinz.dev/blog/61)
 
 
 # AI 3
@@ -116,6 +116,8 @@
 26. [Could Kubernetes Pods Ever Become Deprecated?](https://martinheinz.dev/blog/53)
 27. [Making Kubernetes Operations Easy with kubectl Plugins](https://martinheinz.dev/blog/58)
 28. [Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
+29. [Improving Application Availability with Pod Readiness Gates
+](https://martinheinz.dev/blog/63)
 
 # AI 4
 
