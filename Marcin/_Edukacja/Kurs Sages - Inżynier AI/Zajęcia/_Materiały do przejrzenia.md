@@ -76,6 +76,7 @@
 12. [Deep Dive into Docker Internals - Union Filesystem](https://martinheinz.dev/blog/44)
 13. [Speeding Up Container Image Builds with Remote Cache](https://martinheinz.dev/blog/61)
 14. Testcontainers -> edycja 2021 "Kontenery do testów - czyli testowanie na poważnie" -  [https://architekturaikontenery.pl/vod/](https://architekturaikontenery.pl/vod/)  
+15. [Zmniejszenie rozmiaru sklearnowych modeli](https://www.youtube.com/watch?v=dtUn1ifDBXQ&list=PLGVZCDnMOq0peDguAzds7kVmBr8avp46K&index=89) 
 
 
 # AI 3
