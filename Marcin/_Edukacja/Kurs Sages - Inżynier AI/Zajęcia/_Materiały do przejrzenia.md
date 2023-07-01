@@ -111,9 +111,10 @@
 28. [Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
 29. [Improving Application Availability with Pod Readiness Gates
 ](https://martinheinz.dev/blog/63)
-29. [Wszystkie odcinki Kubernetes Po Polsku](https://subauth.c.cloudowski.com/confirm?t=Im1hcmNpbi5yeWJpbnNraTk1QGdtYWlsLmNvbSI.ZJnd_Q.GGFz-ea4J8b6ACdgGU62LuRVunc&rd=https%3A%2F%2Fkubernetespopolsku.c.cloudowski.com%2F)
+29. [Wszystkie odcinki Kubernetes Po Polsku](https://subauth.c.cloudowski.com/confirm?t=Im1hcmNpbi5yeWJpbnNraTk1QGdtYWlsLmNvbSI.ZJnd_Q.GGFz-ea4J8b6ACdgGU62LuRVunc&rd=https%3A%2F%2Fkubernetespopolsku.c.cloudowski.com%2F) (jak token wygaśnie to jeszcze raz spróbuj uzyskac materiały)
 30. [Materiały Youtube Tomasza](https://www.youtube.com/@cloudowski/videos)
 31. [Testcube](https://github.com/kubeshop/testkube) bardziej jako ciekawostka
+32. [Odnośnie ustawiania limitów RAM i CPU](https://www.youtube.com/watch?v=rjSWVeAvb24)
 
 # AI 4
 
