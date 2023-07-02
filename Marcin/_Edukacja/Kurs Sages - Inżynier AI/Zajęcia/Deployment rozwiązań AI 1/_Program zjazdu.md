@@ -2,7 +2,6 @@
 
 # Program zjazdu
 
-1. Przywitanie uczestników
 
 
 
