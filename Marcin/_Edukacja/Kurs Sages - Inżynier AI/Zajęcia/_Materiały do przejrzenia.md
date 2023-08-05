@@ -59,7 +59,10 @@
 46. [Dodanie status endpoint?](https://pythonspeed.com/articles/identifying-images/) No nie wiem - poczytaj o tym jak inni ludzie robia
 47. [Networking tool every developer should know](https://martinheinz.dev/blog/38)
 48. [OAuth2](https://blog.bytebytego.com/i/132279282/oauth-explained-in-simple-terms)
-49. 
+49. https://stackoverflow.com/questions/67599119/fastapi-asynchronous-background-tasks-blocks-other-requests
+50. https://stackoverflow.com/questions/63169865/how-to-do-multiprocessing-in-fastapi/63171013#63171013
+51. https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial-instead-of-parallel-fashion/71517830#71517830
+52. https://pythonspeed.com/articles/python-multiprocessing/
 
 
 
@@ -118,6 +121,8 @@
 30. [Materiały Youtube Tomasza](https://www.youtube.com/@cloudowski/videos)
 31. [Testcube](https://github.com/kubeshop/testkube) bardziej jako ciekawostka
 32. [Odnośnie ustawiania limitów RAM i CPU](https://www.youtube.com/watch?v=rjSWVeAvb24)
+33. https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes
+34. https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-resource-requests-and-limits
 
 
 # AI 4
