@@ -64,6 +64,10 @@
 51. https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial-instead-of-parallel-fashion/71517830#71517830
 52. https://pythonspeed.com/articles/python-multiprocessing/
 
+GET vs POST w ML Service:
+1. https://softwareengineering.stackexchange.com/questions/429721/get-vs-post-when-exposing-machine-learning-model-predictions-using-a-rest-api
+2. https://stackoverflow.com/questions/978061/http-get-with-request-body
+
 
 
 # AI 2
