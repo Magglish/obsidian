@@ -63,6 +63,7 @@
 50. https://stackoverflow.com/questions/63169865/how-to-do-multiprocessing-in-fastapi/63171013#63171013
 51. https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial-instead-of-parallel-fashion/71517830#71517830
 52. https://pythonspeed.com/articles/python-multiprocessing/
+53. [No-GIL Python 3.13, 3.14?](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
 
 GET vs POST w ML Service:
 1. https://softwareengineering.stackexchange.com/questions/429721/get-vs-post-when-exposing-machine-learning-model-predictions-using-a-rest-api
