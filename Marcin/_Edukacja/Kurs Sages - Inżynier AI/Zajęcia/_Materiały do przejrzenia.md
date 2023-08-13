@@ -68,6 +68,7 @@
 GET vs POST w ML Service:
 1. https://softwareengineering.stackexchange.com/questions/429721/get-vs-post-when-exposing-machine-learning-model-predictions-using-a-rest-api
 2. https://stackoverflow.com/questions/978061/http-get-with-request-body
+3. [Sam FastAPI mówi o tym aby nie wysyłać danych w GET](https://fastapi.tiangolo.com/tutorial/body/#request-body) -> szczegółow odnośnie tego co piszą poszukaj w innych źródłach.
 
 
 
