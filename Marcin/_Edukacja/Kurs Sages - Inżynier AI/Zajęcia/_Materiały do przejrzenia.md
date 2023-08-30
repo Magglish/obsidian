@@ -67,6 +67,7 @@
 54. https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial-instead-of-parallel-fashion/71517830#71517830
 55. https://pythonspeed.com/articles/python-multiprocessing/
 56. [No-GIL Python 3.13, 3.14?](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
+57. Przy cache'owaniu rezultatów najlepiej jest to zrobić w warstwie web-servera/load-balancera (np. [nginx](https://www.nginx.com/blog/nginx-caching-guide/)) a nie wprost w API.
 
 GET vs POST w ML Service:
 1. https://softwareengineering.stackexchange.com/questions/429721/get-vs-post-when-exposing-machine-learning-model-predictions-using-a-rest-api
