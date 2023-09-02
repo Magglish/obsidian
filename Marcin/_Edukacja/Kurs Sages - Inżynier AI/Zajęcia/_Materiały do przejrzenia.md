@@ -133,6 +133,8 @@ GET vs POST w ML Service:
 32. [Odnośnie ustawiania limitów RAM i CPU](https://www.youtube.com/watch?v=rjSWVeAvb24)
 33. https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-setting-up-health-checks-with-readiness-and-liveness-probes
 34. https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-resource-requests-and-limits
+35. https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-resource-requests-and-limits
+36. https://www.youtube.com/watch?v=rjSWVeAvb24
 
 
 # AI 4
