@@ -12,4 +12,4 @@ Musi być zainstalowane na pewno:
 1. make
 2. docker
 3. redis-tools
-4. ...
+4. postgresql-client-common
