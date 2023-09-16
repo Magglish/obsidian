@@ -14,6 +14,8 @@ Background Tasks spawnują Lightweight Processes
 4. Odpal sobie `ps -o nlwp <<PID_API>>` żeby zobaczyć ile wątków/LWP używa teraz process oraz `watch ps -o thcount <<PID_API>>` aby zobaczyć w czasie rzeczywistym jak to się zmienia 
 5. Odpal `htop`, filtruj po `src/` i kliknij `F5 Tree` aby rozwinac do drzewka żeby zobaczyć parent processy i child processy 
 
+Czy istnieje limit threadów? Chyba tak: Fastapi używa run_in_threadpool ze Starlette, a Starlette z kolei `anyio.to_thread.run_sync(func, *args)`. Dokumentacja mówi, że jest [max. 40 threadów](https://anyio.readthedocs.io/en/stable/threads.html#adjusting-the-default-maximum-worker-thread-count) [tutaj gościu miał jakiś problem](https://stackoverflow.com/questions/70927983/fastapi-run-in-threadpool-getting-stuck)
+
 
 ## Czy można mieć więcej procesów niż procesorów?
 
