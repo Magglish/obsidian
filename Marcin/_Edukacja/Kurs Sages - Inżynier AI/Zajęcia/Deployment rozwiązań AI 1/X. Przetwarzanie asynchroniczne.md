@@ -4,6 +4,10 @@
 Bardzo ważne: wiedza, którą przekaże odnosi sie do Linuxa. Jak jest w Windowsie? Nie wiem, powiem szczerze nie obchodzi mnie to. 
 
 
+## async def i def
+
+Pomysł na przykład: To w Background tasks niech berzie jeden task wysylajacy na raz dwa requesty do baz danych: jeden do Redisa i jeden do Postgresa
+
 ## Background taski i Light Weight Processes
 
 Background Tasks spawnują Lightweight Processes
