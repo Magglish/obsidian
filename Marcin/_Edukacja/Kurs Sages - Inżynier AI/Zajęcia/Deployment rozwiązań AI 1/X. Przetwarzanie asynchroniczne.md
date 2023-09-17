@@ -3,6 +3,7 @@
 
 Bardzo ważne: wiedza, którą przekaże odnosi sie do Linuxa. Jak jest w Windowsie? Nie wiem, powiem szczerze nie obchodzi mnie to. 
 
+Obejrzyj: https://www.youtube.com/watch?v=kRy_UwUhBpo&t=1894s
 
 ## WSGI vs ASGI
 
