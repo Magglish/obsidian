@@ -18,7 +18,8 @@ Czy istnieje limit threadów? Chyba tak: Fastapi używa run_in_threadpool ze Sta
 
 [Zwiększenie limitu z 40 do 100](https://github.com/encode/starlette/issues/1724)
 
-Alternatyw
+Alternatywa?
+(TEN PUNKT JEST DO ZREDAGOWANIA PO POWYŻSZYCH MATERIAŁACH)
 
 Background Taski to naprawdę świetne rozwiązanie. Nie tylko przydają się do takich długich zapisów do baz danych, czy w ogóle jakichś innych operacji. Ale mają również inne zastosowanie. Nasze API obecnie zwraca predykcje z modelu w ciągu 2 milsekund. To szybko. Ale co gdyby nasz model zwracał odpowiedzi w ciągu 2 minut? W przypadku gdy modele generują odpowiedzi bardzo długo, to API projektuje się inaczej. My tego nie bedziemy robić na naszym zjeździe, więc opiszę Wam jak to może wyglądać
 
