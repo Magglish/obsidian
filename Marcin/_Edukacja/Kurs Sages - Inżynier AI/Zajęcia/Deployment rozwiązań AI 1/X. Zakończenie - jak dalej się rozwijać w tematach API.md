@@ -1,0 +1,6 @@
+# Jak dalej się rozwijać w tematach API
+
+Tematy, których nie udało nam się przerobić to:
+
+1. Dopieszczanie dokumentacji
+2. Zabezpieczanie API
