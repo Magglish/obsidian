@@ -7,7 +7,12 @@ Obejrzyj: https://www.youtube.com/watch?v=kRy_UwUhBpo&t=1894s
 
 ## WSGI vs ASGI
 
+(TE ZDJĘCIE ZRÓB PO SWOJEMU - brakuje na nim jeszcze Reverse Proxy)
+![[API Framework.png]]
 
+Obejrzyj: https://www.youtube.com/watch?v=Y1WaF7k07NE&t=1590s
+
+Przeczytaj: [PEP 3333](https://peps.python.org/pep-3333/)
 
 ## async def i def
 
