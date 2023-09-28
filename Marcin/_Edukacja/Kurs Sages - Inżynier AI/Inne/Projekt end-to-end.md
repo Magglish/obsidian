@@ -19,8 +19,13 @@ Zacznę od tego aby powiedzieć że:
 		1. analiza sentymentu
 		2. question answering
 		3. tłumaczenie maszynowego z jednego języka na drugi 
-		4. czy tworzenia automatycznych streszczeń 
-	3. Z podanych tekstów w przypadku obrazów proste klasyfikacja obrazu Co się daje czy troszeczkę trudniejsze jak rozróżnienie wielu obiektów na obraza tyle na przykład ecymacja tak naprawdę to wszystko zależy was  od was co będziecie chcieli zrealizować w swoim projekcie Ja wiem że Są tutaj różne osoby z różnym bagrantem i pewne tematy już mogą być dla was znane dla część w ogóle wszystko to może być zupełnie nowe Także ja też Proponuję nie tylko wzięcie pod uwagę faktu Ile macie wolnego czasu dodatkowo żeby ten projekt zrealizować ale również to który obszar byłby dla was możliwe do zrealizowania No bo dla osoby początkującej w świecie maszynowego problemy z tekstem czy obrazem mogą być na początek trudne i wtedy może zastanowić się nad wzięciem czegoś bardziej klasycznego natomiast dla osób które już mają większe doświadczenie Proponujemy tematy Wtedy trudniejsze związane z właśnie z tekstem bądź obrazem
+		4. czy tworzenia automatycznych streszczeń z podanych tekstów
+	3. w przypadku obrazów 
+		1. klasyfikacja obrazu - czy na zdjęciu znajduje się dany obiekt czy też nie
+		2. trudniejsze jak rozróżnienie wielu obiektów na raz
+		3. estymacja pozy 
+	To co podałem to są tylko przykłady z tych dziedzin, tego jest naprawdę bardzo dużo - każdy znajdzie coś dla siebie. 
+	5. tak naprawdę to wszystko zależy was  od was co będziecie chcieli zrealizować w swoim projekcie Ja wiem że Są tutaj różne osoby z różnym bagrantem i pewne tematy już mogą być dla was znane dla część w ogóle wszystko to może być zupełnie nowe Także ja też Proponuję nie tylko wzięcie pod uwagę faktu Ile macie wolnego czasu dodatkowo żeby ten projekt zrealizować ale również to który obszar byłby dla was możliwe do zrealizowania No bo dla osoby początkującej w świecie maszynowego problemy z tekstem czy obrazem mogą być na początek trudne i wtedy może zastanowić się nad wzięciem czegoś bardziej klasycznego natomiast dla osób które już mają większe doświadczenie Proponujemy tematy Wtedy trudniejsze związane z właśnie z tekstem bądź obrazem
 
   
 
