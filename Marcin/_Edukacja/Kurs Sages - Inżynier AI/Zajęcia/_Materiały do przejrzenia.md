@@ -135,6 +135,9 @@ GET vs POST w ML Service:
 34. https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-resource-requests-and-limits
 35. https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-resource-requests-and-limits
 36. https://www.youtube.com/watch?v=rjSWVeAvb24
+37. Jak przenieść workload na nowy node -> cordon + drain
+38. https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
+39. https://segment.com/blog/goodbye-microservices/
 
 
 # AI 4
