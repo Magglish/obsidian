@@ -93,6 +93,7 @@ GET vs POST w ML Service:
 13. [Speeding Up Container Image Builds with Remote Cache](https://martinheinz.dev/blog/61)
 14. Testcontainers -> edycja 2021 "Kontenery do testów - czyli testowanie na poważnie" -  [https://architekturaikontenery.pl/vod/](https://architekturaikontenery.pl/vod/)  
 15. [Zmniejszenie rozmiaru sklearnowych modeli](https://www.youtube.com/watch?v=dtUn1ifDBXQ&list=PLGVZCDnMOq0peDguAzds7kVmBr8avp46K&index=89) 
+16. https://levelup.gitconnected.com/creating-and-filling-a-postgres-db-with-docker-compose-e1607f6f882f
 
 
 # AI 3
