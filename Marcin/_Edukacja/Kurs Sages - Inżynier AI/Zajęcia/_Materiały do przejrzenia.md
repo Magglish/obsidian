@@ -97,6 +97,8 @@ GET vs POST w ML Service:
 
 # AI 3
 
+handle sigterms -> https://madflojo.medium.com/shutdown-signals-with-docker-entry-point-scripts-5e560f4e2d45
+
 1. [DNS WorldMap Checker](https://dnschecker.org/#A/www.google.com) przy stawianiu swojego wlasnego IPka
 2. [Jak działa DNS](https://blog.bytebytego.com/i/109085468/how-does-dns-work)
 3. [API Gateway](https://blog.bytebytego.com/i/72593300/what-does-api-gateway-do)
