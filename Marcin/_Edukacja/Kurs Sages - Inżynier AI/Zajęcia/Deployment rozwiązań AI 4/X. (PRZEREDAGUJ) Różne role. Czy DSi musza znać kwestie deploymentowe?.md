@@ -1,3 +1,6 @@
+
+## ZOSTAŁO TO PRZENIESIONE Z API, BO TAM ZA CZASU NA TO BYŁO.
+
 1. ![[Rożne role w świecie ML.png]]
 
 2. Ale zanim przejdziemy dalej chciałbym jeszcze coś powiedzieć odnośnie samego wdrażania modeli. Tak jak sami się przekonacie na zjazdach, to jest zupełnie inna praca i zupełnie inne problemy. W pewnych momentach Pythona możecie nawet mało wykorzystywać w konkretnych etapach wdrożeniowych. Tutaj bedzie dużo zabawy z plikami konfiguracyjnymi i bashem. Ale niezależnie od tego czy polubicie to czy nie, czy Wam się to spodoba czy nie, to wiedza o procesie wdrażania rozwiązań opartych o ML przyda się Wam w każdej pracy - czy to ostatecznie bedziecie Inzynierami AI/ML, czy jednak stwierdzicie, że sama analiza danych i modelowanie Was bardziej interesuje i będziecie chcieli zostać Data Scientistami, czy też jednak bardziej Backend/Frontend to ta wiedza z wdrożenia przyda Wam sie podczas codziennej pracy.
