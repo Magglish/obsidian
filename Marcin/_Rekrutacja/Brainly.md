@@ -13,3 +13,4 @@ NLP
 Kubernetes
 
 1. [[Statefulset]]
+2. 
