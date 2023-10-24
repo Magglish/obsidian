@@ -8,3 +8,5 @@ Dla F1:
 
 $$F_{1}=\frac{2*Precision*Recall}{Precision+Recall}$$
 
+Łączy ona precyzje z recallem i w zależności od wartości $\beta$ możemy albo skupić się bardziej na precyzji albo na czułości w zależności od tego co nas najbardziej interesuje.
+
