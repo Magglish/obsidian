@@ -16,7 +16,7 @@ Sieci
 2. [[Adam]], [[AdamW]]
 3. [[Funkcja aktywacji]], [[ReLU]], [[GeLU]]
 4. [[Funkcja straty]]
-5. [[RNN]], 
+5. [[RNN]], [[GRU]], [[LSTM]], [[Przewaga LSTM/GRU nad RNN]]
 6. [[CNN]]
 7. [[Embedding]]
 8. 
