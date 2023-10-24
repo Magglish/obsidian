@@ -16,7 +16,7 @@ Sieci
 2. [[Adam]], [[AdamW]]
 3. [[Funkcja aktywacji]], [[ReLU]], [[GeLU]], [[Leaky ReLU]]
 4. [[Funkcja straty]]
-5. [[RNN]], [[GRU]], [[LSTM]], [[Przewaga LSTM/GRU nad RNN]]
+5. [[RNN]], [[GRU]], [[LSTM]], [[LSTM vs GRU vs RNN]]
 6. [[CNN]]
 7. [[Embedding]]
 8. 
@@ -32,6 +32,8 @@ NLP:
 7. [[Augmentacja danych tekstowych]]
 8. [[Jak był uczony ChatGPT]]
 9. [[Embeddingi Fasttext]]
+10. [[Transformer]]
+11. [[Transfer learning]]
 
 
 
