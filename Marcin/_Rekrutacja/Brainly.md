@@ -3,7 +3,7 @@
 Podstawy ML
 
 1. [[MSE]], [[MAE]], [[Różnica MSE vs MAE]]
-2. [[Precyzja]], [[Recall]], [[Czułość]], [[Swoistość]] 
+2. [[Precyzja]], [[Recall]], [[Czułość]], [[Swoistość]], [[Metryka F1]] 
 4. [[Krzywa ROC]]
 5. [[Random Forest]]
 6. [[k-Neareset Neighbours]]
@@ -14,7 +14,7 @@ Sieci
 
 1. [[Stochastic Gradient Descent]]
 2. [[Adam]], [[AdamW]]
-3. [[Funkcja aktywacji]], [[ReLU]], [[GeLU]]
+3. [[Funkcja aktywacji]], [[ReLU]], [[GeLU]], [[Leaky ReLU]]
 4. [[Funkcja straty]]
 5. [[RNN]], [[GRU]], [[LSTM]], [[Przewaga LSTM/GRU nad RNN]]
 6. [[CNN]]
@@ -29,6 +29,8 @@ NLP:
 4. [[LoRA]]
 5. [[RLHF]]
 6. [[Problem Out-of-Vocabulary]]
+7. [[Augmentacja danych tekstowych]]
+8. [[Jak był uczony ChatGPT]]
 
 
 
