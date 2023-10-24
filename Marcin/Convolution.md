@@ -1,0 +1,6 @@
+# Convolution
+
+
+
+- Stride - 
+- Padding - 

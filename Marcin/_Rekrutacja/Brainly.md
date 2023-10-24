@@ -12,9 +12,10 @@ Sieci
 2. [[Adam]], [[AdamW]]
 3. [[Funkcja aktywacji]], [[ReLU]], [[GeLU]]
 4. [[Funkcja straty]]
-5. [[RNN]], [[CNN]]
-6. [[Embedding]]
-7. 
+5. [[RNN]], 
+6. [[CNN]]
+7. [[Embedding]]
+8. 
 
 NLP:
 
