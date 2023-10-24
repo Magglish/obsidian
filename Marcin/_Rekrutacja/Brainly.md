@@ -31,6 +31,7 @@ NLP:
 6. [[Problem Out-of-Vocabulary]]
 7. [[Augmentacja danych tekstowych]]
 8. [[Jak był uczony ChatGPT]]
+9. [[Embeddingi Fasttext]]
 
 
 
