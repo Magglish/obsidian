@@ -34,6 +34,7 @@ NLP:
 9. [[Embeddingi Fasttext]]
 10. [[Transformer]]
 11. [[Transfer learning]]
+12. [[Attention mechanism]]
 
 
 
