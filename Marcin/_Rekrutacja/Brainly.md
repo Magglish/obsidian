@@ -12,7 +12,7 @@ Podstawy ML
 
 Sieci
 
-1. [[Stochastic Gradient Descent]], [[Momentum]]
+1. [[Stochastic Gradient Descent]], [[Momentum]], [[RMSProp]]
 2. [[Adam]], [[AdamW]]
 3. [[Funkcja aktywacji]], [[ReLU]], [[GeLU]], [[Leaky ReLU]]
 4. [[Funkcja straty]]
