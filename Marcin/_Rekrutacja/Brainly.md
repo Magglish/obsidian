@@ -20,6 +20,9 @@ NLP:
 
 1. [[Encoder-Decoder]]
 2. [[Word2Vec]]
+3. [[BERT]]
+4. [[LoRA]]
+5. [[RLHF]]
 
 
 
@@ -28,3 +31,8 @@ Kubernetes
 1. [[Statefulset]]
 2. [[Headless service]]
 3. [[Deployment Strategies]]
+
+
+Monitoring:
+
+1. [[Distribution Shift]]
