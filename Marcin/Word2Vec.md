@@ -4,4 +4,4 @@ Podstawowe założenie czyli uczymy model Word2Vec po to aby przewidział dane s
 
 [[CBOW]] lub [[SkipGram]]
 
-[[fastText]]
+[[Embeddingi Fasttext|fastText]]
