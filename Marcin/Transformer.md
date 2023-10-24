@@ -4,4 +4,5 @@ Oryginalny transformer z paperu [Attention is all you need](https://arxiv.org/ab
 
 Różnica jest taka, że:
 
-1. Są tam [[Positional embedding|pozycyjne embeddingi]] wskazujące pozycje tek
+1. Są tam [[Positional embedding|pozycyjne embeddingi]] wskazujące pozycje tekstu.
+2. Używany jest [[Attention mechanism|mechanizm atencji]]
