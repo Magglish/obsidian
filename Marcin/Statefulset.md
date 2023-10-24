@@ -8,4 +8,5 @@ Zarządzanie workloadem. Używany wtedy kiedy:
 
 Use-casey: Statefulset używany w ramach np. deployowania baz danych:
 
-1. Np. mamy deployment Redisa i chcemy mieć pewność że każdy z podów ma przyporządkowan
+1. Mamy [deployment Redisa](https://k21academy.com/docker-kubernetes/statefulset/) i chcemy mieć pewność że każdy z podów ma przyporządkowany PVC i w momencie restartu/scalowania do konkretnych podów są cały czas przyporządkowane te same PVC - żeby zachować dane
+2. Mamy [deployment Postgresa](https://spacelift.io/blog/kubernetes-statefulset) i pierwszy pod jest w trybie ReadWrite a pozostałe tylko replikują jego dane.
