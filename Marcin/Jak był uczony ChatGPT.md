@@ -1,0 +1,2 @@
+# Jak był uczony ChatGPT
+
