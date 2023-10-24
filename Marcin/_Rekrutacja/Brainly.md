@@ -3,7 +3,7 @@
 Podstawy ML
 
 1. [[MSE]], [[MAE]], [[Różnica MSE vs MAE]], [[Cross-entropy]]
-2. [[Precision]], [[Recall]], [[Czułość]], [[Swoistość]], [[Metryka F1]] 
+2. [[Precision]], [[Recall]], [[Czułość]], [[Metryka F1]] 
 4. [[Krzywa ROC]]
 5. [[Random Forest]]
 6. [[k-Neareset Neighbours]]
