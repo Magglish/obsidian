@@ -1,4 +1,4 @@
 # Rectified Linear Unit
 
 
-Rozwiązuje problem [[Vanishing Gra]]
+Rozwiązuje problem [[Vanishing Gradient|zanikającego gradientu]].
