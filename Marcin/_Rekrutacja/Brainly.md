@@ -5,6 +5,10 @@ Podstawy ML
 1. [[MSE]], [[MAE]], [[Różnica MSE vs MAE]]
 2. [[Precyzja]], [[Recall]], [[Czułość]], [[Swoistość]] 
 4. [[Krzywa ROC]]
+5. [[Random Forest]]
+6. [[k-Neareset Neighbours]]
+7. [[k-Means]]
+8. 
 
 Sieci
 
