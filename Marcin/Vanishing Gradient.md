@@ -8,5 +8,5 @@ Problem zanikającego gradientu występuje, gdy każdy kolejny update w wagach w
 Rozwiązania:
 
 1. Inne funkcje aktywacji np. [[ReLU]]
-2. [[Residual networks]] - które łączą 
+2. [[Residual networks]] - które dodają do siebie wartości z poprzednich warstw
 3. [[Batch normalization]] - zmniejszenie wartości do przedziału, w którym np. te pochodne już są znacznie większe 
