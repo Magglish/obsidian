@@ -13,4 +13,5 @@ NLP
 Kubernetes
 
 1. [[Statefulset]]
-2. 
+2. [[Headless service]]
+3. [[Ro]]
