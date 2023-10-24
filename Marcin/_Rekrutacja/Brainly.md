@@ -14,4 +14,4 @@ Kubernetes
 
 1. [[Statefulset]]
 2. [[Headless service]]
-3. [[Ro]]
+3. [[Canary Deployment]]
