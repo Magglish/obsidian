@@ -38,6 +38,7 @@ NLP:
 13. [[Transformer]]
 14. [[Transfer learning]]
 15. [[Attention mechanism]]
+16. [[Autoregressive]]
 
 
 
