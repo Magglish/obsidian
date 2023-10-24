@@ -6,4 +6,5 @@ Wysyłając requesta do headless service, service nie przekieruje naszego zapyta
 
 Use-casey:
 
-1. Zaawansowany load balancing - headless service zwraca Ci liste podów do których jest podpięty, zatem load balancing można wykonać z poziomu aplikacji
+1. Zaawansowany load balancing - headless service zwraca Ci liste podów do których jest podpięty, zatem load balancing można wykonać z poziomu aplikacji - zadecydować do którego PODa wysłać requesta - a nie na poziomie serwisu
+2. Zaawansowane health checki - które mogą 
