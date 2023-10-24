@@ -2,7 +2,7 @@
 
 Podstawy ML
 
-1. [[MSE]], [[MAE]], [[Różnica MSE vs MAE]]
+1. [[MSE]], [[MAE]], [[Różnica MSE vs MAE]], [[Cross-entropy]]
 2. [[Precyzja]], [[Recall]], [[Czułość]], [[Swoistość]], [[Metryka F1]] 
 4. [[Krzywa ROC]]
 5. [[Random Forest]]
@@ -19,7 +19,7 @@ Sieci
 5. [[RNN]], [[GRU]], [[LSTM]], [[LSTM vs GRU vs RNN]]
 6. [[CNN]]
 7. [[Embedding]]
-8. 
+8. [[Dropout]]
 
 NLP:
 
