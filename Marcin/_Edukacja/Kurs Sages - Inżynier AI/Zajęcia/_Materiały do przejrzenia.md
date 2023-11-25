@@ -141,6 +141,7 @@ handle sigterms -> https://madflojo.medium.com/shutdown-signals-with-docker-entr
 37. Jak przenieść workload na nowy node -> cordon + drain
 38. https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
 39. https://segment.com/blog/goodbye-microservices/
+40. https://medium.com/@seifeddinerajhi/the-new-in-place-kubernetes-pod-resource-resizing-feature-a-deep-dive-11b0ece334ef
 
 
 # AI 4
