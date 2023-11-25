@@ -15,3 +15,9 @@ To get started with remote repositories, try the quickstart.
   
 
 [https://cloud.google.com/artifact-registry/docs/repositories/create-dockerhub-remote-repository](https://cloud.google.com/artifact-registry/docs/repositories/create-dockerhub-remote-repository)
+
+
+
+## COnda vs poetry
+
+https://www.anaconda.com/blog/is-conda-free
