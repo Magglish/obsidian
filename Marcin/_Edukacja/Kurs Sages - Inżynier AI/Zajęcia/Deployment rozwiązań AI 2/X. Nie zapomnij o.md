@@ -18,6 +18,6 @@ To get started with remote repositories, try the quickstart.
 
 
 
-## COnda vs poetry
+## Conda vs poetry
 
 https://www.anaconda.com/blog/is-conda-free
