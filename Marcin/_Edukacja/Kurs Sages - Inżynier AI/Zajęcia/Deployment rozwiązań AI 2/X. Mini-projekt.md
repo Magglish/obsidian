@@ -7,3 +7,5 @@
 	1. zbudować podstawowy Dockerfile, ale zgodnie z poprawnym ułożeniem warstw i użycie jednocześnie ENTRYPOINT z CMD 
 	2. postawienie własnego repo w Cloudzie z bazowymi obrazami + budowa obrazu API korzystajac z obrazu bazowego z repo + zdefiniowanie zmodyfikowanych obrazów (redis i postgres)
 	3. zdefiniowania docker-compose z 3 obrazami: api, redis i postgres i uruchomienie API z tymi kontenerami
+	4. zbudowanie jak najmniejszego kontenera - zastosowanie wszystkich best practises
+	5. wrzucenie rozwiązania na VMke na chmurze i przetestowanie czy jest dostępne i czy można wysyłać requesty.
