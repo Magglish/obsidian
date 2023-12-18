@@ -1,4 +1,4 @@
-# namp
+# nmap
 Komenda `nmap` służy do eksploracji sieci i audotywania zabezpieczeń. 
 
 Uzyskujemy informacje o 
