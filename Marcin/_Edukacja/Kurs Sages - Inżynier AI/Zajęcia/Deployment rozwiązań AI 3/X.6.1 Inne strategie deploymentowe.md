@@ -7,3 +7,4 @@ Pomysły:
 
 2. Canary 
 3. A/B Testing
+4. Shadow Deployment
