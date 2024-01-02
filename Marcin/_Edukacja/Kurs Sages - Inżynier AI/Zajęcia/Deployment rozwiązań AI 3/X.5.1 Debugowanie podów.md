@@ -1,4 +1,4 @@
 
 Pomysły:
 
-1. Omówienie komn `debug`
+1. Omówienie komendy `debug`
