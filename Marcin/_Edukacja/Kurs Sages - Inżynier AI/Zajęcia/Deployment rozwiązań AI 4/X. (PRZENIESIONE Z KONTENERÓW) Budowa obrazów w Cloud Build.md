@@ -378,12 +378,53 @@ Pokaż im jak to zrobić na przykładzie np. Pythona. Ale w ramach ćwiczeń nie
 6. Wepnij to potem do pipeline CICD.
     
 
-  ## DOCELOWY YAML?
-  
-  
-  
-  
-  
-  
-  
-**
+## DOCELOWY YAML? SPRAWDZ
+
+
+```yaml
+
+steps:
+
+  - id: "pull-latest-container"
+
+    name: 'gcr.io/cloud-builders/docker'
+
+    args: ['pull', '${_REPO_PATH}/${_REPO_NAME}/api:latest']
+
+    allowFailure: true
+
+  - id: "build-new-image"
+
+    name: 'gcr.io/cloud-builders/docker'
+
+    args: [
+
+      'build',
+
+      '--tag=${_REPO_PATH}/${_REPO_NAME}/api:latest',
+
+      '--file=deploy/docker/api/Dockerfile',
+
+      '--cache-from=${_REPO_PATH}/${_REPO_NAME}/api:latest',
+
+      '--network=cloudbuild',
+
+      '--progress=plain',
+
+      '.'
+
+    ]
+
+  - id: "push-to-repository"
+
+    name: 'gcr.io/cloud-builders/docker'
+
+    args: ['push', '--all-tags', '${_REPO_PATH}/${_REPO_NAME}/api']
+
+substitutions:
+
+  _REPO_PATH: 'europe-central2-docker.pkg.dev/GCLOUD_PROJECT'
+
+  _REPO_NAME: 'mrybinski-live-coding-api'
+
+```
