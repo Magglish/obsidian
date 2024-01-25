@@ -1,0 +1,1 @@
+Zainspiruj się, co omówić na zajęciach z GitLaba CICD: [https://www.youtube.com/watch?v=PGyhBwLyK2U](https://www.youtube.com/watch?v=PGyhBwLyK2U)

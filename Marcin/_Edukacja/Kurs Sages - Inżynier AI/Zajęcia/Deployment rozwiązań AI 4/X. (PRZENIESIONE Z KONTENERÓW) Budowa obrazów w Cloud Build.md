@@ -378,7 +378,7 @@ Pokaż im jak to zrobić na przykładzie np. Pythona. Ale w ramach ćwiczeń nie
 6. Wepnij to potem do pipeline CICD.
     
 
-  
+  ## DOCELOWY YAML?
   
   
   
