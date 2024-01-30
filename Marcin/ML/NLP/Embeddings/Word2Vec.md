@@ -14,6 +14,7 @@ Idea:
 ![[Word2Vec central word and context.png]]
 
 5. Tak zmieniaj wartości wektorów dla słów aby **zmaksymalizować te prawdopodobieństwo**
+6. Często jest tak, że finalna reprezentacja słowa to średnia z dwóch wektorów: wektora danego słowa jako centralne słowo i wektora jako kontekst.
 
 ![[Word2Vec objective function.png]]
 
@@ -21,7 +22,7 @@ Idea:
 
 ![[Word2Vec prediction function.png]]
 
-Często jest tak, że finalna reprezentacja słowa to średnia z wektora danego słowa jako centralne słowo i wektora jako kontekst
+
 
 
 ![[Word2Vec learning.png]]
