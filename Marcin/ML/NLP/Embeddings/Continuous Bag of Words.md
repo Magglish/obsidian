@@ -12,3 +12,5 @@ Składa się z 3 warstw:
 3. Output layer - to warstwa liniowa, najcześciej soft-max, która zwraca prawdopodobieństwa dla wszystkich słów. Predykcja to argmax z softmaxa.
 
 Loss function to [[Cross-entropy]]
+
+Zaletą C

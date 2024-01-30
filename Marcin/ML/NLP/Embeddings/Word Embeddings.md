@@ -17,6 +17,9 @@ Zastosowania:
 Podejścia:
 
 1. [[One-hot word embeddings]]
-2. [[Continuous Bag of Words]]
-3. [[Continuous Skip Gram]]
-4. [[Word2Vec]]
+2. [[Bag of Words]]
+3. [[TF-IDF]]
+4. [[Continuous Bag of Words]]
+5. [[Continuous Skip Gram]]
+6. 
+7. [[Word2Vec]]
