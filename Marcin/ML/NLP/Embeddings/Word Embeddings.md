@@ -18,5 +18,5 @@ Podejścia:
 
 1. [[One-hot word embeddings]]
 2. [[Continuous Bag of Words]]
-3. [[SkipGram]]
+3. [[Continuous Skip Gram]]
 4. [[Word2Vec]]
