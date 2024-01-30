@@ -8,4 +8,7 @@ Celem CBOW jest predykcja danego słowa na podstawie jego kontekstu.
 
 Składa się z 3 warstw: 
 1. input layer - która podaje teksty zakodowane [[One-hot word embeddings|zero-jedynkowo]]
-2. Projection layer - to warstwa liniowa 
+2. Projection layer - to warstwa liniowa, gęsta, a nie zero-jedynkowa
+3. Output layer - to warstwa liniowa, najcześciej soft-max, która zwraca prawdopodobieństwa dla wszystkich słów. Predykcja to argmax z softmaxa.
+
+Loss function to [[Categorical cross-entropy]]
