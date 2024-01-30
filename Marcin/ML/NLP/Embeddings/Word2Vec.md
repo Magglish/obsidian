@@ -4,9 +4,9 @@ Word2Vec to sposób na stworzenie reprezentacji numerycznej słów.
 
 Idea:
 
-1. Mamy duży korpus tekstu
+1. Mamy duży korpus, zbiór tekstu
 2. Każde słowo jest reprezentowane jako wektor
-3. Przejść przez każdą w tekście $t$, która ma słowo centralnego $c$ oraz context wokół tego słowa $o$
+3. Przejść przez każdą pozycję w tekście $t$, i dla każdej pozycji $t$ mamy słowo centralne $c$ oraz kontekst wokół tego słowa $o$
 
 $$ \text{... government debt problems turning into } \underline{banking} \text{ crises as happened in 2009 ...} $$
 
