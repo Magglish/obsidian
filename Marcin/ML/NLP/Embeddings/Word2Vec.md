@@ -23,6 +23,6 @@ Idea:
 ![[Word2Vec prediction function.png]]
 
 
-7. Wektory $v$ oraz $u$ dla każdego słowa są losowo zai
+7. Wektory $v$ oraz $u$ dla każdego słowa są losowo zainicjowane. W wyniku optymalizacji gradientowe te wartości są zmieniane tak żeby minimalizowac objective function.
 
 ![[Word2Vec learning.png]]
