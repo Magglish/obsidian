@@ -1,7 +1,11 @@
 # Word2Vec
 
 Word2Vec to sposób na stworzenie reprezentacji numerycznej słów.
+[Paper](https://arxiv.org/pdf/1301.3781.pdf)
 
+Algorytmy:
+1. [[CBOW]]
+2. [[SkipGram]]
 
 
 Idea:
