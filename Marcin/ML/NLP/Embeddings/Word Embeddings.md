@@ -17,6 +17,6 @@ Zastosowania:
 Podejścia:
 
 1. [[One-hot word embeddings]]
-2. [[CBOW]]
+2. [[Continuous Bag of Words]]
 3. [[SkipGram]]
 4. [[Word2Vec]]
