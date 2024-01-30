@@ -1,0 +1,6 @@
+# Sparse matrix/vector
+
+Sparse matrix lub wektor oznacza, że macierz lub wektor ma w sobie bardzo dużo zer i niewiele wartości niezerowych. W tym celu można zastosować różne techniki przechowywania takich macierzy w sposób szczególny, które zmniejszają jego rozmiar i przyśpieszają operacje na nim:
+
+1. ...
+2. ...
