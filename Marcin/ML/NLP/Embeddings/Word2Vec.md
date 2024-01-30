@@ -23,6 +23,6 @@ Idea:
 ![[Word2Vec prediction function.png]]
 
 
-
+7. Wektory $v$ oraz $u$ dla każdego słowa są losowo zai
 
 ![[Word2Vec learning.png]]
