@@ -11,4 +11,4 @@ $$ motel = [ 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 ]$$
 
 $$ hotel = [ 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 ]$$
 
-Dla takich wektorów 
+Dla takich wektorów [[Cosine similarity|podobieństwo]] zawsze będzie wynosiło 0, pomimo tego, że `hotel` i `motel` są do siebie bardzo podobne
