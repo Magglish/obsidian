@@ -21,4 +21,7 @@ Idea:
 
 ![[Word2Vec prediction function.png]]
 
+Często jest tak, że finalna reprezentacja słowa to średnia z wektora danego słowa jako centralne słowo i wektora jako kontekst
+
+
 ![[Word2Vec learning.png]]
