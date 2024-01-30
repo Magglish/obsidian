@@ -16,3 +16,5 @@ Idea:
 ![[Word2Vec objective function.png]]
 
 ![[Word2Vec objective function 2.png]]
+
+![[Word2Vec prediction function.png]]
