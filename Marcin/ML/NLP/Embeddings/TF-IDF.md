@@ -8,7 +8,11 @@ $$TF(t,d) = \frac{\text{liczba słów t w dokumencie d}}{\text{liczba wszystkich
 
 Inverse Document Frequency - odwrotność z liczby dokumentów zawierających słowo. W praktyce IDF jest jeszcze scalowany logarytmicznie o podstawie 2.
 
-$$IDF(t) = \log{\frac{\text{liczba wszystkich dokumentów}}{\text{liczba dokumentów zawierających słowo $t$}}}$$
+$$IDF(t, D) = \log{\frac{\text{liczba wszystkich dokumentów D}}{\text{liczba dokumentów zawierających słowo $t$}}}$$
+
+TF-IDF:
+
+$$ TF-IDF(t, d, D) = TF(t,d) \cdot IDF(t, D)$$
 
 Intuicja:
 
