@@ -26,6 +26,12 @@ Przykłady:
 
 TF wysokie * IDF niskie = TF-IDF niskie
 
-2. 
+2. Dane słowo występuje rzadko w tekście, dużo dokumentów ma te słowo -> to może być jakieś normalne słowo, ale po prostu ten tekst tego nie zawierał
+
+TF niskie * IDF niskie = TF-IDF niskie
+
+2. Dane słowo występuje rzadko w tekście, mało dokumentów ma te słowo -> to może być jakieś normalne słowo, ale po prostu ten tekst tego nie zawierał
+
+TF niskie * IDF niskie = TF-IDF niskie
 
 #review
