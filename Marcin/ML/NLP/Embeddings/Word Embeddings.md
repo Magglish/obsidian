@@ -23,3 +23,5 @@ Podejścia:
 5. [[Continuous Skip Gram]]
 6. 
 7. [[Word2Vec]]
+
+#review

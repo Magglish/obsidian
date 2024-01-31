@@ -30,3 +30,5 @@ Idea:
 7. Wektory $v$ oraz $u$ dla każdego słowa są losowo zainicjowane. W wyniku optymalizacji gradientowe te wartości są zmieniane tak żeby minimalizowac objective function.
 
 ![[Word2Vec learning.png]]
+
+#review

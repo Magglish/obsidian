@@ -12,3 +12,5 @@ Składa się z 3 warstw:
 3. Output layer - to warstwa liniowa, najcześciej soft-max, która zwraca macierz prawdopodobieństwa dla wszystkich słów w kontekście. Predykcja to argmax z softmaxa dla poszczególnych pozycji w kontekście.
 
 Loss function to [[Cross-entropy]]
+
+#review

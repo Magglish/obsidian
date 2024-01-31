@@ -13,3 +13,6 @@ $$motel = \begin{bmatrix} 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 \end{bmatrix
 $$hotel = \begin{bmatrix} 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & 0 & 0 \end{bmatrix}$$
 
 Dla takich wektorów [[Cosine similarity|podobieństwo]] zawsze będzie wynosiło 0, pomimo tego, że `hotel` i `motel` są do siebie bardzo podobne
+
+
+#review
