@@ -4,11 +4,11 @@ Term Frequency - Inverted Document Frequency - liczy ważność danego słowa/cz
 
 Term-Frequency - czyli częstość występowania słowa w danym dokumencie. Im częściej dane słowo występuje w dokumencie, tym jest wazniejsze:
 
-$$TF(t,d)$ = \frac{\text{liczba słów t w dokumencie d}}{\text{liczba wszystkich słów w dokumencie d}}$$
+$$TF(t,d) = \frac{\text{liczba słów t w dokumencie d}}{\text{liczba wszystkich słów w dokumencie d}}$$
 
-Inverse Document Frequency - odwortność z liczby dokumentów zawierających słowo
+Inverse Document Frequency - odwrotność z liczby dokumentów zawierających słowo. W praktyce IDF jest jeszcze scalowany logarytmicznie o podstawie 2.
 
-$$IDF(t) = \frac{\text{liczba wszystkich dokumentów}}{\text{liczba dokumentów zawierających słowo $t$}}$$
+$$IDF(t) = \log{\frac{\text{liczba wszystkich dokumentów}}{\text{liczba dokumentów zawierających słowo $t$}}}$$
 
 
 #review
