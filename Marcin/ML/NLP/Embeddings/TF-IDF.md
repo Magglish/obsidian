@@ -10,5 +10,9 @@ Inverse Document Frequency - odwrotność z liczby dokumentów zawierających s�
 
 $$IDF(t) = \log{\frac{\text{liczba wszystkich dokumentów}}{\text{liczba dokumentów zawierających słowo $t$}}}$$
 
+Intuicja:
+
+1. Pomysł za Inverse Document Frequency jest taki, że jeżeli dane słowo występuje we wszystkich dokumentach, to jest po prostu mniej istotne (bo np. jest zwykłym przyimikiem jak "i", "ale", "ponieważ").
+2. Powiązanie TF z IDF daje następującą rzecz: otrzymujemy wagi danego słowa biorąc pod uwagę występowanie tego słowa w danym dokumencie, ale również bierzemy pod uwagę jego występowanie 
 
 #review
