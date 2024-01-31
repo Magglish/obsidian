@@ -6,6 +6,7 @@ Wady:
 1. [[One-hot word embeddings|Zakodowane zero-jedynkowo]]
 2. Nie ma kontekstu
 3. Nie zachowana kolejność słów
+4. Trzeba dobrze zaprojektować słownik (usunąć stop-wordsy, stemming/lematyzacja, usunięcie interpunkcji, )
 
 **Przykład:**
 
