@@ -6,10 +6,9 @@ Term-Frequency - czyli częstość występowania słowa w danym dokumencie. Im 
 
 $$TF(t,d)$ = \frac{\text{liczba słów t w dokumencie d}}{\text{liczba wszystkich słów w dokumencie d}}$$
 
-Document Frequency - liczba wystąpień słów we wszystkich dokumentach
+Document Frequency - liczba dokumentów zawierających słowo
 
-$$DF(t) = \text{liczba słów t we wszystkich dokumentach}$$
-
+$$DF(t) = \text{liczba dokumentów zawierających słowo $t$}$$
 
 Inverse Document Frequency - 
 
