@@ -6,7 +6,7 @@ Wady:
 1. [[One-hot word embeddings|Zakodowane zero-jedynkowo]]
 2. Nie ma kontekstu
 3. Nie zachowana kolejność słów
-4. Trzeba dobrze zaprojektować słownik (usunąć stop-wordsy, stemming/lematyzacja, usunięcie interpunkcji, naprawa błędów w słowach)
+4. Trzeba dobrze zaprojektować słownik (usunąć stop-wordsy, stemming/lematyzacja, usunięcie interpunkcji, naprawa błędów w słowach). Po to aby korpus był mniejszy i pozbawiony szumu. To się przekłąda na mniejszy wymiar wektorów oraz jakość używania takich wektorów jest lepsza bo jest odszumiona słowami zbędnymi, które za dużo informacni nie wnoszą.
 
 **Przykład:**
 
