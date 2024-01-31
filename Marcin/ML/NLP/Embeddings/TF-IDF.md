@@ -30,8 +30,12 @@ TF wysokie * IDF niskie = TF-IDF niskie
 
 TF niskie * IDF niskie = TF-IDF niskie
 
-2. Dane słowo występuje rzadko w tekście, mało dokumentów ma te słowo -> to może być jakieś normalne słowo, ale po prostu ten tekst tego nie zawierał
+3. Dane słowo występuje rzadko w tekście, mało dokumentów ma te słowo -> to może być jakieś normalne słowo, istotnie wnoszące cenną informację
 
-TF niskie * IDF niskie = TF-IDF niskie
+TF niskie * IDF wysokie = TF-IDF średnie
+
+4. Dane słowo występuje często w tekście, mało dokumentów ma te słowo -> to może być jakieś normalne słowo, istotnie wnoszące cenną informację
+
+TF wysokie * IDF wysokie = TF-IDF wysokie
 
 #review
