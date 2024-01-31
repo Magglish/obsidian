@@ -13,4 +13,4 @@ Składa się z 3 warstw:
 
 Loss function to [[Cross-entropy]]
 
-Zaletą C
+Zaletą CBOW wobec [[Bag of Words]] jest taka, że w CBOW brany pod uwagę jest kontekst wokół słowa. 
