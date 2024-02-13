@@ -1,6 +1,6 @@
 # Positional Embeddings
 
-Positional Embeddings mają za zadanie wstrzyknięcie inof
+Positional Embeddings mają za zadanie wstrzyknięcie informacji o pozycji danego słowa w tekście do embeddingów, które są generowane dla danych słów. Dzięki temu, w szczególności w [[Attention mechanism|mechanizmie atencji]], uzyskujemy lepsze wyniki
 
 Wyróżniamy dwa podejścia
 
