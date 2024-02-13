@@ -1,8 +1,8 @@
 # Byte Pair Encoding
 
-Byte Pair Encoding to jeden z algorytmów do tworzenia tokenów z tekstu. Idea polega na tym aby rozdzielić dane słowo na podsłowa. Jednakże nie wszystkie słowa są rozdzielane na podsłowa, a bardziej te rzadkie słowa. BPE stara się aby częste słowa były reprezentowane jako jeden token, natomiast rzadkie słowa były rozbijane na mniejszcze części. Dzięki temu problem słów OOV powinien nie występować
+Byte Pair Encoding to jeden z algorytmów do tworzenia tokenów z tekstu. Idea polega na tym aby rozdzielić dane słowo na podsłowa. Jednakże nie wszystkie słowa są rozdzielane na podsłowa, a bardziej te rzadkie słowa. BPE stara się aby częste słowa były reprezentowane jako jeden token, natomiast rzadkie słowa były rozbijane na mniejszcze części. Dzięki temu problem słów OOV powinien nie występować, ale istnieje prawdopodobieństwo, że takie słowa się znajdą, ale jest bardzo niskie - przez co w praktyce podczas stosowania BPE nie dodaje się już `<unk>` tokenu do słownika.
 
-
+![[BPE.png]]
 
 
 **Technicznie:**
