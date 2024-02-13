@@ -2,6 +2,4 @@
 
 Jeden z [[Positional Embeddings|embedingów pozycji tekstu]]. 
 
-Podejście zakłada dodanie informacji o tym "gdzie jest dane słowo w tekście":
-
-![[Absolute Positional Embedding.png]]
+Podejście zakłada dodanie informacji o tym "gdzie jest dane słowo w tekście"
