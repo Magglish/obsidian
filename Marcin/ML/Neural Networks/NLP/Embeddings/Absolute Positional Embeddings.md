@@ -2,4 +2,6 @@
 
 Jeden z [[Positional Embeddings|embedingów pozycji tekstu]]. 
 
-Podejście zakłada dodanie informacji o tym "gdzie jest dane słowo w tekście"
+Podejście zakłada dodanie informacji o tym "gdzie jest dane słowo w tekście". 
+
+Minusem tego podejścia jest to, że tekst który ostatecznie
