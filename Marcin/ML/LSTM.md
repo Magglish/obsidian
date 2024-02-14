@@ -4,5 +4,8 @@
 
 ![[LSTM.png]]
 
-1. Ma 4 warstwy/gate'y
+
+![[LSTM main idea.png]]
+
+Główna idea LSTM polega na tym, że stan komórki (*cell state*) jest odpowiednio modyfikowany w oparciu o 3 gate'y. Te gate albo dodają albo usuwają informację do cell state.
 
