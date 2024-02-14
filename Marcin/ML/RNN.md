@@ -6,6 +6,7 @@ Pozwala na przetwarzanie sekwencyjne oraz na zapamiętaniu poprzednich stanów
 
 Wady:
 1. Problem z [[Problem Long-Term Dependencies]]
+2. Problem z [[Exploding Gradients]] i [[Vanishing Gradient]]
 
 Lepsze:
 
