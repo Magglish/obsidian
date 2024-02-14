@@ -6,7 +6,11 @@ LSTM nie ma problemu z [[Vanishing Gradient]].
 
 ## Architektura
 
+![[LSTM 2.png]]
+
+
 ![[LSTM.png]]
+
 
 ## Główna idea
 
