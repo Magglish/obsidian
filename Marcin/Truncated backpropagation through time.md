@@ -1,5 +1,5 @@
 # Truncated Backpropagation through time
 
-Algorytm [[Backpropagation|wstecznej propagacji błędów]] używany w sieciach [[RNN]]. Zakładamy, że przepuszczamy gradient przez wszystkie iteracje sieci RNN:
+Algorytm [[Backpropagation|wstecznej propagacji błędów]] używany w sieciach [[RNN]]. Zakładamy, że przepuszczamy gradient przez wszystkie iteracje sieci RNN. W tej wersji jednak opieramy się na częściach tekstu, a nie na całości jak w [[Backpropagation through time]].
 
-![[Pasted image 20240214132024.png]]
+![[Truncated backpropagation through time.png]]
