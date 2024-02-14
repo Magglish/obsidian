@@ -12,17 +12,19 @@
 
 Główna idea LSTM polega na tym, że stan komórki (*cell state*) jest odpowiednio modyfikowany w oparciu o 3 gate'y. Te gate albo:
 
-określają czy informacja ma przejść przez komórke czy też nie (bramka sigmoidalna) 
+1. określają czy informacja ma przejść przez komórke czy też nie (bramka sigmoidalna/bramka input) 
 
-![[Pasted image 20240214111646.png]]
+![[LSTM sigmoid gate.png]]
 
 
-albo dodają albo usuwają informację do *stanu komórki* (bramka tangensu-hiperbolicznego, albo nawet 
+2. dodają do albo odejmują informację  *stanu komórki* (bramka tangensu-hiperbolicznego, albo nawet 
 
-![[Pasted image 20240214111704.png]]
+![[LSTM tangenshiperboliczny gate.png]]
 
 sumarycznie te dwie operacje się skłądają
 
-![[Pasted image 20240214111720.png]]
+![[LSTM zlozenie operacji.png]]
 
-Opróćz tego wychodzi też stan ukryty z informacją 
+Opróćz tego wychodzi też stan ukryty z informacjami do tej pory
+
+![[LSTM wartstwa ukryta.png]]
