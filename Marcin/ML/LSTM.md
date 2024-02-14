@@ -1,5 +1,8 @@
 # Long-Short Term Memory
 
-[[RNN|Sieć rekurencyjna]], która ma 4 wars
+[[RNN|Sieć rekurencyjna]], której celem jest zapamiętanie długich zależności, aby rozwiązać problem [[Problem Long-Term Dependencies|long-term dependency]].
 
-1. Nie występuje [[Problem Long-Term Dependencies]]
+![[LSTM.png]]
+
+1. Ma 4 warstwy/gate'y
+
