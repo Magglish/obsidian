@@ -1,3 +1,13 @@
+# Rekurencyjna Sieć Neuronowa
 
+Pozwala na przetwarzanie sekwencyjne oraz na zapamiętaniu poprzednich stanów
 
-Problem z [[Problem Long-Term Dependencies]]
+![[RNN.png]]
+
+Wady:
+1. Problem z [[Problem Long-Term Dependencies]]
+
+Lepsze:
+
+1. [[LSTM]]
+2. [[GRU]]
