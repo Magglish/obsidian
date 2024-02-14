@@ -4,7 +4,7 @@ Pozwala na przetwarzanie sekwencyjne oraz na zapamiętaniu poprzednich stanów
 
 ![[RNN.png]]
 
-Uczone są poprzez stosowanie
+Uczone są poprzez stosowanie [[Backpropagation through time]], ale w praktyce używana jest wersja [[Truncated backpropagation through time|truncated]].
 
 Wady:
 1. Problem z [[Problem Long-Term Dependencies]]
