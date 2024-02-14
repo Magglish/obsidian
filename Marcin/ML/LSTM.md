@@ -2,7 +2,9 @@
 
 [[RNN|Sieć rekurencyjna]], której celem jest zapamiętanie długich zależności, aby rozwiązać problem [[Problem Long-Term Dependencies|long-term dependency]]. 
 
-LSTM ma znacznie mniejsze pr z [[Vanishing Gradient]] i [[Exploding Gradients]], dlatego, że algorytm wstecznej propagacji działa inaczej -> przechodzi przez forget gate, która ma różne wartości, przez które jest przemanżany gradient (raz większą od 1, raz mniejszą od 1), a nie cały czas mniejszą od 1 / cały czas większą od 1, co w efekcie w końcu prowadzi gradient do 0 / do nieskończoności
+LSTM ma znacznie mniejsze prawdopodobieńśtwo problemu z [[Vanishing Gradient]] i [[Exploding Gradients]], dlatego, że algorytm wstecznej propagacji działa inaczej -> przechodzi przez forget gate, która ma różne wartości, przez które jest przemanżany gradient (raz większą od 1, raz mniejszą od 1), a nie cały czas mniejszą od 1 / cały czas większą od 1, co w efekcie w końcu prowadzi gradient do 0 / do nieskończoności.
+
+Ale może się zdarzyć case, że np. wszystkie forget gate mają wartość mniejszą niz 1. Dlatego w praktyce aby tego uniknąc stosuje się podejście aby macierz bias zainicjować tak żeby miała wartości pozytywne, wtedy wartości forget gate będą bliżej 1, więc wtedy nie powinno być problemu z exploding i vanishing gradients. 
 
 ## Architektura
 
