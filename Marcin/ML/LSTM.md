@@ -1,6 +1,8 @@
 # Long-Short Term Memory
 
-[[RNN|Sieć rekurencyjna]], której celem jest zapamiętanie długich zależności, aby rozwiązać problem [[Problem Long-Term Dependencies|long-term dependency]].
+[[RNN|Sieć rekurencyjna]], której celem jest zapamiętanie długich zależności, aby rozwiązać problem [[Problem Long-Term Dependencies|long-term dependency]]. 
+
+LSTM nie ma problemu z [[Vanishing Gradient]].
 
 ## Architektura
 
