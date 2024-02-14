@@ -17,11 +17,11 @@ Główna idea LSTM polega na tym, że stan komórki (*cell state*) jest odpowied
 ![[LSTM sigmoid gate.png]]
 
 
-2. dodają do albo odejmują informację  *stanu komórki* (bramka tangensu-hiperbolicznego, albo nawet 
+2. dodają albo odejmują informację do/od *stanu komórki* (bramka tangensu-hiperbolicznego/bramka update), albo nawet 
 
 ![[LSTM tangenshiperboliczny gate.png]]
 
-sumarycznie te dwie operacje się skłądają
+Na końcu sumarycznie te dwie operacje się skłądają (bramka output)
 
 ![[LSTM zlozenie operacji.png]]
 
