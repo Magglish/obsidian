@@ -2,7 +2,7 @@
 
 [[RNN|Sieć rekurencyjna]], której celem jest zapamiętanie długich zależności, aby rozwiązać problem [[Problem Long-Term Dependencies|long-term dependency]]. 
 
-LSTM nie ma problemu z [[Vanishing Gradient]].
+LSTM nie ma problemu z [[Vanishing Gradient]], dlatego, że algorytm wstecznej propagacji działa inaczej -> przechodzi przez forget gate, która ma różne wartości, przez które jest przemanżany gradient (raz większą od 1, raz mniejszą od 1), a nie cały czas mniejszą od 1, co w efekcie w końcu prowadzi gradient do 0
 
 ## Architektura
 
