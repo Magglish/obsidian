@@ -16,3 +16,7 @@ Jednakże trzeba odpowiednio zbiór wyczyścić przed tym, np.
 1. Wyrzucenie stop wordsów
 2. Tylko te, które mają jakąś minimalną liczbę występowania (wyrzucenie rzadkich słów)
 3. Logarytm z liczebności (wtedy rzadkie słowa mają większe wartości)
+
+Dodatkowe rzeczy usprawniające:
+1. Ramped windows, tzn. większe wartości dla słów występujących bliżej danego słowa
+2. Zamiast liczebności np. jakaś inna metryka (korelacja?)
