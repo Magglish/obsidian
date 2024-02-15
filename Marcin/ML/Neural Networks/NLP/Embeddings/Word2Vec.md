@@ -5,7 +5,7 @@ Word2Vec to sposób na stworzenie reprezentacji numerycznej słów.
 
 Algorytmy:
 1. [[Continuous Bag of Words]]
-2. [[Continuous Skip Gram]]
+2. [[Skip Gram]]
 
 
 Idea:

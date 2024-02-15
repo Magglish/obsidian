@@ -20,7 +20,7 @@ Podejścia:
 2. [[Bag of Words]]
 3. [[TF-IDF]]
 4. [[Continuous Bag of Words]]
-5. [[Continuous Skip Gram]]
+5. [[Skip Gram]]
 6. 
 7. [[Word2Vec]]
 

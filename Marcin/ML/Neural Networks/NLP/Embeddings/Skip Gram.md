@@ -1,4 +1,4 @@
-# Continuous Skip Gram
+# Skip Gram
 
 ![[Skip gram.png]]
 
