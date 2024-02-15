@@ -8,4 +8,6 @@ Idea:
 
 ![[GloVe crucial idea.png]]
 
+![[Glove crucial idea 2.png]]
 
+![[GloVe uczenie.png]]
