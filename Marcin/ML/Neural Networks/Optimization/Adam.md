@@ -1,5 +1,7 @@
 # ADAM
 
+![[Adam wzór.png]]
+
 Adaptive Moment Estimation - łączy idee z [[RMSProp]] i [[Momentum]]. 
 
 I liczy on learning ratey dla każdego parametru oddzielnie.
