@@ -17,6 +17,8 @@ Zalety:
 
 Wady:
 1. Wydłuża proces uczenia, bo mamy dodatkowe wyliczenia
+2. Nie działa na małym batchu
+3. Nie działa na batchach, które mają różne długości (przykład w NLP) - wtedy można użyć [[Layer Normalization]] albo [[Group Normalization]]
 
 **Ważne:**
 
