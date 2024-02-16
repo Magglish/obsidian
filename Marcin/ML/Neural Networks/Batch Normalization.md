@@ -1,5 +1,7 @@
 # Batch Normalization
 
+![[Batch Normalization Example.png]]
+
 ![[Batch Normalization in a nutshell.png]]
 
 Sposób na rozwiązanie problemów podczas [[Weight Initialization|inicjalizacji wag]] - chcielbyśmy żeby wartości aktywacji w neuronach były zcentrowane wokół zera, aby uniknąć problemów z ich uczeniem w wyniku [[Weight Initialization|błędnej inicjalizacji wag]] powodującej [[Vanishing Gradient]].
