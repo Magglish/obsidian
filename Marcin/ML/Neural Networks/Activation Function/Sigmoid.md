@@ -4,3 +4,6 @@
 
 Wartość wyjściowa w zakresie [0, 1], przez co interpretowana jako "fire rate" - jak mocno dany neuron ma "działać".
 
+Problemy:
+
+1. Funkcja sigmoidalna może być powodem [[Vanishing Gradient]]
