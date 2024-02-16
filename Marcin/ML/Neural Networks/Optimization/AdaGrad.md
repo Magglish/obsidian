@@ -5,5 +5,5 @@ Jest to [[Stochastic Gradient Descent]] tylko, że akumuluje on gradienty podnie
 
 Wady:
 
-1. Jeśli długo uczym
+1. Jeśli długo uczymy nasz model, to te akumulacje w końcu będą zbiegać do zera i proces uczenia się zakończy. Rozwiązanie -> [[RMSProp]]
 
