@@ -2,4 +2,4 @@
 
 To samo co [[Leaky ReLU]], ale zamiast stałej wartości np. $0.01$, wprowadzamy zmienną $\alpha$, która jest optymalizowana w trakcie [[Backpropagation|wstecznej propagacji błędów.]]
 
-![[Pasted image 20240216101749.png]]
+![[Parametric ReLU Activation Function.png]]
