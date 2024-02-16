@@ -17,6 +17,10 @@ Widać, że odchylenie spada w dół, dlatego, że [oryginalny paper o Xavier](h
 
 Problemy:
 
-1. Nie działa z [[ReLU]]
+1. Nie działa z [[ReLU]], bo ReLU powoduje to, że połowa gradientów jest wyzerowana i troche tak jakbyśmy rozkład w wagach "ucieli" w połowie
 
 ![[Xavier nie działa z ReLU.png]]
+
+Rozwiązanie, żeby uwzględnić podzielnośc na 2 we wzrze
+
+
