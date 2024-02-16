@@ -13,8 +13,7 @@ Sposób na rozwiązanie problemów podczas [[Weight Initialization|inicjalizacji
 Zalety:
 1. Pozwala na większe [[Learning Rate]]
 2. Redukuje problem z zależnią uczenia sieci od [[Weight Initialization|inicjalizacji wag]]
-3. Działa troche jak regularyzacja, pytanie czy warto używać z [[Dropout]]
-4. 
+3. Działa troche jak regularyzacja (pytanie czy warto używać z [[Dropout]]) bo na dany przypadek $x$ wpływają również statystyki z jego grupy, więc ciężej danej sieci się nauczyć dopasowania do konkretnego przypadku 
 
 https://www.reddit.com/r/datascience/comments/1aihddg/visualizing_what_batch_normalization_is_and_its/
 
