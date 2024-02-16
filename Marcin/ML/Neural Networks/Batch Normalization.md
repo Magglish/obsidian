@@ -4,11 +4,13 @@
 
 Sposób na rozwiązanie problemów podczas [[Weight Initialization|inicjalizacji wag]] - chcielbyśmy żeby wartości aktywacji w neuronach były zcentrowane wokół zera, aby uniknąć problemów z ich uczeniem w wyniku [[Weight Initialization|błędnej inicjalizacji wag]] powodującej [[Vanishing Gradient]].
 
-![[Batch Normalization compute.png]]
-
-![[Pasted image 20240216112939.png]]
+![[Batch Normalization compute 1.png]]
 
 **Batch Normalization jest umieszczane po wartswie liniowej lub konwolucyjnej ale jeszcze przed funkcjami aktywacji!**
+
+Zalety:
+1. Pozwala na większe [[Learning Rate]]
+2. Redukuje p
 
 https://www.reddit.com/r/datascience/comments/1aihddg/visualizing_what_batch_normalization_is_and_its/
 
