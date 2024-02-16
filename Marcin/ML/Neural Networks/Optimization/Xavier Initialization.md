@@ -21,4 +21,4 @@ Problemy:
 
 ![[Xavier nie działa z ReLU.png]]
 
-Rozwiązanie - użycie [[He]]
+Rozwiązanie - użycie [[Kaiming He initialization]]
