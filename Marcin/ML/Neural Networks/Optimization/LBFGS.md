@@ -1,6 +1,6 @@
 # LBFGS
 
-Limited Broyden–Fletcher–Goldfarb–Shanno algorithm 
+Limited Broyden–Fletcher–Goldfarb–Shanno algorithm - algorytm do optymalizacji.
 
 Uzywa macierzy [[Hessian Matrix]], a nie [[Jacobian Matrix]]
 
