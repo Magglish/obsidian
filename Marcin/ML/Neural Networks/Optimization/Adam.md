@@ -2,6 +2,8 @@
 
 ![[Adam wzór.png]]
 
+**Adam jest obecnie najleszym wyborem jeśli chodzi o optymalizator.**
+
 Adaptive Moment Estimation - łączy idee z [[RMSProp]] i [[Momentum]]. 
 
 I liczy on learning ratey dla każdego parametru oddzielnie.
