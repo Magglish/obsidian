@@ -8,4 +8,4 @@ Jak nie inicjować warstw:
 
 Odpowiednie inicjalizacje:
 
-1. [[Xavier Initialization]]
+1. [[Xavier Initialization]], ale lepsza [[Kaiming He initialization]]
