@@ -1,6 +1,6 @@
 # Xavier Initialization
 
-Jedna ze sposób na [[Weight Initialization"inicjalizacje wag]].
+Jedna ze sposób na [[Weight Initialization|inicjalizacje wag]].
 
 ![[Xavier Initialization.png]]
 
@@ -13,6 +13,10 @@ Zdjęcie na dole przedstawia wykresy średniej i odchylenia (wykresy liniowe), a
 
 ![[Xavier Initialization w warstwach.png]]
 
-Widać, że odchylenie spada w dół, dlatego, że [oryginalny paper o Xavier](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) zakładaj 
+Widać, że odchylenie spada w dół, dlatego, że [oryginalny paper o Xavier](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) zakładał funkcje liniowe, a tutaj na wykresie są funkcje tangensa hiperbolicznego, przez co odchylenie spada, ale nie jest tak drastyczne jakbyśmy zastosowali podstawowe podejścia jak inicjalizacja randomowymi losowymi liczbami, czy zawsze stałą wartością 
 
+Problemy:
 
+1. Nie działa z [[ReLU]]
+
+![[Xavier nie działa z ReLU.png]]
