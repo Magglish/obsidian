@@ -2,7 +2,7 @@
 
 Losowo ustaw neurony na 0 podczas uczenia.
 
-Często używany jest prawdopodobieństwo = 50%, ale można go zmieniać w zależności od wielkości warstwy - im większa warstwa pod względem ilości neuronów, 
+Często używany jest prawdopodobieństwo = 50%, ale można go zmieniać w zależności od wielkości warstwy - im większa warstwa pod względem ilości neuronów, tym prawdopodobieństwo może być większe. 
 
 Intuicja:
 
@@ -11,5 +11,6 @@ Intuicja:
 3. Dropout uczy wiele różnych modeli (bo za każdym razem odrzucamy różne neurone), które sharują ze sobą wiedzę
 
 **Bardzo ważne**
+W trakcie inferencji/test time **wyłączamy dropout** i przepuszczamy dane normalnie przez całą sieć.
 
  
