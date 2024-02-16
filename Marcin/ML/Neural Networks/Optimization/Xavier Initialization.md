@@ -21,6 +21,4 @@ Problemy:
 
 ![[Xavier nie działa z ReLU.png]]
 
-Rozwiązanie, żeby uwzględnić podzielnośc na 2 we wzrze
-
-
+Rozwiązanie - użycie [[He]]
