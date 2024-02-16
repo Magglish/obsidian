@@ -2,11 +2,14 @@
 
 Losowo ustaw neurony na 0 podczas uczenia.
 
-Często używany jest prawdopodobieństwo = 50%
+Często używany jest prawdopodobieństwo = 50%, ale można go zmieniać w zależności od wielkości warstwy - im większa warstwa pod względem ilości neuronów, 
 
 Intuicja:
 
 1. Mamy mniejszy model, więc mniejsza szansa na przeuczenie
 2. Każdy neuron musi nauczyć się działać bez innych, czyli złapać bardziej "generalną wiedzę", a nie specyficzną.
 3. Dropout uczy wiele różnych modeli (bo za każdym razem odrzucamy różne neurone), które sharują ze sobą wiedzę
+
+**Bardzo ważne**
+
  
