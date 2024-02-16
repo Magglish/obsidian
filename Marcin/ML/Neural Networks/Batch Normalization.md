@@ -15,6 +15,9 @@ Zalety:
 2. Redukuje problem z zależnią uczenia sieci od [[Weight Initialization|inicjalizacji wag]]
 3. Działa troche jak regularyzacja (pytanie czy warto używać z [[Dropout]]) bo na dany przypadek $x$ wpływają również statystyki z jego grupy, więc ciężej danej sieci się nauczyć dopasowania do konkretnego przypadku 
 
+Wady:
+1. Wydłuża proces uczenia, bo mamy dodatkowe wyliczenia
+
 **Ważne:**
 
 Podczas inferencji (*test time*), nie liczymy batch norma dla batchów testowych, a używamy globalnej średniej i wariancji, która zostałą policzona w trakcie uczenia jako średnia z procesu uczenia (najczęściej za pomocą moving average).
