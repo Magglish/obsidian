@@ -11,6 +11,8 @@ Intuicja:
 3. Dropout uczy wiele różnych modeli (bo za każdym razem odrzucamy różne neurone), które sharują ze sobą wiedzę
 
 **Bardzo ważne**
-W trakcie inferencji/test time **wyłączamy dropout** i przepuszczamy dane normalnie przez całą sieć.
+W trakcie inferencji/test time **wyłączamy dropout** i przepuszczamy dane normalnie przez całą sieć. Ale ten sam przypadek w trakcie treningu będzie inaczej oceniony niż podczas inferencji, zatem trzeba uwzględnić ten fakt:
+
+![[Droput w trakcie inferencji.png]]
 
  
