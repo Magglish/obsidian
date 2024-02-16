@@ -15,4 +15,6 @@ W trakcie inferencji/test time **wyłączamy dropout** i przepuszczamy dane norm
 
 ![[Droput w trakcie inferencji.png]]
 
+Alternatywa to *Inverted Dropout* żeby w trakcie treningu scalować wagi, a nie w trakcie predykcji - tak na przykład jest to zrobione w PyTorchu.
+
  
