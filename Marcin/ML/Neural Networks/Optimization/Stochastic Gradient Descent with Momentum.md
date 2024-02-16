@@ -2,7 +2,7 @@
 
 Algorytm [[Stochastic Gradient Descent|SGD]] z momentum.
 
-![[Pasted image 20240216130716.png]]
+![[SGD with Momentum wzor.png]]
 
 Momentum to inaczej wartośći poprzednich gradientów, aby nadać większego pedu optymalizacji. Momentum można uznać też jako przyśpieszenie.
 
@@ -17,3 +17,5 @@ Intuicja:
 Zalety:
 
 1. Momentum może pozwolić na wyjście z lokalnego optimum dzięki czemu pójdziemy dalej z optymalizacją
+
+Lepsza wersja [[Stochastic Gradient Descent with Nesterov Momentum]]
