@@ -8,7 +8,7 @@ Sposób na rozwiązanie problemów podczas [[Weight Initialization|inicjalizacji
 
 ![[Batch Normalization compute 2.png]]
 
-**Batch Normalization jest umieszczane po wartswie liniowej lub konwolucyjnej ale jeszcze przed funkcjami aktywacji!**
+Batch Normalization jest umieszczane po wartswie liniowej lub konwolucyjnej ale jeszcze przed funkcjami aktywacji? (A[Dyskusyjne|https://www.reddit.com/r/MachineLearning/comments/67gonq/d_batch_normalization_before_or_after_relu/]
 
 Zalety:
 1. Pozwala na większe [[Learning Rate]]
