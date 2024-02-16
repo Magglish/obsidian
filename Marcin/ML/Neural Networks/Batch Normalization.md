@@ -6,11 +6,13 @@ Sposób na rozwiązanie problemów podczas [[Weight Initialization|inicjalizacji
 
 ![[Batch Normalization compute 1.png]]
 
+![[Batc]]
+
 **Batch Normalization jest umieszczane po wartswie liniowej lub konwolucyjnej ale jeszcze przed funkcjami aktywacji!**
 
 Zalety:
 1. Pozwala na większe [[Learning Rate]]
-2. Redukuje p
+2. Redukuje problem z zależnią uczenia sieci od [[inicjalizacji wag
 
 https://www.reddit.com/r/datascience/comments/1aihddg/visualizing_what_batch_normalization_is_and_its/
 
