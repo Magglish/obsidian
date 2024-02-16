@@ -1,6 +1,8 @@
 # Learning Rate Scheduling
 
-Scalowanie [[Learning Rate]] w zależności od etapu uczenia, przewanize używane z [[Stochastic Gradient Descent]], [[Stochastic Gradient Descent with Momentum]], [[Neste]]
+Scalowanie [[Learning Rate]] w zależności od etapu uczenia.
+
+Przeważnie używane z [[Stochastic Gradient Descent]], [[Stochastic Gradient Descent with Momentum]], [[Nesterov Accelerated Gradient]], rzadko z [[Adam]] czy [[AdamW]], bo w nich learning rate jest cały czas zmieniany
 
 Np.:
 
