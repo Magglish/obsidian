@@ -1,5 +1,7 @@
 # LBFGS
 
+Limited Broyden–Fletcher–Goldfarb–Shanno algorithm 
+
 Uzywa macierzy [[Hessian Matrix]], a nie [[Jacobian Matrix]]
 
 Użycie:
