@@ -18,4 +18,4 @@ Zalety:
 
 1. Momentum może pozwolić na wyjście z lokalnego optimum dzięki czemu pójdziemy dalej z optymalizacją
 
-Lepsza wersja [[Stochastic Gradient Descent with Nesterov Momentum]]
+Lepsza wersja [[Nesterov Accelerated Gradient]]

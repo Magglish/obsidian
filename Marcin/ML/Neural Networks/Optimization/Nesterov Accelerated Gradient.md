@@ -1,4 +1,4 @@
-# Stochastic Gradient Descent with Nesterov Momentum
+# Nesterov Accelerated Gradient
 
 Ulepszenie [[Stochastic Gradient Descent with Momentum]]
 
