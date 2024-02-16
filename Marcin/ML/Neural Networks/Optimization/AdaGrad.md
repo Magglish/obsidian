@@ -1,3 +1,9 @@
 # AdaGrad
 
-Jest to [[Stochastic Gradient Descent]] tylko, że akumulu
+Jest to [[Stochastic Gradient Descent]] tylko, że akumuluje on gradienty podniesione do kwadratu podczas procesu uczenia i następnie wykorzystuje je aby wyznaczyć lepszy krok w optymalizacji.
+
+
+Wady:
+
+1. Jeśli długo uczym
+
