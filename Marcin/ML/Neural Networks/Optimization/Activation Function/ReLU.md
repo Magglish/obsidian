@@ -11,6 +11,5 @@ Gradient jest albo 0 (gdy $x < 0), albo 1 (gdy x > 0), zatem w [[Backpropagation
 Wady:
 
 1. Niestety nie jest zero-centered, problem jak w [[Sigmoid]]
-2. Gradient $=0$ gdy $x < 0$. Jest to problematyczne, podczas inicjalizacji wag w neuronie który ma w sobie ReLU, jeżeli będziemi mieli pecha to możemy trafić na tzw. Dead ReLU, czyli nigdy sie nie aktywnie, czyli nigdy sie nie zaupdatuje - rozwiązaniem tego jest zainicjowanie neurononów z ReLU z delikatnie pozytywnym biasem (np. 0.01), ale jest to kontrowersyjne i nie zawsze działa. Rozwiązaniem może być też zastosowanie [[Leaky ReLU]]. Trzeba też uważać ze zbyt
-   Można ten problem zidentyfikować i np. przepuścić cały zbiór uczący przez sieć i sprawdzić wartości aktywacji neuronów z ReLU dla każdego przypadku (np. narysować rozkłąd) i jeżeli on jest całkowicie 0 to oznacza to, że mamy martwe neurony.
-1. Nie ma gradientu dla $x = 0$ - rozwiązane w bibliotekach do Deep Learningu, że jeśli $x=0$ to gradient $=0$
+2. Problem z [[Dead ReLU]]
+3. Nie ma gradientu dla $x = 0$ - rozwiązane w bibliotekach do Deep Learningu, że jeśli $x=0$ to gradient $=0$
