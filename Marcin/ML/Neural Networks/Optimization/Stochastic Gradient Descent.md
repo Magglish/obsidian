@@ -4,4 +4,7 @@ Zamiast używania całego zbioru do przepuszczenia przez sieć i policzenia grad
 
 Problemy:
 
-1. 
+1. Wolno zbiega - lepiej użyć [[Stochastic Gradient Descent with Momentum]]
+
+![[SGD problem.png]]
+
