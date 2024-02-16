@@ -7,7 +7,7 @@ Problem zanikającego gradientu występuje, gdy każdy kolejny update w wagach w
 
 Rozwiązania:
 
-1. Inne funkcje aktywacji np. [[ReLU]]
+1. Inne funkcje aktywacji np. [[ML/ReLU]]
 2. Inna architektura np. w przypadku [[RNN]] lepiej użyć [[LSTM]]
 3. [[Residual networks]] - które dodają do siebie wartości z poprzednich warstw
 4. [[Batch Normalization]] - zmniejszenie wartości do przedziału, w którym np. te pochodne już są znacznie większe 

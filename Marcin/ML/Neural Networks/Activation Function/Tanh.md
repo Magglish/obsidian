@@ -1,0 +1,3 @@
+# Tanh
+
+Tangenshiperboliczny

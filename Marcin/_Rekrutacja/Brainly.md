@@ -14,7 +14,7 @@ Sieci
 
 1. [[Stochastic Gradient Descent]], [[Momentum]], [[RMSProp]]
 2. [[Adam]], [[AdamW]]
-3. [[Funkcja aktywacji]], [[ReLU]], [[GeLU]], [[Leaky ReLU]]
+3. [[Funkcja aktywacji]], [[ML/ReLU]], [[GeLU]], [[Leaky ReLU]]
 4. [[Funkcja straty]]
 5. [[RNN]], [[GRU]], [[LSTM]], [[LSTM vs GRU vs RNN]]
 6. [[CNN]]
