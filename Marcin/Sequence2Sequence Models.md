@@ -9,3 +9,8 @@ Używane najczęściej w problematyce tłumaczenia maszynowego, ale również w 
 ![[Training Seq2Seq 1.png]]
 
 ![[Training Seq2Seq 2.png]]
+
+Podczas generowania predykcji można zastosować:
+
+1. [[Greedy Decoding]]
+2. [[Exhaustive Search Decoding]]
