@@ -2,7 +2,7 @@
 
 Scalowanie [[Learning Rate]] w zależności od etapu uczenia.
 
-Przeważnie używane z [[Stochastic Gradient Descent]], [[Stochastic Gradient Descent with Momentum]], [[Nesterov Accelerated Gradient]], rzadko z [[Adam]] czy [[AdamW]] (do weryfikacji)
+Przeważnie używane z [[Stochastic Gradient Descent]], [[Stochastic Gradient Descent with Momentum]], [[Nesterov Accelerated Gradient]], rzadziej z [[Adam]] czy [[AdamW]].
 
 Np.:
 
