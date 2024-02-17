@@ -10,9 +10,7 @@ Ale może się zdarzyć case, że np. wszystkie forget gate mają wartość mnie
 
 ![[LSTM 2.png]]
 
-
 ![[LSTM.png]]
-
 
 ## Główna idea
 
