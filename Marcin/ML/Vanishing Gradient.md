@@ -11,3 +11,4 @@ Rozwiązania:
 2. Inna architektura np. w przypadku [[RNN]] lepiej użyć [[LSTM]]
 3. [[Residual networks]] - które dodają do siebie wartości z poprzednich warstw
 4. [[Batch Normalization]] - zmniejszenie wartości do przedziału, w którym np. te pochodne już są znacznie większe 
+5. [[Dense Networks]]
