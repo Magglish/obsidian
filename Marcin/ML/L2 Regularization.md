@@ -6,3 +6,4 @@ Regularzyacja używana do tego aby przeciwdziałać przeuczeniu kiedy mamy bardz
 
 Idea jest aby do funkcji kosztu dodać dodatkowy czynnik, dla każdego parametru w modelu.
 
+Im $\lambda$ większa, tym regularyzacja większa.
