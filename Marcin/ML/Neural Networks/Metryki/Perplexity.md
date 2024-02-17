@@ -9,17 +9,10 @@ Mając $t$ słów w danym tekście, który podaliśmy do sieci, jakie jest prawd
 Intuicja: Im większe są prawdopodobieństwa zwracane przez model (czyli model jest bardziej pewny) dla każdego $t+1$ tym perplexity jest mniejsze.
 
 Przykład: dla zdania o 5 słowach
+1. Różne prawdopodobieństwa = od 0.5 do 0.1 -> perplexity = 3.83
+2. Wysokie prawdopodobieństwa = 0.9 -> perplexity = 1.11
+3. Niskie prawdopodobieństwa = 0.1 -> perplexity = 10
 
-Różne prawdopodobieństwa = od 0.5 do 0.1
-$$\frac{1}{0.5 * 0.4 * 0.3 * 0.2 * 0.1}^{1/5} = 3.83$$
-
-Wysokie prawdopodobieństwa = 0.9
-$$\frac{1}{0.9 * 0.9 * 0.3 * 0.2 * 0.1}^{1/5} = 3.83$$
-
-Niskie prawdopodobieństwa = 0.1
-$$\frac{1}{0.5 * 0.4 * 0.3 * 0.2 * 0.1}^{1/5} = 3.83$$
-
-
-Inna interpretacja
+Inna interpretacja:
 
 Perplexity = 0.53 oznacza, np. że 
