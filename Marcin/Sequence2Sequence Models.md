@@ -2,6 +2,6 @@
 
 Modele Seq2Seq to domyślnie dwie [[RNN|sieci rekurencyjne]] - jedna zakoduje zdanie, drua odkoduje zdanie.
 
-Używane najczęściej w problematyce tłumaczenia maszynowego, ale również w wygenerowaniu podsumowania, dialogu, parsowaniu, 
+Używane najczęściej w problematyce tłumaczenia maszynowego, ale również w wygenerowaniu podsumowania, dialogu, parsowaniu, code generation
 
 ![[Seq2Seq architektura.png]]
