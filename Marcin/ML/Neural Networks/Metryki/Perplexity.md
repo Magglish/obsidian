@@ -12,7 +12,3 @@ Przykład: dla zdania o 5 słowach
 1. Różne prawdopodobieństwa = od 0.5 do 0.1 -> perplexity = 3.83
 2. Wysokie prawdopodobieństwa = 0.9 -> perplexity = 1.11
 3. Niskie prawdopodobieństwa = 0.1 -> perplexity = 10
-
-Inna interpretacja:
-
-Perplexity = 0.53 oznacza, np. że 
