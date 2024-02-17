@@ -4,4 +4,6 @@ Metoda używana w modelach [[Sequence2Sequence Models]] podczas generowania pred
 
 Przeważnie $k$ w zakresie od 5 do 10
 
-![[Pasted image 20240217125358.png]]
+![[Beam Search Decoding idea.png]]
+
+![[Beam Search Decoding example 1.png]]
