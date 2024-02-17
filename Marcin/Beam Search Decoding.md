@@ -22,3 +22,4 @@ Kryterium stopu w Beam Search:
 
 ![[Beam Search Decoding stopping criterion.png]]
 
+![[Beam Search Decoding fixing problems.png]]
