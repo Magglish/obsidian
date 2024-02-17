@@ -14,3 +14,4 @@ Podczas generowania predykcji można zastosować:
 
 1. [[Greedy Decoding]]
 2. [[Exhaustive Search Decoding]]
+3. [[Beam Search Decoding]]
