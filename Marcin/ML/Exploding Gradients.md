@@ -7,4 +7,5 @@ Podczas wstecznej propagacji mnożymy gradienty odpowiednio przez macierze i w k
 Rozwiazanie:
 
 1. [[Clipping gradients]]
+2. [[Residual networks]] - które dodają do siebie wartości z poprzednich warstw
 

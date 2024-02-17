@@ -6,6 +6,8 @@ LSTM ma znacznie mniejsze prawdopodobieńśtwo problemu z [[Vanishing Gradient]]
 
 Ale może się zdarzyć case, że np. wszystkie forget gate mają wartość mniejszą niz 1. Dlatego w praktyce aby tego uniknąc stosuje się podejście aby macierz bias zainicjować tak żeby miała wartości pozytywne, wtedy wartości forget gate będą bliżej 1, więc wtedy nie powinno być problemu z exploding i vanishing gradients. 
 
+![[LSTM Solving Vanishing Gradient problem.png]]
+
 ## Architektura
 
 ![[LSTM 2.png]]
