@@ -8,5 +8,5 @@ Ważne:
 
 1. Multilayer RNN lepszy niż pojedynczy RNN
 2. W tłumaczeniu maszynowym w modelach [[Sequence2Sequence Models]]: Encoder lepiej żeby miał 2 warstwy, a Decoder 4 warstwy.
-3. Dla większych sieci
+3. Dla większych sieci multilayer RNN musimy zastosować podejście z [[Dense Networks]] (dense connection) lub z [[Residual networks]] lub [[Highway Networks]] (skip connection)
 
