@@ -15,3 +15,7 @@ Podczas generowania predykcji można zastosować:
 1. [[Greedy Decoding]]
 2. [[Exhaustive Search Decoding]]
 3. [[Beam Search Decoding]]
+
+Problemy z Sequence2Sequence:
+
+![[Sequence2Sequence Models Problems.png]]
