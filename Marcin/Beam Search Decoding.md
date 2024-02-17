@@ -17,3 +17,8 @@ Przeważnie $k$ w zakresie od 5 do 10
 ![[Beam Search Decoding example 5.png]]
 
 ![[Beam Search Decoding example 6.png]]
+
+Kryterium stopu w Beam Search:
+
+![[Beam Search Decoding stopping criterion.png]]
+

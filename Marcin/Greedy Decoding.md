@@ -4,3 +4,5 @@ Metoda używana w modelach [[Sequence2Sequence Models]] podczas generowania pred
 
 Wady:
 1. Wyniki są zawsze takie same, a co jeżeli się pomylimy i chcielibyśmy to "naprawić"? Alternatywa -> [[Exhaustive Search Decoding]]
+
+Generuje dopóki nie trafi na specjalny token np. `<EOS>` albo `<END>`
