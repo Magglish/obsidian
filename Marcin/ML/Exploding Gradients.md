@@ -8,4 +8,6 @@ Rozwiazanie:
 
 1. [[Clipping gradients]]
 2. [[Residual networks]] - które dodają do siebie wartości z poprzednich warstw
+3. [[Dense Networks]]
+4. [[Highway Networks]]
 
