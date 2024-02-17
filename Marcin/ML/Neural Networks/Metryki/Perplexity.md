@@ -1,0 +1,3 @@
+# Perplexity
+
+![[Perplexity wzór.png]]

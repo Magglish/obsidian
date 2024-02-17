@@ -8,3 +8,5 @@ Bardziej formalnie: prawdopodobieństwo wystąpienia danego słowa przy uwzględ
 
 Przed sieciami neuronowymi (w szczególności sieci [[RNN]] są wykorzystywane do tego) często wykorzystywane modele oparte o [[N-gram|n-gramy]].
 
+Standardowa metoda ewaluacji modeli językowych to [[Perplexity]]
+
