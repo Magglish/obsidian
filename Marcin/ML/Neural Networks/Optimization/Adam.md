@@ -14,3 +14,7 @@ I liczy on learning ratey dla każdego parametru oddzielnie.
 4. I używa ich potem aby wyliczyć parametr.
 
 Połączenie Momentum z RMSProp daje taki efekt, że jeżeli gradienty są małe to ADAM robi duży krok, a jeżeli gradienty są bardzo duże to ADAM robi mały krok.
+
+Podczas stosowania Adama należy mieć na względzie:
+
+1. [[L2 Regularization]] nie działa z nim dobrze
