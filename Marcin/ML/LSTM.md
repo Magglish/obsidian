@@ -1,6 +1,6 @@
 # Long-Short Term Memory
 
-[[RNN|Sieć rekurencyjna]], której celem jest zapamiętanie długich zależności, aby rozwiązać problem [[Problem Long-Term Dependencies|long-term dependency]]. 
+[[RNN|Sieć rekurencyjna]], której celem jest zapamiętanie długich zależności, aby rozwiązać problem [[Problem Long-Term Dependencies|long-term dependency]]. Opiera się o *hidden state* oraz o *cell state*.
 
 LSTM ma znacznie mniejsze prawdopodobieńśtwo problemu z [[Vanishing Gradient]] i [[Exploding Gradients]], dlatego, że algorytm wstecznej propagacji działa inaczej -> przechodzi przez forget gate, która ma różne wartości, przez które jest przemanżany gradient (raz większą od 1, raz mniejszą od 1), a nie cały czas mniejszą od 1 / cały czas większą od 1, co w efekcie w końcu prowadzi gradient do 0 / do nieskończoności.
 
