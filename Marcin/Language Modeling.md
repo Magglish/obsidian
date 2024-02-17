@@ -6,5 +6,5 @@ Bardziej formalnie: prawdopodobieństwo wystąpienia danego słowa przy uwzględ
 
 ![[Language Model wzór.png]]
 
-Przed sieciami neuronowymi często wykorzystywane modele oparte o [[N-gram|n-gramy]].
+Przed sieciami neuronowymi (w szczególności sieci [[RNN]] są wykorzystywane do tego) często wykorzystywane modele oparte o [[N-gram|n-gramy]].
 
