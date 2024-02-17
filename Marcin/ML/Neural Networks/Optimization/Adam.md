@@ -17,4 +17,4 @@ Połączenie Momentum z RMSProp daje taki efekt, że jeżeli gradienty są małe
 
 Podczas stosowania Adama należy mieć na względzie:
 
-1. [[L2 Regularization]] nie działa z nim dobrze
+1. [[L2 Regularization]] nie działa z nim dobrze. Lepiej użyć [[AdamW]], czyli Adam z [[Weight Decay]].
