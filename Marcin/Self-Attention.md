@@ -21,5 +21,5 @@ Idea self attention:
 
 Wady:
 
-1. Self-Attention nie zwraca uwagę na kolejność słów, co może być
+1. Self-Attention nie zwraca uwagę na kolejność słów, co może być problematyczne -> rozwiązanie: dodanie [[Positional Embeddings]] na początku sieci
 

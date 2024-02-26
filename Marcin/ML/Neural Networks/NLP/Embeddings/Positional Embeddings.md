@@ -8,3 +8,4 @@ Wyróżniamy dwa podejścia
 
 1. [[Relative Positional Embeddings]]
 2. [[Absolute Positional Embeddings]]
+3. [[Sinusoidal Position Embeddings]]
