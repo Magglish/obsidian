@@ -23,4 +23,5 @@ Wady:
 
 1. Self-Attention nie zwraca uwagę na kolejność słów, co może być problematyczne -> rozwiązanie: dodanie [[Positional Embeddings]] na początku sieci
 2. Self-Attention nie jest nieliniowa -> rozwiązanie: dodaj po prostu warstwe liniową na outpucie z atencji
+3. Self-Attention patrzy na cały tekst, tzn. patrzy w przyszłość - np. dla [[Language Modeling]] albo [[Next-sentence prediction]] to jest problematyczne, bo w czasie inferencji nie mamy możliwości podejrzenia przyszłości -> rozwiązanie: attention scores dla "przyszłości" są po prost uamskowane za pomocą -infinity
 
