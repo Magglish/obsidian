@@ -1,5 +1,7 @@
 # Self-[[Attention mechanism|Attention]]
 
+![[Self-Attention Block.png]]
+
 O self-attention można myśleć jako o spojrzeniu w key-value story:
 
 ![[Self-Attention lookup table.png]]
