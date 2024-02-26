@@ -6,6 +6,4 @@ O self-attention można myśleć jako o spojrzeniu w key-value story:
 
 W self-attention wykorzystujemy trzy macierze:
 
-1. Query
-2. Key
-3. Value
+
