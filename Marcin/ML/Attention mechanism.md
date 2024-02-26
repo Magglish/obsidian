@@ -4,15 +4,15 @@ Mechanizm atencji w swoim założeniu to nic innego jak uwzględnienie kontekstu
 
 W każdym kroku w decoderze, użyj bezpośredniego połączenia do encodera aby skupić się na konkretnym elemencie w tekście:
 
-![[Pasted image 20240226123535.png]]
+![[Attention mechanism in Sequecen-to-sequence 1.png]]
 
-![[Pasted image 20240226123548.png]]
+![[Attention mechanism in Sequecen-to-sequence 2.png]]
 
-![[Pasted image 20240226123652.png]]
+![[Attention mechanism in Sequecen-to-sequence 4.png]]
 
-![[Pasted image 20240226123703.png]]
+![[Attention mechanism in Sequecen-to-sequence 5.png]]
 
-![[Pasted image 20240226123756.png]]
+![[Attention mechanism in Sequecen-to-sequence 6.png]]
 
 Czyli podczas swojego zadania jak np. [[Next-sentence prediction|generowanie następnego słowa]] czy [[Masked language modelling|określenie jakie słowo znajduje się pod MASKą]] mamy informacje o całym inpucie, całym tekście przez co model może skupić się na pewnych słowach bardziej, a na innych mniej co wpłynie ostatecznie na jego predykcję.
 
