@@ -14,7 +14,7 @@ Wady:
 
 ![[Long Distance Dependency w RNN.png]]
 
-
+5. Brak paralelizacji obliczeń, bo są sekwencyjne
 
 Lepsze:
 
