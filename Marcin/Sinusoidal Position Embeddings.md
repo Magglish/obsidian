@@ -1,6 +1,6 @@
 # Sinusoidal Position Embeddings
 
-![[Pasted image 20240226130805.png]]
+![[Sinusoidal Position Embeddings.png]]
 
 Wady:
 1. Nie da rady tej warstwy nauczyć
