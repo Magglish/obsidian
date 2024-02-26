@@ -22,4 +22,5 @@ Idea self attention:
 Wady:
 
 1. Self-Attention nie zwraca uwagę na kolejność słów, co może być problematyczne -> rozwiązanie: dodanie [[Positional Embeddings]] na początku sieci
+2. Self-Attention nie jest nieliniowa -> rozwiązanie: dodaj po prostu warstwe liniową na outpucie z atencji
 
