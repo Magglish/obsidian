@@ -8,8 +8,13 @@ Uczone są poprzez stosowanie [[Backpropagation through time]], ale w praktyce u
 
 Wady:
 1. Problem z [[Problem Long-Term Dependencies]]
-2. Problem z [[Exploding Gradients]] i [[Vanishing Gradient]], dlatego, że cały czas 
-3. Są "od lewej do prawej", ale można zastosować 
+2. Problem z [[Exploding Gradients]] i [[Vanishing Gradient]]
+3. Są "od lewej do prawej", ale można zastosować [[Bidirectional RNN]]
+4. Koszt obliczeniowy dla pary słów bardzo od siebie oddalonych
+
+![[Long Distance Dependency w RNN.png]]
+
+
 
 Lepsze:
 
