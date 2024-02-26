@@ -8,7 +8,11 @@ W każdym kroku w decoderze, użyj bezpośredniego połączenia do encodera aby 
 
 ![[Pasted image 20240226123548.png]]
 
-![[Pasted image 20240226123622.png]]
+![[Pasted image 20240226123652.png]]
+
+![[Pasted image 20240226123703.png]]
+
+![[Pasted image 20240226123756.png]]
 
 Czyli podczas swojego zadania jak np. [[Next-sentence prediction|generowanie następnego słowa]] czy [[Masked language modelling|określenie jakie słowo znajduje się pod MASKą]] mamy informacje o całym inpucie, całym tekście przez co model może skupić się na pewnych słowach bardziej, a na innych mniej co wpłynie ostatecznie na jego predykcję.
 
