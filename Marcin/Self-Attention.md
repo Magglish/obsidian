@@ -19,4 +19,7 @@ Idea self attention:
 
 ![[Pasted image 20240226130031.png]]
 
+Wady:
+
+1. Self-Attention nie zwraca uwagę na kolejność słów, co może być
 
