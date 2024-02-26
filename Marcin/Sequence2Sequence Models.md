@@ -19,3 +19,5 @@ Podczas generowania predykcji można zastosować:
 Problemy z Sequence2Sequence:
 
 ![[Sequence2Sequence Models Problems.png]]
+
+Rozwiązaniem tego jest [[Attention mechanism|mechanizm atencji]]
