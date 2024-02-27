@@ -2,7 +2,7 @@
 
 Oryginalny transformer z paperu [Attention is all you need](https://arxiv.org/abs/1706.03762) to architektura [[Encoder-Decoder]].
 
-![[Pasted image 20240227113452.png]]
+![[Transformer Decoder.png]]
 
 Różnica jest taka, że:
 
