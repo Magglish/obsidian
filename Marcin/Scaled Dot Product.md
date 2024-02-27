@@ -1,3 +1,5 @@
 # Scaled Dot Product
 
-Używany w multi-head attention aby wspomóc proces uczenia
+Używany w [[Multi-Head Self-Attention]] aby wspomóc proces uczenia.
+
+![[Scaled Dot Product.png]]
