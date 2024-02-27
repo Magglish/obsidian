@@ -1,6 +1,6 @@
 # Self-[[Attention mechanism|Attention]]
 
-O co chodzi z tym "self" w Sel
+O co chodzi z tym "self" w Self-Attention - w self-attention "self" odnosi się do zdolności mechanizmu do obliczania wag uwagi poprzez powiązanie różnych pozycji w ramach pojedynczej sekwencji wejściowej. Ocenia i uczy się relacji i zależności między różnymi częściami samego wejścia, takimi jak słowa w zdaniu lub piksele na obrazie. Jest to przeciwieństwo tradycyjnych mechanizmów uwagi, w których nacisk kładziony jest na relacje między elementami dwóch różnych sekwencji, takich jak w modelach [[Sequence2Sequence Models|sekwencja-sekwencja]], w których uwaga może być skupiona między sekwencją wejściową a sekwencją wyjściową.
 
 ![[Self-Attention Block.png]]
 
