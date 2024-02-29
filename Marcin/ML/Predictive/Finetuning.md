@@ -4,6 +4,8 @@
 
 Sposoby:
 
-1. Prefix-Tuning
+1. Prefix-Tuning / Prompt tuning
 
 ![[Prefix-Tuning, Prompt tuning.png]]
+
+2. [[LoRA]]
