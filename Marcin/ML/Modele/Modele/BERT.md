@@ -14,4 +14,5 @@ Ograniczenia:
 
 1. Nie użyjemy ich do generowania tekstu
 
-![[Pasted image 20240229133548.png]]
+![[BERT limitations.png]]
+
