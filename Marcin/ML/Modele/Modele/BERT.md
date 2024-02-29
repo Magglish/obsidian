@@ -2,9 +2,9 @@
 
 BERT - [Bidirectional Encoder Representations from Transformers](https://arxiv.org/abs/1810.04805).
 
-To tylko i wyłącznie [[Encoder-Decoder|Encoder]].
+To tylko i wyłącznie [[Encoder-Decoder|Encoder]]
 
-Uczony techniką [[Masked language modelling]]
+Uczony techniką [[Masked language modelling]] oraz [[Next-sentence prediction]], ale jak sie okazało ten task nie jest potrzebny
 
 ![[BERT 1.png]]
 
@@ -16,3 +16,6 @@ Ograniczenia:
 
 ![[BERT limitations.png]]
 
+Lepsze:
+
+1. [[RoBERTa]]
