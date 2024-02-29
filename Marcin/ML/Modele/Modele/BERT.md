@@ -6,4 +6,6 @@ To tylko i wyłącznie [[Encoder-Decoder|Encoder]].
 
 Uczony techniką [[Masked language modelling]]
 
-![[BERT.png]]
+![[BERT 1.png]]
+
+![[BERT 2.png]]
