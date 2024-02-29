@@ -9,3 +9,7 @@
 **Teraz jest tak:**
 
 ![[Pretraining - now.png]]
+
+## Ciekawe:
+
+[Dont stop Pretraining](https://arxiv.org/pdf/2004.10964.pdf)
