@@ -4,4 +4,6 @@ BERT - [Bidirectional Encoder Representations from Transformers](https://arxi
 
 To tylko i wyłącznie [[Encoder-Decoder|Encoder]].
 
-Uczony techniką [[Masked language modelling]] i [[Next-sentence prediction]]
+Uczony techniką [[Masked language modelling]]
+
+![[BERT.png]]
