@@ -1,3 +1,5 @@
 # Top-k Sampling Decoding
 
-Wylosuj losowo z $k$ wybranych tokenów
+Wylosuj losowo z $k$ topowo (na podstawie prawdopodobieństwa) wybranych tokenów.
+
+![[Top-k Sampling.png]]
