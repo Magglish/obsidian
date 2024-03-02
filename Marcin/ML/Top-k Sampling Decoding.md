@@ -4,3 +4,4 @@ Wylosuj losowo z $k$ topowo (na podstawie prawdopodobieństwa) wybranych tokenó
 
 ![[Top-k Sampling.png]]
 
+![[Top-k Sampling Problems.png]]
