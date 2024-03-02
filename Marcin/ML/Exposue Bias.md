@@ -4,6 +4,6 @@ Problem występujący w [[Maximum Loglikelihood]]
 
 ![[Exposure Bias.png]]
 
-![[Exposue Bias Solutions.png]]
+![[Exposure Bias Solutions.png]]
 
-![[Pasted image 20240302131708.png]]
+![[Exposure Bias Solutions 2.png]]
