@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-12T19:58:01.897Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="NhoiypUn4Fkt9asHKPlK" version="24.0.4" type="device" pages="4">
+<mxfile host="Electron" modified="2024-03-12T19:59:51.424Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="X6DS3kGk-T5GDNPWsUMP" version="24.0.4" type="device" pages="4">
   <diagram name="Page-1" id="f1kO0hX0s9ZWAAIGrtc4">
     <mxGraphModel dx="1114" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -395,10 +395,31 @@
         <mxCell id="EzK_ii3NxUrAs1lb1iN9-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/2252/2252567.png;" vertex="1" parent="1">
           <mxGeometry x="1483" y="214.5" width="83" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="EzK_ii3NxUrAs1lb1iN9-2" value="prediction_id=pred1234&lt;br&gt;status_code=201" style="endArrow=classic;html=1;rounded=0;fontSize=15;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="EzK_ii3NxUrAs1lb1iN9-2" value="request GET &lt;br&gt;query=pred1234&lt;div&gt;/get_predictions&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=15;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="943" y="671" as="sourcePoint" />
             <mxPoint x="1133" y="671" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNcscEhVDU_-xv0xNKNl-1" value="sprawdzamy czy &lt;br&gt;juz są dostępne" style="endArrow=classic;html=1;rounded=0;fontSize=15;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1136" y="744" as="sourcePoint" />
+            <mxPoint x="1510" y="744" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNcscEhVDU_-xv0xNKNl-2" value="predykcje/ścieżka do pliku/sam plik" style="endArrow=none;html=1;rounded=0;fontSize=15;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1138.9" y="810" as="sourcePoint" />
+            <mxPoint x="1512.9" y="810" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNcscEhVDU_-xv0xNKNl-3" value="prediction_id=pred1234&lt;br&gt;status_code=201" style="endArrow=none;html=1;rounded=0;fontSize=15;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="942" y="880" as="sourcePoint" />
+            <mxPoint x="1132" y="880" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
