@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-12T19:55:49.490Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="0TdkIvkncE-tmh7ebVx6" version="24.0.4" type="device" pages="4">
+<mxfile host="Electron" modified="2024-03-12T19:58:01.897Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="NhoiypUn4Fkt9asHKPlK" version="24.0.4" type="device" pages="4">
   <diagram name="Page-1" id="f1kO0hX0s9ZWAAIGrtc4">
     <mxGraphModel dx="1114" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -236,87 +236,87 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8wGbQx2p1v0rUmI6PcLg" name="Page-3">
-    <mxGraphModel dx="498" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="264" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CzW2OTmgb7Lhoa97KsME-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="CzW2OTmgb7Lhoa97KsME-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="944" y="1020" as="sourcePoint" />
             <mxPoint x="944" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CzW2OTmgb7Lhoa97KsME-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/man-user-human-profile-avatar-person-business/100/10-1User_13-512.png;" vertex="1" parent="1">
+        <mxCell id="CzW2OTmgb7Lhoa97KsME-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/man-user-human-profile-avatar-person-business/100/10-1User_13-512.png;" parent="1" vertex="1">
           <mxGeometry x="880" y="181" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/devops-flat-2/60/API-Management-api-management-cog-gear-website-512.png;" vertex="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/devops-flat-2/60/API-Management-api-management-cog-gear-website-512.png;" parent="1" vertex="1">
           <mxGeometry x="1340" y="191" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://t4.ftcdn.net/jpg/06/28/55/91/360_F_628559175_FIOKZ44SpYEcr9OaPYKAO4ArFL0r6sQA.jpg;" vertex="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://t4.ftcdn.net/jpg/06/28/55/91/360_F_628559175_FIOKZ44SpYEcr9OaPYKAO4ArFL0r6sQA.jpg;" parent="1" vertex="1">
           <mxGeometry x="1790" y="181" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-4" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1394" y="1020" as="sourcePoint" />
             <mxPoint x="1394.08" y="301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1845" y="1020" as="sourcePoint" />
             <mxPoint x="1844.58" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-6" value="request POST z danymi&lt;br style=&quot;font-size: 21px;&quot;&gt;/predict_decision" style="endArrow=classic;html=1;rounded=0;fontSize=21;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-6" value="request POST z danymi&lt;br style=&quot;font-size: 21px;&quot;&gt;/predict_decision" style="endArrow=classic;html=1;rounded=0;fontSize=21;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="944" y="360" as="sourcePoint" />
             <mxPoint x="1390" y="360" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-8" value="API nie działa&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=500&lt;br style=&quot;font-size: 21px;&quot;&gt;+ treść błędu" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-8" value="API nie działa&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=500&lt;br style=&quot;font-size: 21px;&quot;&gt;+ treść błędu" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0135" y="40" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="944" y="460" as="sourcePoint" />
             <mxPoint x="1390" y="460" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-10" value="nie przeszło walidacji&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=422&lt;br style=&quot;font-size: 21px;&quot;&gt;+ treść błędu" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-10" value="nie przeszło walidacji&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=422&lt;br style=&quot;font-size: 21px;&quot;&gt;+ treść błędu" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0163" y="52" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="942" y="600" as="sourcePoint" />
             <mxPoint x="1390" y="603" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-12" value="przekazanie danych &lt;br style=&quot;font-size: 21px;&quot;&gt;do modelu" style="endArrow=classic;html=1;rounded=0;fontSize=21;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-12" value="przekazanie danych &lt;br style=&quot;font-size: 21px;&quot;&gt;do modelu" style="endArrow=classic;html=1;rounded=0;fontSize=21;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1397" y="682" as="sourcePoint" />
             <mxPoint x="1840" y="677" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-13" value="błąd w kodzie" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-13" value="błąd w kodzie" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1396" y="762" as="sourcePoint" />
             <mxPoint x="1840" y="757" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-14" value="API nie działa&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=500&lt;br style=&quot;font-size: 21px;&quot;&gt;+ treść błędu" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-14" value="API nie działa&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=500&lt;br style=&quot;font-size: 21px;&quot;&gt;+ treść błędu" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;dashed=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0174" y="46" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="942" y="825" as="sourcePoint" />
             <mxPoint x="1390" y="826" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-15" value="predykcje" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-15" value="predykcje" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1396" y="895" as="sourcePoint" />
             <mxPoint x="1840" y="895" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCTIPailXJAv5jxoKhpf-16" value="predykcje&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=200" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xCTIPailXJAv5jxoKhpf-16" value="predykcje&lt;br style=&quot;font-size: 21px;&quot;&gt;status_code=200" style="endArrow=none;html=1;rounded=0;fontSize=21;startArrow=classic;startFill=1;endFill=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="942" y="955" as="sourcePoint" />
             <mxPoint x="1390" y="956" as="targetPoint" />
@@ -364,22 +364,22 @@
         </mxCell>
         <mxCell id="JqHzbDyoBr-kcKHehJ9B-10" value="przekazanie danych &lt;br&gt;do modelu" style="endArrow=classic;html=1;rounded=0;fontSize=15;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1137" y="420" as="sourcePoint" />
-            <mxPoint x="1327" y="420" as="targetPoint" />
+            <mxPoint x="1137" y="440" as="sourcePoint" />
+            <mxPoint x="1327" y="440" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JqHzbDyoBr-kcKHehJ9B-13" value="predykcje" style="endArrow=none;html=1;rounded=0;fontSize=15;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
+        <mxCell id="JqHzbDyoBr-kcKHehJ9B-13" value="zapisujemy predykcje" style="endArrow=classic;html=1;rounded=0;fontSize=15;startArrow=none;startFill=0;endFill=1;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1330" y="490" as="sourcePoint" />
-            <mxPoint x="1520" y="490" as="targetPoint" />
+            <mxPoint x="1330" y="580" as="sourcePoint" />
+            <mxPoint x="1520" y="580" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JqHzbDyoBr-kcKHehJ9B-14" value="prediction_id=pred1234&lt;br&gt;status_code=201" style="endArrow=none;html=1;rounded=0;fontSize=15;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="942" y="839" as="sourcePoint" />
-            <mxPoint x="1132" y="839" as="targetPoint" />
+            <mxPoint x="943" y="520" as="sourcePoint" />
+            <mxPoint x="1133" y="520" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -388,12 +388,19 @@
         </mxCell>
         <mxCell id="JqHzbDyoBr-kcKHehJ9B-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1535" y="920" as="sourcePoint" />
-            <mxPoint x="1534.58" y="306" as="targetPoint" />
+            <mxPoint x="1523.42" y="920" as="sourcePoint" />
+            <mxPoint x="1523" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EzK_ii3NxUrAs1lb1iN9-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/2252/2252567.png;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="214.5" width="83" height="83" as="geometry" />
+          <mxGeometry x="1483" y="214.5" width="83" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="EzK_ii3NxUrAs1lb1iN9-2" value="prediction_id=pred1234&lt;br&gt;status_code=201" style="endArrow=classic;html=1;rounded=0;fontSize=15;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.0088" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="943" y="671" as="sourcePoint" />
+            <mxPoint x="1133" y="671" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
