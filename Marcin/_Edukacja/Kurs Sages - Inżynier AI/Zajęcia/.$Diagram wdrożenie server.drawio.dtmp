@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-16T14:06:52.337Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="nPu7hGkw7t-L2lPB_g93" version="24.0.4" type="device" pages="6">
+<mxfile host="Electron" modified="2024-03-16T14:08:52.595Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="v8zPvnbpXLVU_1E99GQ_" version="24.0.4" type="device" pages="6">
   <diagram name="Page-1" id="f1kO0hX0s9ZWAAIGrtc4">
     <mxGraphModel dx="1114" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -548,8 +548,10 @@
         <mxCell id="A34_xNXghvFhorbJ1TSd-4" value="wszystkie SEVERITY" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="A34_xNXghvFhorbJ1TSd-2" target="A34_xNXghvFhorbJ1TSd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A34_xNXghvFhorbJ1TSd-6" value="SEVERITY &amp;gt;= WARNING" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="A34_xNXghvFhorbJ1TSd-2" target="A34_xNXghvFhorbJ1TSd-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A34_xNXghvFhorbJ1TSd-6" value="SEVERITY &amp;gt;= INFO" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="A34_xNXghvFhorbJ1TSd-2" target="A34_xNXghvFhorbJ1TSd-5">
+          <mxGeometry x="-0.3566" y="48" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A34_xNXghvFhorbJ1TSd-2" value="Wpis / Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="540" width="120" height="60" as="geometry" />
@@ -565,6 +567,13 @@
         </mxCell>
         <mxCell id="A34_xNXghvFhorbJ1TSd-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/1*-te3DX2VrL8dgntrzFV2vA.png;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="190.18" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="A34_xNXghvFhorbJ1TSd-9" value="w przypadku ERROR, CRITICAL" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#FF3333;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry x="0.7771" y="-66" relative="1" as="geometry">
+            <mxPoint x="170" y="570" as="sourcePoint" />
+            <mxPoint x="270" y="490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
