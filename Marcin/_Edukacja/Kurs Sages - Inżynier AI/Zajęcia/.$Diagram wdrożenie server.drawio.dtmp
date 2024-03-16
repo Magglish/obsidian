@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-03-16T14:10:58.062Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="X4JYWYVKUsWMIejkqE2C" version="24.0.4" type="device" pages="6">
+<mxfile host="Electron" modified="2024-03-16T14:13:12.710Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="HKnJT7bieic-KzYsTJDE" version="24.0.4" type="device" pages="6">
   <diagram name="Page-1" id="f1kO0hX0s9ZWAAIGrtc4">
     <mxGraphModel dx="1114" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -541,7 +541,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gs7yODrbGH9i9SsQ-fOM" name="Page-6">
-    <mxGraphModel dx="768" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -587,7 +587,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kbTixpgel4JJDkzXO6Nf-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/man-user-human-profile-avatar-person-business/100/10-1User_13-512.png;" vertex="1" parent="1">
-          <mxGeometry x="470" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="405.09000000000003" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kbTixpgel4JJDkzXO6Nf-2" value="ALERT" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#FF3333;fontColor=#FF3333;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kbTixpgel4JJDkzXO6Nf-1">
           <mxGeometry x="-0.084" y="12" relative="1" as="geometry">
@@ -610,6 +610,23 @@
           <mxGeometry x="0.4967" y="-40" relative="1" as="geometry">
             <mxPoint x="405.09000000000003" y="650" as="sourcePoint" />
             <mxPoint x="515.09" y="720" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbTixpgel4JJDkzXO6Nf-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.logo.wine/a/logo/Google_Storage/Google_Storage-Logo.wine.svg;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kbTixpgel4JJDkzXO6Nf-8" value="Zapisanie do pliku" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#FF3333;fontColor=#FF3333;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kbTixpgel4JJDkzXO6Nf-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="654.91" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kbTixpgel4JJDkzXO6Nf-9" value="Analiza logów" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#FF3333;fontColor=#FF3333;" edge="1" parent="1" target="kbTixpgel4JJDkzXO6Nf-7">
+          <mxGeometry x="-0.084" y="12" relative="1" as="geometry">
+            <mxPoint x="470" y="160" as="sourcePoint" />
+            <mxPoint x="505" y="64" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
