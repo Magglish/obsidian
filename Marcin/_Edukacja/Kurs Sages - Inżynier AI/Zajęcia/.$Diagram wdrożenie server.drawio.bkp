@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-16T14:55:45.152Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="cf_hkenpEkSJ8hy3Rtuc" version="24.0.4" type="device" pages="6">
+<mxfile host="Electron" modified="2024-03-28T06:50:12.388Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="X5wy90TgnZ9VixYQAgdZ" version="24.1.0" type="device" pages="7">
   <diagram name="Page-1" id="f1kO0hX0s9ZWAAIGrtc4">
-    <mxGraphModel dx="2646" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2884" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -631,6 +631,41 @@
         </mxCell>
         <mxCell id="2zKQHR6cRIJAw9We8iez-3" value="Cloud&#xa;Storage" style="sketch=0;html=1;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;spacingTop=-6;fontSize=15;fontStyle=1;fontColor=#000000;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjAgMTYiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qye2ZpbGw6I2FlY2JmYTt9JiN4YTsJLnN0M3tmaWxsOiNmZmY7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTAgMGgyMHY3SDB6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTE4IDBoMnY3aC0yeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xOCA3bDItN2gtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMCAwaDJ2N0gweiIvPiYjeGE7CTxnIGNsYXNzPSJzdDMiPiYjeGE7CQk8cGF0aCBkPSJNNCAzaDZ2MUg0eiIvPiYjeGE7CQk8cmVjdCB4PSIxMyIgeT0iMiIgd2lkdGg9IjMiIGhlaWdodD0iMyIgcng9IjEuNSIvPiYjeGE7CTwvZz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMCA5aDIwdjdIMHoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTggOWgydjdoLTJ6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE4IDE2bDItN2gtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMCA5aDJ2N0gweiIvPiYjeGE7CTxnIGNsYXNzPSJzdDMiPiYjeGE7CQk8cGF0aCBkPSJNNCAxMmg2djFINHoiLz4mI3hhOwkJPHJlY3QgeD0iMTMiIHk9IjExIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIiByeD0iMS41Ii8+JiN4YTsJPC9nPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
           <mxGeometry x="630" y="237" width="65.47" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pVNsTOImGnWG5VGchTzs" name="Page-7">
+    <mxGraphModel dx="2884" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-1" value="Kontener/wirtualny zasobnik" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6666FF;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="360" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-2" value="Artefakty" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-3" value="Kod źródłowy" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="419.52" y="130" width="45.63" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://artwork.lfaidata.foundation/projects/onnx/stacked/color/onnx-stacked-color.png;" vertex="1" parent="1">
+          <mxGeometry x="480.46999999999997" y="130" width="59.05" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-5" value="Konfiguracja" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.etsystatic.com/20162739/r/il/9d5e14/1912157632/il_fullxfull.1912157632_i98t.jpg;" vertex="1" parent="1">
+          <mxGeometry x="549.52" y="135" width="62.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="630" y="75" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://t4.ftcdn.net/jpg/03/22/95/69/360_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-8" value="Interface do modeli" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="530" y="30" width="219.52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K6c2ob6gOrKdMuLcdPpl-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-20" width="142.22" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
